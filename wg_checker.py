@@ -36,6 +36,7 @@ MAX_RENT = int(os.environ.get("MAX_RENT", 650))
 RADIUS_KM = float(os.environ.get("RADIUS_KM", 1.0))
 INTERVAL = int(os.environ.get("INTERVAL", 60))
 MAX_PAGES = int(os.environ.get("MAX_PAGES", 5))
+LATEST_START_STR = os.environ.get("LATEST_START", "01.12.2026")  # latest acceptable move-in date
 STATE_FILE = Path(os.environ.get("STATE_FILE", Path(__file__).with_name("seen.json")))
 
 # Coordinates from OpenStreetMap
@@ -102,6 +103,38 @@ EXTENSION = [
 ]
 
 
+# Extension explicitly ruled out -> the ad stays temporary
+NO_EXTENSION = [
+    r"verlänger\w*\s+(\w+\s+){0,4}(ist\s+)?(leider\s+)?(nicht|ausgeschlossen|kein)",
+    r"(keine|ohne)\s+(\w+\s+){0,2}verlänger",
+    r"(nicht|kein\w*)\s+(\w+\s+){0,2}verlänger",
+    r"extension\s+(\w+\s+){0,5}(is\s+|are\s+)?(not|isn'?t|won'?t|unfortunately not)\b",
+    r"\bno\s+(\w+\s+){0,2}(extension|prolongation)",
+    r"(can'?t|cannot|can not|won'?t|will not|not)\s+(\w+\s+){0,2}(be\s+)?(extend|prolong)",
+]
+
+# Room restricted to women / FLINTA -> reject
+FEMALE_ONLY = [
+    r"(ausschlie(ß|ss)lich|nur)\s+(\w+\s+){0,3}(an\s+|für\s+)?(eine\s+|einer\s+)?(\w+\s+)?(frau|frauen|weiblich\w*|mitbewohnerin(nen)?|mädels|mädchen|studentin(nen)?|flinta\w*)\b",
+    r"\b(frauen|mädels|mädchen)[\s-]*(wg|haushalt)\b",
+    r"\b(female|women|woman|girls?|ladies)[\s-]*(only|flat\s*share|flat|household|wg)\b",
+    r"\b(only|exclusively)\s+(\w+\s+){0,3}(to\s+|for\s+)?(a\s+|an?\s+)?(\w+\s+)?(female|females|women|woman|girls?|ladies|flinta)\b",
+    r"(looking for|searching for|seeking|suchen|sucht|suche)\s+(\w+\s+){0,3}(a\s+|an?\s+|eine\s+)?(\w+\s+)?(female|weiblich\w*)\b",
+    r"(suchen|sucht|suche)\s+(\w+\s+){0,3}(eine\s+)(\w+\s+)?(mitbewohnerin|frau|studentin|nachmieterin|untermieterin)\b",
+    r"(looking for|searching for|seeking)\s+(\w+\s+){0,3}(a\s+)(\w+\s+)?(woman|girl|lady)\b",
+    r"\bflinta",
+    r"\b(keine|no)\s+(männer|men|guys|jungs|boys)\b",
+]
+
+
+def parse_date(s):
+    m = re.search(r"(\d{2})\.(\d{2})\.(\d{4})", s or "")
+    return (int(m.group(3)), int(m.group(2)), int(m.group(1))) if m else None
+
+
+LATEST_START = parse_date(LATEST_START_STR)
+
+
 def _any(patterns, text):
     for p in patterns:
         m = re.search(p, text)
@@ -119,8 +152,11 @@ def long_term_ok(text, has_end_date):
     temp = _any(TEMPORARY, text)
     if not temp and not has_end_date:
         return True, None
-    ext = _any(EXTENSION, text)
+    no_ext = _any(NO_EXTENSION, text)
+    ext = None if no_ext else _any(EXTENSION, text)
     reason = temp or "has 'frei bis' end date"
+    if no_ext:
+        reason += f" ('{no_ext}')"
     if ext:
         return True, f"{reason} but extension: '{ext}'"
     return False, reason
@@ -148,9 +184,14 @@ session = requests.Session()
 session.headers.update(HEADERS)
 
 
+BLOCK_MARKERS = ("dass sie ein mensch sind", "that you are human", "<title>überprüfung", "g-recaptcha", "cf-challenge")
+
+
 def fetch(url):
     r = session.get(url, timeout=20)
-    if r.status_code in (403, 429) or "captcha" in r.url.lower() or "g-recaptcha" in r.text[:20000]:
+    head = r.text[:30000].lower()
+    if (r.status_code in (403, 429) or "cuba.html" in r.url or "captcha" in r.url.lower()
+            or any(m in head for m in BLOCK_MARKERS)):
         raise Blocked(f"{r.status_code} at {r.url}")
     r.raise_for_status()
     return r.text
@@ -178,6 +219,7 @@ def parse_list(page_html):
             price = int(m.group(1)) if m else None
         size_el = a.select_one(".size-value")
         details = a.select_one(".card-details-text")
+        badge = a.select_one(".user-badge")
         ads.append({
             "id": a["data-id"],
             "url": BASE + href if href.startswith("/") else href,
@@ -185,6 +227,10 @@ def parse_list(page_html):
             "price": price,
             "size": clean(size_el.get_text()) if size_el else "",
             "details": clean(details.get("title")) if details else "",
+            # "Privat", "Privat PRO", "Sofortbuchung" (partner sites), "Unternehmen PRO"
+            "badge": clean(badge.get_text(" ")) if badge else "",
+            # partner listings link back to the search page instead of an ad
+            "partner": "asset_id=" in href,
         })
     return ads
 
@@ -198,7 +244,7 @@ def parse_ad(page_html):
 
     addr = None
     for h in soup.select("h2.section_panel_title"):
-        if h.get_text(strip=True) == "Adresse":
+        if h.get_text(strip=True) in ("Adresse", "Address"):
             span = h.find_next("span", class_="section_panel_detail")
             addr = clean(span.get_text(" ")) if span else None
             break
@@ -208,16 +254,17 @@ def parse_ad(page_html):
     out["free_from"] = out["free_until"] = None
     for d in soup.select("span.section_panel_detail"):
         label = d.get_text(strip=True).lower()
-        if label in ("frei ab:", "frei bis:"):
+        if re.fullmatch(r"(frei|free|available)\s+(ab|from|bis|until|till|to):", label):
             val = d.find_next("span", class_="section_panel_value")
             v = clean(val.get_text()) if val else ""
             if re.search(r"\d{2}\.\d{2}\.\d{4}", v):
-                out["free_from" if label == "frei ab:" else "free_until"] = v
+                until = re.search(r"\b(bis|until|till|to):", label)
+                out["free_until" if until else "free_from"] = v
 
     # "Gesucht wird:" list
     wanted = []
     for h in soup.find_all("h3"):
-        if "gesucht wird" in h.get_text().lower():
+        if re.search(r"gesucht wird|looking for|wanted|searching for", h.get_text().lower()):
             ul = h.find_next("ul")
             if ul:
                 wanted = [clean(li.get_text(" ")) for li in ul.find_all("li")]
@@ -227,17 +274,35 @@ def parse_ad(page_html):
     texts = [clean(el.get_text(" ")) for el in soup.select(".section_freetext")]
     title_el = soup.find("h1")
     out["title"] = clean(title_el.get_text(" ")) if title_el else ""
-    out["text"] = (out["title"] + "\n" + "\n".join(texts)).lower()
+    out["raw"] = out["title"] + "\n" + "\n".join(texts)
+    out["text"] = out["raw"].lower()
+    # a real ad always has a description; anything else is an error/verification page
+    out["valid"] = bool(texts) and "ad_description_text" in page_html
     return out
 
 
-def female_only(wanted):
+def female_only_field(wanted):
     joined = " ".join(wanted).lower()
     if not joined:
         return False
-    has_f = re.search(r"\bfrau|\bfrauen|\bweiblich", joined)
-    has_m = re.search(r"\bmann|\bmänner|\bmaennlich|\bmännlich|egal|divers", joined)
+    has_f = re.search(r"\bfrau|\bfrauen|\bweiblich|\bwom[ae]n|\bfemale", joined)
+    has_m = re.search(r"\bmann|\bmänner|\bmaennlich|\bmännlich|\bm[ae]n\b|\bmale|egal|divers|irrelevant|any\b|doesn", joined)
     return bool(has_f and not has_m)
+
+
+def female_only_text(text, raw):
+    """Return the matching phrase if the description restricts the room to women/FLINTA."""
+    for p in FEMALE_ONLY:
+        for m in re.finditer(p, text):
+            after = text[m.end():m.end() + 60]
+            # "eine Mitbewohnerin oder einen Mitbewohner", "female or male" -> not restricted
+            if re.match(r"\s*(,|oder|or|/|und|and|bzw\.?)\s*(\w+\s+){0,2}(mitbewohner\b|mann|männ|male|m[ae]n\b|jung|guy|boy)", after):
+                continue
+            # "MitbewohnerIn" is the gender-neutral form
+            if "mitbewohnerin" in m.group(0) and "MitbewohnerIn" in raw[m.start():m.end() + 2]:
+                continue
+            return m.group(0)
+    return None
 
 
 def geocode(address):
@@ -260,6 +325,10 @@ def geocode(address):
 def evaluate(listing, ad):
     """Return (ok, reasons, info)."""
     info = {}
+    if listing.get("partner") or (listing.get("badge") and not listing["badge"].startswith("Privat")):
+        return False, [f"not private ({listing.get('badge') or 'partner'})"], info
+    if not ad.get("valid", True):
+        return False, ["ad page could not be read"], info
     address = ad["address"]
     if not address and "·" in listing.get("details", ""):
         # "3er WG · Berlin Kreuzberg · Mittenwalder Straße" -> "Mittenwalder Straße, Kreuzberg"
@@ -278,8 +347,15 @@ def evaluate(listing, ad):
     if listing.get("price") is not None and listing["price"] > MAX_RENT:
         return False, [f"rent {listing['price']}"], info
 
-    if female_only(ad["wanted"]):
+    if female_only_field(ad["wanted"]):
         return False, ["female only"], info
+    hit = female_only_text(ad["text"], ad.get("raw", ""))
+    if hit:
+        return False, [f"female only: '{hit}'"], info
+
+    start = parse_date(ad["free_from"])
+    if start and start > LATEST_START:
+        return False, [f"starts {ad['free_from']}"], info
 
     ok, hit = anmeldung_ok(ad["text"])
     if not ok:
@@ -347,6 +423,18 @@ def save_seen(seen):
     tmp.replace(STATE_FILE)
 
 
+stats = {}
+
+
+def write_status(result):
+    """Small public status file so a failing setup is visible without logs."""
+    path = os.environ.get("STATUS_FILE")
+    if not path:
+        return
+    Path(path).write_text(json.dumps(
+        {"time": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime()), "result": result, **stats}, indent=1))
+
+
 def check(seen, notify=True):
     listings = parse_list(fetch(LIST_URL.format(page=0, rmax=MAX_RENT)))
     if not listings:
@@ -367,30 +455,48 @@ def check(seen, notify=True):
         new += more
 
     log.info("%d listings, %d new", len(listings), len(new))
-    for l in new:
-        if not notify:
-            seen.add(l["id"])
-            continue
-        if l["price"] is not None and l["price"] > MAX_RENT:
-            seen.add(l["id"])
-            continue
-        time.sleep(random.uniform(1.5, 4))
-        try:
-            ad = parse_ad(fetch(l["url"]))
-        except Blocked:
-            raise
-        except Exception as ex:
-            log.warning("failed to load %s: %s", l["url"], ex)
-            continue  # retry next round
-        ok, reasons, info = evaluate(l, ad)
-        if ok:
-            log.info("MATCH %s %s", l["id"], l["title"])
-            if not send_telegram(format_message(l, ad, info)):
+    stats.update(new=len(new), matched=0, skipped=0, unread=0)
+    try:
+        for l in new:
+            if not notify:
+                seen.add(l["id"])
+                continue
+            # cheap checks from the list card first, no extra request needed
+            pre = None
+            if l["price"] is not None and l["price"] > MAX_RENT:
+                pre = f"rent {l['price']}"
+            elif l["partner"] or (l["badge"] and not l["badge"].startswith("Privat")):
+                pre = f"not private ({l['badge'] or 'partner'})"
+            if pre:
+                log.info("skip  %s (%s) %s", l["id"], pre, l["title"][:60])
+                stats["skipped"] += 1
+                seen.add(l["id"])
+                continue
+            time.sleep(random.uniform(2, 5))
+            try:
+                ad = parse_ad(fetch(l["url"]))
+            except Blocked:
+                raise
+            except Exception as ex:
+                log.warning("failed to load %s: %s", l["url"], ex)
+                stats["unread"] += 1
                 continue  # retry next round
-        else:
-            log.info("skip  %s (%s) %s", l["id"], "; ".join(reasons), l["title"][:60])
-        seen.add(l["id"])
-    save_seen(seen)
+            if not ad["valid"]:
+                log.warning("unreadable ad page %s, retrying next round", l["url"])
+                stats["unread"] += 1
+                continue
+            ok, reasons, info = evaluate(l, ad)
+            if ok:
+                log.info("MATCH %s %s", l["id"], l["title"])
+                if not send_telegram(format_message(l, ad, info)):
+                    continue  # retry next round
+                stats["matched"] += 1
+            else:
+                log.info("skip  %s (%s) %s", l["id"], "; ".join(reasons), l["title"][:60])
+                stats["skipped"] += 1
+            seen.add(l["id"])
+    finally:
+        save_seen(seen)
 
 
 def load_env():
@@ -409,6 +515,8 @@ def main():
     MAX_RENT = int(os.environ.get("MAX_RENT", MAX_RENT))
     RADIUS_KM = float(os.environ.get("RADIUS_KM", RADIUS_KM))
     INTERVAL = int(os.environ.get("INTERVAL", INTERVAL))
+    global LATEST_START
+    LATEST_START = parse_date(os.environ.get("LATEST_START", LATEST_START_STR))
 
     p = argparse.ArgumentParser()
     p.add_argument("--once", action="store_true")
@@ -439,14 +547,18 @@ def main():
 
     backoff = INTERVAL
     while True:
+        stats.clear()
         try:
             check(seen)
             backoff = INTERVAL
+            write_status("ok")
         except Blocked as ex:
             backoff = min(backoff * 2, 1800)
             log.warning("blocked by wg-gesucht (%s); backing off %ds", ex, backoff)
+            write_status("blocked")
         except Exception as ex:
             log.exception("check failed: %s", ex)
+            write_status(f"error: {ex}")
         if args.once:
             break
         time.sleep(backoff + random.uniform(-5, 5))

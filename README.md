@@ -2,14 +2,14 @@
 
 Checks new Berlin WG-room offers every minute and sends matches to Telegram with an apply link.
 
-Filters: within 1 km of U Schlesisches Tor / Görlitzer Bhf / Kottbusser Tor / Prinzenstr. / Hallesches Tor / Möckernbrücke,
-rent ≤ 650 €, Anmeldung not ruled out, long-term (Zwischenmiete/temporary rejected unless extension is possible), not female-only.
+Filters: private posters only (no partner/instant-booking or company ads), move-in by 01.12.2026, within 1 km of U Schlesisches Tor / Görlitzer Bhf / Kottbusser Tor / Prinzenstr. / Hallesches Tor / Möckernbrücke,
+rent ≤ 650 €, Anmeldung not ruled out, long-term (Zwischenmiete/temporary rejected unless extension is possible), not female-only ("Gesucht wird" field or description wording such as "nur Frauen", "Mitbewohnerin", "female only", FLINTA).
 Tune the keyword lists at the top of `wg_checker.py` (`ANMELDUNG_NEGATIVE`, `TEMPORARY`, `EXTENSION`).
 
 ## Runs on GitHub Actions (free)
 
 `.github/workflows/check.yml` runs `wg_checker.py --once` every 5 minutes and commits `seen.json` so ads
-are only reported once. The repo must be **public** for unlimited free Actions minutes.
+are only reported once, plus `status.json` with the last run's result (`ok` / `blocked`) and counts. The repo must be **public** for unlimited free Actions minutes.
 Telegram credentials live in the repo's secrets `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`
 (Settings → Secrets and variables → Actions). Pause it from the Actions tab → "Check WG-Gesucht" → ⋯ → Disable workflow.
 
