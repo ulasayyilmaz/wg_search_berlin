@@ -35,7 +35,7 @@ from bs4 import BeautifulSoup
 MAX_RENT = int(os.environ.get("MAX_RENT", 650))
 RADIUS_KM = float(os.environ.get("RADIUS_KM", 1.0))
 INTERVAL = int(os.environ.get("INTERVAL", 60))
-MAX_PAGES = int(os.environ.get("MAX_PAGES", 3))
+MAX_PAGES = int(os.environ.get("MAX_PAGES", 5))
 STATE_FILE = Path(os.environ.get("STATE_FILE", Path(__file__).with_name("seen.json")))
 
 # Coordinates from OpenStreetMap
@@ -262,7 +262,11 @@ def evaluate(listing, ad):
     info = {}
     address = ad["address"]
     if not address and "·" in listing.get("details", ""):
-        address = listing["details"].split("·")[-1].strip()  # street from the list card
+        # "3er WG · Berlin Kreuzberg · Mittenwalder Straße" -> "Mittenwalder Straße, Kreuzberg"
+        # (street names repeat across Berlin, so the district matters)
+        parts = [p.strip() for p in listing["details"].split("·")]
+        district = re.sub(r"\bBerlin\b|-", " ", parts[-2]).strip() if len(parts) >= 3 else ""
+        address = parts[-1] + (", " + district if district else "")
     coord = ad["coord"] or (geocode(address) if address else None)
     if not coord:
         return False, ["no location"], info
