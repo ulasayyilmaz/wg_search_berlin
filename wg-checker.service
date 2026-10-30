@@ -1,0 +1,15 @@
+[Unit]
+Description=WG-Gesucht room checker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=wgchecker
+WorkingDirectory=/opt/wg-checker
+ExecStart=/opt/wg-checker/.venv/bin/python -u wg_checker.py
+Restart=always
+RestartSec=30
+
+[Install]
+WantedBy=multi-user.target
