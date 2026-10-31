@@ -502,5 +502,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hermannstraße, Berlin"
+},
+{
+"time": "2026-10-31 12:20",
+"id": "10745178",
+"verdict": "skip",
+"why": "1.91 km from Schlesisches Tor",
+"title": "Helles, großes, möbliertes Zimmer am Treptower Park"
+},
+{
+"time": "2026-10-31 12:20",
+"id": "1603721",
+"verdict": "skip",
+"why": "5.47 km from Prinzenstraße",
+"title": "Helles Zimmer in 2er WG, im Altbau 3 OG"
+},
+{
+"time": "2026-10-31 12:20",
+"id": "14266724",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Boxhagener Straße - Room 3"
 }
 ]
