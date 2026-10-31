@@ -1594,5 +1594,12 @@
 "verdict": "skip",
 "why": "2.84 km from Möckernbrücke",
 "title": "14 m2 WG Zimmer am KaDeWe"
+},
+{
+"time": "2026-10-31 19:05",
+"id": "14266738",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wisbyer Straße - Room 5"
 }
 ]
