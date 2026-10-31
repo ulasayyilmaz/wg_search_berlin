@@ -1230,5 +1230,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Schnellerstraße, Berlin"
+},
+{
+"time": "2026-10-31 16:01",
+"id": "12066524",
+"verdict": "skip",
+"why": "10.91 km from Prinzenstraße",
+"title": "Schönes WG-Zimmer"
+},
+{
+"time": "2026-10-31 16:01",
+"id": "14262604",
+"verdict": "skip",
+"why": "6.93 km from Möckernbrücke",
+"title": "19m2-Zimmer in gemütlicher 4er-WG in Wilmersdorf wird frei"
+},
+{
+"time": "2026-10-31 16:01",
+"id": "13646152",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
 }
 ]
