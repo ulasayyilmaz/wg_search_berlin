@@ -523,5 +523,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Boxhagener Straße - Room 3"
+},
+{
+"time": "2026-10-31 12:25",
+"id": "11952898",
+"verdict": "skip",
+"why": "2.09 km from Görlitzer Bahnhof",
+"title": "Zimmer in 3er-WG in Berlin-Neukölln – 590 € – befristet bis 31.09.2027"
+},
+{
+"time": "2026-10-31 12:25",
+"id": "11778113",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Möbliertes WG-Zimmer in Berlin-Wedding"
+},
+{
+"time": "2026-10-31 12:25",
+"id": "12162156",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Turmstraße, Berlin"
+},
+{
+"time": "2026-10-31 12:25",
+"id": "12280122",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Weimarische Straße, Berlin"
 }
 ]
