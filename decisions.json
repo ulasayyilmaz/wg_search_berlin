@@ -754,5 +754,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Hohenzollerndamm"
+},
+{
+"time": "2026-10-31 13:00",
+"id": "14300710",
+"verdict": "skip",
+"why": "5.75 km from Görlitzer Bahnhof",
+"title": "WG-Zimmer in zentraler Lage, direkt an der U-Bahn Blaschkoallee."
+},
+{
+"time": "2026-10-31 13:01",
+"id": "13539606",
+"verdict": "skip",
+"why": "9.26 km from Möckernbrücke",
+"title": "Studenten-WG 15 min zur FU"
 }
 ]
