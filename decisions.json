@@ -978,5 +978,19 @@
 "verdict": "skip",
 "why": "4.68 km from Möckernbrücke",
 "title": "Zimmer in großer 2er-WG"
+},
+{
+"time": "2026-10-31 14:30",
+"id": "14042692",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Friends Room für zwei mit Gemeinschaftsgarten in Berlin-Adlershof"
+},
+{
+"time": "2026-10-31 14:30",
+"id": "12161986",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
 }
 ]
