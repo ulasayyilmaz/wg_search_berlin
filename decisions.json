@@ -1727,5 +1727,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Boxhagener Straße - Room 4"
+},
+{
+"time": "2026-10-31 21:20",
+"id": "6303538",
+"verdict": "skip",
+"why": "5.31 km from Kottbusser Tor",
+"title": "Helles 26m2 großes Dielenzimmer"
+},
+{
+"time": "2026-10-31 21:20",
+"id": "8805475",
+"verdict": "skip",
+"why": "7.27 km from Schlesisches Tor",
+"title": "WG Zimmer 23qm in Oberschöneweide, 🏳️‍🌈 Vegan/Vegetarisch, Zigaretten👎"
 }
 ]
