@@ -1251,5 +1251,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-10-31 16:05",
+"id": "11289306",
+"verdict": "skip",
+"why": "no location",
+"title": "16qm WG-Zim. in 12203, Nähe Augustaplatz"
 }
 ]
