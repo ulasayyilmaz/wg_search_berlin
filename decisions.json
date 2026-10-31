@@ -943,5 +943,19 @@
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
 "title": "#Konkord1WE11Z2 - möbliertes 11 m2 Zimmer in 4er-WG in Berlin-Wilhelmstadt"
+},
+{
+"time": "2026-10-31 14:00",
+"id": "14300787",
+"verdict": "skip",
+"why": "5.60 km from Schlesisches Tor",
+"title": "WG Zimmer im Prenzlauerberg"
+},
+{
+"time": "2026-10-31 14:00",
+"id": "14215480",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Friends Room für zwei – Gemeinsam wohnen in Berlin-Oberschöneweide"
 }
 ]
