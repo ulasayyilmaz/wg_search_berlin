@@ -1517,5 +1517,19 @@
 "verdict": "skip",
 "why": "5.88 km from Schlesisches Tor",
 "title": "WG in Nähe von HTW Berlin"
+},
+{
+"time": "2026-10-31 17:55",
+"id": "10854942",
+"verdict": "skip",
+"why": "4.17 km from Möckernbrücke",
+"title": "Zimmer für Mitbewohnerin in 3 Zimmer Wohnung, befristet"
+},
+{
+"time": "2026-10-31 17:55",
+"id": "14298163",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG051.05 Holländerstraße"
 }
 ]
