@@ -1202,5 +1202,33 @@
 "verdict": "skip",
 "why": "no location",
 "title": "Freies WG-Zimmer & Assistenzjob in einer inklusiven WG"
+},
+{
+"time": "2026-10-31 15:50",
+"id": "14291762",
+"verdict": "skip",
+"why": "7.62 km from Möckernbrücke",
+"title": "Schönes WG-Zimmer in Charlottenburg-Nord | Zwischenmiete Nov–März"
+},
+{
+"time": "2026-10-31 15:50",
+"id": "14300916",
+"verdict": "skip",
+"why": "3.65 km from Möckernbrücke",
+"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
+},
+{
+"time": "2026-10-31 15:50",
+"id": "12275814",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schnellerstraße, Berlin"
+},
+{
+"time": "2026-10-31 15:50",
+"id": "12280979",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schnellerstraße, Berlin"
 }
 ]
