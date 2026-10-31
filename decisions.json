@@ -1783,5 +1783,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - WG046.04 Turmstraße"
+},
+{
+"time": "2026-10-31 21:55",
+"id": "14301288",
+"verdict": "skip",
+"why": "18.60 km from Schlesisches Tor",
+"title": "ZIMMER FREI IM EFH,WOHNEN WO ANDERE URLAUB MACHEN"
 }
 ]
