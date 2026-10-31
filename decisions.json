@@ -397,5 +397,47 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Tabbertstraße WG122.01"
+},
+{
+"time": "2026-10-31 11:55",
+"id": "8198961",
+"verdict": "skip",
+"why": "1.12 km from Hallesches Tor",
+"title": "Helles Zimmer im Bergmannkiez"
+},
+{
+"time": "2026-10-31 11:55",
+"id": "12104788",
+"verdict": "skip",
+"why": "5.82 km from Möckernbrücke",
+"title": "Doppelzimmer für Studentin – zentrale Lage – in Anspruch nehmen. Nov. 17 – Anmel"
+},
+{
+"time": "2026-10-31 11:55",
+"id": "14248736",
+"verdict": "skip",
+"why": "15.48 km from Möckernbrücke",
+"title": "WG Zimmer frei- auch zur Zwischenmiete möglich"
+},
+{
+"time": "2026-10-31 11:55",
+"id": "12085892",
+"verdict": "skip",
+"why": "7.96 km from Schlesisches Tor",
+"title": "Helles 15-m2-Zimmer in renovierter 3er-WG – Berlin-Niederschöneweide (Zi-Nr.2)"
+},
+{
+"time": "2026-10-31 11:55",
+"id": "14248154",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Weimarische Straße, Berlin"
+},
+{
+"time": "2026-10-31 11:55",
+"id": "14284460",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Sterndamm"
 }
 ]
