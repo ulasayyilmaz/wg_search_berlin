@@ -1405,5 +1405,19 @@
 "verdict": "skip",
 "why": "2.13 km from Möckernbrücke",
 "title": "Schönes Zimmer in einem charmanten Berliner Apartment"
+},
+{
+"time": "2026-10-31 17:00",
+"id": "14237740",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Prenzlauer Promenade 55.2"
+},
+{
+"time": "2026-10-31 17:00",
+"id": "14298114",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wilhelmstraße- WG042.04"
 }
 ]
