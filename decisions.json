@@ -1328,5 +1328,40 @@
 "verdict": "skip",
 "why": "4.28 km from Möckernbrücke",
 "title": "Moabit 28 qm in 3er WG"
+},
+{
+"time": "2026-10-31 16:25",
+"id": "9758257",
+"verdict": "SENT",
+"why": "",
+"title": "Möbliertes Zimmer in freundlicher WG im bunten Kreuzberg"
+},
+{
+"time": "2026-10-31 16:25",
+"id": "11229728",
+"verdict": "skip",
+"why": "4.06 km from Möckernbrücke",
+"title": "Nov. - Januar Zwischenmiete - Anmeldung möglich"
+},
+{
+"time": "2026-10-31 16:25",
+"id": "9076644",
+"verdict": "skip",
+"why": "7.19 km from Schlesisches Tor",
+"title": "Villa in Karlshorst"
+},
+{
+"time": "2026-10-31 16:25",
+"id": "12898745",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Potsdamer Straße, Berlin"
+},
+{
+"time": "2026-10-31 16:25",
+"id": "14237719",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Glienicker Straße 69.3"
 }
 ]
