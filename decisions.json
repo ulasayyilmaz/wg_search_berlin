@@ -551,5 +551,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Weimarische Straße, Berlin"
+},
+{
+"time": "2026-10-31 12:30",
+"id": "5465419",
+"verdict": "skip",
+"why": "7.42 km from Möckernbrücke",
+"title": "Möbliertes WG-Zimmer im Reihenhaus in ruhiger und zentraler Lage (all inclusive)"
+},
+{
+"time": "2026-10-31 12:30",
+"id": "14186613",
+"verdict": "skip",
+"why": "5.39 km from Schlesisches Tor",
+"title": "WG Zimmer in Prenzlauer Berg"
 }
 ]
