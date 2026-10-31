@@ -992,5 +992,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-10-31 14:40",
+"id": "12250884",
+"verdict": "skip",
+"why": "6.21 km from Hallesches Tor",
+"title": "Wir suchen Dich im Soldinerkiez- WG Zimmer und Garten!"
+},
+{
+"time": "2026-10-31 14:40",
+"id": "14300833",
+"verdict": "skip",
+"why": "5.46 km from Möckernbrücke",
+"title": "Subletting my room near Heidelberger Platz, all bills inc."
 }
 ]
