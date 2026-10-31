@@ -1055,5 +1055,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Buschkrugallee 42.4"
+},
+{
+"time": "2026-10-31 15:01",
+"id": "14272944",
+"verdict": "skip",
+"why": "3.76 km from Möckernbrücke",
+"title": "wG-Neugründung. Kleines Zimmer in 5er-WG in Wilmersdorf"
+},
+{
+"time": "2026-10-31 15:01",
+"id": "14290658",
+"verdict": "skip",
+"why": "8.20 km from Möckernbrücke",
+"title": "ZWISCHENMIETE NOVEMBER WG-Zimmer (sofort verfügbar)"
+},
+{
+"time": "2026-10-31 15:01",
+"id": "7980050",
+"verdict": "skip",
+"why": "5.06 km from Möckernbrücke",
+"title": "WG-Zimmer in der Nähe der TU und Zoologischer Garten"
+},
+{
+"time": "2026-10-31 15:01",
+"id": "14237856",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "🏡 Möbliertes Privatzimmer in Berlin-Johannisthal | Nähe Adlershof | Anmeldung mö"
 }
 ]
