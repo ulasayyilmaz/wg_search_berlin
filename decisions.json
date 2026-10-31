@@ -299,5 +299,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Plönzeile, Berlin"
+},
+{
+"time": "2026-10-31 11:35",
+"id": "14283923",
+"verdict": "skip",
+"why": "5.00 km from Möckernbrücke",
+"title": "Helles Zimmer im Zentrum"
+},
+{
+"time": "2026-10-31 11:35",
+"id": "10512057",
+"verdict": "skip",
+"why": "6.53 km from Hallesches Tor",
+"title": "Zimmer in heller 80m2-Wohnung | möbliert | S Bornholmer | 2er-Teilung | 6. OG mi"
+},
+{
+"time": "2026-10-31 11:35",
+"id": "13263363",
+"verdict": "skip",
+"why": "7.95 km from Schlesisches Tor",
+"title": "Ab 01.11./01.12.! All inclusive: Helles 13 m2 Altbau-Zimmer – nahe S Schöneweide"
+},
+{
+"time": "2026-10-31 11:35",
+"id": "14080321",
+"verdict": "skip",
+"why": "15.98 km from Möckernbrücke",
+"title": "A4 Schöner Wohnen - Wohngemeinschaft Berlin-Kladow Stadtnah Naturnah Wassernah. "
 }
 ]
