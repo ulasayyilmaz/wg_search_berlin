@@ -1097,5 +1097,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Koloniestraße 4.3"
+},
+{
+"time": "2026-10-31 15:20",
+"id": "14290332",
+"verdict": "skip",
+"why": "3.65 km from Möckernbrücke",
+"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
 }
 ]
