@@ -439,5 +439,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Sterndamm"
+},
+{
+"time": "2026-10-31 12:01",
+"id": "14300633",
+"verdict": "skip",
+"why": "4.00 km from Görlitzer Bahnhof",
+"title": "kurzzeit-untervermietung großen maisonette zimmer in einer gemeinsamen wohnung"
+},
+{
+"time": "2026-10-31 12:01",
+"id": "14206685",
+"verdict": "skip",
+"why": "6.47 km from Möckernbrücke",
+"title": "Helles Wg-Zimmer in Altbauwohnung"
+},
+{
+"time": "2026-10-31 12:01",
+"id": "14266757",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Boxhagener Straße - Room 2"
+},
+{
+"time": "2026-10-31 12:01",
+"id": "13646146",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ratiborstraße, Berlin"
 }
 ]
