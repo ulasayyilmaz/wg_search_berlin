@@ -124,5 +124,89 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "9188100",
+"verdict": "skip",
+"why": "1.45 km from Görlitzer Bahnhof",
+"title": "ROOM TO RENT - NEUKÖLLN 12045 - SONNENALLEE/PANNIERSTR"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "13098154",
+"verdict": "skip",
+"why": "5.92 km from Schlesisches Tor",
+"title": "Ab 15.11.26 in Karlshorst (Lichtenberg) mit Anmeldung: Möbliertes Zimmer in 7-er"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "14241476",
+"verdict": "skip",
+"why": "11.45 km from Schlesisches Tor",
+"title": "Ab 01.01.2027 Nähe Adlershof: Möbliertes Zimmer in 5-er WG, 2 Bäder, Essküche, W"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "14169641",
+"verdict": "skip",
+"why": "9.67 km from Möckernbrücke",
+"title": "Großes Zimmer mit Balkon"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "12161911",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Mehringplatz, Berlin"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "14298184",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG006.04 Ritterlandweg"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "14298208",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Turmstraße"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "14298121",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Lübbener Straße 32.4"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "13776281",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Reinickendorfer Straße, Berlin"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "14248151",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Weimarische Straße, Berlin"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "13644698",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sonnenallee, Berlin"
+},
+{
+"time": "2026-10-31 11:20",
+"id": "12895788",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Warschauer Straße, Berlin"
 }
 ]
