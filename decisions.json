@@ -1321,5 +1321,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Kaiser-Friedrich-Straße, Berlin"
+},
+{
+"time": "2026-10-31 16:20",
+"id": "9214254",
+"verdict": "skip",
+"why": "4.28 km from Möckernbrücke",
+"title": "Moabit 28 qm in 3er WG"
 }
 ]
