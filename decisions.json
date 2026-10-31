@@ -1545,5 +1545,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Detmolder Straße WG071.03"
+},
+{
+"time": "2026-10-31 18:15",
+"id": "14270216",
+"verdict": "skip",
+"why": "6.33 km from Möckernbrücke",
+"title": "Zwischenmiete für Zimmer in Steglitz - 6 months sublet in Steglitz"
 }
 ]
