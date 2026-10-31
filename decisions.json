@@ -1258,5 +1258,12 @@
 "verdict": "skip",
 "why": "no location",
 "title": "16qm WG-Zim. in 12203, Nähe Augustaplatz"
+},
+{
+"time": "2026-10-31 16:10",
+"id": "14298192",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Johanna-Tesch-Straße 17.2"
 }
 ]
