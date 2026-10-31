@@ -250,5 +250,54 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Buschkrugallee 42.1"
+},
+{
+"time": "2026-10-31 11:31",
+"id": "14298196",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Prinzenallee WG009.01"
+},
+{
+"time": "2026-10-31 11:31",
+"id": "12161908",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Altheider Straße, Berlin"
+},
+{
+"time": "2026-10-31 11:31",
+"id": "12280975",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schnellerstraße, Berlin"
+},
+{
+"time": "2026-10-31 11:31",
+"id": "13535100",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wattstraße WG030.03"
+},
+{
+"time": "2026-10-31 11:31",
+"id": "14080612",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wilsnacker Straße"
+},
+{
+"time": "2026-10-31 11:31",
+"id": "13646849",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schnellerstraße, Berlin"
+},
+{
+"time": "2026-10-31 11:31",
+"id": "13646921",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Plönzeile, Berlin"
 }
 ]
