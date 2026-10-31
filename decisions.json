@@ -1265,5 +1265,61 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Johanna-Tesch-Straße 17.2"
+},
+{
+"time": "2026-10-31 16:15",
+"id": "13009357",
+"verdict": "skip",
+"why": "5.40 km from Möckernbrücke",
+"title": "Sweetes WG-Zimmer im Wedding 13.11.-19.12.!/ bzw. einen Teil der Zeit/Parttime"
+},
+{
+"time": "2026-10-31 16:15",
+"id": "9329250",
+"verdict": "skip",
+"why": "6.75 km from Möckernbrücke",
+"title": "Mitbewohner*in für inklusives Wohnprojekt gesucht"
+},
+{
+"time": "2026-10-31 16:15",
+"id": "14300971",
+"verdict": "skip",
+"why": "5.05 km from Möckernbrücke",
+"title": "WG-Zimmer Nähe Zoo"
+},
+{
+"time": "2026-10-31 16:15",
+"id": "14279781",
+"verdict": "skip",
+"why": "4.54 km from Möckernbrücke",
+"title": "Schönes Altbau Zimmer + Bad in Moabiter WG ☀️"
+},
+{
+"time": "2026-10-31 16:16",
+"id": "14276288",
+"verdict": "skip",
+"why": "4.41 km from Schlesisches Tor",
+"title": "Zachert-WG sucht nette:n Mitbewohni"
+},
+{
+"time": "2026-10-31 16:16",
+"id": "11246482",
+"verdict": "skip",
+"why": "1.12 km from Hallesches Tor",
+"title": "Helles Zimmer im Bergmannkiez"
+},
+{
+"time": "2026-10-31 16:16",
+"id": "14266304",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Wohnplatz für Studis/Azubis - schönes WG-Zimmer in 3-Zimmer-Wohnung"
+},
+{
+"time": "2026-10-31 16:16",
+"id": "12275702",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kaiser-Friedrich-Straße, Berlin"
 }
 ]
