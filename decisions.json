@@ -1769,5 +1769,19 @@
 "verdict": "skip",
 "why": "5.02 km from Kottbusser Tor",
 "title": "18 qm Zimmer in einer WG in Pberg"
+},
+{
+"time": "2026-10-31 21:50",
+"id": "14301266",
+"verdict": "skip",
+"why": "5.02 km from Schlesisches Tor",
+"title": "Room in 2er WG in a UNESCO World Heritage Building in Prenzlauerberg"
+},
+{
+"time": "2026-10-31 21:50",
+"id": "14237808",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG046.04 Turmstraße"
 }
 ]
