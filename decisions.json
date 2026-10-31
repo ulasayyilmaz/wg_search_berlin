@@ -719,5 +719,40 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - WG074.03 Residenzstraße"
+},
+{
+"time": "2026-10-31 12:55",
+"id": "14263384",
+"verdict": "skip",
+"why": "8.93 km from Möckernbrücke",
+"title": "30m2 WG Zimmer nahe FU-keine Vorzahlung"
+},
+{
+"time": "2026-10-31 12:55",
+"id": "14033833",
+"verdict": "skip",
+"why": "5.01 km from Schlesisches Tor",
+"title": "wg/pauschalanteil"
+},
+{
+"time": "2026-10-31 12:55",
+"id": "3594863",
+"verdict": "skip",
+"why": "8.15 km from Möckernbrücke",
+"title": "Studenten-WG in TU-Nähe, Erstsemester geeignet"
+},
+{
+"time": "2026-10-31 12:55",
+"id": "14279794",
+"verdict": "skip",
+"why": "13.95 km from Möckernbrücke",
+"title": "WG-Zimmer zu vermieten | Mitbewohner/in gesucht"
+},
+{
+"time": "2026-10-31 12:55",
+"id": "14237869",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Hohenzollerndamm"
 }
 ]
