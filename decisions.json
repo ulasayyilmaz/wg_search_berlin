@@ -642,5 +642,54 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Richardstraße, Berlin"
+},
+{
+"time": "2026-10-31 12:45",
+"id": "14298118",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wrangelstraße- WG51.4 51.4"
+},
+{
+"time": "2026-10-31 12:45",
+"id": "12901321",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilsnacker Straße, Berlin"
+},
+{
+"time": "2026-10-31 12:45",
+"id": "14266731",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Boxhagener Straße - Room 1"
+},
+{
+"time": "2026-10-31 12:45",
+"id": "12275816",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schnellerstraße, Berlin"
+},
+{
+"time": "2026-10-31 12:45",
+"id": "13646886",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Mittenwalder Straße, Berlin"
+},
+{
+"time": "2026-10-31 12:45",
+"id": "14266734",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Boxhagener Straße - Room 2"
+},
+{
+"time": "2026-10-31 12:45",
+"id": "14237822",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bandelstraße"
 }
 ]
