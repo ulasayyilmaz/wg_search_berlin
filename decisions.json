@@ -1475,5 +1475,12 @@
 "verdict": "skip",
 "why": "3.96 km from Kottbusser Tor",
 "title": "Ruhiges, möbliertes Zimmer im Kollwitzkiez"
+},
+{
+"time": "2026-10-31 17:30",
+"id": "12162231",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Waldstraße, Berlin"
 }
 ]
