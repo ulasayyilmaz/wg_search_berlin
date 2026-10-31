@@ -1510,5 +1510,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-10-31 17:50",
+"id": "12014632",
+"verdict": "skip",
+"why": "5.88 km from Schlesisches Tor",
+"title": "WG in Nähe von HTW Berlin"
 }
 ]
