@@ -1531,5 +1531,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - WG051.05 Holländerstraße"
+},
+{
+"time": "2026-10-31 18:05",
+"id": "12019236",
+"verdict": "skip",
+"why": "2.86 km from Schlesisches Tor",
+"title": "WG Zimmer / Untermiete gemeinsame Wohnung mit Balkon"
+},
+{
+"time": "2026-10-31 18:05",
+"id": "14298138",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Detmolder Straße WG071.03"
 }
 ]
