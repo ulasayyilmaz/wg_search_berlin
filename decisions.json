@@ -208,5 +208,47 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Warschauer Straße, Berlin"
+},
+{
+"time": "2026-10-31 11:25",
+"id": "10645116",
+"verdict": "skip",
+"why": "3.22 km from Görlitzer Bahnhof",
+"title": "Helles großes WG-Zimmer in Neukölln, frei ab Ende Nov bis Ende April 2027"
+},
+{
+"time": "2026-10-31 11:25",
+"id": "14237390",
+"verdict": "skip",
+"why": "13.51 km from Möckernbrücke",
+"title": "Cozy 1960s retreat near Schlachtensee"
+},
+{
+"time": "2026-10-31 11:25",
+"id": "10066236",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "WG-Villa für Mitarbeiter, Praktikanten und Studenten in Berlin"
+},
+{
+"time": "2026-10-31 11:25",
+"id": "14237827",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Dörpfeldstraße"
+},
+{
+"time": "2026-10-31 11:25",
+"id": "12162291",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schnellerstraße, Berlin"
+},
+{
+"time": "2026-10-31 11:25",
+"id": "14298155",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Buschkrugallee 42.1"
 }
 ]
