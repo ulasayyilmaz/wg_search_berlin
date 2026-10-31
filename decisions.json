@@ -390,5 +390,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Wattstraße WG030.06"
+},
+{
+"time": "2026-10-31 11:50",
+"id": "14298186",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Tabbertstraße WG122.01"
 }
 ]
