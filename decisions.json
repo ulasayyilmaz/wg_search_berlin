@@ -1496,5 +1496,12 @@
 "verdict": "skip",
 "why": "temporary: sublet",
 "title": "Schönes Zimmer in einer Drei-Personen-Wohnung im Görlitzer Park"
+},
+{
+"time": "2026-10-31 17:40",
+"id": "14287569",
+"verdict": "skip",
+"why": "6.10 km from Hallesches Tor",
+"title": "Möblierte 13 m2 Zimmer im voll ausgestatteten, entspannten 2-Personen-Flatshare "
 }
 ]
