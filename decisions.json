@@ -1398,5 +1398,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Wühlischstraße - Room 5"
+},
+{
+"time": "2026-10-31 16:50",
+"id": "14269793",
+"verdict": "skip",
+"why": "2.13 km from Möckernbrücke",
+"title": "Schönes Zimmer in einem charmanten Berliner Apartment"
 }
 ]
