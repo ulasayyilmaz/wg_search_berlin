@@ -362,5 +362,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Leibnizstraße, Berlin"
+},
+{
+"time": "2026-10-31 11:45",
+"id": "8409730",
+"verdict": "skip",
+"why": "3.99 km from Möckernbrücke",
+"title": "Gehdistanz zur TU - Berlin für sechs Monate, für Neuankömmlinge!"
+},
+{
+"time": "2026-10-31 11:45",
+"id": "4000904",
+"verdict": "skip",
+"why": "no location",
+"title": "25 qm großes WG - Zimmer mit Wohnküche!"
+},
+{
+"time": "2026-10-31 11:45",
+"id": "7077308",
+"verdict": "skip",
+"why": "female only",
+"title": "Kreuzberg Perfect Location"
+},
+{
+"time": "2026-10-31 11:45",
+"id": "14298188",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wattstraße WG030.06"
 }
 ]
