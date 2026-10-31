@@ -1363,5 +1363,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Glienicker Straße 69.3"
+},
+{
+"time": "2026-10-31 16:35",
+"id": "14300996",
+"verdict": "skip",
+"why": "5.05 km from Möckernbrücke",
+"title": "WG-Zimmer in der Nähe vom Zoo"
+},
+{
+"time": "2026-10-31 16:35",
+"id": "13846349",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Wohnplatz für Studis/Azubis - gemütliches Zimmer in 2er-WG zu vermieten"
 }
 ]
