@@ -488,5 +488,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Damerowstraße 29.1"
+},
+{
+"time": "2026-10-31 12:15",
+"id": "12895675",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hindenburgdamm, Berlin"
+},
+{
+"time": "2026-10-31 12:15",
+"id": "14250978",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hermannstraße, Berlin"
 }
 ]
