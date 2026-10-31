@@ -1174,5 +1174,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-10-31 15:40",
+"id": "14270144",
+"verdict": "skip",
+"why": "1.31 km from Schlesisches Tor",
+"title": "Langzeitzimmer in Fhain verfügbar"
 }
 ]
