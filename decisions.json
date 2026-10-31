@@ -1440,5 +1440,40 @@
 "verdict": "skip",
 "why": "1.15 km from Hallesches Tor",
 "title": "Sonniges Zimmer"
+},
+{
+"time": "2026-10-31 17:25",
+"id": "14301015",
+"verdict": "skip",
+"why": "temporary: zwischenmiete",
+"title": "Helles Maissonette Wg-Zimmer Zwischenmiete in Kreuzberg"
+},
+{
+"time": "2026-10-31 17:25",
+"id": "13365904",
+"verdict": "skip",
+"why": "7.31 km from Schlesisches Tor",
+"title": "November: spacious Room with Balcony in a chill 2-Person Flatshare"
+},
+{
+"time": "2026-10-31 17:25",
+"id": "14301045",
+"verdict": "skip",
+"why": "1.29 km from Möckernbrücke",
+"title": "Helles,ruhigesBefristetet16qmZimmerinAltbau"
+},
+{
+"time": "2026-10-31 17:25",
+"id": "14301040",
+"verdict": "skip",
+"why": "2.17 km from Möckernbrücke",
+"title": "Einzugsdatum Dezember, Januar, Nov. leer oder möbliert"
+},
+{
+"time": "2026-10-31 17:25",
+"id": "9763710",
+"verdict": "skip",
+"why": "3.96 km from Kottbusser Tor",
+"title": "Ruhiges, möbliertes Zimmer im Kollwitzkiez"
 }
 ]
