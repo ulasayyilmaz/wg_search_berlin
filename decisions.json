@@ -1104,5 +1104,33 @@
 "verdict": "skip",
 "why": "3.65 km from Möckernbrücke",
 "title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
+},
+{
+"time": "2026-10-31 15:25",
+"id": "14266216",
+"verdict": "skip",
+"why": "6.10 km from Möckernbrücke",
+"title": "Großes möbiliertes Zimmer(25m2) in Wedding, Nähe Nauener Platz, Zwischenmiete 07"
+},
+{
+"time": "2026-10-31 15:25",
+"id": "7820315",
+"verdict": "skip",
+"why": "1.94 km from Kottbusser Tor",
+"title": "vermiete WG-Zimmer innerhalb einer 5-Raum-Wohnung"
+},
+{
+"time": "2026-10-31 15:25",
+"id": "13645906",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-10-31 15:25",
+"id": "14266722",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Boxhagener Straße - Room 3"
 }
 ]
