@@ -600,5 +600,47 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Lichtenrader Damm, Berlin"
+},
+{
+"time": "2026-10-31 12:43",
+"id": "14219850",
+"verdict": "skip",
+"why": "11.79 km from Möckernbrücke",
+"title": "Gemütliches WG-Zimmer in Berlin-Steglitz/Zehlendorf"
+},
+{
+"time": "2026-10-31 12:43",
+"id": "9305687",
+"verdict": "skip",
+"why": "5.43 km from Schlesisches Tor",
+"title": "Schönes Zimmer in PrenzlBerg"
+},
+{
+"time": "2026-10-31 12:43",
+"id": "14298159",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Jansastraße WG050.04"
+},
+{
+"time": "2026-10-31 12:43",
+"id": "13645615",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-10-31 12:43",
+"id": "14298209",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Lutherstraße 16.3"
+},
+{
+"time": "2026-10-31 12:43",
+"id": "14289791",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Richardstraße, Berlin"
 }
 ]
