@@ -1153,5 +1153,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Flughafenstraße 48.2"
+},
+{
+"time": "2026-10-31 15:35",
+"id": "14298172",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG061.01 Bandelstraße"
+},
+{
+"time": "2026-10-31 15:35",
+"id": "14248120",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Leibnizstraße, Berlin"
+},
+{
+"time": "2026-10-31 15:35",
+"id": "13647011",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
 }
 ]
