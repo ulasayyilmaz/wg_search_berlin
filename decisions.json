@@ -467,5 +467,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Ratiborstraße, Berlin"
+},
+{
+"time": "2026-10-31 12:05",
+"id": "10574451",
+"verdict": "skip",
+"why": "7.59 km from Schlesisches Tor",
+"title": "Großes Helles Zimmer mit Balkon nah HTW"
 }
 ]
