@@ -565,5 +565,33 @@
 "verdict": "skip",
 "why": "5.39 km from Schlesisches Tor",
 "title": "WG Zimmer in Prenzlauer Berg"
+},
+{
+"time": "2026-10-31 12:35",
+"id": "14300675",
+"verdict": "skip",
+"why": "2.05 km from Schlesisches Tor",
+"title": "Cozy Room in friedrichshain"
+},
+{
+"time": "2026-10-31 12:35",
+"id": "14284502",
+"verdict": "skip",
+"why": "4.98 km from Möckernbrücke",
+"title": "Helles ruhiges Zimmer im Ring"
+},
+{
+"time": "2026-10-31 12:35",
+"id": "13646170",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Turmstraße, Berlin"
+},
+{
+"time": "2026-10-31 12:35",
+"id": "13644978",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Grünberger Straße, Berlin"
 }
 ]
