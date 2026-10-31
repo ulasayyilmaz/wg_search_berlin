@@ -929,5 +929,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bornholmer Straße - Room 2"
+},
+{
+"time": "2026-10-31 13:55",
+"id": "14300784",
+"verdict": "skip",
+"why": "2.96 km from Möckernbrücke",
+"title": "Gemeinsame Wohnung und Zimmer"
+},
+{
+"time": "2026-10-31 13:55",
+"id": "13735602",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "#Konkord1WE11Z2 - möbliertes 11 m2 Zimmer in 4er-WG in Berlin-Wilhelmstadt"
 }
 ]
