@@ -327,5 +327,40 @@
 "verdict": "skip",
 "why": "15.98 km from Möckernbrücke",
 "title": "A4 Schöner Wohnen - Wohngemeinschaft Berlin-Kladow Stadtnah Naturnah Wassernah. "
+},
+{
+"time": "2026-10-31 11:40",
+"id": "13643359",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schulenburgring, Berlin"
+},
+{
+"time": "2026-10-31 11:40",
+"id": "14298149",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Zechliner Straße 60.1"
+},
+{
+"time": "2026-10-31 11:40",
+"id": "14298168",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - fm88.4 Winckelmannstraße 88.4"
+},
+{
+"time": "2026-10-31 11:40",
+"id": "13661860",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Gabriel-Max-Straße, Berlin"
+},
+{
+"time": "2026-10-31 11:40",
+"id": "13646842",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Leibnizstraße, Berlin"
 }
 ]
