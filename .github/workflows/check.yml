@@ -31,11 +31,12 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           STATUS_FILE: status.json
+          DECISIONS_FILE: decisions.json
         run: python wg_checker.py --once
 
       - name: Save seen ads
         run: |
           git config user.name "wg-checker"
           git config user.email "wg-checker@users.noreply.github.com"
-          git add seen.json status.json
+          git add seen.json status.json decisions.json
           git diff --cached --quiet || { git commit -m "Update seen ads" && git push; }

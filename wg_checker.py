@@ -424,6 +424,26 @@ def save_seen(seen):
 
 
 stats = {}
+decisions = []  # this run's verdicts, appended to DECISIONS_FILE
+
+
+def decide(listing, verdict, reasons=""):
+    log.info("%-5s %s (%s) %s", verdict, listing["id"], reasons, listing["title"][:60])
+    decisions.append({"time": time.strftime("%Y-%m-%d %H:%M", time.gmtime()), "id": listing["id"],
+                      "verdict": verdict, "why": reasons, "title": listing["title"][:80]})
+
+
+def save_decisions():
+    """Keep the last 500 verdicts in a public file, so 'why wasn't X sent?' can be answered without logs."""
+    path = os.environ.get("DECISIONS_FILE")
+    if not path:
+        return  # (always write, so the workflow's git add finds the file)
+    try:
+        old = json.loads(Path(path).read_text())
+    except (FileNotFoundError, ValueError):
+        old = []
+    Path(path).write_text(json.dumps((old + decisions)[-500:], ensure_ascii=False, indent=0))
+    decisions.clear()
 
 
 def write_status(result):
@@ -468,7 +488,7 @@ def check(seen, notify=True):
             elif l["partner"] or (l["badge"] and not l["badge"].startswith("Privat")):
                 pre = f"not private ({l['badge'] or 'partner'})"
             if pre:
-                log.info("skip  %s (%s) %s", l["id"], pre, l["title"][:60])
+                decide(l, "skip", pre)
                 stats["skipped"] += 1
                 seen.add(l["id"])
                 continue
@@ -487,16 +507,17 @@ def check(seen, notify=True):
                 continue
             ok, reasons, info = evaluate(l, ad)
             if ok:
-                log.info("MATCH %s %s", l["id"], l["title"])
                 if not send_telegram(format_message(l, ad, info)):
                     continue  # retry next round
+                decide(l, "SENT", info.get("term_note") or "")
                 stats["matched"] += 1
             else:
-                log.info("skip  %s (%s) %s", l["id"], "; ".join(reasons), l["title"][:60])
+                decide(l, "skip", "; ".join(reasons))
                 stats["skipped"] += 1
             seen.add(l["id"])
     finally:
         save_seen(seen)
+        save_decisions()
 
 
 def load_env():
