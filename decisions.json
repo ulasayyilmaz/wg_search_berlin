@@ -1419,5 +1419,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Wilhelmstraße- WG042.04"
+},
+{
+"time": "2026-10-31 17:05",
+"id": "13940432",
+"verdict": "skip",
+"why": "10.19 km from Möckernbrücke",
+"title": "Zimmer mit 2 Balkon in berlin (390 euroevery month)"
 }
 ]
