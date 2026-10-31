@@ -1559,5 +1559,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - fm80.7 Herthastraße 80.7"
+},
+{
+"time": "2026-10-31 18:25",
+"id": "12280973",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schnellerstraße, Berlin"
 }
 ]
