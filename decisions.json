@@ -1482,5 +1482,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Waldstraße, Berlin"
+},
+{
+"time": "2026-10-31 17:35",
+"id": "14252666",
+"verdict": "skip",
+"why": "1.85 km from Schlesisches Tor",
+"title": "Sofort: Zimmer in einer 2-Zimmer-Wohnung in Friedrichshain"
+},
+{
+"time": "2026-10-31 17:35",
+"id": "11846305",
+"verdict": "skip",
+"why": "temporary: sublet",
+"title": "Schönes Zimmer in einer Drei-Personen-Wohnung im Görlitzer Park"
 }
 ]
