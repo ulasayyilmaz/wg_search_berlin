@@ -859,5 +859,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Schudomastraße, Berlin"
+},
+{
+"time": "2026-10-31 13:20",
+"id": "10448481",
+"verdict": "skip",
+"why": "1.70 km from Schlesisches Tor",
+"title": "room in Neukölln daily"
+},
+{
+"time": "2026-10-31 13:20",
+"id": "14300735",
+"verdict": "skip",
+"why": "7.59 km from Möckernbrücke",
+"title": "WG zimmer in 2er Frauen/Flinta Wg"
 }
 ]
