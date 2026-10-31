@@ -908,5 +908,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - fm89.1 Scharnweberstraße 89.1"
+},
+{
+"time": "2026-10-31 13:40",
+"id": "14232392",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Friends Room für zwei Personen - Berlin Moabit - Anmeldung Possible"
 }
 ]
