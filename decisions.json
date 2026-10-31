@@ -1503,5 +1503,12 @@
 "verdict": "skip",
 "why": "6.10 km from Hallesches Tor",
 "title": "Möblierte 13 m2 Zimmer im voll ausgestatteten, entspannten 2-Personen-Flatshare "
+},
+{
+"time": "2026-10-31 17:45",
+"id": "13647010",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
 }
 ]
