@@ -691,5 +691,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bandelstraße"
+},
+{
+"time": "2026-10-31 12:50",
+"id": "12050482",
+"verdict": "skip",
+"why": "female only",
+"title": "2 Zimmer in ruhiger WG mit viel Licht – Mitte, direkt an der Kreuzberg-Grenze - "
+},
+{
+"time": "2026-10-31 12:50",
+"id": "13416884",
+"verdict": "skip",
+"why": "no location",
+"title": "möbliertes Zimmer an Studenten zz vermieten"
+},
+{
+"time": "2026-10-31 12:50",
+"id": "14059224",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bandelstraße"
+},
+{
+"time": "2026-10-31 12:50",
+"id": "14298157",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG074.03 Residenzstraße"
 }
 ]
