@@ -3071,5 +3071,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - WG069.02 Petersburger Straße"
+},
+{
+"time": "2026-11-01 22:55",
+"id": "14305005",
+"verdict": "skip",
+"why": "3.70 km from Schlesisches Tor",
+"title": "one month sublet november to december"
 }
 ]
