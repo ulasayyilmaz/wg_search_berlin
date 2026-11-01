@@ -1888,5 +1888,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Sterndamm"
+},
+{
+"time": "2026-11-01 05:45",
+"id": "9727005",
+"verdict": "skip",
+"why": "1.91 km from Schlesisches Tor",
+"title": "Weibliches Schlafzimmer - Helles 17 m2 Zimmer in der Nähe von Treptower Park - r"
 }
 ]
