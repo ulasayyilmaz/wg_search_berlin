@@ -2490,5 +2490,12 @@
 "verdict": "skip",
 "why": "temporary: zwischenmiete",
 "title": "Zwischenmiete – teil-möbliert – 6 Monate ab dem 01.12. – Kleines aber süßes Zimm"
+},
+{
+"time": "2026-11-01 15:40",
+"id": "4411346",
+"verdict": "skip",
+"why": "2.46 km from Schlesisches Tor",
+"title": "24 m2 - Berlin Friedrichshain"
 }
 ]
