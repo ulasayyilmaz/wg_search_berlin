@@ -1930,5 +1930,12 @@
 "verdict": "skip",
 "why": "no location",
 "title": "möbliertes Zimmer für Pendler"
+},
+{
+"time": "2026-11-01 07:10",
+"id": "14301388",
+"verdict": "skip",
+"why": "3.42 km from Schlesisches Tor",
+"title": "20 m2 Zimmer, Altbau in ruhiger Lage möbliert oder unmöbliert, frei ab 16.12."
 }
 ]
