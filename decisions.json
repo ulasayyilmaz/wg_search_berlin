@@ -1965,5 +1965,12 @@
 "verdict": "skip",
 "why": "2.48 km from Görlitzer Bahnhof",
 "title": "Sinatra Castle sucht Mitbewohnerin"
+},
+{
+"time": "2026-11-01 08:15",
+"id": "13773292",
+"verdict": "skip",
+"why": "3.73 km from Möckernbrücke",
+"title": "Wohnung Tempelhof, Wohnung"
 }
 ]
