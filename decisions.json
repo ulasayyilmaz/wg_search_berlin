@@ -1839,5 +1839,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - WG028.04 Müllerstraße"
+},
+{
+"time": "2026-11-01 00:20",
+"id": "14301416",
+"verdict": "skip",
+"why": "3.36 km from Möckernbrücke",
+"title": "MÖBLIERTER BETTPLATZ – BERLIN TEMPELHOF"
 }
 ]
