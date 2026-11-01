@@ -2770,5 +2770,26 @@
 "verdict": "skip",
 "why": "5.39 km from Möckernbrücke",
 "title": "kleines Zimmer in Wilmersdorf (nur Frauen)"
+},
+{
+"time": "2026-11-01 19:05",
+"id": "14304548",
+"verdict": "skip",
+"why": "5.00 km from Möckernbrücke",
+"title": "MItte: freundliches Zimmer in ausgezeichneter Lage"
+},
+{
+"time": "2026-11-01 19:05",
+"id": "14290892",
+"verdict": "skip",
+"why": "no location",
+"title": "Befristetes WG-Zimmer"
+},
+{
+"time": "2026-11-01 19:05",
+"id": "9146636",
+"verdict": "skip",
+"why": "2.11 km from Görlitzer Bahnhof",
+"title": "WG Zimmer in 2er WG, Schillerkiez, 13 QM , entspannter männlicher Mitbewohner ge"
 }
 ]
