@@ -3057,5 +3057,19 @@
 "verdict": "skip",
 "why": "9.48 km from Schlesisches Tor",
 "title": "Adlershof 1 Zimmer / 1 Zimmer"
+},
+{
+"time": "2026-11-01 22:35",
+"id": "11911120",
+"verdict": "skip",
+"why": "3.19 km from Görlitzer Bahnhof",
+"title": "Sunny 25m2 Studio like Room in Artistic WG – Aug"
+},
+{
+"time": "2026-11-01 22:35",
+"id": "14237743",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG069.02 Petersburger Straße"
 }
 ]
