@@ -2462,5 +2462,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Gabriel-Max-Straße - Room 2"
+},
+{
+"time": "2026-11-01 15:30",
+"id": "14033413",
+"verdict": "skip",
+"why": "6.03 km from Möckernbrücke",
+"title": "Mitbewohnerin ab 1. Februar 2027 Gesucht"
+},
+{
+"time": "2026-11-01 15:30",
+"id": "4680799",
+"verdict": "skip",
+"why": "2.55 km from Möckernbrücke",
+"title": "Schöner Ort zum wohnen in bester Lage"
+},
+{
+"time": "2026-11-01 15:30",
+"id": "14304212",
+"verdict": "skip",
+"why": "10.56 km from Schlesisches Tor",
+"title": "Eine Dreizimmerwohnung in ruhiger Lage ohne Anmeldung"
 }
 ]
