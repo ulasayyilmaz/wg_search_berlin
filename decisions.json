@@ -2581,5 +2581,40 @@
 "verdict": "skip",
 "why": "female only",
 "title": "Mitbewohnerin nach kreuzberg gewünscht"
+},
+{
+"time": "2026-11-01 16:50",
+"id": "14304395",
+"verdict": "skip",
+"why": "3.65 km from Möckernbrücke",
+"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
+},
+{
+"time": "2026-11-01 16:50",
+"id": "12150707",
+"verdict": "skip",
+"why": "2.35 km from Schlesisches Tor",
+"title": "33qm Zimmer in 2er-WG - 100qm große Wohnung - Proskauer Straße"
+},
+{
+"time": "2026-11-01 16:50",
+"id": "14290644",
+"verdict": "skip",
+"why": "2.36 km from Schlesisches Tor",
+"title": "Helles, gemütliches und ruhiges Zimmer in Neukölln"
+},
+{
+"time": "2026-11-01 16:50",
+"id": "13718771",
+"verdict": "skip",
+"why": "2.36 km from Schlesisches Tor",
+"title": "Helles, gemütliches und ruhiges Zimmer in Neukölln"
+},
+{
+"time": "2026-11-01 16:50",
+"id": "11347772",
+"verdict": "skip",
+"why": "6.81 km from Schlesisches Tor",
+"title": "Room in spacious 2-person shared flat in Weißensee"
 }
 ]
