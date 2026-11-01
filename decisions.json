@@ -1860,5 +1860,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Dominicusstraße WG102.04"
+},
+{
+"time": "2026-11-01 01:35",
+"id": "14301429",
+"verdict": "skip",
+"why": "9.56 km from Möckernbrücke",
+"title": "Wg-zimmer Reinickendorf"
 }
 ]
