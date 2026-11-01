@@ -1832,5 +1832,12 @@
 "verdict": "skip",
 "why": "8.02 km from Görlitzer Bahnhof",
 "title": "luftige WG im Süden Berlins"
+},
+{
+"time": "2026-11-01 00:15",
+"id": "14237691",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG028.04 Müllerstraße"
 }
 ]
