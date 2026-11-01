@@ -3099,5 +3099,19 @@
 "verdict": "skip",
 "why": "13.19 km from Möckernbrücke",
 "title": "Modernisiertes, vollmöbliertes WG-Zimmer nahe Bahnhof Berlin-Spandau"
+},
+{
+"time": "2026-11-01 23:30",
+"id": "12007602",
+"verdict": "skip",
+"why": "3.10 km from Prinzenstraße",
+"title": "PENDLERZIMMER nur für unter der Woche!! - COMMUTER ROOM just on weekdays!!"
+},
+{
+"time": "2026-11-01 23:30",
+"id": "13619881",
+"verdict": "SENT",
+"why": "short term but extension: 'extension may be possible'",
+"title": "kreuzberg zimmer in 5er wg, short term but an extension may be possible"
 }
 ]
