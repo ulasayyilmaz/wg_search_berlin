@@ -1993,5 +1993,33 @@
 "verdict": "skip",
 "why": "6.18 km from Schlesisches Tor",
 "title": "1 WG Zimmer frei in 4 Raum Wohnung"
+},
+{
+"time": "2026-11-01 09:10",
+"id": "14226221",
+"verdict": "skip",
+"why": "9.22 km from Möckernbrücke",
+"title": "Zwischenmiete .05.11.-31.12, eventuell länger"
+},
+{
+"time": "2026-11-01 09:10",
+"id": "10463516",
+"verdict": "skip",
+"why": "1444.58 km from Schlesisches Tor",
+"title": "Zimmer in Wilmersdorf"
+},
+{
+"time": "2026-11-01 09:10",
+"id": "4239228",
+"verdict": "skip",
+"why": "2.48 km from Möckernbrücke",
+"title": "Gay WG near Nollendorfplatz"
+},
+{
+"time": "2026-11-01 09:10",
+"id": "14261743",
+"verdict": "skip",
+"why": "9.96 km from Schlesisches Tor",
+"title": "Möbliertes Zimmer/Furnished Room in Neukölln (ab 1. November, 6 Monate, Verlänge"
 }
 ]
