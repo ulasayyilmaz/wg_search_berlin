@@ -2168,5 +2168,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Audre-Lorde-Straße"
+},
+{
+"time": "2026-11-01 11:05",
+"id": "14303737",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date",
+"title": "WG Zimmer in Kreuzberg"
 }
 ]
