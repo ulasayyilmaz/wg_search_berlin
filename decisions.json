@@ -2791,5 +2791,19 @@
 "verdict": "skip",
 "why": "2.11 km from Görlitzer Bahnhof",
 "title": "WG Zimmer in 2er WG, Schillerkiez, 13 QM , entspannter männlicher Mitbewohner ge"
+},
+{
+"time": "2026-11-01 19:15",
+"id": "9097225",
+"verdict": "skip",
+"why": "4.58 km from Hallesches Tor",
+"title": "Zwischenmiete"
+},
+{
+"time": "2026-11-01 19:15",
+"id": "14304618",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date",
+"title": "3 WG Zimmer in schöner Kreuzberger Altbauwohnung mit 2 Bädern und einem Wohnzimm"
 }
 ]
