@@ -2861,5 +2861,26 @@
 "verdict": "skip",
 "why": "9.52 km from Schlesisches Tor",
 "title": "Furnished rooms, with Registration in Pankow"
+},
+{
+"time": "2026-11-01 20:20",
+"id": "9725335",
+"verdict": "skip",
+"why": "2.50 km from Kottbusser Tor",
+"title": "Bright sunny WG in Alexanderplatz 14m2"
+},
+{
+"time": "2026-11-01 20:20",
+"id": "14304749",
+"verdict": "skip",
+"why": "4.99 km from Schlesisches Tor",
+"title": "Bright Furnished Room for Long Term Sublet"
+},
+{
+"time": "2026-11-01 20:20",
+"id": "14304741",
+"verdict": "skip",
+"why": "1.15 km from Hallesches Tor",
+"title": "Pendlerzimmer Pendler:innenzimmer in Kreuzberg"
 }
 ]
