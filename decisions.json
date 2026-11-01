@@ -2175,5 +2175,19 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date",
 "title": "WG Zimmer in Kreuzberg"
+},
+{
+"time": "2026-11-01 11:25",
+"id": "13592924",
+"verdict": "skip",
+"why": "3.48 km from Görlitzer Bahnhof",
+"title": "Zimmer in queerer Neukölln-WG mit Katzen"
+},
+{
+"time": "2026-11-01 11:25",
+"id": "14303721",
+"verdict": "skip",
+"why": "6.01 km from Schlesisches Tor",
+"title": "1 Raum für regelmäßige Miete & Seelenfrieden"
 }
 ]
