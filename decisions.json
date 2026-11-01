@@ -3001,5 +3001,33 @@
 "verdict": "skip",
 "why": "5.29 km from Möckernbrücke",
 "title": "teilmöbliertes 10qm Zimmer in 3er-WG in Friedenau"
+},
+{
+"time": "2026-11-01 21:50",
+"id": "12695682",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Studenten in genialem Haus suchen neuen Mitbewohner"
+},
+{
+"time": "2026-11-01 21:50",
+"id": "12047042",
+"verdict": "skip",
+"why": "no location",
+"title": "WG-Zimmer in Neukölln"
+},
+{
+"time": "2026-11-01 21:50",
+"id": "11745476",
+"verdict": "skip",
+"why": "8.92 km from Möckernbrücke",
+"title": "WG-Zimmer für katholische Studenten"
+},
+{
+"time": "2026-11-01 21:50",
+"id": "14304865",
+"verdict": "skip",
+"why": "7.56 km from Schlesisches Tor",
+"title": "3 er WG in Niederschöneweide Schnellerstr."
 }
 ]
