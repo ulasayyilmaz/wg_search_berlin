@@ -2805,5 +2805,12 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date",
 "title": "3 WG Zimmer in schöner Kreuzberger Altbauwohnung mit 2 Bädern und einem Wohnzimm"
+},
+{
+"time": "2026-11-01 19:20",
+"id": "14270188",
+"verdict": "skip",
+"why": "1.48 km from Görlitzer Bahnhof",
+"title": "WG-Zimmer an der Sonnenallee, nähe Hermannplatz"
 }
 ]
