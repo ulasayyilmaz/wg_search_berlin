@@ -1867,5 +1867,12 @@
 "verdict": "skip",
 "why": "9.56 km from Möckernbrücke",
 "title": "Wg-zimmer Reinickendorf"
+},
+{
+"time": "2026-11-01 02:25",
+"id": "8600101",
+"verdict": "skip",
+"why": "4.58 km from Görlitzer Bahnhof",
+"title": "Geteiltes Zimmer in Neukölln"
 }
 ]
