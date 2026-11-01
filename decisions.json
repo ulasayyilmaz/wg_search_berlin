@@ -2560,5 +2560,26 @@
 "verdict": "skip",
 "why": "2.66 km from Schlesisches Tor",
 "title": "Zimmer in 2er WG in Fhain ab Dezember"
+},
+{
+"time": "2026-11-01 16:45",
+"id": "12235142",
+"verdict": "skip",
+"why": "8.50 km from Möckernbrücke",
+"title": "Untervermietung vom 1. November bis 29. Januar"
+},
+{
+"time": "2026-11-01 16:45",
+"id": "14284432",
+"verdict": "skip",
+"why": "4.28 km from Görlitzer Bahnhof",
+"title": "WG Zimmer ab 15.11., Nähe S/U Hermannstraße"
+},
+{
+"time": "2026-11-01 16:45",
+"id": "14304343",
+"verdict": "skip",
+"why": "female only",
+"title": "Mitbewohnerin nach kreuzberg gewünscht"
 }
 ]
