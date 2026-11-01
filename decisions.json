@@ -3036,5 +3036,26 @@
 "verdict": "skip",
 "why": "starts 01.02.2027",
 "title": "Room Kreuzberg / Mitte 2er WG"
+},
+{
+"time": "2026-11-01 22:30",
+"id": "14269436",
+"verdict": "skip",
+"why": "3.60 km from Möckernbrücke",
+"title": "Available immediately, Short term sublet - November- December only"
+},
+{
+"time": "2026-11-01 22:30",
+"id": "14304961",
+"verdict": "skip",
+"why": "1.23 km from Schlesisches Tor",
+"title": "5.12-17.1 quiet room in shared flat close to Boxi & RAW -22sqm"
+},
+{
+"time": "2026-11-01 22:30",
+"id": "4677910",
+"verdict": "skip",
+"why": "9.48 km from Schlesisches Tor",
+"title": "Adlershof 1 Zimmer / 1 Zimmer"
 }
 ]
