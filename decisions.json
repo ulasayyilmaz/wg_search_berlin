@@ -2161,5 +2161,12 @@
 "verdict": "skip",
 "why": "1.40 km from Görlitzer Bahnhof",
 "title": "Schöner Mensch für Zimmer im Baumhaus gesucht!"
+},
+{
+"time": "2026-11-01 10:50",
+"id": "14237801",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Audre-Lorde-Straße"
 }
 ]
