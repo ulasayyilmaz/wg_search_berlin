@@ -2812,5 +2812,19 @@
 "verdict": "skip",
 "why": "1.48 km from Görlitzer Bahnhof",
 "title": "WG-Zimmer an der Sonnenallee, nähe Hermannplatz"
+},
+{
+"time": "2026-11-01 19:25",
+"id": "14304653",
+"verdict": "skip",
+"why": "1.64 km from Schlesisches Tor",
+"title": "Boxhagener Platz 01.11 - 31.12"
+},
+{
+"time": "2026-11-01 19:25",
+"id": "14304616",
+"verdict": "skip",
+"why": "14.01 km from Schlesisches Tor",
+"title": "Untermiete in Haus WG mit Garten, unbefristet möglich"
 }
 ]
