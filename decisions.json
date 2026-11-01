@@ -1972,5 +1972,12 @@
 "verdict": "skip",
 "why": "3.73 km from Möckernbrücke",
 "title": "Wohnung Tempelhof, Wohnung"
+},
+{
+"time": "2026-11-01 08:40",
+"id": "14248210",
+"verdict": "skip",
+"why": "4.24 km from Schlesisches Tor",
+"title": "WG Zimmer 2er WG"
 }
 ]
