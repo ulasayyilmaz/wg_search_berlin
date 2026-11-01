@@ -2546,5 +2546,12 @@
 "verdict": "skip",
 "why": "6.34 km from Möckernbrücke",
 "title": "FU nah, 5-Zimmer-Wohnung, U-Bahn Breitenbachplatz"
+},
+{
+"time": "2026-11-01 16:20",
+"id": "14262410",
+"verdict": "skip",
+"why": "4.10 km from Hallesches Tor",
+"title": "Langzeitmöbliertes Zimmer in Mitte (Umzug Mitte November in der Nähe von Mauerpa"
 }
 ]
