@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 11:40",
-"id": "14298168",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - fm88.4 Winckelmannstraße 88.4"
-},
-{
-"time": "2026-10-31 11:40",
-"id": "13661860",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Gabriel-Max-Straße, Berlin"
-},
-{
-"time": "2026-10-31 11:40",
-"id": "13646842",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Leibnizstraße, Berlin"
-},
-{
 "time": "2026-10-31 11:45",
 "id": "8409730",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "no location",
 "title": "Ab sofort - Ruhiges Zimmer in Kreuzberg - *Oranienstraße* 🙂"
+},
+{
+"time": "2026-11-02 15:15",
+"id": "5000567",
+"verdict": "skip",
+"why": "1.86 km from Schlesisches Tor",
+"title": "unkomplizierte,-r und saubere,-r für 15qm möbliertes Zimmer in FHAIN"
+},
+{
+"time": "2026-11-02 15:15",
+"id": "8702321",
+"verdict": "skip",
+"why": "5.70 km from Möckernbrücke",
+"title": "Neben Charité/Virchow & Beuth HS ** Anmeldung möglich ** mit Fahrrad ** schön sa"
+},
+{
+"time": "2026-11-02 15:15",
+"id": "8080871",
+"verdict": "skip",
+"why": "no location",
+"title": "** helle & moderne Wohnung / Temporäre Vermietung mit Anmeldung ist auch möglich"
 }
 ]
