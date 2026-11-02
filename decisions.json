@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 13:10",
-"id": "12958845",
-"verdict": "skip",
-"why": "1.79 km from Möckernbrücke",
-"title": "Zimmer zu vermieten in einer zentralen 2-Personen-WG (1 Monat)"
-},
-{
-"time": "2026-10-31 13:10",
 "id": "7888463",
 "verdict": "skip",
 "why": "no location",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "12.70 km from Möckernbrücke",
 "title": "Single room for Girls near Spandau S+U Bahnoff!"
+},
+{
+"time": "2026-11-02 22:01",
+"id": "14304487",
+"verdict": "skip",
+"why": "6.59 km from Schlesisches Tor",
+"title": "WG Zimmer in renovierter Altbauwohnung mit Wintergarten/Loggia in Hohenschönhaus"
 }
 ]
