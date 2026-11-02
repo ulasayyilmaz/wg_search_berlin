@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:35",
-"id": "14283923",
-"verdict": "skip",
-"why": "5.00 km from Möckernbrücke",
-"title": "Helles Zimmer im Zentrum"
-},
-{
-"time": "2026-10-31 11:35",
 "id": "10512057",
 "verdict": "skip",
 "why": "6.53 km from Hallesches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.21 km from Schlesisches Tor",
 "title": "Zimmer in freundschaftlicher WG :)"
+},
+{
+"time": "2026-11-02 14:50",
+"id": "14287298",
+"verdict": "skip",
+"why": "4.54 km from Möckernbrücke",
+"title": "Zwischenmiete/ Sublet (1.12.2026 - 31.03.2027)"
 }
 ]
