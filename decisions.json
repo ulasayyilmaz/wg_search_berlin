@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 12:25",
-"id": "11952898",
-"verdict": "skip",
-"why": "2.09 km from Görlitzer Bahnhof",
-"title": "Zimmer in 3er-WG in Berlin-Neukölln – 590 € – befristet bis 31.09.2027"
-},
-{
-"time": "2026-10-31 12:25",
-"id": "11778113",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "Möbliertes WG-Zimmer in Berlin-Wedding"
-},
-{
-"time": "2026-10-31 12:25",
 "id": "12162156",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "5.49 km from Möckernbrücke",
 "title": "Großes WG-Zimmer zur Untermiete"
+},
+{
+"time": "2026-11-02 18:40",
+"id": "7461185",
+"verdict": "skip",
+"why": "4.07 km from Kottbusser Tor",
+"title": "Gemütliches, sicheres, sonniges und sehr ruhiges Zimmer nahe Tempelhofer Feld Ne"
+},
+{
+"time": "2026-11-02 18:40",
+"id": "14308333",
+"verdict": "skip",
+"why": "7.62 km from Möckernbrücke",
+"title": "2er WG an der Grenze zu Wedding"
 }
 ]
