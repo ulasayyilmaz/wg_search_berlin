@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-10-31 11:25",
-"id": "10066236",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "WG-Villa für Mitarbeiter, Praktikanten und Studenten in Berlin"
-},
-{
-"time": "2026-10-31 11:25",
-"id": "14237827",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Dörpfeldstraße"
-},
-{
-"time": "2026-10-31 11:25",
-"id": "12162291",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schnellerstraße, Berlin"
-},
-{
-"time": "2026-10-31 11:25",
 "id": "14298155",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "anmeldung: 'keine anmeldung'",
 "title": "Zimmer in zentraler Lage"
+},
+{
+"time": "2026-11-02 14:01",
+"id": "14307710",
+"verdict": "skip",
+"why": "8.18 km from Schlesisches Tor",
+"title": "Wunderschönes WG-Zimmer in familiärer WG in Pankow (zöliakiegerecht)"
+},
+{
+"time": "2026-11-02 14:01",
+"id": "12871939",
+"verdict": "skip",
+"why": "10.75 km from Möckernbrücke",
+"title": "Studenten-WG 16 qm möbliert"
+},
+{
+"time": "2026-11-02 14:01",
+"id": "6237789",
+"verdict": "skip",
+"why": "10.74 km from Möckernbrücke",
+"title": "Studenten WG - 10qm möbliert."
 }
 ]
