@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 13:10",
-"id": "7888463",
-"verdict": "skip",
-"why": "no location",
-"title": "Perfekt für Praktikanten: Zimmer in Friedrichshain, möbliert - Room in Friedrich"
-},
-{
-"time": "2026-10-31 13:10",
 "id": "7046092",
 "verdict": "skip",
 "why": "2.46 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.59 km from Schlesisches Tor",
 "title": "WG Zimmer in renovierter Altbauwohnung mit Wintergarten/Loggia in Hohenschönhaus"
+},
+{
+"time": "2026-11-02 22:10",
+"id": "5836243",
+"verdict": "skip",
+"why": "5.06 km from Schlesisches Tor",
+"title": "quiet and nicely furnished room, ca 25 m2 - schönes, möbliertes Zimmer, ruhig."
 }
 ]
