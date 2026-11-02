@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-10-31 12:50",
-"id": "12050482",
-"verdict": "skip",
-"why": "female only",
-"title": "2 Zimmer in ruhiger WG mit viel Licht – Mitte, direkt an der Kreuzberg-Grenze - "
-},
-{
-"time": "2026-10-31 12:50",
-"id": "13416884",
-"verdict": "skip",
-"why": "no location",
-"title": "möbliertes Zimmer an Studenten zz vermieten"
-},
-{
-"time": "2026-10-31 12:50",
-"id": "14059224",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Bandelstraße"
-},
-{
-"time": "2026-10-31 12:50",
 "id": "14298157",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "4.91 km from Görlitzer Bahnhof",
 "title": "Bright furnished room in Britz (Neukölln) February 2027 - June 2027"
+},
+{
+"time": "2026-11-02 21:05",
+"id": "7877914",
+"verdict": "skip",
+"why": "1.18 km from Möckernbrücke",
+"title": "Centrum - schön u. sonnig ≈ ca.3 - ca.9 Monate"
+},
+{
+"time": "2026-11-02 21:05",
+"id": "13904560",
+"verdict": "skip",
+"why": "12.85 km from Schlesisches Tor",
+"title": "WG Zimmer Frauen - Haus im Grünen - 24/7 alle 10 min 1/2 h S Bahn bis Mitte"
+},
+{
+"time": "2026-11-02 21:05",
+"id": "13535637",
+"verdict": "skip",
+"why": "2.02 km from Görlitzer Bahnhof",
+"title": "21-qm Zimmer in charmanter Altbau-Wohnung in Neukölln – befristet (Dezember 2026"
 }
 ]
