@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 11:15",
-"id": "13646159",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
-"time": "2026-10-31 11:20",
-"id": "9188100",
-"verdict": "skip",
-"why": "1.45 km from Görlitzer Bahnhof",
-"title": "ROOM TO RENT - NEUKÖLLN 12045 - SONNENALLEE/PANNIERSTR"
-},
-{
 "time": "2026-10-31 11:20",
 "id": "13098154",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.27 km from Schlesisches Tor",
 "title": "Möbiliertes WG-Zimmer mit Balkon zur Untermiete ab Dezember/2026"
+},
+{
+"time": "2026-11-02 12:55",
+"id": "14307660",
+"verdict": "skip",
+"why": "9.75 km from Schlesisches Tor",
+"title": "Nahe HU – 2er-WG, ruhig & grün, schöner Kiez, top angebunden – mit Anmeldung"
+},
+{
+"time": "2026-11-02 12:55",
+"id": "10766120",
+"verdict": "skip",
+"why": "2.79 km from Schlesisches Tor",
+"title": "möbliertes Zimmer in 3er WG"
 }
 ]
