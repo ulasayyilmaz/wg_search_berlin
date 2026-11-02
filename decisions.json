@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:43",
-"id": "14298209",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Lutherstraße 16.3"
-},
-{
-"time": "2026-10-31 12:43",
 "id": "14289791",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.45 km from Möckernbrücke",
 "title": "Zimmer in Altbau-Mädels-WG 😊"
+},
+{
+"time": "2026-11-02 20:20",
+"id": "14297490",
+"verdict": "skip",
+"why": "8.91 km from Möckernbrücke",
+"title": "Warmes, möbliertes WG Zimmer ab sofort in Marienfelde zu vermieten, 650€ alles i"
 }
 ]
