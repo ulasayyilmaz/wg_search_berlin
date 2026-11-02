@@ -3260,5 +3260,12 @@
 "verdict": "skip",
 "why": "6.27 km from Möckernbrücke",
 "title": "Zimmer zur Zwischenmiete in Berlin"
+},
+{
+"time": "2026-11-02 08:20",
+"id": "14286616",
+"verdict": "skip",
+"why": "female only",
+"title": "Zwischenmiete WG Zimmer"
 }
 ]
