@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:35",
-"id": "14284502",
-"verdict": "skip",
-"why": "4.98 km from Möckernbrücke",
-"title": "Helles ruhiges Zimmer im Ring"
-},
-{
-"time": "2026-10-31 12:35",
 "id": "13646170",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.00 km from Möckernbrücke",
 "title": "Zentrum • 1 Jahr • möbliert •inklusive"
+},
+{
+"time": "2026-11-02 19:15",
+"id": "12155660",
+"verdict": "skip",
+"why": "3.87 km from Kottbusser Tor",
+"title": "Short term: Raum möbliert (25qm) + priv. Bad"
 }
 ]
