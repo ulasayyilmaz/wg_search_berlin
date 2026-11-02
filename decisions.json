@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:45",
-"id": "4000904",
-"verdict": "skip",
-"why": "no location",
-"title": "25 qm großes WG - Zimmer mit Wohnküche!"
-},
-{
-"time": "2026-10-31 11:45",
 "id": "7077308",
 "verdict": "skip",
 "why": "female only",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "1.95 km from Görlitzer Bahnhof",
 "title": "big comfy room with high ceilings until April 2027 or longer in Queer WG"
+},
+{
+"time": "2026-11-02 15:35",
+"id": "14063829",
+"verdict": "skip",
+"why": "4.42 km from Schlesisches Tor",
+"title": "BEWOHNERIN gesucht...bitte NUR deutschsprachig"
 }
 ]
