@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:01",
-"id": "14300633",
-"verdict": "skip",
-"why": "4.00 km from Görlitzer Bahnhof",
-"title": "kurzzeit-untervermietung großen maisonette zimmer in einer gemeinsamen wohnung"
-},
-{
-"time": "2026-10-31 12:01",
 "id": "14206685",
 "verdict": "skip",
 "why": "6.47 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "no location",
 "title": "Möbliertes Zimmer super zentral in Berlin Mitte"
+},
+{
+"time": "2026-11-02 16:45",
+"id": "14248744",
+"verdict": "skip",
+"why": "6.11 km from Schlesisches Tor",
+"title": "3 month let"
 }
 ]
