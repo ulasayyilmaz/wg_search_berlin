@@ -1,34 +1,6 @@
 [
 {
 "time": "2026-10-31 11:20",
-"id": "12161911",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Mehringplatz, Berlin"
-},
-{
-"time": "2026-10-31 11:20",
-"id": "14298184",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - WG006.04 Ritterlandweg"
-},
-{
-"time": "2026-10-31 11:20",
-"id": "14298208",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Turmstraße"
-},
-{
-"time": "2026-10-31 11:20",
-"id": "14298121",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Lübbener Straße 32.4"
-},
-{
-"time": "2026-10-31 11:20",
 "id": "13776281",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "8.49 km from Möckernbrücke",
 "title": "Schönes WG Zimmer in Berlin Charlottenburg"
+},
+{
+"time": "2026-11-02 13:25",
+"id": "2401277",
+"verdict": "skip",
+"why": "3.50 km from Schlesisches Tor",
+"title": "23qm room in Prenzlauer Berg near Alexander Platz. Top Lage!"
+},
+{
+"time": "2026-11-02 13:25",
+"id": "14307722",
+"verdict": "skip",
+"why": "7.51 km from Görlitzer Bahnhof",
+"title": "1 Zimmer in 2 Zimmer-Wohnung Neukölln für 1 Frau"
+},
+{
+"time": "2026-11-02 13:25",
+"id": "2396709",
+"verdict": "skip",
+"why": "3.50 km from Schlesisches Tor",
+"title": "very nice big room 29qm in Prenzlauer Berg for 1 person for from 23.11.-06.12.20"
+},
+{
+"time": "2026-11-02 13:25",
+"id": "14186154",
+"verdict": "skip",
+"why": "2.98 km from Prinzenstraße",
+"title": "Zimmer - Gründung 2 Personenhaushalt - Zweck-WG"
 }
 ]
