@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:10",
-"id": "12080845",
-"verdict": "skip",
-"why": "7.96 km from Schlesisches Tor",
-"title": "Helles 13-m2-WG-Zimmer in renovierter Wohnung (Zi-Nr.1)– Berlin-Niederschöneweid"
-},
-{
-"time": "2026-10-31 11:10",
 "id": "14248166",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.36 km from Möckernbrücke",
 "title": "3-er WG between U Seestr. and U Rehberge"
+},
+{
+"time": "2026-11-02 12:05",
+"id": "7036477",
+"verdict": "skip",
+"why": "4.62 km from Möckernbrücke",
+"title": "Charming Zimmer 25 m2 (keine Registrierung)"
 }
 ]
