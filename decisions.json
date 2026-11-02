@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 12:25",
-"id": "12162156",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Turmstraße, Berlin"
-},
-{
-"time": "2026-10-31 12:25",
-"id": "12280122",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Weimarische Straße, Berlin"
-},
-{
 "time": "2026-10-31 12:30",
 "id": "5465419",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "7.62 km from Möckernbrücke",
 "title": "2er WG an der Grenze zu Wedding"
+},
+{
+"time": "2026-11-02 18:45",
+"id": "9648471",
+"verdict": "skip",
+"why": "4.80 km from Kottbusser Tor",
+"title": "Zimmer in Prenzlauer Berg in 3er WG - Befristet für 3-12 Monate mit Anmeldung / "
+},
+{
+"time": "2026-11-02 18:45",
+"id": "11919746",
+"verdict": "skip",
+"why": "13.31 km from Möckernbrücke",
+"title": "helles Zimmer, möbliert ab 02.12.26 , 550,00€ warm zu vermieten! mit sehr guter "
 }
 ]
