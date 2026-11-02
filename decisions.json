@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-10-31 11:15",
-"id": "14266732",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Boxhagener Straße - Room 3"
-},
-{
-"time": "2026-10-31 11:15",
-"id": "14247473",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Goethestraße, Berlin"
-},
-{
-"time": "2026-10-31 11:15",
-"id": "13646830",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Leibnizstraße, Berlin"
-},
-{
-"time": "2026-10-31 11:15",
 "id": "13643689",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "no location",
 "title": "wg Zimmer zu zwischenmiete ohne Anmeldung ab 01.11bis 31.12 2027"
+},
+{
+"time": "2026-11-02 12:20",
+"id": "5312213",
+"verdict": "skip",
+"why": "7.81 km from Möckernbrücke",
+"title": "Voll Möbiliertes 20m2 Zimmer + Balkon Zugang, in einer 3er Wg im Bezirk Wedding "
+},
+{
+"time": "2026-11-02 12:20",
+"id": "6952911",
+"verdict": "skip",
+"why": "3.93 km from Schlesisches Tor",
+"title": "Ruhiges 20qm Zimmer im Weitlingkiez"
+},
+{
+"time": "2026-11-02 12:20",
+"id": "13914619",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date",
+"title": "Nice flat in Bergmannkiez"
 }
 ]
