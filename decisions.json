@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 12:45",
-"id": "13646886",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Mittenwalder Straße, Berlin"
-},
-{
-"time": "2026-10-31 12:45",
-"id": "14266734",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Boxhagener Straße - Room 2"
-},
-{
-"time": "2026-10-31 12:45",
 "id": "14237822",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.24 km from Möckernbrücke",
 "title": "Zimmer in Friedenau"
+},
+{
+"time": "2026-11-02 20:50",
+"id": "14308692",
+"verdict": "skip",
+"why": "4.91 km from Görlitzer Bahnhof",
+"title": "Bright furnished room in Britz (Neukölln) February 2027 - June 2027"
+},
+{
+"time": "2026-11-02 20:50",
+"id": "11022641",
+"verdict": "skip",
+"why": "7.03 km from Möckernbrücke",
+"title": "⭐ Möbliertes Doppelzimmer in 3er-WG in Wedding mit ANMELDUNG – langfristig"
 }
 ]
