@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 11:10",
-"id": "14265858",
-"verdict": "skip",
-"why": "9.84 km from Schlesisches Tor",
-"title": "Room for Sublet in Marzahn, Berlin"
-},
-{
-"time": "2026-10-31 11:10",
-"id": "14229991",
-"verdict": "skip",
-"why": "7.14 km from Schlesisches Tor",
-"title": "Helles 19m2 WG-Zimmer (voll möbliert) - Pauschalmiete"
-},
-{
-"time": "2026-10-31 11:10",
 "id": "14225783",
 "verdict": "skip",
 "why": "7.03 km from Möckernbrücke",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.49 km from Görlitzer Bahnhof",
 "title": "WG Zimmer in Berlin Britz *Nur Frauen*"
+},
+{
+"time": "2026-11-02 11:35",
+"id": "14254836",
+"verdict": "skip",
+"why": "4.37 km from Schlesisches Tor",
+"title": "Entspannte 2er WG im Prenzlauer Berg"
+},
+{
+"time": "2026-11-02 11:35",
+"id": "14307452",
+"verdict": "skip",
+"why": "4.77 km from Möckernbrücke",
+"title": "Wunderschönes Zimmer in gemütlicher WG (ACHTUNG UNTERMIETE/SUBLEASE!)"
 }
 ]
