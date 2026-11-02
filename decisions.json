@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 11:20",
-"id": "14241476",
-"verdict": "skip",
-"why": "11.45 km from Schlesisches Tor",
-"title": "Ab 01.01.2027 Nähe Adlershof: Möbliertes Zimmer in 5-er WG, 2 Bäder, Essküche, W"
-},
-{
-"time": "2026-10-31 11:20",
-"id": "14169641",
-"verdict": "skip",
-"why": "9.67 km from Möckernbrücke",
-"title": "Großes Zimmer mit Balkon"
-},
-{
-"time": "2026-10-31 11:20",
 "id": "12161911",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.71 km from Möckernbrücke",
 "title": "Studenten-WG in Steglitz"
+},
+{
+"time": "2026-11-02 13:20",
+"id": "10751781",
+"verdict": "skip",
+"why": "3.49 km from Schlesisches Tor",
+"title": "Zimmer in 2 Personen WG"
+},
+{
+"time": "2026-11-02 13:20",
+"id": "13000784",
+"verdict": "skip",
+"why": "8.49 km from Möckernbrücke",
+"title": "Schönes WG Zimmer in Berlin Charlottenburg"
 }
 ]
