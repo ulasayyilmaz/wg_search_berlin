@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:20",
-"id": "13098154",
-"verdict": "skip",
-"why": "5.92 km from Schlesisches Tor",
-"title": "Ab 15.11.26 in Karlshorst (Lichtenberg) mit Anmeldung: Möbliertes Zimmer in 7-er"
-},
-{
-"time": "2026-10-31 11:20",
 "id": "14241476",
 "verdict": "skip",
 "why": "11.45 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.79 km from Schlesisches Tor",
 "title": "möbliertes Zimmer in 3er WG"
+},
+{
+"time": "2026-11-02 13:15",
+"id": "14191144",
+"verdict": "skip",
+"why": "8.71 km from Möckernbrücke",
+"title": "Studenten-WG in Steglitz"
 }
 ]
