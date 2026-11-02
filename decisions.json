@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 12:45",
-"id": "14237822",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Bandelstraße"
-},
-{
 "time": "2026-10-31 12:50",
 "id": "12050482",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.03 km from Möckernbrücke",
 "title": "⭐ Möbliertes Doppelzimmer in 3er-WG in Wedding mit ANMELDUNG – langfristig"
+},
+{
+"time": "2026-11-02 21:01",
+"id": "14308705",
+"verdict": "skip",
+"why": "4.91 km from Görlitzer Bahnhof",
+"title": "Bright furnished room in Britz (Neukölln) February 2027 - June 2027"
 }
 ]
