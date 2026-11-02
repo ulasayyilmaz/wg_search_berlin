@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 12:01",
-"id": "13646146",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Ratiborstraße, Berlin"
-},
-{
-"time": "2026-10-31 12:05",
-"id": "10574451",
-"verdict": "skip",
-"why": "7.59 km from Schlesisches Tor",
-"title": "Großes Helles Zimmer mit Balkon nah HTW"
-},
-{
-"time": "2026-10-31 12:10",
-"id": "13916748",
-"verdict": "skip",
-"why": "5.96 km from Möckernbrücke",
-"title": "Geräumiges WG-Zimmer zur eigenen Entfaltung mit Blick ins Grüne"
-},
-{
 "time": "2026-10-31 12:10",
 "id": "14237776",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "temporary: temporar",
 "title": "Furnished 64 m2 Apartment in Kreuzberg – Kottbusser Tor"
+},
+{
+"time": "2026-11-02 17:05",
+"id": "14308156",
+"verdict": "skip",
+"why": "2.33 km from Görlitzer Bahnhof",
+"title": "Zimmer in 4er WG zur Zwischenmiete (unmöbeliert)"
+},
+{
+"time": "2026-11-02 17:05",
+"id": "14293506",
+"verdict": "skip",
+"why": "2.97 km from Möckernbrücke",
+"title": "gemütliches WG Zimmer Schöneberger Altbau"
+},
+{
+"time": "2026-11-02 17:05",
+"id": "14308184",
+"verdict": "skip",
+"why": "13.72 km from Möckernbrücke",
+"title": "WG Zimmer in Spandau"
 }
 ]
