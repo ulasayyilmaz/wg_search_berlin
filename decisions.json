@@ -3134,5 +3134,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bornholmer Straße - Room 1"
+},
+{
+"time": "2026-11-02 01:05",
+"id": "14284555",
+"verdict": "skip",
+"why": "6.68 km from Möckernbrücke",
+"title": "Helles WG-Zimmer am Rathenauplatz / Kudamm ab 01.11.2026 – 550 € warm"
 }
 ]
