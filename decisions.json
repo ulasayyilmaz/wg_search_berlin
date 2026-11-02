@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 11:50",
-"id": "14298186",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Tabbertstraße WG122.01"
-},
-{
 "time": "2026-10-31 11:55",
 "id": "8198961",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "13.28 km from Möckernbrücke",
 "title": "shared room in fully furnished apartment"
+},
+{
+"time": "2026-11-02 15:50",
+"id": "12268020",
+"verdict": "skip",
+"why": "3.28 km from Görlitzer Bahnhof",
+"title": "WG Zimmer nähe S Hermannstr"
 }
 ]
