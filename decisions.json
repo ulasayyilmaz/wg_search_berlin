@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 11:55",
-"id": "8198961",
-"verdict": "skip",
-"why": "1.12 km from Hallesches Tor",
-"title": "Helles Zimmer im Bergmannkiez"
-},
-{
-"time": "2026-10-31 11:55",
-"id": "12104788",
-"verdict": "skip",
-"why": "5.82 km from Möckernbrücke",
-"title": "Doppelzimmer für Studentin – zentrale Lage – in Anspruch nehmen. Nov. 17 – Anmel"
-},
-{
-"time": "2026-10-31 11:55",
 "id": "14248736",
 "verdict": "skip",
 "why": "15.48 km from Möckernbrücke",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.28 km from Görlitzer Bahnhof",
 "title": "WG Zimmer nähe S Hermannstr"
+},
+{
+"time": "2026-11-02 16:05",
+"id": "14308063",
+"verdict": "skip",
+"why": "female only",
+"title": "Sehr großes Zimmer im Altbau mitten in Kreuzberg zu vermieten - Zwischenmiete"
+},
+{
+"time": "2026-11-02 16:05",
+"id": "12690625",
+"verdict": "skip",
+"why": "5.12 km from Möckernbrücke",
+"title": "Gästezimmer in Berlin Steglitz 29.11.-12.12."
 }
 ]
