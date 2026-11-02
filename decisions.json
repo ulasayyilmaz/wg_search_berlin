@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 12:45",
-"id": "14266731",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Boxhagener Straße - Room 1"
-},
-{
-"time": "2026-10-31 12:45",
-"id": "12275816",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schnellerstraße, Berlin"
-},
-{
-"time": "2026-10-31 12:45",
 "id": "13646886",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.43 km from Schlesisches Tor",
 "title": "Helles 22 m2 Zimmer mit eigenem Balkon in Friedrichshain | 580 € warm | ab sofor"
+},
+{
+"time": "2026-11-02 20:40",
+"id": "14308642",
+"verdict": "skip",
+"why": "1.50 km from Schlesisches Tor",
+"title": "Voll möbliertes WG-Zimmer + gem. Wohnraum in Friedrichshain"
+},
+{
+"time": "2026-11-02 20:40",
+"id": "14308607",
+"verdict": "skip",
+"why": "4.24 km from Möckernbrücke",
+"title": "Zimmer in Friedenau"
 }
 ]
