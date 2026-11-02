@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:43",
-"id": "13645615",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Bornholmer Straße, Berlin"
-},
-{
-"time": "2026-10-31 12:43",
 "id": "14298209",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.66 km from Möckernbrücke",
 "title": "bright spacious Room in wedding in 2er WG"
+},
+{
+"time": "2026-11-02 20:15",
+"id": "14229036",
+"verdict": "skip",
+"why": "2.45 km from Möckernbrücke",
+"title": "Zimmer in Altbau-Mädels-WG 😊"
 }
 ]
