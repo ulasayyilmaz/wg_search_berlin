@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 11:20",
-"id": "13644698",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sonnenallee, Berlin"
-},
-{
-"time": "2026-10-31 11:20",
-"id": "12895788",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Warschauer Straße, Berlin"
-},
-{
-"time": "2026-10-31 11:25",
-"id": "10645116",
-"verdict": "skip",
-"why": "3.22 km from Görlitzer Bahnhof",
-"title": "Helles großes WG-Zimmer in Neukölln, frei ab Ende Nov bis Ende April 2027"
-},
-{
 "time": "2026-10-31 11:25",
 "id": "14237390",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "1.49 km from Görlitzer Bahnhof",
 "title": "Pannierstraße, Altbau WG - Heart of Neukölln"
+},
+{
+"time": "2026-11-02 13:40",
+"id": "13750533",
+"verdict": "skip",
+"why": "3.56 km from Möckernbrücke",
+"title": "S-Bahn Ring.Zental Lage.Anmeldung.kleines, möbliertes Zimmer mit einem Hochbett."
+},
+{
+"time": "2026-11-02 13:40",
+"id": "14290535",
+"verdict": "skip",
+"why": "6.20 km from Kottbusser Tor",
+"title": "Untervermietung vom 21/11 bis 31/01 Flexible Termine in der Nähe von Mauer Park!"
+},
+{
+"time": "2026-11-02 13:40",
+"id": "10911840",
+"verdict": "skip",
+"why": "11.59 km from Möckernbrücke",
+"title": "1,5 möblierte Zimmer in 2er WG AB SOFORT ODER 1.12"
 }
 ]
