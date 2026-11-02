@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 12:55",
-"id": "14237869",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Hohenzollerndamm"
-},
-{
 "time": "2026-10-31 13:00",
 "id": "14300710",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.43 km from Schlesisches Tor",
 "title": "Temporary Rent January 2027 - Very Pleasant Large Furnished Room in a Shared Fla"
+},
+{
+"time": "2026-11-02 21:40",
+"id": "14265650",
+"verdict": "skip",
+"why": "6.04 km from Möckernbrücke",
+"title": "Mitbewohnerin ab 1 März 2027 gesucht"
 }
 ]
