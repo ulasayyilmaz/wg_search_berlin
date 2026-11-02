@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:20",
-"id": "10745178",
-"verdict": "skip",
-"why": "1.91 km from Schlesisches Tor",
-"title": "Helles, großes, möbliertes Zimmer am Treptower Park"
-},
-{
-"time": "2026-10-31 12:20",
 "id": "1603721",
 "verdict": "skip",
 "why": "5.47 km from Prinzenstraße",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "1.69 km from Schlesisches Tor",
 "title": "Ostkreuz - Großes, helles Altbauzimmer. Elegantes Haus. Mit Sauna :)"
+},
+{
+"time": "2026-11-02 18:01",
+"id": "7166925",
+"verdict": "skip",
+"why": "10.01 km from Schlesisches Tor",
+"title": "Furnished flatshare in cool house with garden, extendable"
 }
 ]
