@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:45",
-"id": "8409730",
-"verdict": "skip",
-"why": "3.99 km from Möckernbrücke",
-"title": "Gehdistanz zur TU - Berlin für sechs Monate, für Neuankömmlinge!"
-},
-{
-"time": "2026-10-31 11:45",
 "id": "4000904",
 "verdict": "skip",
 "why": "no location",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "no location",
 "title": "** helle & moderne Wohnung / Temporäre Vermietung mit Anmeldung ist auch möglich"
+},
+{
+"time": "2026-11-02 15:31",
+"id": "12319490",
+"verdict": "skip",
+"why": "1.95 km from Görlitzer Bahnhof",
+"title": "big comfy room with high ceilings until April 2027 or longer in Queer WG"
 }
 ]
