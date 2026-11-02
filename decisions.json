@@ -3400,5 +3400,19 @@
 "verdict": "skip",
 "why": "11.94 km from Möckernbrücke",
 "title": "WG im grünen (C Bereich) + Wintergarten/Garten"
+},
+{
+"time": "2026-11-02 10:30",
+"id": "14027593",
+"verdict": "skip",
+"why": "2.40 km from Schlesisches Tor",
+"title": "vOlkSpArk Friedrichshain"
+},
+{
+"time": "2026-11-02 10:30",
+"id": "14034487",
+"verdict": "skip",
+"why": "2.40 km from Schlesisches Tor",
+"title": "vOlkSpark Friedrichshain"
 }
 ]
