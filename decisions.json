@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:25",
-"id": "14237390",
-"verdict": "skip",
-"why": "13.51 km from Möckernbrücke",
-"title": "Cozy 1960s retreat near Schlachtensee"
-},
-{
-"time": "2026-10-31 11:25",
 "id": "10066236",
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "11.59 km from Möckernbrücke",
 "title": "1,5 möblierte Zimmer in 2er WG AB SOFORT ODER 1.12"
+},
+{
+"time": "2026-11-02 13:50",
+"id": "14058374",
+"verdict": "skip",
+"why": "anmeldung: 'keine anmeldung'",
+"title": "Zimmer in zentraler Lage"
 }
 ]
