@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 11:31",
-"id": "12161908",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Altheider Straße, Berlin"
-},
-{
-"time": "2026-10-31 11:31",
-"id": "12280975",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schnellerstraße, Berlin"
-},
-{
-"time": "2026-10-31 11:31",
 "id": "13535100",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.49 km from Kottbusser Tor",
 "title": "Zimmer in Mitte"
+},
+{
+"time": "2026-11-02 14:20",
+"id": "10789583",
+"verdict": "skip",
+"why": "5.73 km from Möckernbrücke",
+"title": "23qm helles Zimmer in Charlottenburg"
+},
+{
+"time": "2026-11-02 14:20",
+"id": "11738961",
+"verdict": "skip",
+"why": "4.72 km from Möckernbrücke",
+"title": "300 EUR - WARM - 6 Monate - Berlin-Wilmersdorf"
 }
 ]
