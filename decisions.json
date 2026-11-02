@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:15",
-"id": "13643689",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Neltestraße, Berlin"
-},
-{
-"time": "2026-10-31 11:15",
 "id": "14298146",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date",
 "title": "Nice flat in Bergmannkiez"
+},
+{
+"time": "2026-11-02 12:25",
+"id": "14307609",
+"verdict": "skip",
+"why": "12.80 km from Möckernbrücke",
+"title": "WG Zimmer S - Bahnhof Mexocoplatz"
 }
 ]
