@@ -3113,5 +3113,19 @@
 "verdict": "SENT",
 "why": "short term but extension: 'extension may be possible'",
 "title": "kreuzberg zimmer in 5er wg, short term but an extension may be possible"
+},
+{
+"time": "2026-11-02 00:25",
+"id": "14305047",
+"verdict": "skip",
+"why": "3.84 km from Möckernbrücke",
+"title": "Großes Zimmer zu vermieten (keine Kaution)"
+},
+{
+"time": "2026-11-02 00:25",
+"id": "14207015",
+"verdict": "skip",
+"why": "6.70 km from Möckernbrücke",
+"title": "Ruhiges WG Zimmer Zwischenmiete ca 3 Monate ab jetzt- Februar/ März (flexibel)"
 }
 ]
