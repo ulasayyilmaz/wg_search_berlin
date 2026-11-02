@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 12:50",
-"id": "14298157",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - WG074.03 Residenzstraße"
-},
-{
 "time": "2026-10-31 12:55",
 "id": "14263384",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.02 km from Görlitzer Bahnhof",
 "title": "21-qm Zimmer in charmanter Altbau-Wohnung in Neukölln – befristet (Dezember 2026"
+},
+{
+"time": "2026-11-02 21:10",
+"id": "14308679",
+"verdict": "skip",
+"why": "4.89 km from Schlesisches Tor",
+"title": "Bright and cosy room in a lovely WG"
 }
 ]
