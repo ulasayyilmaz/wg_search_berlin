@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:35",
-"id": "14300675",
-"verdict": "skip",
-"why": "2.05 km from Schlesisches Tor",
-"title": "Cozy Room in friedrichshain"
-},
-{
-"time": "2026-10-31 12:35",
 "id": "14284502",
 "verdict": "skip",
 "why": "4.98 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.59 km from Möckernbrücke",
 "title": "Zimmer in WG"
+},
+{
+"time": "2026-11-02 19:05",
+"id": "14308471",
+"verdict": "skip",
+"why": "5.00 km from Möckernbrücke",
+"title": "Zentrum • 1 Jahr • möbliert •inklusive"
 }
 ]
