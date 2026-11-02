@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 12:55",
-"id": "14263384",
-"verdict": "skip",
-"why": "8.93 km from Möckernbrücke",
-"title": "30m2 WG Zimmer nahe FU-keine Vorzahlung"
-},
-{
-"time": "2026-10-31 12:55",
-"id": "14033833",
-"verdict": "skip",
-"why": "5.01 km from Schlesisches Tor",
-"title": "wg/pauschalanteil"
-},
-{
-"time": "2026-10-31 12:55",
 "id": "3594863",
 "verdict": "skip",
 "why": "8.15 km from Möckernbrücke",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.89 km from Schlesisches Tor",
 "title": "Bright and cosy room in a lovely WG"
+},
+{
+"time": "2026-11-02 21:25",
+"id": "12003387",
+"verdict": "skip",
+"why": "5.89 km from Schlesisches Tor",
+"title": "Zimmer unter dem Dach"
+},
+{
+"time": "2026-11-02 21:25",
+"id": "10795173",
+"verdict": "skip",
+"why": "6.03 km from Möckernbrücke",
+"title": "Mitbewohnerin dringend Gesuch"
 }
 ]
