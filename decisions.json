@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:30",
-"id": "5465419",
-"verdict": "skip",
-"why": "7.42 km from Möckernbrücke",
-"title": "Möbliertes WG-Zimmer im Reihenhaus in ruhiger und zentraler Lage (all inclusive)"
-},
-{
-"time": "2026-10-31 12:30",
 "id": "14186613",
 "verdict": "skip",
 "why": "5.39 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "13.31 km from Möckernbrücke",
 "title": "helles Zimmer, möbliert ab 02.12.26 , 550,00€ warm zu vermieten! mit sehr guter "
+},
+{
+"time": "2026-11-02 18:55",
+"id": "14036854",
+"verdict": "skip",
+"why": "10.70 km from Schlesisches Tor",
+"title": "Ruhiges WG-Zimmer in Einfamilienhaus mit Garten"
 }
 ]
