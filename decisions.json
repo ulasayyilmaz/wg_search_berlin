@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 12:15",
-"id": "14250978",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hermannstraße, Berlin"
-},
-{
 "time": "2026-10-31 12:20",
 "id": "10745178",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.36 km from Möckernbrücke",
 "title": "Sublet for students available | No Anmeldung"
+},
+{
+"time": "2026-11-02 17:25",
+"id": "4297531",
+"verdict": "skip",
+"why": "1.69 km from Schlesisches Tor",
+"title": "Ostkreuz - Großes, helles Altbauzimmer. Elegantes Haus. Mit Sauna :)"
 }
 ]
