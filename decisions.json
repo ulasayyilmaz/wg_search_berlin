@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:10",
-"id": "2885098",
-"verdict": "skip",
-"why": "3.15 km from Schlesisches Tor",
-"title": "Bright&Quiet near Volkspark,"
-},
-{
-"time": "2026-10-31 11:10",
 "id": "12080845",
 "verdict": "skip",
 "why": "7.96 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.62 km from Kottbusser Tor",
 "title": "Helles WG-Zimmer in 2er-Studenten-WG am Tempelhofer Feld"
+},
+{
+"time": "2026-11-02 12:01",
+"id": "14297488",
+"verdict": "skip",
+"why": "6.36 km from Möckernbrücke",
+"title": "3-er WG between U Seestr. and U Rehberge"
 }
 ]
