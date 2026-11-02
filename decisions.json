@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:10",
-"id": "14300549",
-"verdict": "skip",
-"why": "4.80 km from Möckernbrücke",
-"title": "Süßes WG Zimmer im Mausigem Moabit ab 1.11 :) Alles bisschen spontan, Casting si"
-},
-{
-"time": "2026-10-31 11:10",
 "id": "2885098",
 "verdict": "skip",
 "why": "3.15 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.98 km from Schlesisches Tor",
 "title": "WG-Zimmer in entspannter 3-Personen-WG frei"
+},
+{
+"time": "2026-11-02 11:45",
+"id": "14307517",
+"verdict": "skip",
+"why": "3.62 km from Kottbusser Tor",
+"title": "Helles WG-Zimmer in 2er-Studenten-WG am Tempelhofer Feld"
 }
 ]
