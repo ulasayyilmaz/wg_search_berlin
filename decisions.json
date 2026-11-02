@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 11:55",
-"id": "14248736",
-"verdict": "skip",
-"why": "15.48 km from Möckernbrücke",
-"title": "WG Zimmer frei- auch zur Zwischenmiete möglich"
-},
-{
-"time": "2026-10-31 11:55",
 "id": "12085892",
 "verdict": "skip",
 "why": "7.96 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.12 km from Möckernbrücke",
 "title": "Gästezimmer in Berlin Steglitz 29.11.-12.12."
+},
+{
+"time": "2026-11-02 16:15",
+"id": "14290425",
+"verdict": "skip",
+"why": "4.09 km from Kottbusser Tor",
+"title": "Charming room in calm, comfortable flat (Prenzlauer Berg)"
 }
 ]
