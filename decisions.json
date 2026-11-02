@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 11:35",
-"id": "10512057",
-"verdict": "skip",
-"why": "6.53 km from Hallesches Tor",
-"title": "Zimmer in heller 80m2-Wohnung | möbliert | S Bornholmer | 2er-Teilung | 6. OG mi"
-},
-{
-"time": "2026-10-31 11:35",
-"id": "13263363",
-"verdict": "skip",
-"why": "7.95 km from Schlesisches Tor",
-"title": "Ab 01.11./01.12.! All inclusive: Helles 13 m2 Altbau-Zimmer – nahe S Schöneweide"
-},
-{
-"time": "2026-10-31 11:35",
 "id": "14080321",
 "verdict": "skip",
 "why": "15.98 km from Möckernbrücke",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.54 km from Möckernbrücke",
 "title": "Zwischenmiete/ Sublet (1.12.2026 - 31.03.2027)"
+},
+{
+"time": "2026-11-02 15:01",
+"id": "14307915",
+"verdict": "skip",
+"why": "11.75 km from Möckernbrücke",
+"title": "Möbliertes Zimmer in Spandau-Haselhorst"
+},
+{
+"time": "2026-11-02 15:01",
+"id": "14307886",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date",
+"title": "Möbliertes WG-Zimmer in Kreuzberbg"
 }
 ]
