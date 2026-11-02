@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 12:43",
-"id": "14219850",
-"verdict": "skip",
-"why": "11.79 km from Möckernbrücke",
-"title": "Gemütliches WG-Zimmer in Berlin-Steglitz/Zehlendorf"
-},
-{
-"time": "2026-10-31 12:43",
 "id": "9305687",
 "verdict": "skip",
 "why": "5.43 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.04 km from Möckernbrücke",
 "title": "WG Zimmer in Zehelndorf, 2er WG, 3 Zimmer Wohnung"
+},
+{
+"time": "2026-11-02 19:31",
+"id": "14170412",
+"verdict": "skip",
+"why": "1.09 km from Schlesisches Tor",
+"title": "WG-Room in modern apartment"
 }
 ]
