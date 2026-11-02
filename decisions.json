@@ -3211,5 +3211,12 @@
 "verdict": "skip",
 "why": "no location",
 "title": "Sonniges Zimmer im Graefekiez"
+},
+{
+"time": "2026-11-02 07:40",
+"id": "14291158",
+"verdict": "skip",
+"why": "6.92 km from Möckernbrücke",
+"title": "Möbliertes Zimmer in 3-Zimmer-Wohnung"
 }
 ]
