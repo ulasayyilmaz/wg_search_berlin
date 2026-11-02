@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 12:40",
-"id": "12277952",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lichtenrader Damm, Berlin"
-},
-{
 "time": "2026-10-31 12:43",
 "id": "14219850",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - fm58.2 Hainstraße 58.2"
+},
+{
+"time": "2026-11-02 19:25",
+"id": "14308261",
+"verdict": "skip",
+"why": "10.04 km from Möckernbrücke",
+"title": "WG Zimmer in Zehelndorf, 2er WG, 3 Zimmer Wohnung"
 }
 ]
