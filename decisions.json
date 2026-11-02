@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 11:20",
-"id": "13776281",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Reinickendorfer Straße, Berlin"
-},
-{
-"time": "2026-10-31 11:20",
-"id": "14248151",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Weimarische Straße, Berlin"
-},
-{
-"time": "2026-10-31 11:20",
 "id": "13644698",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.98 km from Prinzenstraße",
 "title": "Zimmer - Gründung 2 Personenhaushalt - Zweck-WG"
+},
+{
+"time": "2026-11-02 13:31",
+"id": "7066657",
+"verdict": "skip",
+"why": "1.36 km from Görlitzer Bahnhof",
+"title": "Helles, möbliertes 25 m2 großes Zimmer zum Hof"
+},
+{
+"time": "2026-11-02 13:31",
+"id": "14307694",
+"verdict": "skip",
+"why": "1.49 km from Görlitzer Bahnhof",
+"title": "Pannierstraße, Altbau WG - Heart of Neukölln"
 }
 ]
