@@ -3365,5 +3365,19 @@
 "verdict": "skip",
 "why": "9.64 km from Hallesches Tor",
 "title": "Schönes sonniges Zimmer sucht neue Bewohnerin, frei ab spätestens 01.05.26 in Pa"
+},
+{
+"time": "2026-11-02 09:59",
+"id": "14307266",
+"verdict": "skip",
+"why": "5.65 km from Hallesches Tor",
+"title": "befristetes Zimmer Berlin Wedding (02.2027-07.2027)"
+},
+{
+"time": "2026-11-02 09:59",
+"id": "14231819",
+"verdict": "skip",
+"why": "3.13 km from Möckernbrücke",
+"title": "WG-Zimmer bis 12 Monate in Berlin-Schöneberg"
 }
 ]
