@@ -3330,5 +3330,33 @@
 "verdict": "skip",
 "why": "3.65 km from Möckernbrücke",
 "title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
+},
+{
+"time": "2026-11-02 09:41",
+"id": "13630273",
+"verdict": "SENT",
+"why": "sublet but extension: 'possibility for an extension'",
+"title": "Private Room in Kreuzberg"
+},
+{
+"time": "2026-11-02 09:41",
+"id": "9477949",
+"verdict": "skip",
+"why": "2.57 km from Schlesisches Tor",
+"title": "GroßstadtOase sucht wundervolle Frauen*"
+},
+{
+"time": "2026-11-02 09:41",
+"id": "14269451",
+"verdict": "skip",
+"why": "temporary: zwischenmiete",
+"title": "Xberg 1 Zi. Möbliert 23qm 27 € ab 06.11. Übernachtung"
+},
+{
+"time": "2026-11-02 09:41",
+"id": "14307227",
+"verdict": "skip",
+"why": "6.43 km from Möckernbrücke",
+"title": "WG Zimmer in wunderschöner Altbau Wohnung in Steglitz"
 }
 ]
