@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 13:10",
-"id": "7046092",
-"verdict": "skip",
-"why": "2.46 km from Schlesisches Tor",
-"title": "Balkonzimmer in Friedrichshain, möbliert - Balcony room in Friedrichshain, furni"
-},
-{
-"time": "2026-10-31 13:10",
 "id": "14300721",
 "verdict": "skip",
 "why": "2.10 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.06 km from Schlesisches Tor",
 "title": "quiet and nicely furnished room, ca 25 m2 - schönes, möbliertes Zimmer, ruhig."
+},
+{
+"time": "2026-11-02 22:55",
+"id": "14308955",
+"verdict": "skip",
+"why": "4.68 km from Möckernbrücke",
+"title": "Girls-WG | Möbliertes Zimmer"
 }
 ]
