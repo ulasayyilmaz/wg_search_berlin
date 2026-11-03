@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 16:15",
-"id": "14300971",
-"verdict": "skip",
-"why": "5.05 km from Möckernbrücke",
-"title": "WG-Zimmer Nähe Zoo"
-},
-{
-"time": "2026-10-31 16:15",
 "id": "14279781",
 "verdict": "skip",
 "why": "4.54 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.37 km from Kottbusser Tor",
 "title": "Zimmer in Prenzlauer Berg"
+},
+{
+"time": "2026-11-03 13:30",
+"id": "14311732",
+"verdict": "skip",
+"why": "9.20 km from Möckernbrücke",
+"title": "wg zimmer in licherfelde ost,angenehme lage, nette mitbewohner und gute anbindun"
 }
 ]
