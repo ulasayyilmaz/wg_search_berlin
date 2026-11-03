@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 17:45",
-"id": "13647010",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tabbertstraße, Berlin"
-},
-{
-"time": "2026-10-31 17:50",
-"id": "12014632",
-"verdict": "skip",
-"why": "5.88 km from Schlesisches Tor",
-"title": "WG in Nähe von HTW Berlin"
-},
-{
-"time": "2026-10-31 17:55",
-"id": "10854942",
-"verdict": "skip",
-"why": "4.17 km from Möckernbrücke",
-"title": "Zimmer für Mitbewohnerin in 3 Zimmer Wohnung, befristet"
-},
-{
 "time": "2026-10-31 17:55",
 "id": "14298163",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "11.24 km from flat, 10.66 km from Schlesisches Tor (pin)",
 "title": "Helles & Gemütliches Zimmer in Berlin-Köpenick"
+},
+{
+"time": "2026-11-03 17:40",
+"id": "14154598",
+"verdict": "skip",
+"why": "4.90 km from flat, 4.29 km from Schlesisches Tor (pin)",
+"title": "3er WG in Lichtenberg die neu gegründet wird"
+},
+{
+"time": "2026-11-03 17:40",
+"id": "14175660",
+"verdict": "skip",
+"why": "5.49 km from flat, 2.28 km from Möckernbrücke (pin)",
+"title": "Top Location! Schöneberg, Berlin"
+},
+{
+"time": "2026-11-03 17:40",
+"id": "14312126",
+"verdict": "SENT",
+"why": " [flat 2.30 km, U Hallesches Tor 0.88 km, pin]",
+"title": "Zimmer in schöner Dachgeschosswohnung in Berlin Mitte zu vermieten"
 }
 ]
