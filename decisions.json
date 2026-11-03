@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 16:25",
-"id": "9758257",
-"verdict": "SENT",
-"why": "",
-"title": "Möbliertes Zimmer in freundlicher WG im bunten Kreuzberg"
-},
-{
-"time": "2026-10-31 16:25",
-"id": "11229728",
-"verdict": "skip",
-"why": "4.06 km from Möckernbrücke",
-"title": "Nov. - Januar Zwischenmiete - Anmeldung möglich"
-},
-{
-"time": "2026-10-31 16:25",
 "id": "9076644",
 "verdict": "skip",
 "why": "7.19 km from Schlesisches Tor",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.61 km from Schlesisches Tor",
 "title": "Ruhiges 26m2 Zimmer in doller 142m2 Altbauwohnung inkl. 27m2 grosser Wohnküche u"
+},
+{
+"time": "2026-11-03 14:20",
+"id": "12003428",
+"verdict": "skip",
+"why": "5.86 km from Schlesisches Tor",
+"title": "Mansardenzimmer"
+},
+{
+"time": "2026-11-03 14:20",
+"id": "10761652",
+"verdict": "skip",
+"why": "118.28 km from Möckernbrücke",
+"title": "20 m2 Zimmer in 3er Gemeinschaft mit Wohnzimmer"
 }
 ]
