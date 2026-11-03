@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 18:30",
-"id": "14301123",
-"verdict": "skip",
-"why": "6.22 km from Möckernbrücke",
-"title": "two room apartment private space for girls"
-},
-{
-"time": "2026-10-31 18:30",
-"id": "6715349",
-"verdict": "skip",
-"why": "3.99 km from Möckernbrücke",
-"title": "WG-Zimmer in Charlottenburg"
-},
-{
-"time": "2026-10-31 18:30",
-"id": "3643647",
-"verdict": "skip",
-"why": "4.24 km from Schlesisches Tor",
-"title": "schönes Zimmer in interkultureller WG / Anmeldung möglich"
-},
-{
 "time": "2026-10-31 19:00",
 "id": "14241905",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "3.42 km from flat, 3.11 km from Görlitzer Bahnhof (pin)",
 "title": "Zimmer zur Untermiete in Berlin-Neukölln - befriestet | 09.11 - 14.11"
+},
+{
+"time": "2026-11-03 18:31",
+"id": "12001399",
+"verdict": "skip",
+"why": "11.12 km from flat, 9.27 km from Möckernbrücke (street)",
+"title": "Möbliertes WG-Zimmer in gemütlicher 3-Zimmer DG-Wohnung (Frauen-WG, befristet)"
+},
+{
+"time": "2026-11-03 18:31",
+"id": "13882440",
+"verdict": "skip",
+"why": "11.04 km from flat, 9.39 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer im Grünen - nahe FU"
+},
+{
+"time": "2026-11-03 18:31",
+"id": "14312290",
+"verdict": "skip",
+"why": "7.15 km from flat, 6.54 km from Schlesisches Tor (pin)",
+"title": "Zimmer für Pendler*innen"
 }
 ]
