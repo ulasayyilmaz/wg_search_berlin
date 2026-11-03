@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 13:15",
-"id": "13843584",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schudomastraße, Berlin"
-},
-{
-"time": "2026-10-31 13:20",
-"id": "10448481",
-"verdict": "skip",
-"why": "1.70 km from Schlesisches Tor",
-"title": "room in Neukölln daily"
-},
-{
 "time": "2026-10-31 13:20",
 "id": "14300735",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "15.98 km from Möckernbrücke",
 "title": "A1 Sicher, ruhig, idyllisch, gediegen, freundlich. Und noch viel mehr. WG vor de"
+},
+{
+"time": "2026-11-03 07:50",
+"id": "14311103",
+"verdict": "skip",
+"why": "10.87 km from Schlesisches Tor",
+"title": "Zimmer in ruhiger Gegend Doppelhaus"
+},
+{
+"time": "2026-11-03 07:50",
+"id": "14249168",
+"verdict": "skip",
+"why": "2.60 km from Görlitzer Bahnhof",
+"title": "Privatzimmer zu vermieten (30m2) – Verfügbar ab 8. November"
 }
 ]
