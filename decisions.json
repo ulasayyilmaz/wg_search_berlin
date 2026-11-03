@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 15:10",
-"id": "14237875",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Koloniestraße 4.3"
-},
-{
-"time": "2026-10-31 15:20",
-"id": "14290332",
-"verdict": "skip",
-"why": "3.65 km from Möckernbrücke",
-"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
-},
-{
-"time": "2026-10-31 15:25",
-"id": "14266216",
-"verdict": "skip",
-"why": "6.10 km from Möckernbrücke",
-"title": "Großes möbiliertes Zimmer(25m2) in Wedding, Nähe Nauener Platz, Zwischenmiete 07"
-},
-{
 "time": "2026-10-31 15:25",
 "id": "7820315",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "female only",
 "title": "sonnenzimmer mit kleinem dachgarten im zentrum"
+},
+{
+"time": "2026-11-03 11:01",
+"id": "14269978",
+"verdict": "skip",
+"why": "3.32 km from Hallesches Tor",
+"title": "5 Wochen Untervermietung im Herzen von Berlin"
+},
+{
+"time": "2026-11-03 11:01",
+"id": "10784996",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "WG-Zimmer mit eigenem Bad und Kleiderkammer am Akazienkiez"
+},
+{
+"time": "2026-11-03 11:01",
+"id": "10078326",
+"verdict": "skip",
+"why": "2.23 km from Schlesisches Tor",
+"title": "Schickes Zimmer in großer 3 Raumwohnung mit Tiny Garten"
 }
 ]
