@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 16:45",
-"id": "14301003",
-"verdict": "skip",
-"why": "5.00 km from Möckernbrücke",
-"title": "Behaglich Zimmer in der Stadtmitte"
-},
-{
-"time": "2026-10-31 16:45",
 "id": "14201410",
 "verdict": "skip",
 "why": "12.63 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.25 km from Möckernbrücke",
 "title": "WG-Zimmer in Nur-Frauen-WG"
+},
+{
+"time": "2026-11-03 15:05",
+"id": "13488868",
+"verdict": "skip",
+"why": "7.33 km from Möckernbrücke",
+"title": "AB SOFORT - Sehr flexible miete - gemütliche WG Zimmer in großem Haus mit Garten"
 }
 ]
