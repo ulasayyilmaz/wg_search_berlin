@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 22:30",
-"id": "14207531",
-"verdict": "skip",
-"why": "4.05 km from Möckernbrücke",
-"title": "WG-Zimmer 6b in bester Südwestlage Berlins mit guter Verkehrsanbindung"
-},
-{
 "time": "2026-10-31 22:35",
 "id": "3987162",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.79 km from flat, 7.03 km from Möckernbrücke (pin)",
 "title": "Doppelzimmer in Wedding ⭐ möblierte 3er-WG mit ANMELDUNG, langfristig"
+},
+{
+"time": "2026-11-03 22:50",
+"id": "14312838",
+"verdict": "skip",
+"why": "2.04 km from flat, 1.58 km from Schlesisches Tor (pin)",
+"title": "Zimmer in 2er Wg *Flinta only* (ohne Anmeldung)"
 }
 ]
