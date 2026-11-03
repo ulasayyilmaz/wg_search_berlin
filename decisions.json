@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 19:00",
-"id": "14241905",
-"verdict": "skip",
-"why": "2.84 km from Möckernbrücke",
-"title": "14 m2 WG Zimmer am KaDeWe"
-},
-{
 "time": "2026-10-31 19:05",
 "id": "14266738",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.15 km from flat, 6.54 km from Schlesisches Tor (pin)",
 "title": "Zimmer für Pendler*innen"
+},
+{
+"time": "2026-11-03 18:35",
+"id": "5266716",
+"verdict": "skip",
+"why": "5.08 km from flat, 4.07 km from Möckernbrücke (pin)",
+"title": "Furnished Clean Cosy WG in Mitte / Möblierte Saubere Gemütliche WG in Mitte"
 }
 ]
