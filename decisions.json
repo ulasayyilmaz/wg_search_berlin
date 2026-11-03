@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 20:05",
-"id": "14149373",
-"verdict": "skip",
-"why": "no location",
-"title": "Now for 1-2 month short term sublet 1 rooms in the heart of Charlottenburg – All"
-},
-{
 "time": "2026-10-31 20:25",
 "id": "13764099",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.09 km from flat, 5.16 km from Möckernbrücke (pin)",
 "title": "Sublet / Zwischenmiete 17.11.–31.01.: Furnished WG room in Wedding"
+},
+{
+"time": "2026-11-03 19:20",
+"id": "14312404",
+"verdict": "skip",
+"why": "7.67 km from flat, 7.14 km from Schlesisches Tor (pin)",
+"title": "13sqm bedroom - Schöneweide near HTW - GIRLS AND FLINTA* only"
 }
 ]
