@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 13:11",
-"id": "14237694",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Zinsgutstraße - 68.2 68.2"
-},
-{
 "time": "2026-10-31 13:15",
 "id": "14300686",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.50 km from Möckernbrücke",
 "title": "❤️ Schönes, gemütliches WG-Zimmer in edler Jugendstil-Wohnung ❤️Respektvolle Zwe"
+},
+{
+"time": "2026-11-03 03:25",
+"id": "12095690",
+"verdict": "skip",
+"why": "4.19 km from Schlesisches Tor",
+"title": "Zentrales WG-Zimmer nahe Ostkreuz/ 650€ pro Monat/ Alles Inklusive"
 }
 ]
