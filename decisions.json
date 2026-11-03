@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 15:30",
-"id": "14283709",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "1 Zimmer frei Moabit in Stromstr. 36 - DE-01-006-01Q (HH 3. OG L-01)"
-},
-{
-"time": "2026-10-31 15:30",
 "id": "14298131",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.08 km from Möckernbrücke",
 "title": "WG-Zimmer vom 03.11.2026 - 30.04.2027 (Vorübergehendes Zimmer in einer gemeinsam"
+},
+{
+"time": "2026-11-03 11:15",
+"id": "5718113",
+"verdict": "skip",
+"why": "4.12 km from Schlesisches Tor",
+"title": "WG Zimmer Jablonskistr."
 }
 ]
