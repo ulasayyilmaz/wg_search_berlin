@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 15:50",
-"id": "12280979",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schnellerstraße, Berlin"
-},
-{
-"time": "2026-10-31 16:01",
-"id": "12066524",
-"verdict": "skip",
-"why": "10.91 km from Prinzenstraße",
-"title": "Schönes WG-Zimmer"
-},
-{
-"time": "2026-10-31 16:01",
-"id": "14262604",
-"verdict": "skip",
-"why": "6.93 km from Möckernbrücke",
-"title": "19m2-Zimmer in gemütlicher 4er-WG in Wilmersdorf wird frei"
-},
-{
 "time": "2026-10-31 16:01",
 "id": "13646152",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.11 km from Möckernbrücke",
 "title": "Helles, großzügiges 20 m2 Zimmer in entspannter WG"
+},
+{
+"time": "2026-11-03 12:35",
+"id": "13369501",
+"verdict": "skip",
+"why": "5.91 km from Hallesches Tor",
+"title": "Reserviertes Sonniges Zimmer an der Ringbahn - Sonnenzimmer, gut verbunden"
+},
+{
+"time": "2026-11-03 12:35",
+"id": "14069843",
+"verdict": "skip",
+"why": "female only",
+"title": "Zimmer zur Zwischenmiete im Graefekiez"
+},
+{
+"time": "2026-11-03 12:35",
+"id": "14311655",
+"verdict": "skip",
+"why": "1.01 km from Schlesisches Tor",
+"title": "Pinkes Paradis in bester Lage WG zimmer in Friedrichshain"
 }
 ]
