@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 17:00",
-"id": "14237740",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Prenzlauer Promenade 55.2"
-},
-{
-"time": "2026-10-31 17:00",
 "id": "14298114",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.06 km from Prinzenstraße",
 "title": "sehr schönes Zimmer in Berlin Mitte befristet für Vegetarier ."
+},
+{
+"time": "2026-11-03 16:01",
+"id": "14311995",
+"verdict": "skip",
+"why": "1.49 km from Schlesisches Tor",
+"title": "Großes WG-Zimmer mit Balkon, Altbau"
 }
 ]
