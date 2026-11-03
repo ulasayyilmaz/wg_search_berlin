@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 17:55",
-"id": "14298163",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - WG051.05 Holländerstraße"
-},
-{
-"time": "2026-10-31 18:05",
-"id": "12019236",
-"verdict": "skip",
-"why": "2.86 km from Schlesisches Tor",
-"title": "WG Zimmer / Untermiete gemeinsame Wohnung mit Balkon"
-},
-{
 "time": "2026-10-31 18:05",
 "id": "14298138",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "SENT",
 "why": " [flat 2.30 km, U Hallesches Tor 0.88 km, pin]",
 "title": "Zimmer in schöner Dachgeschosswohnung in Berlin Mitte zu vermieten"
+},
+{
+"time": "2026-11-03 18:01",
+"id": "12810231",
+"verdict": "skip",
+"why": "3.00 km from flat, 2.54 km from Schlesisches Tor (street)",
+"title": "Perfekt für Praktikanten: Zimmer in Friedrichshain"
+},
+{
+"time": "2026-11-03 18:01",
+"id": "14304440",
+"verdict": "skip",
+"why": "9.43 km from flat, 6.23 km from Möckernbrücke (pin)",
+"title": "Großzügiges, helles Zimmer in 4er-WG in Charlottenburg"
 }
 ]
