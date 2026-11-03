@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 19:35",
-"id": "14301159",
-"verdict": "skip",
-"why": "3.82 km from Prinzenstraße",
-"title": "Schönes Zimmer in der Nähe von Tempelhofer Feld"
-},
-{
-"time": "2026-10-31 19:40",
-"id": "13778472",
-"verdict": "skip",
-"why": "5.06 km from Schlesisches Tor",
-"title": "Raum für kurzfristige"
-},
-{
 "time": "2026-10-31 19:50",
 "id": "13963858",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.62 km from flat, 2.62 km from Kottbusser Tor (pin)",
 "title": "ROOM IN MITTE"
+},
+{
+"time": "2026-11-03 19:01",
+"id": "13564288",
+"verdict": "skip",
+"why": "4.53 km from flat, 1.52 km from Möckernbrücke (pin)",
+"title": "Mitbewohner*in für ein Jahr ab Dezember_12qm"
+},
+{
+"time": "2026-11-03 19:01",
+"id": "10466345",
+"verdict": "skip",
+"why": "4.82 km from flat, 1.73 km from Möckernbrücke (pin)",
+"title": "Mitbewohner*in für ein Jahr ab Dezember_13qm"
 }
 ]
