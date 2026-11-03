@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 17:35",
-"id": "14252666",
-"verdict": "skip",
-"why": "1.85 km from Schlesisches Tor",
-"title": "Sofort: Zimmer in einer 2-Zimmer-Wohnung in Friedrichshain"
-},
-{
-"time": "2026-10-31 17:35",
-"id": "11846305",
-"verdict": "skip",
-"why": "temporary: sublet",
-"title": "Schönes Zimmer in einer Drei-Personen-Wohnung im Görlitzer Park"
-},
-{
 "time": "2026-10-31 17:40",
 "id": "14287569",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "5.33 km from Möckernbrücke (street)",
 "title": "Untervermietung meines Zimmers in Moabit - Langfristig"
+},
+{
+"time": "2026-11-03 17:25",
+"id": "14312209",
+"verdict": "skip",
+"why": "6.65 km from Möckernbrücke (pin)",
+"title": "Großes möbliertes Zimmer mit Balkon in ruhiger Altbauwohnung in Gesundbrunnen – "
+},
+{
+"time": "2026-11-03 17:25",
+"id": "14297618",
+"verdict": "skip",
+"why": "5.01 km from Möckernbrücke (pin)",
+"title": "Ruhiges WG-Zimmer (12 m2) in heller DG-Wohnung in Charlottenburg – Zwischenmiete"
 }
 ]
