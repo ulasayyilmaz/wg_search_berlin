@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 18:05",
-"id": "14298138",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Detmolder Straße WG071.03"
-},
-{
-"time": "2026-10-31 18:15",
-"id": "14270216",
-"verdict": "skip",
-"why": "6.33 km from Möckernbrücke",
-"title": "Zwischenmiete für Zimmer in Steglitz - 6 months sublet in Steglitz"
-},
-{
-"time": "2026-10-31 18:20",
-"id": "14237793",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - fm80.7 Herthastraße 80.7"
-},
-{
 "time": "2026-10-31 18:25",
 "id": "12280973",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "9.43 km from flat, 6.23 km from Möckernbrücke (pin)",
 "title": "Großzügiges, helles Zimmer in 4er-WG in Charlottenburg"
+},
+{
+"time": "2026-11-03 18:15",
+"id": "14312278",
+"verdict": "skip",
+"why": "2.43 km from flat, 2.09 km from Görlitzer Bahnhof (pin)",
+"title": "zwei-zimmer-flatshare im herzen von neukölln - lang- oder kurzfristig"
+},
+{
+"time": "2026-11-03 18:15",
+"id": "14312279",
+"verdict": "skip",
+"why": "6.98 km from flat, 5.70 km from Möckernbrücke (pin)",
+"title": "Möbliertes WG-Zimmer Wedding m. Balkon (Dez-Feb)"
+},
+{
+"time": "2026-11-03 18:15",
+"id": "14297655",
+"verdict": "skip",
+"why": "10.32 km from flat, 8.61 km from Möckernbrücke (pin)",
+"title": "Süße Studierenden-WG in Lankwitz (vegan) 🌿🍄🌟💗"
 }
 ]
