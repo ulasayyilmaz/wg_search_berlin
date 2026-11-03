@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 14:50",
-"id": "14300854",
-"verdict": "skip",
-"why": "4.02 km from Möckernbrücke",
-"title": "Möbliertes WG-Zimmer in Altbau-Wohnung in Berlin-Mitte"
-},
-{
-"time": "2026-10-31 14:50",
-"id": "14279752",
-"verdict": "skip",
-"why": "2.09 km from Görlitzer Bahnhof",
-"title": "Room Available Neukölln"
-},
-{
-"time": "2026-10-31 14:50",
-"id": "14298169",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Buschkrugallee 42.4"
-},
-{
 "time": "2026-10-31 15:01",
 "id": "14272944",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "3.00 km from Görlitzer Bahnhof",
 "title": "Zimmer in 3er WG Berlin/Rixdorf"
+},
+{
+"time": "2026-11-03 10:01",
+"id": "14311338",
+"verdict": "skip",
+"why": "7.69 km from Kottbusser Tor",
+"title": "Wg-Zimmer am S und U Bahnhof Pankow"
+},
+{
+"time": "2026-11-03 10:01",
+"id": "13708434",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "WG Shakespeare in Ku'damm Nähe"
+},
+{
+"time": "2026-11-03 10:01",
+"id": "14311334",
+"verdict": "skip",
+"why": "2.16 km from Möckernbrücke",
+"title": "Schönes WG-Zimmer in Schöneberg (Dez–Jan)"
 }
 ]
