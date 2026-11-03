@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 15:50",
-"id": "14300916",
-"verdict": "skip",
-"why": "3.65 km from Möckernbrücke",
-"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
-},
-{
-"time": "2026-10-31 15:50",
-"id": "12275814",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schnellerstraße, Berlin"
-},
-{
-"time": "2026-10-31 15:50",
 "id": "12280979",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
 "title": "4er WG in Weitlingkiez sucht Mitbewohner/-in"
+},
+{
+"time": "2026-11-03 12:30",
+"id": "14311619",
+"verdict": "skip",
+"why": "2.06 km from Görlitzer Bahnhof",
+"title": "Subletting room in Neukölln Nov 19-Jan 4"
+},
+{
+"time": "2026-11-03 12:30",
+"id": "14311587",
+"verdict": "skip",
+"why": "5.11 km from Möckernbrücke",
+"title": "Helles, großzügiges 20 m2 Zimmer in entspannter WG"
 }
 ]
