@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 17:10",
-"id": "14301012",
-"verdict": "skip",
-"why": "1.15 km from Hallesches Tor",
-"title": "Sonniges Zimmer"
-},
-{
 "time": "2026-10-31 17:25",
 "id": "14301015",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.60 km from Möckernbrücke",
 "title": "🏡 Private 1-Zimmer-Wohnung ab 650 € | Möbliert | Ganze Wohnung optional mit Balk"
+},
+{
+"time": "2026-11-03 16:30",
+"id": "10291420",
+"verdict": "skip",
+"why": "14.16 km from Möckernbrücke",
+"title": "Room With A View/ Zimmer im Grünen, 20qm"
 }
 ]
