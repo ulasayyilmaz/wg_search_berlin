@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 16:35",
-"id": "14300996",
-"verdict": "skip",
-"why": "5.05 km from Möckernbrücke",
-"title": "WG-Zimmer in der Nähe vom Zoo"
-},
-{
-"time": "2026-10-31 16:35",
 "id": "13846349",
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.08 km from Möckernbrücke",
 "title": "WG-Zimmer Frei"
+},
+{
+"time": "2026-11-03 14:45",
+"id": "4279554",
+"verdict": "skip",
+"why": "2.19 km from Schlesisches Tor",
+"title": "Sonniges, ruhiges Altbauzimmer im Herzen Friedrichshains, sucht netten Mitbewohn"
 }
 ]
