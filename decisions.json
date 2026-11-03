@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 18:25",
-"id": "12280973",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schnellerstraße, Berlin"
-},
-{
 "time": "2026-10-31 18:30",
 "id": "14301123",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.32 km from flat, 8.61 km from Möckernbrücke (pin)",
 "title": "Süße Studierenden-WG in Lankwitz (vegan) 🌿🍄🌟💗"
+},
+{
+"time": "2026-11-03 18:20",
+"id": "14241021",
+"verdict": "skip",
+"why": "3.42 km from flat, 3.11 km from Görlitzer Bahnhof (pin)",
+"title": "Zimmer zur Untermiete in Berlin-Neukölln - befriestet | 09.11 - 14.11"
 }
 ]
