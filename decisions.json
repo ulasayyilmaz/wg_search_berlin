@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 16:16",
-"id": "14276288",
-"verdict": "skip",
-"why": "4.41 km from Schlesisches Tor",
-"title": "Zachert-WG sucht nette:n Mitbewohni"
-},
-{
-"time": "2026-10-31 16:16",
 "id": "11246482",
 "verdict": "skip",
 "why": "1.12 km from Hallesches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.06 km from Schlesisches Tor",
 "title": "Möbliertes WG-Zimmer befristet ruhige 2er-WG in Berlin-Pankow"
+},
+{
+"time": "2026-11-03 13:40",
+"id": "12131405",
+"verdict": "skip",
+"why": "3.22 km from Schlesisches Tor",
+"title": "Friedrichshain Ecke, schöne ruhig eingerichtete Zimmer in einer WG"
 }
 ]
