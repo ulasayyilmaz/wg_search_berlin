@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 17:25",
-"id": "14301015",
-"verdict": "skip",
-"why": "temporary: zwischenmiete",
-"title": "Helles Maissonette Wg-Zimmer Zwischenmiete in Kreuzberg"
-},
-{
-"time": "2026-10-31 17:25",
 "id": "13365904",
 "verdict": "skip",
 "why": "7.31 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "14.16 km from Möckernbrücke",
 "title": "Room With A View/ Zimmer im Grünen, 20qm"
+},
+{
+"time": "2026-11-03 16:45",
+"id": "14312091",
+"verdict": "skip",
+"why": "3.84 km from Möckernbrücke (pin)",
+"title": "Weihnachtszeit in Berlin"
 }
 ]
