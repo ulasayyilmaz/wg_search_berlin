@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 15:35",
-"id": "14248120",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Leibnizstraße, Berlin"
-},
-{
-"time": "2026-10-31 15:35",
-"id": "13647011",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tabbertstraße, Berlin"
-},
-{
-"time": "2026-10-31 15:40",
-"id": "14270144",
-"verdict": "skip",
-"why": "1.31 km from Schlesisches Tor",
-"title": "Langzeitzimmer in Fhain verfügbar"
-},
-{
 "time": "2026-10-31 15:45",
 "id": "14232856",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "4.68 km from Möckernbrücke",
 "title": "WG Zimmer ab Dezember 2026"
+},
+{
+"time": "2026-11-03 11:35",
+"id": "14311502",
+"verdict": "skip",
+"why": "4.84 km from Möckernbrücke",
+"title": "20 m2 Zimmer in gemütlicher 2er-WG in Moabit – ab 16.12."
+},
+{
+"time": "2026-11-03 11:35",
+"id": "14165070",
+"verdict": "skip",
+"why": "6.09 km from Schlesisches Tor",
+"title": "Beautiful spacious room"
+},
+{
+"time": "2026-11-03 11:35",
+"id": "5885213",
+"verdict": "SENT",
+"why": "",
+"title": "Furnished room in Kreuzberg"
 }
 ]
