@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 17:25",
-"id": "13365904",
-"verdict": "skip",
-"why": "7.31 km from Schlesisches Tor",
-"title": "November: spacious Room with Balcony in a chill 2-Person Flatshare"
-},
-{
-"time": "2026-10-31 17:25",
 "id": "14301045",
 "verdict": "skip",
 "why": "1.29 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.84 km from Möckernbrücke (pin)",
 "title": "Weihnachtszeit in Berlin"
+},
+{
+"time": "2026-11-03 16:55",
+"id": "8080871",
+"verdict": "skip",
+"why": "9.32 km from Möckernbrücke (postcode)",
+"title": "** helle & moderne Wohnung / Temporäre Vermietung mit Anmeldung ist auch möglich"
 }
 ]
