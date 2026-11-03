@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 19:05",
-"id": "14266738",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Wisbyer Straße - Room 5"
-},
-{
-"time": "2026-10-31 19:10",
-"id": "14301152",
-"verdict": "skip",
-"why": "3.82 km from Görlitzer Bahnhof",
-"title": "Helles, voll möbliertes 25 m2 Zimmer mit privatem Garten – Ab sofort! (700 € war"
-},
-{
-"time": "2026-10-31 19:15",
-"id": "12664872",
-"verdict": "skip",
-"why": "6.29 km from Prinzenstraße",
-"title": "Ein Zimmer zu vermieten ab sofort"
-},
-{
 "time": "2026-10-31 19:20",
 "id": "9255198",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.08 km from flat, 4.07 km from Möckernbrücke (pin)",
 "title": "Furnished Clean Cosy WG in Mitte / Möblierte Saubere Gemütliche WG in Mitte"
+},
+{
+"time": "2026-11-03 18:40",
+"id": "9089987",
+"verdict": "skip",
+"why": "10.71 km from flat, 10.07 km from Möckernbrücke (pin)",
+"title": "16m2 Zimmer in Zweck - 2er WG Berlin Lichtenrade/Tempelhof (INCL. WLAN, STROM, K"
+},
+{
+"time": "2026-11-03 18:40",
+"id": "14312349",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 1.36 km, U Kottbusser Tor 0.45 km, pin]",
+"title": "Zimmer im schönen ruhigen Hinterhof (WG)"
+},
+{
+"time": "2026-11-03 18:40",
+"id": "14255028",
+"verdict": "skip",
+"why": "6.56 km from flat, 3.56 km from Möckernbrücke (pin)",
+"title": "Big room in queer WG --- Großes Zimmer in queerer WG zur Zwischenmiete"
 }
 ]
