@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 13:11",
-"id": "12275724",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
-"time": "2026-10-31 13:11",
 "id": "14237694",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - fm89.3 Scharnweberstraße 89.3"
+},
+{
+"time": "2026-11-03 00:30",
+"id": "10815558",
+"verdict": "skip",
+"why": "3.50 km from Möckernbrücke",
+"title": "❤️ Schönes, gemütliches WG-Zimmer in edler Jugendstil-Wohnung ❤️Respektvolle Zwe"
 }
 ]
