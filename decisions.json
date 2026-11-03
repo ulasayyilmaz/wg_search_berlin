@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 13:50",
-"id": "14287937",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Bornholmer Straße - Room 2"
-},
-{
-"time": "2026-10-31 13:55",
-"id": "14300784",
-"verdict": "skip",
-"why": "2.96 km from Möckernbrücke",
-"title": "Gemeinsame Wohnung und Zimmer"
-},
-{
-"time": "2026-10-31 13:55",
-"id": "13735602",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "#Konkord1WE11Z2 - möbliertes 11 m2 Zimmer in 4er-WG in Berlin-Wilhelmstadt"
-},
-{
 "time": "2026-10-31 14:00",
 "id": "14300787",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "3.98 km from Görlitzer Bahnhof",
 "title": "Kurzzeitmiete Langes Zimmer in Neukölln mit Sonnenbalkon free"
+},
+{
+"time": "2026-11-03 08:25",
+"id": "14284176",
+"verdict": "skip",
+"why": "10.73 km from Möckernbrücke",
+"title": "Zimmer in 3er Wg in Berlin in ruhiger lage :)"
+},
+{
+"time": "2026-11-03 08:25",
+"id": "14311133",
+"verdict": "skip",
+"why": "5.66 km from Schlesisches Tor",
+"title": "Wg Zimmer in 3er Wg"
+},
+{
+"time": "2026-11-03 08:25",
+"id": "11473599",
+"verdict": "skip",
+"why": "1.83 km from Görlitzer Bahnhof",
+"title": "Schönes & Geräumiges Zimmer in Neukölln, 6 Monate"
 }
 ]
