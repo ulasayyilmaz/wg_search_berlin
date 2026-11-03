@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 13:20",
-"id": "14300735",
-"verdict": "skip",
-"why": "7.59 km from Möckernbrücke",
-"title": "WG zimmer in 2er Frauen/Flinta Wg"
-},
-{
-"time": "2026-10-31 13:30",
-"id": "11723690",
-"verdict": "skip",
-"why": "9.26 km from Möckernbrücke",
-"title": "Studenten-WG | Neubezug"
-},
-{
 "time": "2026-10-31 13:35",
 "id": "14298136",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.60 km from Görlitzer Bahnhof",
 "title": "Privatzimmer zu vermieten (30m2) – Verfügbar ab 8. November"
+},
+{
+"time": "2026-11-03 07:55",
+"id": "14240926",
+"verdict": "skip",
+"why": "6.53 km from Möckernbrücke",
+"title": "Zimmer am See mit Frida und Garten"
+},
+{
+"time": "2026-11-03 07:55",
+"id": "14310072",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Rathenaustraße, Berlin"
 }
 ]
