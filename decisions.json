@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-10-31 17:25",
-"id": "14301045",
-"verdict": "skip",
-"why": "1.29 km from Möckernbrücke",
-"title": "Helles,ruhigesBefristetet16qmZimmerinAltbau"
-},
-{
-"time": "2026-10-31 17:25",
-"id": "14301040",
-"verdict": "skip",
-"why": "2.17 km from Möckernbrücke",
-"title": "Einzugsdatum Dezember, Januar, Nov. leer oder möbliert"
-},
-{
-"time": "2026-10-31 17:25",
-"id": "9763710",
-"verdict": "skip",
-"why": "3.96 km from Kottbusser Tor",
-"title": "Ruhiges, möbliertes Zimmer im Kollwitzkiez"
-},
-{
-"time": "2026-10-31 17:30",
-"id": "12162231",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Waldstraße, Berlin"
-},
-{
 "time": "2026-10-31 17:35",
 "id": "14252666",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "9.32 km from Möckernbrücke (postcode)",
 "title": "** helle & moderne Wohnung / Temporäre Vermietung mit Anmeldung ist auch möglich"
+},
+{
+"time": "2026-11-03 17:20",
+"id": "14312171",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [Kottbusser Tor 0.35 km, pin]",
+"title": "Neu gegründeter Student Flatshare - Renovierter Altbau bei Paul-Lincke-Ufer Kiez"
+},
+{
+"time": "2026-11-03 17:20",
+"id": "14312175",
+"verdict": "skip",
+"why": "5.88 km from Schlesisches Tor (pin)",
+"title": "WG in Köpenick sucht Mitbewohnerin"
+},
+{
+"time": "2026-11-03 17:20",
+"id": "14149373",
+"verdict": "skip",
+"why": "5.52 km from Möckernbrücke (postcode)",
+"title": "Jetzt für 1-3 Monate untervermietet 2 Zimmer im Herzen von Charlottenburg – All-"
+},
+{
+"time": "2026-11-03 17:20",
+"id": "14312164",
+"verdict": "skip",
+"why": "5.33 km from Möckernbrücke (street)",
+"title": "Untervermietung meines Zimmers in Moabit - Langfristig"
 }
 ]
