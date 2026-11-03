@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 16:15",
-"id": "13009357",
-"verdict": "skip",
-"why": "5.40 km from Möckernbrücke",
-"title": "Sweetes WG-Zimmer im Wedding 13.11.-19.12.!/ bzw. einen Teil der Zeit/Parttime"
-},
-{
-"time": "2026-10-31 16:15",
 "id": "9329250",
 "verdict": "skip",
 "why": "6.75 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.43 km from Schlesisches Tor",
 "title": "Schöne Mädels WG sucht nette junge Frau!"
+},
+{
+"time": "2026-11-03 13:01",
+"id": "9761511",
+"verdict": "skip",
+"why": "12.71 km from Möckernbrücke",
+"title": "Möbliertes Zimmer in frisch sanierter 3er-WG in Berlin-Spandau"
 }
 ]
