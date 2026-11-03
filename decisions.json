@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 16:25",
-"id": "9076644",
-"verdict": "skip",
-"why": "7.19 km from Schlesisches Tor",
-"title": "Villa in Karlshorst"
-},
-{
-"time": "2026-10-31 16:25",
-"id": "12898745",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Potsdamer Straße, Berlin"
-},
-{
-"time": "2026-10-31 16:25",
 "id": "14237719",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "118.28 km from Möckernbrücke",
 "title": "20 m2 Zimmer in 3er Gemeinschaft mit Wohnzimmer"
+},
+{
+"time": "2026-11-03 14:30",
+"id": "4655305",
+"verdict": "skip",
+"why": "3.00 km from Möckernbrücke",
+"title": "11 m2 Zimmer in 3er Gemeinschaft mit Wohnzimmer"
+},
+{
+"time": "2026-11-03 14:31",
+"id": "10614487",
+"verdict": "skip",
+"why": "4.30 km from Möckernbrücke",
+"title": "WG-Zimmer in 2er WG mit eigenem Garten in Tempelhof - Zwischenmiete auch möglich"
 }
 ]
