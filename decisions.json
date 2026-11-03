@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 14:40",
-"id": "14300833",
-"verdict": "skip",
-"why": "5.46 km from Möckernbrücke",
-"title": "Subletting my room near Heidelberger Platz, all bills inc."
-},
-{
-"time": "2026-10-31 14:50",
-"id": "10883904",
-"verdict": "skip",
-"why": "9.04 km from Möckernbrücke",
-"title": "4er WG In Lichterfelde-West hat ein Zimmer frei"
-},
-{
 "time": "2026-10-31 14:50",
 "id": "14300855",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "10.73 km from Möckernbrücke",
 "title": "22 m2 Zimmer in Charlottenburg-Willmersdorf, direkt am Grunewald | StudentInnen-"
+},
+{
+"time": "2026-11-03 09:05",
+"id": "13457263",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date",
+"title": "Habitación en Berlin, Kottbusser Tor / Room in Berlin /Kottbusser Por"
+},
+{
+"time": "2026-11-03 09:05",
+"id": "14252520",
+"verdict": "skip",
+"why": "6.74 km from Möckernbrücke",
+"title": "Unfurnished room in a 3er WG in Lankwitz (with garden 🌱)"
 }
 ]
