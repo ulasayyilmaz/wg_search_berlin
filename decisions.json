@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 19:50",
-"id": "13963858",
-"verdict": "skip",
-"why": "7.72 km from Möckernbrücke",
-"title": "Schönes helles Zimmer in Steglitz"
-},
-{
 "time": "2026-10-31 20:05",
 "id": "14149373",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.82 km from flat, 1.73 km from Möckernbrücke (pin)",
 "title": "Mitbewohner*in für ein Jahr ab Dezember_13qm"
+},
+{
+"time": "2026-11-03 19:10",
+"id": "14238335",
+"verdict": "skip",
+"why": "6.09 km from flat, 5.16 km from Möckernbrücke (pin)",
+"title": "Sublet / Zwischenmiete 17.11.–31.01.: Furnished WG room in Wedding"
 }
 ]
