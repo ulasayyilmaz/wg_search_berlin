@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 15:45",
-"id": "10949777",
-"verdict": "skip",
-"why": "no location",
-"title": "Freies WG-Zimmer & Assistenzjob in einer inklusiven WG"
-},
-{
 "time": "2026-10-31 15:50",
 "id": "14291762",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.47 km from Schlesisches Tor",
 "title": "WG-Zimmer Pankow"
+},
+{
+"time": "2026-11-03 12:10",
+"id": "14311610",
+"verdict": "skip",
+"why": "3.65 km from Möckernbrücke",
+"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
 }
 ]
