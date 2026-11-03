@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 15:30",
-"id": "14298131",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Friedlander Straße 72.3"
-},
-{
-"time": "2026-10-31 15:30",
-"id": "14284443",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Flughafenstraße 48.2"
-},
-{
-"time": "2026-10-31 15:35",
-"id": "14298172",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - WG061.01 Bandelstraße"
-},
-{
 "time": "2026-10-31 15:35",
 "id": "14248120",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "4.12 km from Schlesisches Tor",
 "title": "WG Zimmer Jablonskistr."
+},
+{
+"time": "2026-11-03 11:25",
+"id": "13081858",
+"verdict": "skip",
+"why": "4.24 km from Schlesisches Tor",
+"title": "Zentrales WG-Zimmer nahe Ostkreuz/ 650€ pro Monat/ Alles Inklusive"
+},
+{
+"time": "2026-11-03 11:25",
+"id": "14311464",
+"verdict": "skip",
+"why": "4.80 km from Möckernbrücke",
+"title": "Suche Person zur Zwischenmiete"
+},
+{
+"time": "2026-11-03 11:25",
+"id": "14311265",
+"verdict": "skip",
+"why": "4.68 km from Möckernbrücke",
+"title": "WG Zimmer ab Dezember 2026"
 }
 ]
