@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 23:30",
-"id": "14301398",
-"verdict": "skip",
-"why": "3.19 km from Hallesches Tor",
-"title": "FEMALE GETEILTE FLATTE IN MITTE — ROSENTHALER PLATZ"
-},
-{
-"time": "2026-10-31 23:30",
 "id": "14301362",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "starts 01.01.2027 [flat 1.52 km, U Kottbusser Tor 1.49 km, pin]",
 "title": "~16,5 qm Zimmer in einer 4-WG im Herzen von Berlin (sehr zentral). Tut mir leid,"
+},
+{
+"time": "2026-11-03 23:25",
+"id": "14312877",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Petersburger Straße"
 }
 ]
