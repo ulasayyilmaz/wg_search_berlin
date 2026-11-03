@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 21:01",
-"id": "14301271",
-"verdict": "skip",
-"why": "5.60 km from Möckernbrücke",
-"title": "Nur für Frauen – Zimmer in Charlottenburg | 600 € | Nov.–Jan."
-},
-{
-"time": "2026-10-31 21:01",
 "id": "6194599",
 "verdict": "skip",
 "why": "3.43 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.45 km from flat, 3.48 km from Möckernbrücke (pin)",
 "title": "coolste wg in schöneberg sucht neue/n mitbewohner/in💫"
+},
+{
+"time": "2026-11-03 20:30",
+"id": "14308761",
+"verdict": "skip",
+"why": "5.35 km from flat, 4.89 km from Schlesisches Tor (pin)",
+"title": "Schöne WG mit hellem und gemütlichem Raum"
 }
 ]
