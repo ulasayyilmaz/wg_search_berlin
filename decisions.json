@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 13:35",
-"id": "14298136",
-"verdict": "skip",
-"why": "4.45 km from Möckernbrücke",
-"title": "WG Zimmer 1.11-31.12 in Charlottenburg-Wilmersdorf frei!"
-},
-{
-"time": "2026-10-31 13:35",
 "id": "11095790",
 "verdict": "skip",
 "why": "7.21 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Rathenaustraße, Berlin"
+},
+{
+"time": "2026-11-03 08:05",
+"id": "5538314",
+"verdict": "skip",
+"why": "4.53 km from Möckernbrücke",
+"title": "Altbauzimmer mit Morgensonne"
 }
 ]
