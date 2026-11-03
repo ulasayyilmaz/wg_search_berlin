@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 16:16",
-"id": "11246482",
-"verdict": "skip",
-"why": "1.12 km from Hallesches Tor",
-"title": "Helles Zimmer im Bergmannkiez"
-},
-{
-"time": "2026-10-31 16:16",
 "id": "14266304",
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.22 km from Schlesisches Tor",
 "title": "Friedrichshain Ecke, schöne ruhig eingerichtete Zimmer in einer WG"
+},
+{
+"time": "2026-11-03 13:45",
+"id": "13176193",
+"verdict": "skip",
+"why": "4.09 km from Kottbusser Tor",
+"title": "Zimmer zur Zwischenmiete"
 }
 ]
