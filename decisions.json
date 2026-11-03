@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 13:40",
-"id": "14232392",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "Friends Room für zwei Personen - Berlin Moabit - Anmeldung Possible"
-},
-{
-"time": "2026-10-31 13:50",
-"id": "14300678",
-"verdict": "skip",
-"why": "9.41 km from Schlesisches Tor",
-"title": "Bright, Furnished Room in a 3-Person WG in Berlin-Lichtenberg"
-},
-{
 "time": "2026-10-31 13:50",
 "id": "14287937",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "1.17 km from Schlesisches Tor",
 "title": "Modernes Zimmer mit Balkon Berlin Friedrichshain"
+},
+{
+"time": "2026-11-03 08:20",
+"id": "12465806",
+"verdict": "skip",
+"why": "starts 24.12.2026",
+"title": "Short term 25m2 room in Berlin Kreuzberg!"
+},
+{
+"time": "2026-11-03 08:20",
+"id": "11902792",
+"verdict": "skip",
+"why": "3.98 km from Görlitzer Bahnhof",
+"title": "Kurzzeitmiete Langes Zimmer in Neukölln mit Sonnenbalkon free"
 }
 ]
