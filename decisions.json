@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 20:25",
-"id": "14290493",
-"verdict": "skip",
-"why": "1.47 km from Görlitzer Bahnhof",
-"title": "zimmer in Neukölln"
-},
-{
-"time": "2026-10-31 20:25",
 "id": "7729644",
 "verdict": "skip",
 "why": "1.24 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.96 km from flat, 3.33 km from Schlesisches Tor (pin)",
 "title": "Zimmer in ruhiger Lage nahe Ostkreuz – 16 m2, gute Anbindung"
+},
+{
+"time": "2026-11-03 20:10",
+"id": "14195957",
+"verdict": "skip",
+"why": "10.31 km from flat, 7.19 km from Möckernbrücke (pin)",
+"title": "A Very cool shared flatshare in Charlottenburg Wilmersdorf. Shared bathroom and "
 }
 ]
