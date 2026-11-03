@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 21:50",
-"id": "14301266",
-"verdict": "skip",
-"why": "5.02 km from Schlesisches Tor",
-"title": "Room in 2er WG in a UNESCO World Heritage Building in Prenzlauerberg"
-},
-{
-"time": "2026-10-31 21:50",
-"id": "14237808",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - WG046.04 Turmstraße"
-},
-{
 "time": "2026-10-31 21:55",
 "id": "14301288",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "9.96 km from flat, 8.86 km from Möckernbrücke (pin)",
 "title": "Zuhause U8 Residenzstrasse"
+},
+{
+"time": "2026-11-03 22:30",
+"id": "10713356",
+"verdict": "skip",
+"why": "12.71 km from flat, 12.08 km from Schlesisches Tor (pin)",
+"title": "Zwischenmiete in herzlicher 6er WG"
+},
+{
+"time": "2026-11-03 22:30",
+"id": "4487212",
+"verdict": "skip",
+"why": "9.45 km from flat, 6.98 km from Möckernbrücke (pin)",
+"title": "18 m2 Zimmer - \"good vibe flat\"- in zentraler Lage in WG für StudentInen"
 }
 ]
