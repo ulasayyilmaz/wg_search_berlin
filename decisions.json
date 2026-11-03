@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 17:00",
-"id": "14298114",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Wilhelmstraße- WG042.04"
-},
-{
 "time": "2026-10-31 17:05",
 "id": "13940432",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "1.49 km from Schlesisches Tor",
 "title": "Großes WG-Zimmer mit Balkon, Altbau"
+},
+{
+"time": "2026-11-03 16:10",
+"id": "14312013",
+"verdict": "SENT",
+"why": "",
+"title": "Cool room in Kreuzberg"
 }
 ]
