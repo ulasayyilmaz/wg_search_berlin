@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 15:25",
-"id": "7820315",
-"verdict": "skip",
-"why": "1.94 km from Kottbusser Tor",
-"title": "vermiete WG-Zimmer innerhalb einer 5-Raum-Wohnung"
-},
-{
-"time": "2026-10-31 15:25",
-"id": "13645906",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Bornholmer Straße, Berlin"
-},
-{
-"time": "2026-10-31 15:25",
-"id": "14266722",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Boxhagener Straße - Room 3"
-},
-{
 "time": "2026-10-31 15:30",
 "id": "14283709",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "2.23 km from Schlesisches Tor",
 "title": "Schickes Zimmer in großer 3 Raumwohnung mit Tiny Garten"
+},
+{
+"time": "2026-11-03 11:10",
+"id": "14242248",
+"verdict": "skip",
+"why": "2.90 km from Möckernbrücke",
+"title": "schönes Zimmer in einer alt bau Wohung"
+},
+{
+"time": "2026-11-03 11:10",
+"id": "14311457",
+"verdict": "skip",
+"why": "5.89 km from Möckernbrücke",
+"title": "Schönes WG-Zimmer zur Zwischenmiete"
+},
+{
+"time": "2026-11-03 11:10",
+"id": "11353348",
+"verdict": "skip",
+"why": "10.08 km from Möckernbrücke",
+"title": "WG-Zimmer vom 03.11.2026 - 30.04.2027 (Vorübergehendes Zimmer in einer gemeinsam"
 }
 ]
