@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 21:30",
-"id": "10959135",
-"verdict": "skip",
-"why": "3.88 km from Görlitzer Bahnhof",
-"title": "Zimmer Frei + eigene Balkon mit Sonnenseite (befristet möglich - möbliert)"
-},
-{
-"time": "2026-10-31 21:30",
-"id": "14080496",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Otto-Franke-Straße 77.2"
-},
-{
 "time": "2026-10-31 21:35",
 "id": "14223412",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.57 km from flat, 2.96 km from Schlesisches Tor (pin)",
 "title": "17 qm WG Zimmer an der Rummelsburger Bucht"
+},
+{
+"time": "2026-11-03 21:30",
+"id": "14312625",
+"verdict": "skip",
+"why": "7.55 km from flat, 6.03 km from Möckernbrücke (pin)",
+"title": "süßes zentrales Zimmer in 2er-WG mit Balkon Jan&Feb 27"
+},
+{
+"time": "2026-11-03 21:31",
+"id": "14312510",
+"verdict": "skip",
+"why": "7.01 km from flat, 4.24 km from Möckernbrücke (pin)",
+"title": "gemütliches Zimmer in Friedenau"
 }
 ]
