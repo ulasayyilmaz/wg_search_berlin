@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-10-31 15:01",
-"id": "14272944",
-"verdict": "skip",
-"why": "3.76 km from Möckernbrücke",
-"title": "wG-Neugründung. Kleines Zimmer in 5er-WG in Wilmersdorf"
-},
-{
-"time": "2026-10-31 15:01",
-"id": "14290658",
-"verdict": "skip",
-"why": "8.20 km from Möckernbrücke",
-"title": "ZWISCHENMIETE NOVEMBER WG-Zimmer (sofort verfügbar)"
-},
-{
-"time": "2026-10-31 15:01",
 "id": "7980050",
 "verdict": "skip",
 "why": "5.06 km from Möckernbrücke",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.16 km from Möckernbrücke",
 "title": "Schönes WG-Zimmer in Schöneberg (Dez–Jan)"
+},
+{
+"time": "2026-11-03 10:20",
+"id": "14308314",
+"verdict": "skip",
+"why": "6.36 km from Schlesisches Tor",
+"title": "Gemütliche möblierte Zimmer in einer freundlichen Gemeinschaftswohnung. 5-wöchig"
+},
+{
+"time": "2026-11-03 10:20",
+"id": "12469367",
+"verdict": "skip",
+"why": "female only",
+"title": "Schönes möbliertes Altbauzimmer ab dem 1.12."
 }
 ]
