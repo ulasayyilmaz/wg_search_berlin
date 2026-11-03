@@ -2,7 +2,7 @@
 
 Checks new Berlin WG-room offers every minute and sends matches to Telegram with an apply link.
 
-Filters: private posters only (no partner/instant-booking or company ads), move-in by 01.12.2026, within 1 km of U Görlitzer Bhf / Kottbusser Tor / Prinzenstr. / Hallesches Tor and 1.5 km of U Schlesisches Tor / Möckernbrücke,
+Filters: private posters only (no partner/instant-booking or company ads), move-in by 01.12.2026, within 2 km of the meditation flat (Eisenbahnstraße 2) or 1 km of U Prinzenstr. / Hallesches Tor / Möckernbrücke,
 rent ≤ 650 €, Anmeldung not ruled out, long-term (Zwischenmiete/temporary rejected unless extension is possible), not female-only ("Gesucht wird" field or description wording such as "nur Frauen", "Mitbewohnerin", "female only", FLINTA).
 Tune the keyword lists at the top of `wg_checker.py` (`ANMELDUNG_NEGATIVE`, `TEMPORARY`, `EXTENSION`).
 

@@ -2,7 +2,7 @@
 """Poll WG-Gesucht Berlin room offers and send matching ones to Telegram.
 
 Criteria:
-  * within RADIUS_KM (or STATION_RADIUS) of one of the U-Bahn stations in STATIONS
+  * inside one of AREAS: 2 km of the meditation flat, or 1 km of the U1/U3 stations further west
   * total rent <= MAX_RENT
   * Anmeldung not ruled out (explicit "possible" or no mention is fine)
   * long term: no end date / Zwischenmiete / temporary, unless extension is possible
@@ -33,7 +33,6 @@ from bs4 import BeautifulSoup
 # ---------------------------------------------------------------- config
 
 MAX_RENT = int(os.environ.get("MAX_RENT", 650))
-RADIUS_KM = float(os.environ.get("RADIUS_KM", 1.0))
 INTERVAL = int(os.environ.get("INTERVAL", 60))
 MAX_PAGES = int(os.environ.get("MAX_PAGES", 5))
 LATEST_START_STR = os.environ.get("LATEST_START", "01.12.2026")  # latest acceptable move-in date
@@ -48,8 +47,17 @@ STATIONS = {
     "Hallesches Tor": (52.4990257, 13.3917126),
     "Möckernbrücke": (52.4986927, 13.3831230),
 }
-# Wider radius at the two ends of the line: much of their 1 km circle is river, parks and rail land
-STATION_RADIUS = {"Schlesisches Tor": 1.5, "Möckernbrücke": 1.5}  # others use RADIUS_KM
+MEDITATION_FLAT = (52.501670, 13.431872)  # Eisenbahnstraße 2, Wrangelkiez
+
+# Where a room may be: (centre, radius km). The flat's 2 km circle (~10 min by bike) already
+# contains the 1 km circles of Schlesisches Tor, Görlitzer Bhf and Kottbusser Tor; the stations
+# further west are a few U1/U3 stops away.
+AREAS = {
+    "meditation flat": (MEDITATION_FLAT, 2.0),
+    "U Prinzenstraße": (STATIONS["Prinzenstraße"], 1.0),
+    "U Hallesches Tor": (STATIONS["Hallesches Tor"], 1.0),
+    "U Möckernbrücke": (STATIONS["Möckernbrücke"], 1.0),
+}
 
 BASE = "https://www.wg-gesucht.de"
 # Berlin (city_id 8), WG rooms, newest first, max rent pre-filtered server side
@@ -178,14 +186,12 @@ def nearest_station(coord):
     return name, dist
 
 
-def station_in_reach(coord, slack=0.0):
-    """Nearest station whose own radius (+slack) covers coord, or None."""
-    hits = [(haversine_km(coord, c), n) for n, c in STATIONS.items()
-            if haversine_km(coord, c) <= STATION_RADIUS.get(n, RADIUS_KM) + slack]
-    if not hits:
-        return None
-    dist, name = min(hits)
-    return name, dist
+def area_in_reach(coord, slack=0.0):
+    """Name of the first area in AREAS whose radius (+slack) covers coord, or None."""
+    for name, (centre, radius) in AREAS.items():
+        if haversine_km(coord, centre) <= radius + slack:
+            return name
+    return None
 
 
 class Blocked(Exception):
@@ -426,12 +432,12 @@ def evaluate(listing, ad):
         coord = None
     if coord:
         # a postcode centroid can be ~1 km off, so allow some slack there
-        hit = station_in_reach(coord, 0.5 if precision == "postcode" else 0)
-        if not hit:
-            station, dist = nearest_station(coord)
-            info.update(station=station, dist=dist)
-            return False, [f"{dist:.2f} km from {station} ({precision})"], info
-        info.update(station=hit[0], dist=hit[1])
+        station, dist = nearest_station(coord)
+        info.update(station=station, dist=dist, flat_km=haversine_km(coord, MEDITATION_FLAT))
+        area = area_in_reach(coord, 0.5 if precision == "postcode" else 0)
+        if not area:
+            return False, [f"{info['flat_km']:.2f} km from flat, {dist:.2f} km from {station} ({precision})"], info
+        info["area"] = area
 
     if listing.get("price") is not None and listing["price"] > MAX_RENT:
         return False, [f"rent {listing['price']}"], info
@@ -482,9 +488,11 @@ def format_message(listing, ad, info):
         f"🏠 <b>{e(ad['title'] or listing['title'])}</b>",
         f"💶 {listing['price']} € · {e(listing['size'])}",
         f"📍 {e(ad['address'] or '')}",
-        f"🚇 {info['dist']*1000:.0f} m to U {e(info['station'])}" + (
-            "" if info.get("precision") == "pin" else f" (from {info.get('precision')}, no map pin)")
-        if info.get("dist") is not None else "🚇 ⚠️ exact location unknown (only 'Kreuzberg' given) — check the ad",
+        f"🧘 {info['flat_km']:.1f} km to the meditation flat (~{info['flat_km'] * 1.3 / 15 * 60:.0f} min by bike)"
+        if info.get("dist") is not None else "🧘 ⚠️ exact location unknown (only 'Kreuzberg' given) — check the ad",
+        *([f"🚇 {info['dist']*1000:.0f} m to U1/U3 {e(info['station'])}" + (
+            "" if info.get("precision") == "pin" else f" (location from {info.get('precision')}, no map pin)")]
+          if info.get("dist") is not None else []),
         f"📅 {e(period)}",
         f"📝 Anmeldung: {info['anmeldung']}",
     ]
@@ -600,7 +608,8 @@ def check(seen, notify=True):
             where = ""
             if info.get("station"):
                 d = info.get("dist")
-                where = f" [{info['station']} {d:.2f} km, {info.get('precision')}]" if d is not None else " [location unknown]"
+                where = (f" [flat {info['flat_km']:.2f} km, U {info['station']} {d:.2f} km, {info.get('precision')}]"
+                         if d is not None else " [location unknown]")
             if ok:
                 if not send_telegram(format_message(l, ad, info)):
                     continue  # retry next round
@@ -627,9 +636,8 @@ def load_env():
 
 def main():
     load_env()
-    global MAX_RENT, RADIUS_KM, INTERVAL
+    global MAX_RENT, INTERVAL
     MAX_RENT = int(os.environ.get("MAX_RENT", MAX_RENT))
-    RADIUS_KM = float(os.environ.get("RADIUS_KM", RADIUS_KM))
     INTERVAL = int(os.environ.get("INTERVAL", INTERVAL))
     global LATEST_START
     LATEST_START = parse_date(os.environ.get("LATEST_START", LATEST_START_STR))
