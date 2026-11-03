@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 15:50",
-"id": "14291762",
-"verdict": "skip",
-"why": "7.62 km from Möckernbrücke",
-"title": "Schönes WG-Zimmer in Charlottenburg-Nord | Zwischenmiete Nov–März"
-},
-{
-"time": "2026-10-31 15:50",
 "id": "14300916",
 "verdict": "skip",
 "why": "3.65 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.65 km from Möckernbrücke",
 "title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
+},
+{
+"time": "2026-11-03 12:25",
+"id": "13029689",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "4er WG in Weitlingkiez sucht Mitbewohner/-in"
 }
 ]
