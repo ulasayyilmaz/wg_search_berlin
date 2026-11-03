@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-10-31 19:20",
-"id": "9255198",
-"verdict": "skip",
-"why": "starts 07.02.2027",
-"title": "Wer macht mit bei \" einer wg Neugründung \" die Wohnung müsste aber noch gefunden"
-},
-{
-"time": "2026-10-31 19:30",
-"id": "12070500",
-"verdict": "skip",
-"why": "5.88 km from Schlesisches Tor",
-"title": "WG at HTW / WG in Nähe von HTW"
-},
-{
 "time": "2026-10-31 19:35",
 "id": "14301159",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.56 km from flat, 3.56 km from Möckernbrücke (pin)",
 "title": "Big room in queer WG --- Großes Zimmer in queerer WG zur Zwischenmiete"
+},
+{
+"time": "2026-11-03 18:50",
+"id": "14311960",
+"verdict": "skip",
+"why": "2.61 km from flat, 2.26 km from Kottbusser Tor (pin)",
+"title": "20qm in Neukölln, Schiller Kiez, direkt am Tempelhofer Feld/U8 Boddenstraße"
+},
+{
+"time": "2026-11-03 18:50",
+"id": "5026631",
+"verdict": "skip",
+"why": "2.62 km from flat, 2.62 km from Kottbusser Tor (pin)",
+"title": "ROOM IN MITTE"
 }
 ]
