@@ -305,21 +305,82 @@ def female_only_text(text, raw):
     return None
 
 
-def geocode(address):
-    """Fallback when the ad has no map marker."""
+def _nominatim(params):
+    time.sleep(1.1)  # Nominatim allows 1 request/second
     try:
         r = requests.get(
             "https://nominatim.openstreetmap.org/search",
-            params={"q": address + ", Berlin", "format": "json", "limit": 1},
+            params={**params, "format": "json", "limit": 1, "countrycodes": "de"},
             headers={"User-Agent": "wg-checker/1.0 (personal use)"},
             timeout=15,
         )
         d = r.json()
-        if d:
+        if d and 52.3 < float(d[0]["lat"]) < 52.7:  # must be in Berlin
             return float(d[0]["lat"]), float(d[0]["lon"])
     except Exception as e:
-        log.warning("geocode failed for %r: %s", address, e)
+        log.warning("nominatim failed for %r: %s", params, e)
     return None
+
+
+def _photon(q):
+    """Second geocoder, in case Nominatim refuses the request."""
+    try:
+        r = requests.get("https://photon.komoot.io/api/", params={"q": q, "limit": 1, "lat": 52.5, "lon": 13.41},
+                         headers={"User-Agent": "wg-checker/1.0 (personal use)"}, timeout=15)
+        f = r.json().get("features")
+        if f:
+            lon, lat = f[0]["geometry"]["coordinates"]
+            if 52.3 < lat < 52.7:
+                return lat, lon
+    except Exception as e:
+        log.warning("photon failed for %r: %s", q, e)
+    return None
+
+
+def split_address(address):
+    """'Oranienstraße180 10999 Berlin Kreuzberg' -> ('Oranienstraße 180', '10999', 'Kreuzberg')."""
+    a = re.sub(r"\bn\.\s?v\.?", " ", address or "", flags=re.I)  # "n.v." = not specified
+    # ad pages: "<street> <plz> Berlin <district>"; list-card fallback: "<street>, <district>"
+    if re.search(r"\bBerlin\b", a):
+        street, _, rest = a.partition(re.search(r"\bBerlin\b", a).group(0))
+    else:
+        street, _, rest = a.partition(",")
+    m = re.search(r"\b1\d{4}\b", a)
+    plz = m.group(0) if m else ""
+    street = street.replace(plz, " ") if plz else street
+    district = re.sub(r"-", " ", rest).strip(" ,")
+    district = re.sub(r"\s+", " ", district)
+    street = re.split(r"/|\bEcke\b|\bcorner\b|\bnähe\b|\bnear\b|\(", street, flags=re.I)[0]
+    street = re.sub(r"([a-zäöüß.])(\d)", r"\1 \2", street)  # "Oranienstraße180" -> "Oranienstraße 180"
+    street = re.sub(r"\bBerlin\b", " ", street)
+    street = re.sub(r"\s+", " ", street).strip(" ,.-")
+    if not re.search(r"[a-zäöüß]{3}", street, re.I):
+        street = ""
+    return street, plz, district
+
+
+def geocode(address):
+    """Fallback when the ad has no map marker. Returns (coord, precision) or (None, None)."""
+    street, plz, district = split_address(address)
+    tries = []
+    if street:
+        if plz:
+            tries.append(("street", {"street": street, "postalcode": plz, "city": "Berlin"}))
+        tries.append(("street", {"street": street, "city": "Berlin"} if not district
+                      else {"q": f"{street}, {district}, Berlin"}))
+    for precision, params in tries:
+        c = _nominatim(params)
+        if c:
+            return c, precision
+    if street:
+        c = _photon(f"{street}, {plz} {district} Berlin".replace("  ", " "))
+        if c:
+            return c, "street"
+    if plz:
+        c = _nominatim({"q": f"{plz} Berlin"}) or _photon(f"{plz} Berlin")
+        if c:
+            return c, "postcode"
+    return None, None
 
 
 def evaluate(listing, ad):
@@ -336,13 +397,28 @@ def evaluate(listing, ad):
         parts = [p.strip() for p in listing["details"].split("·")]
         district = re.sub(r"\bBerlin\b|-", " ", parts[-2]).strip() if len(parts) >= 3 else ""
         address = parts[-1] + (", " + district if district else "")
-    coord = ad["coord"] or (geocode(address) if address else None)
+    coord, precision = ad["coord"], "pin"
+    if not coord and address:
+        coord, precision = geocode(address)
     if not coord:
-        return False, ["no location"], info
-    station, dist = nearest_station(coord)
-    info.update(station=station, dist=dist)
-    if dist > RADIUS_KM:
-        return False, [f"{dist:.2f} km from {station}"], info
+        # no street and no postcode: a Kreuzberg ad could still be right next to a station,
+        # so pass it on with a warning instead of dropping it
+        # (plain "Kreuzberg" only; "Friedrichshain-Kreuzberg" is the whole borough)
+        if re.search(r"(?<!friedrichshain.)kreuzberg", ((address or "") + " " + listing.get("details", "")).lower()):
+            precision = "district"
+        else:
+            return False, [f"no location ({address or 'no address'})"], info
+    info["precision"] = precision
+    if precision == "district":
+        info.update(station="?", dist=None)
+        coord = None
+    if coord:
+        station, dist = nearest_station(coord)
+        info.update(station=station, dist=dist)
+        # a postcode centroid can be ~1 km off, so allow some slack there
+        limit = RADIUS_KM + (0.5 if precision == "postcode" else 0)
+        if dist > limit:
+            return False, [f"{dist:.2f} km from {station} ({precision})"], info
 
     if listing.get("price") is not None and listing["price"] > MAX_RENT:
         return False, [f"rent {listing['price']}"], info
@@ -387,13 +463,15 @@ def send_telegram(text):
 
 def format_message(listing, ad, info):
     e = html.escape
-    apply_url = listing["url"].replace(BASE + "/", BASE + "/nachricht-senden/", 1) if ad["coord"] else listing["url"]
+    apply_url = listing["url"] if "asset_id=" in listing["url"] else listing["url"].replace(BASE + "/", BASE + "/nachricht-senden/", 1)
     period = f"ab {ad['free_from'] or '?'}" + (f" bis {ad['free_until']}" if ad["free_until"] else " (unbefristet)")
     lines = [
         f"🏠 <b>{e(ad['title'] or listing['title'])}</b>",
         f"💶 {listing['price']} € · {e(listing['size'])}",
         f"📍 {e(ad['address'] or '')}",
-        f"🚇 {info['dist']*1000:.0f} m to U {e(info['station'])}",
+        f"🚇 {info['dist']*1000:.0f} m to U {e(info['station'])}" + (
+            "" if info.get("precision") == "pin" else f" (from {info.get('precision')}, no map pin)")
+        if info.get("dist") is not None else "🚇 ⚠️ exact location unknown (only 'Kreuzberg' given) — check the ad",
         f"📅 {e(period)}",
         f"📝 Anmeldung: {info['anmeldung']}",
     ]
@@ -506,13 +584,17 @@ def check(seen, notify=True):
                 stats["unread"] += 1
                 continue
             ok, reasons, info = evaluate(l, ad)
+            where = ""
+            if info.get("station"):
+                d = info.get("dist")
+                where = f" [{info['station']} {d:.2f} km, {info.get('precision')}]" if d is not None else " [location unknown]"
             if ok:
                 if not send_telegram(format_message(l, ad, info)):
                     continue  # retry next round
-                decide(l, "SENT", info.get("term_note") or "")
+                decide(l, "SENT", (info.get("term_note") or "") + where)
                 stats["matched"] += 1
             else:
-                decide(l, "skip", "; ".join(reasons))
+                decide(l, "skip", "; ".join(reasons) + ("" if " km from " in reasons[0] else where))
                 stats["skipped"] += 1
             seen.add(l["id"])
     finally:
