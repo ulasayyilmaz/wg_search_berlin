@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 20:25",
-"id": "14301198",
-"verdict": "skip",
-"why": "1.46 km from Schlesisches Tor",
-"title": "21qm WG-Zimmer Friedrichshain nähe Boxi"
-},
-{
-"time": "2026-10-31 20:25",
 "id": "14290493",
 "verdict": "skip",
 "why": "1.47 km from Görlitzer Bahnhof",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.72 km from flat, 5.86 km from Schlesisches Tor (pin)",
 "title": "Kleines Zimmer mit Hochbett, tolle Lage Schönhauser Allee"
+},
+{
+"time": "2026-11-03 19:35",
+"id": "12075365",
+"verdict": "skip",
+"why": "3.96 km from flat, 3.33 km from Schlesisches Tor (pin)",
+"title": "Zimmer in ruhiger Lage nahe Ostkreuz – 16 m2, gute Anbindung"
 }
 ]
