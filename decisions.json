@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-10-31 21:15",
-"id": "14266729",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Boxhagener Straße - Room 4"
-},
-{
-"time": "2026-10-31 21:20",
-"id": "6303538",
-"verdict": "skip",
-"why": "5.31 km from Kottbusser Tor",
-"title": "Helles 26m2 großes Dielenzimmer"
-},
-{
-"time": "2026-10-31 21:20",
-"id": "8805475",
-"verdict": "skip",
-"why": "7.27 km from Schlesisches Tor",
-"title": "WG Zimmer 23qm in Oberschöneweide, 🏳️‍🌈 Vegan/Vegetarisch, Zigaretten👎"
-},
-{
 "time": "2026-10-31 21:30",
 "id": "10959135",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.05 km from flat, 4.07 km from Möckernbrücke (pin)",
 "title": "Zentral gelegenes Studio, kleines Schlafzimmer und Wohnküche für Menschen, die e"
+},
+{
+"time": "2026-11-03 21:11",
+"id": "14034352",
+"verdict": "skip",
+"why": "3.60 km from flat, 2.99 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer an der Rummelsburger Bucht"
+},
+{
+"time": "2026-11-03 21:11",
+"id": "14312651",
+"verdict": "skip",
+"why": "5.27 km from flat, 5.37 km from Schlesisches Tor (pin)",
+"title": "Room in Prenzlauer Berg | 2-Person Female WG"
+},
+{
+"time": "2026-11-03 21:13",
+"id": "14034414",
+"verdict": "skip",
+"why": "3.57 km from flat, 2.96 km from Schlesisches Tor (pin)",
+"title": "17 qm WG Zimmer an der Rummelsburger Bucht"
 }
 ]
