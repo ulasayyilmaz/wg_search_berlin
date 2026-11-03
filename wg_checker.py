@@ -2,7 +2,7 @@
 """Poll WG-Gesucht Berlin room offers and send matching ones to Telegram.
 
 Criteria:
-  * within RADIUS_KM of one of the U-Bahn stations in STATIONS
+  * within RADIUS_KM (or STATION_RADIUS) of one of the U-Bahn stations in STATIONS
   * total rent <= MAX_RENT
   * Anmeldung not ruled out (explicit "possible" or no mention is fine)
   * long term: no end date / Zwischenmiete / temporary, unless extension is possible
@@ -48,6 +48,8 @@ STATIONS = {
     "Hallesches Tor": (52.4990257, 13.3917126),
     "Möckernbrücke": (52.4986927, 13.3831230),
 }
+# Wider radius at the two ends of the line: much of their 1 km circle is river, parks and rail land
+STATION_RADIUS = {"Schlesisches Tor": 1.5, "Möckernbrücke": 1.5}  # others use RADIUS_KM
 
 BASE = "https://www.wg-gesucht.de"
 # Berlin (city_id 8), WG rooms, newest first, max rent pre-filtered server side
@@ -173,6 +175,16 @@ def haversine_km(a, b):
 
 def nearest_station(coord):
     name, dist = min(((n, haversine_km(coord, c)) for n, c in STATIONS.items()), key=lambda x: x[1])
+    return name, dist
+
+
+def station_in_reach(coord, slack=0.0):
+    """Nearest station whose own radius (+slack) covers coord, or None."""
+    hits = [(haversine_km(coord, c), n) for n, c in STATIONS.items()
+            if haversine_km(coord, c) <= STATION_RADIUS.get(n, RADIUS_KM) + slack]
+    if not hits:
+        return None
+    dist, name = min(hits)
     return name, dist
 
 
@@ -413,12 +425,13 @@ def evaluate(listing, ad):
         info.update(station="?", dist=None)
         coord = None
     if coord:
-        station, dist = nearest_station(coord)
-        info.update(station=station, dist=dist)
         # a postcode centroid can be ~1 km off, so allow some slack there
-        limit = RADIUS_KM + (0.5 if precision == "postcode" else 0)
-        if dist > limit:
+        hit = station_in_reach(coord, 0.5 if precision == "postcode" else 0)
+        if not hit:
+            station, dist = nearest_station(coord)
+            info.update(station=station, dist=dist)
             return False, [f"{dist:.2f} km from {station} ({precision})"], info
+        info.update(station=hit[0], dist=hit[1])
 
     if listing.get("price") is not None and listing["price"] > MAX_RENT:
         return False, [f"rent {listing['price']}"], info
