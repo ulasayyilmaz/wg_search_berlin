@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-10-31 21:35",
-"id": "14223412",
-"verdict": "skip",
-"why": "5.32 km from Möckernbrücke",
-"title": "Kleines feines WG-Zimmer zur Untermiete mit Aussicht auf Verlängerung"
-},
-{
 "time": "2026-10-31 21:40",
 "id": "14301282",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.01 km from flat, 4.24 km from Möckernbrücke (pin)",
 "title": "gemütliches Zimmer in Friedenau"
+},
+{
+"time": "2026-11-03 21:45",
+"id": "14312713",
+"verdict": "skip",
+"why": "4.35 km from flat, 2.14 km from Möckernbrücke (pin)",
+"title": "Gemütliches WG-Zimmer in Haus mit Garten"
 }
 ]
