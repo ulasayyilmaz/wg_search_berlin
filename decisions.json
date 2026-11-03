@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-10-31 16:15",
-"id": "9329250",
-"verdict": "skip",
-"why": "6.75 km from Möckernbrücke",
-"title": "Mitbewohner*in für inklusives Wohnprojekt gesucht"
-},
-{
-"time": "2026-10-31 16:15",
 "id": "14300971",
 "verdict": "skip",
 "why": "5.05 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "12.71 km from Möckernbrücke",
 "title": "Möbliertes Zimmer in frisch sanierter 3er-WG in Berlin-Spandau"
+},
+{
+"time": "2026-11-03 13:15",
+"id": "3479396",
+"verdict": "skip",
+"why": "5.37 km from Kottbusser Tor",
+"title": "Zimmer in Prenzlauer Berg"
 }
 ]
