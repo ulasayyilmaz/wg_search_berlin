@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 08:05",
-"id": "14145009",
-"verdict": "skip",
-"why": "2.48 km from Görlitzer Bahnhof",
-"title": "Sinatra Castle sucht Mitbewohnerin"
-},
-{
-"time": "2026-11-01 08:15",
-"id": "13773292",
-"verdict": "skip",
-"why": "3.73 km from Möckernbrücke",
-"title": "Wohnung Tempelhof, Wohnung"
-},
-{
 "time": "2026-11-01 08:40",
 "id": "14248210",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "SENT",
 "why": " [flat 2.93 km, U Hallesches Tor 0.38 km, pin]",
 "title": "2 Zimmer in 2er-WG am Mehringdamm – beide Zimmer frei ab sofort"
+},
+{
+"time": "2026-11-04 07:55",
+"id": "10887040",
+"verdict": "skip",
+"why": "temporary: zwischenmiete [flat 0.74 km, U Kottbusser Tor 0.35 km, pin]",
+"title": "Zwischenmiete - Schönes Zimmer im Reichenberger Kiez"
+},
+{
+"time": "2026-11-04 07:55",
+"id": "12717033",
+"verdict": "skip",
+"why": "9.97 km from flat, 6.86 km from Möckernbrücke (pin)",
+"title": "Gemütliches WG-Zimmer in Charlottenburg (befristet)"
 }
 ]
