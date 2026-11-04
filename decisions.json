@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 11:40",
-"id": "14303798",
-"verdict": "skip",
-"why": "7.71 km from Schlesisches Tor",
-"title": "Geräumiges Privatzimmer in Berlin Biesdorf"
-},
-{
 "time": "2026-11-01 11:45",
 "id": "14303811",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.08 km from flat, 4.72 km from Hallesches Tor (pin)",
 "title": "🏡 Möblierter Untermietraum ab Dezember 2026 – Berlin |"
+},
+{
+"time": "2026-11-04 12:05",
+"id": "13701717",
+"verdict": "skip",
+"why": "7.24 km from flat, 3.93 km from Möckernbrücke (pin)",
+"title": "renting out one room in 2-room flat. only short Term. 25eur/day"
 }
 ]
