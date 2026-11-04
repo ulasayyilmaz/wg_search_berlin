@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 10:25",
-"id": "8127416",
-"verdict": "skip",
-"why": "10.15 km from Schlesisches Tor",
-"title": "Zimmer in ruhiger grüner Lage"
-},
-{
-"time": "2026-11-01 10:25",
 "id": "14297711",
 "verdict": "skip",
 "why": "1.48 km from Prinzenstraße",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.52 km from flat, 9.23 km from Görlitzer Bahnhof (pin)",
 "title": "Liebe 5er WG in Genoss*innenschaftsprojekt"
+},
+{
+"time": "2026-11-04 10:15",
+"id": "14225597",
+"verdict": "skip",
+"why": "3.14 km from flat, 2.88 km from Prinzenstraße (pin)",
+"title": "Schönes Zimmer in WG in Berlin Mitte"
 }
 ]
