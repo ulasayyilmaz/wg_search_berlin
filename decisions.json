@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 00:50",
-"id": "13674394",
-"verdict": "skip",
-"why": "1.71 km from Möckernbrücke",
-"title": "Ideal für Praktikanten, Berufspendler, temporärer Aufenthalt - 35m2 Zimmer inner"
-},
-{
 "time": "2026-11-01 01:05",
 "id": "14059043",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.57 km from flat, 7.17 km from Schlesisches Tor (pin)",
 "title": "(Dec 1 – Feb 10) 14m2 in 3-er WG - Kurzfristige Untervermietung"
+},
+{
+"time": "2026-11-04 01:35",
+"id": "14312486",
+"verdict": "skip",
+"why": "6.80 km from flat, 6.53 km from Hallesches Tor (pin)",
+"title": "🏡 Helles & gemütliches Zimmer mit Balkon zum Untermieten – Berlin | €650 All Inc"
 }
 ]
