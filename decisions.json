@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 17:55",
-"id": "9137712",
-"verdict": "skip",
-"why": "3.40 km from Schlesisches Tor",
-"title": "Nice room in Lichtenberg"
-},
-{
-"time": "2026-11-01 18:20",
-"id": "14165133",
-"verdict": "skip",
-"why": "8.63 km from Möckernbrücke",
-"title": "Zimmer zur untermieten kurzfristig/langfristig, oder übernachten."
-},
-{
 "time": "2026-11-01 18:20",
 "id": "14279715",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.17 km from flat, 1.20 km from Prinzenstraße (pin)",
 "title": "Zimmer direkt am Südstern ab 23.11"
+},
+{
+"time": "2026-11-04 21:30",
+"id": "14316486",
+"verdict": "skip",
+"why": "2.87 km from flat, 2.63 km from Görlitzer Bahnhof (pin)",
+"title": "Wg Zimmer verfügbar von 20.11 bis 29.12"
+},
+{
+"time": "2026-11-04 21:30",
+"id": "14316305",
+"verdict": "SENT",
+"why": " [flat 1.22 km, U Schlesisches Tor 0.66 km, pin]",
+"title": "WG Zimmer Friedrichshain"
 }
 ]
