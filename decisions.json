@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-01 14:25",
-"id": "14297561",
-"verdict": "skip",
-"why": "12.70 km from Möckernbrücke",
-"title": "1 Private Room for Girls in 3er WG"
-},
-{
-"time": "2026-11-01 14:35",
-"id": "12610187",
-"verdict": "skip",
-"why": "8.77 km from Möckernbrücke",
-"title": "Neue Mitbewohner*in im grünen Dahlem gesucht 🌳🐭"
-},
-{
-"time": "2026-11-01 14:55",
-"id": "8645037",
-"verdict": "skip",
-"why": "2.56 km from Möckernbrücke",
-"title": "Sunny Balkon"
-},
-{
-"time": "2026-11-01 14:55",
-"id": "10189412",
-"verdict": "skip",
-"why": "female only",
-"title": "Tageweise: vermiete ruhiges Gästezimmer in schöner Wohnung im Reuterkiez / FLINT"
-},
-{
 "time": "2026-11-01 14:55",
 "id": "14304130",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "7.72 km from flat, 5.16 km from Möckernbrücke (pin)",
 "title": "WG-Zimmer in Steglitz mit Balkon"
+},
+{
+"time": "2026-11-04 14:50",
+"id": "14107093",
+"verdict": "skip",
+"why": "starts 14.12.2027 [flat 1.35 km, U Kottbusser Tor 0.55 km, pin]",
+"title": "Dreamy & Cozy Dezember Untervermietung im Herzen von Kreuzberg (Duplex)"
+},
+{
+"time": "2026-11-04 14:50",
+"id": "14315734",
+"verdict": "skip",
+"why": "3.00 km from flat, 2.87 km from Schlesisches Tor (pin)",
+"title": "22m2 schön helles Altbauzimmer"
+},
+{
+"time": "2026-11-04 14:50",
+"id": "2322962",
+"verdict": "skip",
+"why": "4.62 km from flat, 1.36 km from Möckernbrücke (pin)",
+"title": "Möbilierte 32 qm in Schöneberg/Furnished room 32 qm"
+},
+{
+"time": "2026-11-04 14:50",
+"id": "14315729",
+"verdict": "skip",
+"why": "7.42 km from flat, 6.02 km from Möckernbrücke (pin)",
+"title": "Zentrales WG-Zimmer – 600 € all inclusive, Balkon & Top-Anbindung"
 }
 ]
