@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 09:10",
-"id": "14226221",
-"verdict": "skip",
-"why": "9.22 km from Möckernbrücke",
-"title": "Zwischenmiete .05.11.-31.12, eventuell länger"
-},
-{
-"time": "2026-11-01 09:10",
 "id": "10463516",
 "verdict": "skip",
 "why": "1444.58 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.11 km from flat, 3.29 km from Kottbusser Tor (pin)",
 "title": "3 separate Zimmer in Prenzlauer Berg zu vermietet Ab sofort verfügbar"
+},
+{
+"time": "2026-11-04 08:35",
+"id": "14228937",
+"verdict": "skip",
+"why": "11.12 km from flat, 8.02 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer mit Balkon in Dahlem frei"
 }
 ]
