@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 08:40",
-"id": "14248210",
-"verdict": "skip",
-"why": "4.24 km from Schlesisches Tor",
-"title": "WG Zimmer 2er WG"
-},
-{
-"time": "2026-11-01 08:50",
-"id": "13004286",
-"verdict": "skip",
-"why": "4.61 km from Schlesisches Tor",
-"title": "3er WG in Prenzlauer Berg # auf Wunsch möbliert # ab sofort ohne Anmeldung"
-},
-{
 "time": "2026-11-01 09:00",
 "id": "13182136",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "9.97 km from flat, 6.86 km from Möckernbrücke (pin)",
 "title": "Gemütliches WG-Zimmer in Charlottenburg (befristet)"
+},
+{
+"time": "2026-11-04 08:05",
+"id": "14315023",
+"verdict": "skip",
+"why": "12.56 km from flat, 9.43 km from Möckernbrücke (pin)",
+"title": "Zimmer in 3-Personen-Flat mit Anmeldung"
+},
+{
+"time": "2026-11-04 08:05",
+"id": "14283122",
+"verdict": "skip",
+"why": "female only [flat 1.04 km, U Görlitzer Bahnhof 0.77 km, pin]",
+"title": "WG Zimmer in 4er WG - Long Term"
 }
 ]
