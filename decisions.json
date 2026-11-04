@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 12:05",
-"id": "14303851",
-"verdict": "skip",
-"why": "5.64 km from Möckernbrücke",
-"title": "Zimmer in 5-Personen WG in der Nähe von S Charlottenburg, ab 1 Dec"
-},
-{
-"time": "2026-11-01 12:05",
 "id": "12392409",
 "verdict": "skip",
 "why": "4.41 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "SENT",
 "why": "has 'frei bis' end date but extension: 'verlängerung möglich' [flat 0.56 km, U Görlitzer Bahnhof 0.34 km, pin]",
 "title": "gemütliche Wohnung in top Lage"
+},
+{
+"time": "2026-11-04 12:40",
+"id": "14315494",
+"verdict": "skip",
+"why": "11.96 km from flat, 9.13 km from Möckernbrücke (pin)",
+"title": "Gemütliches WG-Zimmer mit Blick ins Grüne – dein ruhiger Rückzugsort"
 }
 ]
