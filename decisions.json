@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 12:15",
-"id": "14262522",
-"verdict": "skip",
-"why": "anmeldung: 'ohne anmeldung'",
-"title": "WG-Zimmer im Wrangelkiez"
-},
-{
 "time": "2026-11-01 12:20",
 "id": "14297636",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "12.50 km from flat, 11.86 km from Schlesisches Tor (postcode)",
 "title": "GenerationenWG - 35 min bis zum Alex - 1 min bis zum Wald"
+},
+{
+"time": "2026-11-04 12:50",
+"id": "14315516",
+"verdict": "skip",
+"why": "temporary: sublet [flat 0.26 km, U Görlitzer Bahnhof 0.54 km, pin]",
+"title": "Ziimmer in WG, 1-2 Monate ca"
 }
 ]
