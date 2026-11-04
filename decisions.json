@@ -1,34 +1,6 @@
 [
 {
 "time": "2026-11-01 16:50",
-"id": "14304395",
-"verdict": "skip",
-"why": "3.65 km from Möckernbrücke",
-"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
-},
-{
-"time": "2026-11-01 16:50",
-"id": "12150707",
-"verdict": "skip",
-"why": "2.35 km from Schlesisches Tor",
-"title": "33qm Zimmer in 2er-WG - 100qm große Wohnung - Proskauer Straße"
-},
-{
-"time": "2026-11-01 16:50",
-"id": "14290644",
-"verdict": "skip",
-"why": "2.36 km from Schlesisches Tor",
-"title": "Helles, gemütliches und ruhiges Zimmer in Neukölln"
-},
-{
-"time": "2026-11-01 16:50",
-"id": "13718771",
-"verdict": "skip",
-"why": "2.36 km from Schlesisches Tor",
-"title": "Helles, gemütliches und ruhiges Zimmer in Neukölln"
-},
-{
-"time": "2026-11-01 16:50",
 "id": "11347772",
 "verdict": "skip",
 "why": "6.81 km from Schlesisches Tor",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "3.32 km from flat, 2.96 km from Schlesisches Tor (pin)",
 "title": "Zimmer in einer WG"
+},
+{
+"time": "2026-11-04 18:31",
+"id": "13674199",
+"verdict": "skip",
+"why": "5.17 km from flat, 2.00 km from Möckernbrücke (pin)",
+"title": "Bright 14 sqm Room in 2-Room Apartment Short-Term"
+},
+{
+"time": "2026-11-04 18:31",
+"id": "14316181",
+"verdict": "skip",
+"why": "6.58 km from flat, 3.65 km from Möckernbrücke (pin)",
+"title": "Besichtigung So 08.11. 18 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-Frau"
+},
+{
+"time": "2026-11-04 18:31",
+"id": "14316166",
+"verdict": "skip",
+"why": "8.00 km from flat, 4.76 km from Möckernbrücke (pin)",
+"title": "Helles und voll möbliertes WG-Zimmer in zentraler Lage"
+},
+{
+"time": "2026-11-04 18:31",
+"id": "8470803",
+"verdict": "skip",
+"why": "2.76 km from flat, 2.42 km from Görlitzer Bahnhof (pin)",
+"title": "Möbliertes Zimmer mit Balkon in Schillerkiez"
 }
 ]
