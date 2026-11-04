@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 18:31",
-"id": "14280946",
-"verdict": "skip",
-"why": "4.93 km from Möckernbrücke",
-"title": "Vollmöbliertes 16m2 WG-Zimmer in 3er-WG im Berliner Süden – sofort einzugsfertig"
-},
-{
 "time": "2026-11-01 18:40",
 "id": "3732073",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.98 km from flat, 7.57 km from Schlesisches Tor (pin)",
 "title": "✨️BRIGHT&COZY ROOM, FURNISHED, BALCONY in Schöneweide ✨️"
+},
+{
+"time": "2026-11-04 22:10",
+"id": "12221931",
+"verdict": "skip",
+"why": "2.54 km from flat, 2.33 km from Görlitzer Bahnhof (pin)",
+"title": "Zimmer in gemütlicher 2er WG"
 }
 ]
