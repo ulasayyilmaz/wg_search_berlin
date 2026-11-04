@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 11:40",
-"id": "14262634",
-"verdict": "skip",
-"why": "4.44 km from Möckernbrücke",
-"title": "Bright and huge room in Moabit flatshare for November"
-},
-{
-"time": "2026-11-01 11:40",
 "id": "14303798",
 "verdict": "skip",
 "why": "7.71 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.82 km from flat, 7.70 km from Möckernbrücke (pin)",
 "title": "Privatzimmer zur Untermiete verfügbar | Private Room Available for Sublet"
+},
+{
+"time": "2026-11-04 12:01",
+"id": "14170552",
+"verdict": "skip",
+"why": "5.08 km from flat, 4.72 km from Hallesches Tor (pin)",
+"title": "🏡 Möblierter Untermietraum ab Dezember 2026 – Berlin |"
 }
 ]
