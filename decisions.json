@@ -1,40 +1,5 @@
 [
 {
-"time": "2026-11-01 15:30",
-"id": "4680799",
-"verdict": "skip",
-"why": "2.55 km from Möckernbrücke",
-"title": "Schöner Ort zum wohnen in bester Lage"
-},
-{
-"time": "2026-11-01 15:30",
-"id": "14304212",
-"verdict": "skip",
-"why": "10.56 km from Schlesisches Tor",
-"title": "Eine Dreizimmerwohnung in ruhiger Lage ohne Anmeldung"
-},
-{
-"time": "2026-11-01 15:35",
-"id": "14001782",
-"verdict": "skip",
-"why": "temporary: zwischenmiete",
-"title": "Zwischenmiete – teil-möbliert – 6 Monate ab dem 01.12. – Kleines aber süßes Zimm"
-},
-{
-"time": "2026-11-01 15:40",
-"id": "4411346",
-"verdict": "skip",
-"why": "2.46 km from Schlesisches Tor",
-"title": "24 m2 - Berlin Friedrichshain"
-},
-{
-"time": "2026-11-01 15:45",
-"id": "14304222",
-"verdict": "skip",
-"why": "10.48 km from Möckernbrücke",
-"title": "Room with Balcony for Sublet / Zimmer mit Balkon zur Untermiete / Habitación con"
-},
-{
 "time": "2026-11-01 15:55",
 "id": "13234368",
 "verdict": "skip",
@@ -3498,5 +3463,40 @@
 "verdict": "skip",
 "why": "7.61 km from flat, 4.31 km from Möckernbrücke (pin)",
 "title": "Zimmer in 85qm Wohnung"
+},
+{
+"time": "2026-11-04 15:50",
+"id": "14232639",
+"verdict": "skip",
+"why": "2.30 km from flat, 2.40 km from Schlesisches Tor (pin)",
+"title": "🏠 Furnished 18m2 room in perfect Friedrichshain location"
+},
+{
+"time": "2026-11-04 15:50",
+"id": "10949777",
+"verdict": "skip",
+"why": "12.77 km from flat, 9.83 km from Möckernbrücke (street)",
+"title": "Freies WG-Zimmer & Assistenzjob in einer inklusiven WG"
+},
+{
+"time": "2026-11-04 15:51",
+"id": "14287791",
+"verdict": "skip",
+"why": "7.75 km from flat, 4.45 km from Möckernbrücke (pin)",
+"title": "WG Zimmer Januar/Februar"
+},
+{
+"time": "2026-11-04 15:51",
+"id": "14315852",
+"verdict": "skip",
+"why": "8.11 km from flat, 7.57 km from Schlesisches Tor (pin)",
+"title": "WG zimmer zum vermieten"
+},
+{
+"time": "2026-11-04 15:51",
+"id": "14314958",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Flemmingstraße, Berlin"
 }
 ]
