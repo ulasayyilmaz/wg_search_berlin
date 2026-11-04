@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 10:15",
-"id": "14255081",
-"verdict": "skip",
-"why": "4.29 km from Schlesisches Tor",
-"title": "Möbliertes WG Zimmer - 23qm ab - 17.11.26"
-},
-{
-"time": "2026-11-01 10:15",
 "id": "13788960",
 "verdict": "skip",
 "why": "12.05 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.07 km from flat, 7.78 km from Schlesisches Tor (pin)",
 "title": "2 freie Wg Zimmer in Berlin Rudow Seidelbastweg"
+},
+{
+"time": "2026-11-04 09:50",
+"id": "13456707",
+"verdict": "skip",
+"why": "17.44 km from flat, 14.44 km from Möckernbrücke (pin)",
+"title": "WG Zimmer zu vermieten, teilmöbliert"
 }
 ]
