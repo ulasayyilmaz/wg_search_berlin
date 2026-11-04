@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 11:25",
-"id": "13592924",
-"verdict": "skip",
-"why": "3.48 km from Görlitzer Bahnhof",
-"title": "Zimmer in queerer Neukölln-WG mit Katzen"
-},
-{
-"time": "2026-11-01 11:25",
 "id": "14303721",
 "verdict": "skip",
 "why": "6.01 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Weimarische Straße, Berlin"
+},
+{
+"time": "2026-11-04 11:25",
+"id": "13977074",
+"verdict": "skip",
+"why": "female only [flat 1.82 km, U Schlesisches Tor 1.44 km, pin]",
+"title": "Wg zimmer in Fridrichshain Short Term"
 }
 ]
