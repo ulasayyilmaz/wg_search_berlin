@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 12:05",
-"id": "12392409",
-"verdict": "skip",
-"why": "4.41 km from Möckernbrücke",
-"title": "Gemütliches Zimmer unter Loftbett — möbliert, ruhige Wohnung"
-},
-{
-"time": "2026-11-01 12:05",
-"id": "9168750",
-"verdict": "skip",
-"why": "1.30 km from Möckernbrücke",
-"title": "Zimmer 12 m2 in super Lage mit Balkon zum Hinterhof(Ohne Anmeldung/Without Anmel"
-},
-{
 "time": "2026-11-01 12:15",
 "id": "14262522",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "11.96 km from flat, 9.13 km from Möckernbrücke (pin)",
 "title": "Gemütliches WG-Zimmer mit Blick ins Grüne – dein ruhiger Rückzugsort"
+},
+{
+"time": "2026-11-04 12:45",
+"id": "7819302",
+"verdict": "skip",
+"why": "15.31 km from flat, 14.04 km from Möckernbrücke (pin)",
+"title": "Wohnen im Grünen und schnell in der Stadt"
+},
+{
+"time": "2026-11-04 12:45",
+"id": "12486251",
+"verdict": "skip",
+"why": "12.50 km from flat, 11.86 km from Schlesisches Tor (postcode)",
+"title": "GenerationenWG - 35 min bis zum Alex - 1 min bis zum Wald"
 }
 ]
