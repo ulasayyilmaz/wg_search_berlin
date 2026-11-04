@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 10:45",
-"id": "9189156",
-"verdict": "skip",
-"why": "1.40 km from Görlitzer Bahnhof",
-"title": "Schöner Mensch für Zimmer im Baumhaus gesucht!"
-},
-{
 "time": "2026-11-01 10:50",
 "id": "14237801",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.35 km from flat, 2.14 km from Möckernbrücke (pin)",
 "title": "Zimmer frei in 12 Personen Gemeinschaft!"
+},
+{
+"time": "2026-11-04 11:05",
+"id": "14117851",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Schönes Zimmer in Friedenau in Generationen WG"
 }
 ]
