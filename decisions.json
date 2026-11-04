@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 08:01",
-"id": "10931987",
-"verdict": "skip",
-"why": "no location",
-"title": "1 freies WG-Zimmer Berlin-Reinickendorf"
-},
-{
-"time": "2026-11-01 08:01",
 "id": "13408582",
 "verdict": "skip",
 "why": "1.49 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Residenzstraße"
+},
+{
+"time": "2026-11-04 07:05",
+"id": "14314980",
+"verdict": "skip",
+"why": "2.57 km from flat, 2.20 km from Schlesisches Tor (pin)",
+"title": "2 month room 29.11 til 24.01 20 meters 10 min walking karl marx strasse ubhan"
 }
 ]
