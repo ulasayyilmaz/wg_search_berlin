@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 06:10",
-"id": "10412497",
-"verdict": "skip",
-"why": "4.97 km from Möckernbrücke",
-"title": "Ab 01.12.2026 ( evtl.15.11.) : Best roomate wanted ! Möbliertes großes Zimmer, s"
-},
-{
 "time": "2026-11-01 06:30",
 "id": "7891068",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Treskowallee 22.6"
+},
+{
+"time": "2026-11-04 06:15",
+"id": "7150758",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 1.38 km, U Schlesisches Tor 1.03 km, pin]",
+"title": "3er-Wg in Friedrichshain"
 }
 ]
