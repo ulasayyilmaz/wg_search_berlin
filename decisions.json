@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 06:30",
-"id": "7891068",
-"verdict": "skip",
-"why": "8.84 km from Möckernbrücke",
-"title": "Studenten-WG sucht Mitbewohner"
-},
-{
 "time": "2026-11-01 06:35",
 "id": "4104806",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 1.38 km, U Schlesisches Tor 1.03 km, pin]",
 "title": "3er-Wg in Friedrichshain"
+},
+{
+"time": "2026-11-04 06:35",
+"id": "13284806",
+"verdict": "skip",
+"why": "10.32 km from flat, 7.52 km from Möckernbrücke (pin)",
+"title": "Zweier-WG in Charlottenburg"
 }
 ]
