@@ -1,40 +1,5 @@
 [
 {
-"time": "2026-11-01 12:50",
-"id": "14297305",
-"verdict": "skip",
-"why": "9.02 km from Schlesisches Tor",
-"title": "Möbliertes 12 m2 Zimmer in Gemeinschaftswohnung (WG) | Anmeldung möglich"
-},
-{
-"time": "2026-11-01 12:55",
-"id": "14303941",
-"verdict": "skip",
-"why": "10.51 km from Möckernbrücke",
-"title": "Helles, möbliertes Zimmer mit eigenem Bad, Terrasse & Garten in einer 2er-WG in "
-},
-{
-"time": "2026-11-01 12:55",
-"id": "14290607",
-"verdict": "skip",
-"why": "5.02 km from Schlesisches Tor",
-"title": "Möbliertes 20-m2-Zimmer mit eigenem Balkon"
-},
-{
-"time": "2026-11-01 13:05",
-"id": "14303956",
-"verdict": "skip",
-"why": "16.01 km from Möckernbrücke",
-"title": "Schönes WG-Zimmer im modernen Neubau in Berlin-Kladow – 650 € All-In"
-},
-{
-"time": "2026-11-01 13:15",
-"id": "14279915",
-"verdict": "skip",
-"why": "2.11 km from Möckernbrücke",
-"title": "WG-Zimmer in großer Altbau-Wohnung (2 Personen WG) / Room to let in large 2 Pers"
-},
-{
 "time": "2026-11-01 13:15",
 "id": "14207386",
 "verdict": "skip",
@@ -3498,5 +3463,40 @@
 "verdict": "skip",
 "why": "14.00 km from flat, 13.50 km from Prinzenstraße (pin)",
 "title": "ca. 58 (-75)m2 in 130m2 Einfamilienhaus (ca. 18+40(+20)m2); S2-Bahn nah (5min zu"
+},
+{
+"time": "2026-11-04 13:50",
+"id": "14315646",
+"verdict": "skip",
+"why": "4.12 km from flat, 3.32 km from Hallesches Tor (pin)",
+"title": "WG Zimmer Untermiete"
+},
+{
+"time": "2026-11-04 13:50",
+"id": "14315614",
+"verdict": "skip",
+"why": "2.47 km from flat, 1.88 km from Schlesisches Tor (pin)",
+"title": "Large room Friedrichshain"
+},
+{
+"time": "2026-11-04 13:50",
+"id": "14315561",
+"verdict": "skip",
+"why": "female only [flat 1.41 km, U Prinzenstraße 0.33 km, street]",
+"title": "12 qm WG- Zimmer mit große Terrasse in Kreuzberg. 3er WG"
+},
+{
+"time": "2026-11-04 13:50",
+"id": "13421329",
+"verdict": "skip",
+"why": "5.04 km from flat, 4.64 km from Schlesisches Tor (pin)",
+"title": "1 Large room in a 3 rooms WG"
+},
+{
+"time": "2026-11-04 13:51",
+"id": "14315016",
+"verdict": "skip",
+"why": "8.29 km from flat, 7.91 km from Schlesisches Tor (pin)",
+"title": "Großes WG-Zimmer in Johannisthal (24,11 m2) – FLINTA-WG mit Pepper 🐈"
 }
 ]
