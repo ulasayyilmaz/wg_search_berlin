@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 18:40",
-"id": "3732073",
-"verdict": "skip",
-"why": "1.18 km from Möckernbrücke",
-"title": "schöner Ausblick, hell und sonnig / ca.3 - ca.9 Monate"
-},
-{
-"time": "2026-11-01 18:50",
-"id": "9810195",
-"verdict": "skip",
-"why": "5.79 km from Möckernbrücke",
-"title": "20m^2 Zimmer in netter 3er-WG in Steglitz"
-},
-{
 "time": "2026-11-01 19:01",
 "id": "14107017",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.54 km from flat, 2.33 km from Görlitzer Bahnhof (pin)",
 "title": "Zimmer in gemütlicher 2er WG"
+},
+{
+"time": "2026-11-04 22:20",
+"id": "14070068",
+"verdict": "skip",
+"why": "2.77 km from flat, 2.49 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer Neukölln 15qm Zwischenmiete"
+},
+{
+"time": "2026-11-04 22:20",
+"id": "14316501",
+"verdict": "skip",
+"why": "female only [flat 1.99 km, U Prinzenstraße 0.25 km, street]",
+"title": "Kreativer und homy Room mitten in Berlin"
 }
 ]
