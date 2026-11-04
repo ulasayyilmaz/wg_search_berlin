@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 19:01",
-"id": "14107017",
-"verdict": "skip",
-"why": "5.39 km from Möckernbrücke",
-"title": "kleines Zimmer in Wilmersdorf (nur Frauen)"
-},
-{
 "time": "2026-11-01 19:05",
 "id": "14304548",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "female only [flat 1.99 km, U Prinzenstraße 0.25 km, street]",
 "title": "Kreativer und homy Room mitten in Berlin"
+},
+{
+"time": "2026-11-04 23:10",
+"id": "9615829",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 1.60 km, U Kottbusser Tor 0.91 km, pin]",
+"title": "Suche Mitbewohner/in"
 }
 ]
