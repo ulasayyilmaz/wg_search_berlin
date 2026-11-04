@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 14:15",
-"id": "14297974",
-"verdict": "skip",
-"why": "8.66 km from Möckernbrücke",
-"title": "Entspanntes Zusammenleben im Westend"
-},
-{
 "time": "2026-11-01 14:25",
 "id": "14297561",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
 "title": "Friendsroom für zwei mit Gartenzugang – Berlin-Adlershof"
+},
+{
+"time": "2026-11-04 14:40",
+"id": "14315726",
+"verdict": "skip",
+"why": "7.72 km from flat, 5.16 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer in Steglitz mit Balkon"
 }
 ]
