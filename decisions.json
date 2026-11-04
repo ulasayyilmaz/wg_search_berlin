@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 14:05",
-"id": "14215317",
-"verdict": "skip",
-"why": "7.86 km from Möckernbrücke",
-"title": "Studenten-Zimmer in Lankwitz/Steglitz"
-},
-{
 "time": "2026-11-01 14:15",
 "id": "14297974",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.35 km from flat, 5.53 km from Möckernbrücke (street)",
 "title": "möbliertes Zimmer an Studenten zz vermieten"
+},
+{
+"time": "2026-11-04 14:35",
+"id": "14315680",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Friendsroom für zwei mit Gartenzugang – Berlin-Adlershof"
 }
 ]
