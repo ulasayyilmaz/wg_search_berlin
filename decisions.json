@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 17:25",
-"id": "11372387",
-"verdict": "skip",
-"why": "2.39 km from Möckernbrücke",
-"title": "Best start in the city"
-},
-{
 "time": "2026-11-01 17:45",
 "id": "11677687",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "female only [flat 2.70 km, U Hallesches Tor 0.90 km, pin]",
 "title": "Zimmer frei in 5er WG"
+},
+{
+"time": "2026-11-04 20:50",
+"id": "14226129",
+"verdict": "skip",
+"why": "7.85 km from flat, 5.25 km from Möckernbrücke (pin)",
+"title": "Schönes kleines WG-Zimmer in Top-Lage"
 }
 ]
