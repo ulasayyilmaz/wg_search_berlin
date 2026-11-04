@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 15:15",
-"id": "8430435",
-"verdict": "skip",
-"why": "4.51 km from Möckernbrücke",
-"title": "hell eingerichtetes zimmer mit balkon und moderner küche im zentralen bereich"
-},
-{
-"time": "2026-11-01 15:15",
 "id": "13453242",
 "verdict": "skip",
 "why": "2.51 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
 "title": "Friendsroom für vier in Berlin-Oberschöneweide – Bettplatz für 349 € monatlich"
+},
+{
+"time": "2026-11-04 15:20",
+"id": "13962611",
+"verdict": "skip",
+"why": "5.66 km from flat, 4.08 km from Möckernbrücke (street)",
+"title": "Beautiful room in a music house. Artists ( and cats ) are welcome!"
 }
 ]
