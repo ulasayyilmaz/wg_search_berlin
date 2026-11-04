@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 13:55",
-"id": "14304044",
-"verdict": "skip",
-"why": "4.10 km from Hallesches Tor",
-"title": "Zimmer in einer Wohngemeinschaft mitten in Berlin - frei im Januar-"
-},
-{
-"time": "2026-11-01 13:55",
-"id": "14269860",
-"verdict": "skip",
-"why": "12.06 km from Schlesisches Tor",
-"title": "Helles WG-Zimmer zu vermieten- unmöbliert, ab Dezember"
-},
-{
 "time": "2026-11-01 14:05",
 "id": "14215317",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "anmeldung: 'anmeldung nicht möglich' [flat 1.75 km, U Schlesisches Tor 1.43 km, pin]",
 "title": "1 Wg Zimmer in Friedrichshain für 3 Monate"
+},
+{
+"time": "2026-11-04 14:15",
+"id": "14315562",
+"verdict": "skip",
+"why": "2.28 km from flat, 2.05 km from Schlesisches Tor (pin)",
+"title": "Room near Sonnenallee"
+},
+{
+"time": "2026-11-04 14:15",
+"id": "13416884",
+"verdict": "skip",
+"why": "8.35 km from flat, 5.53 km from Möckernbrücke (street)",
+"title": "möbliertes Zimmer an Studenten zz vermieten"
 }
 ]
