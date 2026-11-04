@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 09:30",
-"id": "10713825",
-"verdict": "skip",
-"why": "2.35 km from Görlitzer Bahnhof",
-"title": "20 qm Zimmer langfristig ab 01.12.2026 in Maisonette-Wohnung zu vermieten"
-},
-{
-"time": "2026-11-01 09:50",
-"id": "14181184",
-"verdict": "skip",
-"why": "7.49 km from Möckernbrücke",
-"title": "renting out a small (12m2), cozy teenage style room in a 64 m2 3 room apartment"
-},
-{
 "time": "2026-11-01 10:01",
 "id": "10226245",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.20 km from flat, 2.83 km from Kottbusser Tor (pin)",
 "title": "Longterm WG Zimmer in Schillerkiez (NO ANMELDUNG)"
+},
+{
+"time": "2026-11-04 09:30",
+"id": "14143637",
+"verdict": "SENT",
+"why": "befristet but extension: 'option auf verlängerung' [flat 3.21 km, U Möckernbrücke 0.27 km, pin]",
+"title": "Schöne WG im Bergmannkiez sucht neue/n Mitbewohni 🐭 (vorerst auf 6 Monate befris"
+},
+{
+"time": "2026-11-04 09:31",
+"id": "14262375",
+"verdict": "skip",
+"why": "3.12 km from flat, 2.64 km from Schlesisches Tor (pin)",
+"title": "Möbliertes WG-Zimmer am Treptower Park"
 }
 ]
