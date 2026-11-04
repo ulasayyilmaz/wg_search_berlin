@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 17:20",
-"id": "14196914",
-"verdict": "skip",
-"why": "9.09 km from Schlesisches Tor",
-"title": "Sonnige WG in Pankow"
-},
-{
-"time": "2026-11-01 17:20",
-"id": "14269660",
-"verdict": "skip",
-"why": "6.37 km from Möckernbrücke",
-"title": "16 qm großes WG-Zimmer (Altbau) in Charlottenburg"
-},
-{
 "time": "2026-11-01 17:25",
 "id": "7903489",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.54 km from flat, 4.08 km from Schlesisches Tor (pin)",
 "title": "Mitbewohnerin (nur Frauen/FLINTA) gesucht ab 1.02. – geräumiges Zimmer mit Balko"
+},
+{
+"time": "2026-11-04 20:10",
+"id": "14316349",
+"verdict": "skip",
+"why": "5.80 km from flat, 5.17 km from Schlesisches Tor (pin)",
+"title": "Furnished 13 m2 Room in Berlin-Lichtenberg | €600 All-Inclusive"
+},
+{
+"time": "2026-11-04 20:10",
+"id": "14316335",
+"verdict": "skip",
+"why": "6.18 km from flat, 3.03 km from Möckernbrücke (pin)",
+"title": "Helles und möbliertes WG Zimmer in Berlin Schöneberg"
 }
 ]
