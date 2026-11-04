@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 11:35",
-"id": "14303790",
-"verdict": "skip",
-"why": "3.38 km from Möckernbrücke",
-"title": "Zimmer in einer Gemeinschaftswohnung in Wilmersdorf sehr gut mit 2 Mitbewohnern "
-},
-{
-"time": "2026-11-01 11:40",
-"id": "14265845",
-"verdict": "skip",
-"why": "5.57 km from Möckernbrücke",
-"title": "Großes, helles Zimmer"
-},
-{
 "time": "2026-11-01 11:40",
 "id": "14262634",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.64 km from flat, 2.10 km from Schlesisches Tor (pin)",
 "title": "WG-Zimmer zur Zwischenmiete in Friedrichshain"
+},
+{
+"time": "2026-11-04 11:45",
+"id": "14315188",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 2.33 km, U Hallesches Tor 0.44 km, pin]",
+"title": "3-4 Monate sehr zentrales, helles WG- Zimmer in Kreuzberg"
+},
+{
+"time": "2026-11-04 11:45",
+"id": "14315376",
+"verdict": "skip",
+"why": "10.82 km from flat, 7.70 km from Möckernbrücke (pin)",
+"title": "Privatzimmer zur Untermiete verfügbar | Private Room Available for Sublet"
 }
 ]
