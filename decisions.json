@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 10:40",
-"id": "8399883",
-"verdict": "skip",
-"why": "5.47 km from Möckernbrücke",
-"title": "Helles, großes Zimmer in Altbau mit super Verkehrsanbindung"
-},
-{
 "time": "2026-11-01 10:45",
 "id": "9189156",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.91 km from flat, 9.37 km from Schlesisches Tor (street)",
 "title": "Zi. in Wohlfühl-WG im grünen Marzahn"
+},
+{
+"time": "2026-11-04 11:01",
+"id": "14113368",
+"verdict": "skip",
+"why": "4.35 km from flat, 2.14 km from Möckernbrücke (pin)",
+"title": "Zimmer frei in 12 Personen Gemeinschaft!"
 }
 ]
