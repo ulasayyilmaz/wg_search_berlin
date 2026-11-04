@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 13:15",
-"id": "14207386",
-"verdict": "skip",
-"why": "3.46 km from Schlesisches Tor",
-"title": "biete 1 Zimmer in einer 3 Raum Wohnung, Einzug jederzeit"
-},
-{
-"time": "2026-11-01 13:15",
 "id": "5710584",
 "verdict": "skip",
 "why": "1.78 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.29 km from flat, 7.91 km from Schlesisches Tor (pin)",
 "title": "Großes WG-Zimmer in Johannisthal (24,11 m2) – FLINTA-WG mit Pepper 🐈"
+},
+{
+"time": "2026-11-04 13:55",
+"id": "13506683",
+"verdict": "skip",
+"why": "10.66 km from flat, 10.15 km from Schlesisches Tor (pin)",
+"title": "🏡 WG mit Garten+Terrasse+Anmeldung | 15min-> Ostkreuz| 14 min->Neukölln| 9 min->"
 }
 ]
