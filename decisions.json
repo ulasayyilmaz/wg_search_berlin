@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 09:10",
-"id": "14261743",
-"verdict": "skip",
-"why": "9.96 km from Schlesisches Tor",
-"title": "Möbliertes Zimmer/Furnished Room in Neukölln (ab 1. November, 6 Monate, Verlänge"
-},
-{
-"time": "2026-11-01 09:15",
-"id": "14303617",
-"verdict": "skip",
-"why": "6.50 km from Möckernbrücke",
-"title": "Furnished Room Available in an international WG | Anmeldung Available | 630 all "
-},
-{
 "time": "2026-11-01 09:15",
 "id": "14229695",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.19 km from flat, 6.34 km from Kottbusser Tor (pin)",
 "title": "4er Berufstätigen-WG im Prenzlauer Berg sucht 2 neue Mitbewohner*innen!"
+},
+{
+"time": "2026-11-04 08:50",
+"id": "14315073",
+"verdict": "skip",
+"why": "6.11 km from flat, 6.27 km from Kottbusser Tor (street)",
+"title": "4er Berufstätigen-WG im Prenzlauer Berg sucht 2 neue Mitbewohner*innen!"
+},
+{
+"time": "2026-11-04 08:50",
+"id": "14312880",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Richardstraße"
 }
 ]
