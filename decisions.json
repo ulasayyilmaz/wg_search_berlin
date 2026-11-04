@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-01 16:50",
-"id": "11347772",
-"verdict": "skip",
-"why": "6.81 km from Schlesisches Tor",
-"title": "Room in spacious 2-person shared flat in Weißensee"
-},
-{
-"time": "2026-11-01 17:01",
-"id": "12565829",
-"verdict": "skip",
-"why": "6.67 km from Möckernbrücke",
-"title": "Zimmer in Altbau"
-},
-{
-"time": "2026-11-01 17:10",
-"id": "14291510",
-"verdict": "skip",
-"why": "14.66 km from Möckernbrücke",
-"title": "Internationale Wohlfühl WG ab 01.12 (Internationals Welcome)"
-},
-{
 "time": "2026-11-01 17:10",
 "id": "14293442",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "2.76 km from flat, 2.42 km from Görlitzer Bahnhof (pin)",
 "title": "Möbliertes Zimmer mit Balkon in Schillerkiez"
+},
+{
+"time": "2026-11-04 19:30",
+"id": "14316256",
+"verdict": "skip",
+"why": "6.71 km from flat, 4.16 km from Möckernbrücke (pin)",
+"title": "WG Zi. 18 qm möbliert befristet 15.11. - 28.03.27"
+},
+{
+"time": "2026-11-04 19:31",
+"id": "14316268",
+"verdict": "skip",
+"why": "3.01 km from flat, 2.82 km from Schlesisches Tor (pin)",
+"title": "Mittelfristige Untervermietung in LGTBI WG w / 2 Personen. 3 Zimmer, Wohnzimmer,"
+},
+{
+"time": "2026-11-04 19:31",
+"id": "14290449",
+"verdict": "skip",
+"why": "3.74 km from flat, 3.84 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer, Prenzlauer Berg, ab sofort"
 }
 ]
