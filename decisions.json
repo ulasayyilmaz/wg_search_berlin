@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 12:30",
-"id": "14283707",
-"verdict": "skip",
-"why": "6.96 km from Möckernbrücke",
-"title": "WG-Zimmer zur Zwischenmiete"
-},
-{
 "time": "2026-11-01 12:40",
 "id": "12835087",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.41 km from flat, 5.36 km from Prinzenstraße (pin)",
 "title": "Berlin am Mauerpark, Prenzlauer Berg ab VB 1Dezember, 1 WG Zimmer 13qm"
+},
+{
+"time": "2026-11-04 13:30",
+"id": "14211758",
+"verdict": "skip",
+"why": "14.00 km from flat, 13.50 km from Prinzenstraße (pin)",
+"title": "ca. 50 (-70)m2 in 130m2 Einfamilienhaus (ca. 10+40(+20)m2); S2-Bahn nah (5min zu"
 }
 ]
