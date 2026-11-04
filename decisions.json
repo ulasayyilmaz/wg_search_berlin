@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 11:25",
-"id": "14303721",
-"verdict": "skip",
-"why": "6.01 km from Schlesisches Tor",
-"title": "1 Raum für regelmäßige Miete & Seelenfrieden"
-},
-{
 "time": "2026-11-01 11:35",
 "id": "14303790",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "female only [flat 1.82 km, U Schlesisches Tor 1.44 km, pin]",
 "title": "Wg zimmer in Fridrichshain Short Term"
+},
+{
+"time": "2026-11-04 11:30",
+"id": "14201667",
+"verdict": "skip",
+"why": "2.64 km from flat, 2.10 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer zur Zwischenmiete in Friedrichshain"
 }
 ]
