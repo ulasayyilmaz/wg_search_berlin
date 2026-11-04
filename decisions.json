@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 00:20",
-"id": "14301416",
-"verdict": "skip",
-"why": "3.36 km from Möckernbrücke",
-"title": "MÖBLIERTER BETTPLATZ – BERLIN TEMPELHOF"
-},
-{
 "time": "2026-11-01 00:50",
 "id": "13674394",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.98 km from flat, 3.98 km from Prinzenstraße (pin)",
 "title": "💫 Prenzlauer Berg 21qm Zimmer sucht ♀︎Mitbewohnerin 01.12.2026 - 28.02.2027 even"
+},
+{
+"time": "2026-11-04 00:15",
+"id": "14248290",
+"verdict": "skip",
+"why": "7.57 km from flat, 7.17 km from Schlesisches Tor (pin)",
+"title": "(Dec 1 – Feb 10) 14m2 in 3-er WG - Kurzfristige Untervermietung"
 }
 ]
