@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-01 17:45",
-"id": "11677687",
-"verdict": "skip",
-"why": "1.18 km from Hallesches Tor",
-"title": "Möbliertes, ruhiges, helles Zimmer im Bergmann - Kiez zur Untermiete"
-},
-{
-"time": "2026-11-01 17:45",
-"id": "14259318",
-"verdict": "skip",
-"why": "female only",
-"title": "Helles und großes Zimmer in zentraler Lage - flexible Termine (Dezember-Januar)"
-},
-{
-"time": "2026-11-01 17:45",
-"id": "14170163",
-"verdict": "skip",
-"why": "3.76 km from Kottbusser Tor",
-"title": "Großes Zimmer in Zweier-WG"
-},
-{
 "time": "2026-11-01 17:55",
 "id": "9137712",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "7.85 km from flat, 5.25 km from Möckernbrücke (pin)",
 "title": "Schönes kleines WG-Zimmer in Top-Lage"
+},
+{
+"time": "2026-11-04 21:20",
+"id": "14316470",
+"verdict": "skip",
+"why": "2.11 km from flat, 1.82 km from Görlitzer Bahnhof (pin)",
+"title": "Wg Zimmer available from 20.11 to 29.12"
+},
+{
+"time": "2026-11-04 21:20",
+"id": "14316447",
+"verdict": "skip",
+"why": "2.63 km from flat, 2.07 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer in Friedrichshain (Nur für Frauen)"
+},
+{
+"time": "2026-11-04 21:20",
+"id": "14316467",
+"verdict": "skip",
+"why": "2.17 km from flat, 1.20 km from Prinzenstraße (pin)",
+"title": "Zimmer direkt am Südstern ab 23.11"
 }
 ]
