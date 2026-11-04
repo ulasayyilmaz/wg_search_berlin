@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-01 18:20",
-"id": "14279715",
-"verdict": "skip",
-"why": "1.40 km from Görlitzer Bahnhof",
-"title": "Mitbewohner:in gesucht für 4-5 Personen WG zwischen U Südstern und U Hermannplat"
-},
-{
-"time": "2026-11-01 18:30",
-"id": "14185357",
-"verdict": "skip",
-"why": "1.24 km from Kottbusser Tor",
-"title": "sonnenzimmer mit baclkon in kreuzberg bei gräfestr./urbanstr."
-},
-{
 "time": "2026-11-01 18:30",
 "id": "13826285",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "SENT",
 "why": " [flat 1.22 km, U Schlesisches Tor 0.66 km, pin]",
 "title": "WG Zimmer Friedrichshain"
+},
+{
+"time": "2026-11-04 21:40",
+"id": "11500751",
+"verdict": "skip",
+"why": "3.05 km from flat, 2.81 km from Görlitzer Bahnhof (pin)",
+"title": "Kurzzeitzimmer Herz von Neukölln"
+},
+{
+"time": "2026-11-04 21:40",
+"id": "14314182",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Klosterstraße, Berlin"
 }
 ]
