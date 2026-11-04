@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 10:01",
-"id": "10226245",
-"verdict": "skip",
-"why": "female only",
-"title": "Hell eingerichtetes Zimmer im Zentrum von Berlin-Kreuzberg | €600 All-Inclusive "
-},
-{
-"time": "2026-11-01 10:01",
 "id": "12546733",
 "verdict": "skip",
 "why": "3.40 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.12 km from flat, 2.64 km from Schlesisches Tor (pin)",
 "title": "Möbliertes WG-Zimmer am Treptower Park"
+},
+{
+"time": "2026-11-04 09:35",
+"id": "14178520",
+"verdict": "skip",
+"why": "3.63 km from flat, 3.29 km from Görlitzer Bahnhof (pin)",
+"title": "nach süden gerichtetes geräumiges zimmer in der nähe von tempelhofer feld"
 }
 ]
