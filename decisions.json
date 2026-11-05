@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 08:45",
-"id": "14297144",
-"verdict": "skip",
-"why": "5.82 km from Schlesisches Tor",
-"title": "zimmer für subtil in 2 geteilte wohnung (für mädchen)"
-},
-{
-"time": "2026-11-03 08:45",
 "id": "14290107",
 "verdict": "skip",
 "why": "5.51 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wilsnacker Straße, Berlin"
+},
+{
+"time": "2026-11-05 13:30",
+"id": "14315478",
+"verdict": "skip",
+"why": "4.35 km from flat, 4.37 km from Schlesisches Tor (pin)",
+"title": "Suche WG-Zimmer oder Wohnung in Köln (Tausch gegen WG-Zimmer in Berlin, Prenzlau"
 }
 ]
