@@ -1,75 +1,5 @@
 [
 {
-"time": "2026-11-01 21:50",
-"id": "12047042",
-"verdict": "skip",
-"why": "no location",
-"title": "WG-Zimmer in Neukölln"
-},
-{
-"time": "2026-11-01 21:50",
-"id": "11745476",
-"verdict": "skip",
-"why": "8.92 km from Möckernbrücke",
-"title": "WG-Zimmer für katholische Studenten"
-},
-{
-"time": "2026-11-01 21:50",
-"id": "14304865",
-"verdict": "skip",
-"why": "7.56 km from Schlesisches Tor",
-"title": "3 er WG in Niederschöneweide Schnellerstr."
-},
-{
-"time": "2026-11-01 22:01",
-"id": "9561431",
-"verdict": "skip",
-"why": "starts 01.02.2027",
-"title": "Room Kreuzberg / Mitte 2er WG"
-},
-{
-"time": "2026-11-01 22:30",
-"id": "14269436",
-"verdict": "skip",
-"why": "3.60 km from Möckernbrücke",
-"title": "Available immediately, Short term sublet - November- December only"
-},
-{
-"time": "2026-11-01 22:30",
-"id": "14304961",
-"verdict": "skip",
-"why": "1.23 km from Schlesisches Tor",
-"title": "5.12-17.1 quiet room in shared flat close to Boxi & RAW -22sqm"
-},
-{
-"time": "2026-11-01 22:30",
-"id": "4677910",
-"verdict": "skip",
-"why": "9.48 km from Schlesisches Tor",
-"title": "Adlershof 1 Zimmer / 1 Zimmer"
-},
-{
-"time": "2026-11-01 22:35",
-"id": "11911120",
-"verdict": "skip",
-"why": "3.19 km from Görlitzer Bahnhof",
-"title": "Sunny 25m2 Studio like Room in Artistic WG – Aug"
-},
-{
-"time": "2026-11-01 22:35",
-"id": "14237743",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - WG069.02 Petersburger Straße"
-},
-{
-"time": "2026-11-01 22:55",
-"id": "14305005",
-"verdict": "skip",
-"why": "3.70 km from Schlesisches Tor",
-"title": "one month sublet november to december"
-},
-{
 "time": "2026-11-01 23:10",
 "id": "10247921",
 "verdict": "skip",
@@ -3498,5 +3428,75 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Platanenweg, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "13888837",
+"verdict": "skip",
+"why": "4.79 km from flat, 1.61 km from Möckernbrücke (pin)",
+"title": "schönes Zimmer zur Zwischenmiete in Schöneberg"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "7888463",
+"verdict": "skip",
+"why": "2.78 km from flat, 2.39 km from Schlesisches Tor (street)",
+"title": "Perfekt für Praktikanten: Zimmer in Friedrichshain, möbliert - Room in Friedrich"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319487",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Treskowallee, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319486",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Detmolder Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319542",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Reginhardstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319629",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müggelheimer Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319615",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319621",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Suhler Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319612",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:40",
+"id": "14319575",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Scharnweberstraße, Berlin"
 }
 ]
