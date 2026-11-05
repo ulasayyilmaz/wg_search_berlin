@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-03 08:20",
-"id": "12465806",
-"verdict": "skip",
-"why": "starts 24.12.2026",
-"title": "Short term 25m2 room in Berlin Kreuzberg!"
-},
-{
-"time": "2026-11-03 08:20",
-"id": "11902792",
-"verdict": "skip",
-"why": "3.98 km from Görlitzer Bahnhof",
-"title": "Kurzzeitmiete Langes Zimmer in Neukölln mit Sonnenbalkon free"
-},
-{
-"time": "2026-11-03 08:25",
-"id": "14284176",
-"verdict": "skip",
-"why": "10.73 km from Möckernbrücke",
-"title": "Zimmer in 3er Wg in Berlin in ruhiger lage :)"
-},
-{
-"time": "2026-11-03 08:25",
-"id": "14311133",
-"verdict": "skip",
-"why": "5.66 km from Schlesisches Tor",
-"title": "Wg Zimmer in 3er Wg"
-},
-{
 "time": "2026-11-03 08:25",
 "id": "11473599",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-05 13:01",
+"id": "13168365",
+"verdict": "skip",
+"why": "7.38 km from flat, 4.09 km from Möckernbrücke (pin)",
+"title": "4er-WG-Neugründung in großer 5-Zimmer-Wohnung"
+},
+{
+"time": "2026-11-05 13:01",
+"id": "10505929",
+"verdict": "skip",
+"why": "4.33 km from flat, 1.94 km from Möckernbrücke (pin)",
+"title": "Gemütliches Zimmer in 3er WG in Kreuz-Tempelhof für 2 Wochen"
+},
+{
+"time": "2026-11-05 13:01",
+"id": "14320750",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Waldstraße, Berlin"
+},
+{
+"time": "2026-11-05 13:01",
+"id": "14319571",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Herthastraße, Berlin"
 }
 ]
