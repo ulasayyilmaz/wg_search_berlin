@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 08:25",
-"id": "11473599",
-"verdict": "skip",
-"why": "1.83 km from Görlitzer Bahnhof",
-"title": "Schönes & Geräumiges Zimmer in Neukölln, 6 Monate"
-},
-{
 "time": "2026-11-03 08:30",
 "id": "14307738",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Herthastraße, Berlin"
+},
+{
+"time": "2026-11-05 13:05",
+"id": "14316633",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Dominicusstraße WG103.03"
 }
 ]
