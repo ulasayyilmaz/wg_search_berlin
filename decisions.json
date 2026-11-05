@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 13:35",
-"id": "14311755",
-"verdict": "skip",
-"why": "7.06 km from Schlesisches Tor",
-"title": "Möbliertes WG-Zimmer befristet ruhige 2er-WG in Berlin-Pankow"
-},
-{
 "time": "2026-11-03 13:40",
 "id": "12131405",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.28 km from flat, 4.45 km from Möckernbrücke (pin)",
 "title": "Ruhige WG in selbstverwalteter Hausgemeinschaft"
+},
+{
+"time": "2026-11-05 17:05",
+"id": "14322962",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Stromstraße, Berlin"
 }
 ]
