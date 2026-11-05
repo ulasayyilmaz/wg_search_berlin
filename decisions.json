@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 18:31",
-"id": "12001399",
-"verdict": "skip",
-"why": "11.12 km from flat, 9.27 km from Möckernbrücke (street)",
-"title": "Möbliertes WG-Zimmer in gemütlicher 3-Zimmer DG-Wohnung (Frauen-WG, befristet)"
-},
-{
-"time": "2026-11-03 18:31",
 "id": "13882440",
 "verdict": "skip",
 "why": "11.04 km from flat, 9.39 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.83 km from flat, 2.49 km from Görlitzer Bahnhof (pin)",
 "title": "Helles 25qm Zimmer in sanierter 82qm 2er WG"
+},
+{
+"time": "2026-11-05 23:20",
+"id": "14322922",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wiebestraße, Berlin"
 }
 ]
