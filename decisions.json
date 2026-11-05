@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 18:01",
-"id": "14304440",
-"verdict": "skip",
-"why": "9.43 km from flat, 6.23 km from Möckernbrücke (pin)",
-"title": "Großzügiges, helles Zimmer in 4er-WG in Charlottenburg"
-},
-{
 "time": "2026-11-03 18:15",
 "id": "14312278",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Lutherstraße, Berlin"
+},
+{
+"time": "2026-11-05 22:15",
+"id": "14324145",
+"verdict": "skip",
+"why": "5.39 km from flat, 2.54 km from Möckernbrücke (pin)",
+"title": "Zimmer in 2er WG"
 }
 ]
