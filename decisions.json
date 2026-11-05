@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 18:31",
-"id": "13882440",
-"verdict": "skip",
-"why": "11.04 km from flat, 9.39 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer im Grünen - nahe FU"
-},
-{
-"time": "2026-11-03 18:31",
 "id": "14312290",
 "verdict": "skip",
 "why": "7.15 km from flat, 6.54 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wiebestraße, Berlin"
+},
+{
+"time": "2026-11-05 23:45",
+"id": "14324173",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Stephanstraße 28.4"
 }
 ]
