@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 11:25",
-"id": "13081858",
-"verdict": "skip",
-"why": "4.24 km from Schlesisches Tor",
-"title": "Zentrales WG-Zimmer nahe Ostkreuz/ 650€ pro Monat/ Alles Inklusive"
-},
-{
-"time": "2026-11-03 11:25",
 "id": "14311464",
 "verdict": "skip",
 "why": "4.80 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.61 km from flat, 5.88 km from Möckernbrücke (pin)",
 "title": "Zimmer in Hochzeit | Frauen WG | Balkon | Jetzt verfügbar"
+},
+{
+"time": "2026-11-05 15:15",
+"id": "14320752",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hackenbergstraße, Berlin"
 }
 ]
