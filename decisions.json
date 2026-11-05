@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-03 14:20",
-"id": "12003428",
-"verdict": "skip",
-"why": "5.86 km from Schlesisches Tor",
-"title": "Mansardenzimmer"
-},
-{
-"time": "2026-11-03 14:20",
-"id": "10761652",
-"verdict": "skip",
-"why": "118.28 km from Möckernbrücke",
-"title": "20 m2 Zimmer in 3er Gemeinschaft mit Wohnzimmer"
-},
-{
-"time": "2026-11-03 14:30",
-"id": "4655305",
-"verdict": "skip",
-"why": "3.00 km from Möckernbrücke",
-"title": "11 m2 Zimmer in 3er Gemeinschaft mit Wohnzimmer"
-},
-{
-"time": "2026-11-03 14:31",
-"id": "10614487",
-"verdict": "skip",
-"why": "4.30 km from Möckernbrücke",
-"title": "WG-Zimmer in 2er WG mit eigenem Garten in Tempelhof - Zwischenmiete auch möglich"
-},
-{
 "time": "2026-11-03 14:40",
 "id": "10418428",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Stromstraße, Berlin"
+},
+{
+"time": "2026-11-05 17:55",
+"id": "14323668",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 0.74 km, U Kottbusser Tor 0.35 km, pin]",
+"title": "Neu gegründeter Student Flatshare - Renovierter Altbau bei Paul-Lincke-Ufer Kiez"
+},
+{
+"time": "2026-11-05 17:55",
+"id": "6478755",
+"verdict": "skip",
+"why": "14.73 km from flat, 11.81 km from Möckernbrücke (pin)",
+"title": "Quiet student room Berlin Spandau - Zimmermiete ab Januar/Februar 2027."
+},
+{
+"time": "2026-11-05 17:55",
+"id": "14319551",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "An der Wuhlheide, Berlin"
+},
+{
+"time": "2026-11-05 17:55",
+"id": "14321953",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Rainweg, Berlin"
 }
 ]
