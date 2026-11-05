@@ -1,68 +1,5 @@
 [
 {
-"time": "2026-11-01 23:30",
-"id": "13619881",
-"verdict": "SENT",
-"why": "short term but extension: 'extension may be possible'",
-"title": "kreuzberg zimmer in 5er wg, short term but an extension may be possible"
-},
-{
-"time": "2026-11-02 00:25",
-"id": "14305047",
-"verdict": "skip",
-"why": "3.84 km from Möckernbrücke",
-"title": "Großes Zimmer zu vermieten (keine Kaution)"
-},
-{
-"time": "2026-11-02 00:25",
-"id": "14207015",
-"verdict": "skip",
-"why": "6.70 km from Möckernbrücke",
-"title": "Ruhiges WG Zimmer Zwischenmiete ca 3 Monate ab jetzt- Februar/ März (flexibel)"
-},
-{
-"time": "2026-11-02 00:45",
-"id": "14266756",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Bornholmer Straße - Room 1"
-},
-{
-"time": "2026-11-02 01:05",
-"id": "14284555",
-"verdict": "skip",
-"why": "6.68 km from Möckernbrücke",
-"title": "Helles WG-Zimmer am Rathenauplatz / Kudamm ab 01.11.2026 – 550 € warm"
-},
-{
-"time": "2026-11-02 02:05",
-"id": "11468157",
-"verdict": "skip",
-"why": "3.03 km from Möckernbrücke",
-"title": "Möbliertes 24qm Zimmer in geräumiger Altbauwohnung in Berlin Schöneberg"
-},
-{
-"time": "2026-11-02 04:05",
-"id": "14288101",
-"verdict": "skip",
-"why": "4.28 km from Görlitzer Bahnhof",
-"title": "Cozy room in Berlin 😇"
-},
-{
-"time": "2026-11-02 05:35",
-"id": "14305081",
-"verdict": "skip",
-"why": "1.48 km from Görlitzer Bahnhof",
-"title": "Nur 1,5 Monate! Komplett eingerichtetes Zimmer in Neukölln (Hermannplatz)"
-},
-{
-"time": "2026-11-02 06:05",
-"id": "14164090",
-"verdict": "skip",
-"why": "6.31 km from Möckernbrücke",
-"title": "Helles 21 m2 WG-Zimmer in Blankenfelde-Mahlow – 500 € warm, alles inklusive"
-},
-{
 "time": "2026-11-02 07:01",
 "id": "9808780",
 "verdict": "skip",
@@ -3498,5 +3435,68 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Otto-Franke-Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "13433811",
+"verdict": "skip",
+"why": "4.99 km from flat, 3.53 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer mit Balkon in perfekter Lage"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319787",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilhelmstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319626",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Antonienstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319532",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Lutherstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319617",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319638",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müggelheimer Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319506",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Buschkrugallee, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319792",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schierker Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:50",
+"id": "14319619",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Lindhorstweg, Berlin"
 }
 ]
