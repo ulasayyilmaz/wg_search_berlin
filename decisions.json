@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 13:55",
-"id": "14311786",
-"verdict": "skip",
-"why": "2.06 km from Möckernbrücke",
-"title": "Schöneberg: 1 Zimmer, Wohnfläche 16 qm für 2 Monate"
-},
-{
-"time": "2026-11-03 14:10",
-"id": "8839662",
-"verdict": "skip",
-"why": "3.61 km from Schlesisches Tor",
-"title": "Ruhiges 26m2 Zimmer in doller 142m2 Altbauwohnung inkl. 27m2 grosser Wohnküche u"
-},
-{
 "time": "2026-11-03 14:20",
 "id": "12003428",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wilhelminenhofstraße, Berlin"
+},
+{
+"time": "2026-11-05 17:45",
+"id": "14196455",
+"verdict": "skip",
+"why": "7.34 km from flat, 7.50 km from Kottbusser Tor (pin)",
+"title": "kleines Zimmer zum vermieten"
+},
+{
+"time": "2026-11-05 17:45",
+"id": "14323002",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Stromstraße, Berlin"
 }
 ]
