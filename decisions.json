@@ -1,82 +1,5 @@
 [
 {
-"time": "2026-11-01 21:15",
-"id": "13030764",
-"verdict": "skip",
-"why": "8.36 km from Schlesisches Tor",
-"title": "Room für Übernachtung"
-},
-{
-"time": "2026-11-01 21:15",
-"id": "12995353",
-"verdict": "skip",
-"why": "4.33 km from Möckernbrücke",
-"title": "Mitbewohner(in) Wilmersdorf, 12m2 410€"
-},
-{
-"time": "2026-11-01 21:15",
-"id": "14259602",
-"verdict": "skip",
-"why": "2.05 km from Schlesisches Tor",
-"title": "Sonniges 24 qm Altbauzimmer in Neukölln – Verlängerung möglich"
-},
-{
-"time": "2026-11-01 21:20",
-"id": "11817551",
-"verdict": "skip",
-"why": "4.66 km from Möckernbrücke",
-"title": "Helles, möbliertes, gut angebundenes WG-Zimmer"
-},
-{
-"time": "2026-11-01 21:30",
-"id": "9608512",
-"verdict": "skip",
-"why": "7.82 km from Schlesisches Tor",
-"title": "Subleasing a furnished room in a female 2-WG (for 1 Month 9th November to 9th De"
-},
-{
-"time": "2026-11-01 21:30",
-"id": "13962611",
-"verdict": "skip",
-"why": "no location",
-"title": "Beautiful room in a music house. Artists ( and cats ) are welcome!"
-},
-{
-"time": "2026-11-01 21:35",
-"id": "9672844",
-"verdict": "skip",
-"why": "5.16 km from Möckernbrücke",
-"title": "Zimmer im Wedding in netter Wg :)"
-},
-{
-"time": "2026-11-01 21:35",
-"id": "8302473",
-"verdict": "skip",
-"why": "10.21 km from Görlitzer Bahnhof",
-"title": "1 großes helles Zimmer in Rudow/Stadtgrenze"
-},
-{
-"time": "2026-11-01 21:35",
-"id": "14304860",
-"verdict": "skip",
-"why": "4.91 km from Hallesches Tor",
-"title": "Liebe Mitbewohnerin für WG mit Katzen gesucht!"
-},
-{
-"time": "2026-11-01 21:40",
-"id": "9820665",
-"verdict": "skip",
-"why": "5.29 km from Möckernbrücke",
-"title": "teilmöbliertes 10qm Zimmer in 3er-WG in Friedenau"
-},
-{
-"time": "2026-11-01 21:50",
-"id": "12695682",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "Studenten in genialem Haus suchen neuen Mitbewohner"
-},
-{
 "time": "2026-11-01 21:50",
 "id": "12047042",
 "verdict": "skip",
@@ -3498,5 +3421,82 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zechliner Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319598",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schloßstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319550",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Glienicker Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319595",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sterndamm, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319513",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Flughafenstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319564",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Silberberger Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319533",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Johanna-Tesch-Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319602",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Dörpfeldstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319614",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319609",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319489",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sternstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:35",
+"id": "14319600",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Platanenweg, Berlin"
 }
 ]
