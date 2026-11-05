@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 05:45",
-"id": "2790647",
-"verdict": "skip",
-"why": "1.38 km from Möckernbrücke",
-"title": "Schönes Zimmer mit Hochetage in Schöneberg"
-},
-{
 "time": "2026-11-03 06:58",
 "id": "14311054",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Braunlager Straße, Berlin"
+},
+{
+"time": "2026-11-05 12:25",
+"id": "14319592",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sterndamm, Berlin"
 }
 ]
