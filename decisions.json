@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 16:45",
-"id": "14312091",
-"verdict": "skip",
-"why": "3.84 km from Möckernbrücke (pin)",
-"title": "Weihnachtszeit in Berlin"
-},
-{
 "time": "2026-11-03 16:55",
 "id": "8080871",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.12 km from flat, 3.32 km from Hallesches Tor (pin)",
 "title": "Bright room in a shared Apartment for rent (short term) - Berlin Mitte"
+},
+{
+"time": "2026-11-05 20:30",
+"id": "14319627",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Antonienstraße, Berlin"
 }
 ]
