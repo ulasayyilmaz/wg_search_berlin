@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-02 11:20",
-"id": "12274477",
-"verdict": "skip",
-"why": "5.79 km from Schlesisches Tor",
-"title": "WG-Zimmer Nähe S-Bahn Friedrichsfelde Ost"
-},
-{
-"time": "2026-11-02 11:31",
-"id": "14279782",
-"verdict": "skip",
-"why": "female only",
-"title": "Gemütliches Zimmer mit Balkon in der Nähe von Maybachufer 🌿 | November (mögliche"
-},
-{
 "time": "2026-11-02 11:31",
 "id": "14307487",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hohenzollerndamm, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319590",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Mittelstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319815",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Badensche Straße, Berlin"
 }
 ]
