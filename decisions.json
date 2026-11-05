@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 15:05",
-"id": "13488868",
-"verdict": "skip",
-"why": "7.33 km from Möckernbrücke",
-"title": "AB SOFORT - Sehr flexible miete - gemütliche WG Zimmer in großem Haus mit Garten"
-},
-{
 "time": "2026-11-03 15:40",
 "id": "14311973",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Kamminer Straße, Berlin"
+},
+{
+"time": "2026-11-05 18:20",
+"id": "14320480",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
