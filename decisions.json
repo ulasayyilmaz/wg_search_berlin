@@ -1,47 +1,5 @@
 [
 {
-"time": "2026-11-02 12:55",
-"id": "14307660",
-"verdict": "skip",
-"why": "9.75 km from Schlesisches Tor",
-"title": "Nahe HU – 2er-WG, ruhig & grün, schöner Kiez, top angebunden – mit Anmeldung"
-},
-{
-"time": "2026-11-02 12:55",
-"id": "10766120",
-"verdict": "skip",
-"why": "2.79 km from Schlesisches Tor",
-"title": "möbliertes Zimmer in 3er WG"
-},
-{
-"time": "2026-11-02 13:15",
-"id": "14191144",
-"verdict": "skip",
-"why": "8.71 km from Möckernbrücke",
-"title": "Studenten-WG in Steglitz"
-},
-{
-"time": "2026-11-02 13:20",
-"id": "10751781",
-"verdict": "skip",
-"why": "3.49 km from Schlesisches Tor",
-"title": "Zimmer in 2 Personen WG"
-},
-{
-"time": "2026-11-02 13:20",
-"id": "13000784",
-"verdict": "skip",
-"why": "8.49 km from Möckernbrücke",
-"title": "Schönes WG Zimmer in Berlin Charlottenburg"
-},
-{
-"time": "2026-11-02 13:25",
-"id": "2401277",
-"verdict": "skip",
-"why": "3.50 km from Schlesisches Tor",
-"title": "23qm room in Prenzlauer Berg near Alexander Platz. Top Lage!"
-},
-{
 "time": "2026-11-02 13:25",
 "id": "14307722",
 "verdict": "skip",
@@ -3498,5 +3456,47 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Ratiborstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:01",
+"id": "13552961",
+"verdict": "skip",
+"why": "4.53 km from flat, 4.54 km from Schlesisches Tor (pin)",
+"title": "suche Mitbewohnerin für das frei werdendes Zimmer in meiner 2er WG in Prenzlauer"
+},
+{
+"time": "2026-11-05 09:01",
+"id": "12039783",
+"verdict": "skip",
+"why": "6.91 km from flat, 4.27 km from Möckernbrücke (pin)",
+"title": "Zimmer frei in entspannter 4er-WG – Wir suchen dich!"
+},
+{
+"time": "2026-11-05 09:01",
+"id": "14319791",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:01",
+"id": "14316642",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Silberberger Straße 78.4"
+},
+{
+"time": "2026-11-05 09:01",
+"id": "14319585",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schürstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:01",
+"id": "14319566",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Silberberger Straße, Berlin"
 }
 ]
