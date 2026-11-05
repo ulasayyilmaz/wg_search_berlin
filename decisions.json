@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 11:35",
-"id": "14311502",
-"verdict": "skip",
-"why": "4.84 km from Möckernbrücke",
-"title": "20 m2 Zimmer in gemütlicher 2er-WG in Moabit – ab 16.12."
-},
-{
-"time": "2026-11-03 11:35",
-"id": "14165070",
-"verdict": "skip",
-"why": "6.09 km from Schlesisches Tor",
-"title": "Beautiful spacious room"
-},
-{
-"time": "2026-11-03 11:35",
-"id": "5885213",
-"verdict": "SENT",
-"why": "",
-"title": "Furnished room in Kreuzberg"
-},
-{
 "time": "2026-11-03 12:05",
 "id": "9796976",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Detmolder Straße, Berlin"
+},
+{
+"time": "2026-11-05 15:40",
+"id": "14133507",
+"verdict": "skip",
+"why": "female only: 'flinta' [flat 1.08 km, U Kottbusser Tor 0.14 km, pin]",
+"title": "Flinta* Wg looking for a Flinta* flatmate"
+},
+{
+"time": "2026-11-05 15:40",
+"id": "8296842",
+"verdict": "skip",
+"why": "10.19 km from flat, 7.05 km from Möckernbrücke (pin)",
+"title": "Studentenverbindung in Dahlem sucht einen neuen Bewohner"
+},
+{
+"time": "2026-11-05 15:40",
+"id": "7848180",
+"verdict": "skip",
+"why": "temporary: zwischenmiete [flat 3.27 km, U Möckernbrücke 0.95 km, pin]",
+"title": "SHORT time rent 5 WEEKS- Zwischenmiete -möbliert- Super Schöne Wohnung im Bergma"
 }
 ]
