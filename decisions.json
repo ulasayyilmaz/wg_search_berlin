@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 12:30",
-"id": "14311587",
-"verdict": "skip",
-"why": "5.11 km from Möckernbrücke",
-"title": "Helles, großzügiges 20 m2 Zimmer in entspannter WG"
-},
-{
 "time": "2026-11-03 12:35",
 "id": "13369501",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 16:25",
+"id": "14320739",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilsnacker Straße, Berlin"
 }
 ]
