@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 19:55",
-"id": "13484740",
-"verdict": "skip",
-"why": "3.20 km from Schlesisches Tor",
-"title": "Central Room + Living Room & Balcony @ Mitte / Prenzlauer Berg"
-},
-{
 "time": "2026-11-01 20:00",
 "id": "14304688",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.99 km from flat, 3.46 km from Schlesisches Tor (pin)",
 "title": "Room for Student - Room in Lichtenberg"
+},
+{
+"time": "2026-11-05 06:01",
+"id": "14059607",
+"verdict": "skip",
+"why": "6.34 km from flat, 4.84 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer mit Balkon in Tempelhof"
 }
 ]
