@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 16:25",
-"id": "14300504",
-"verdict": "skip",
-"why": "9.60 km from Möckernbrücke",
-"title": "🏡 Private 1-Zimmer-Wohnung ab 650 € | Möbliert | Ganze Wohnung optional mit Balk"
-},
-{
 "time": "2026-11-03 16:30",
 "id": "10291420",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Schwabstraße, Berlin"
+},
+{
+"time": "2026-11-05 19:55",
+"id": "14323830",
+"verdict": "skip",
+"why": "5.65 km from flat, 5.17 km from Schlesisches Tor (pin)",
+"title": "25-m2-Zimmer in 4er-WG in Baumschulenweg (möbliert)"
 }
 ]
