@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 08:30",
-"id": "14311173",
-"verdict": "skip",
-"why": "2.59 km from Möckernbrücke",
-"title": "WG-Zimmer verfügbar! (Only women)"
-},
-{
-"time": "2026-11-03 08:40",
-"id": "14311144",
-"verdict": "skip",
-"why": "3.57 km from Kottbusser Tor",
-"title": "Möbliertes Zimmer mit Wasserturmblick im Kollwitzkiez | Prenzlauer Berg | Zwisch"
-},
-{
-"time": "2026-11-03 08:40",
-"id": "14290223",
-"verdict": "skip",
-"why": "2.59 km from Schlesisches Tor",
-"title": "WG-Zimmer frei :-)"
-},
-{
 "time": "2026-11-03 08:45",
 "id": "14311190",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "7.38 km from flat, 4.09 km from Möckernbrücke (pin)",
 "title": "4er-WG-Neugründung in großer 5-Zimmer-Wohnung (Zimmer 1)"
+},
+{
+"time": "2026-11-05 13:20",
+"id": "14322886",
+"verdict": "skip",
+"why": "13.74 km from flat, 10.91 km from Möckernbrücke (pin)",
+"title": "1 Zimmer 460.-€"
+},
+{
+"time": "2026-11-05 13:20",
+"id": "14322889",
+"verdict": "skip",
+"why": "4.64 km from flat, 4.81 km from Kottbusser Tor (pin)",
+"title": "Schöne 2-Zimmer WG im Herzen von P-Berg :)"
+},
+{
+"time": "2026-11-05 13:20",
+"id": "13996397",
+"verdict": "SENT",
+"why": "has 'frei bis' end date but extension: 'verlängerung möglich' [flat 0.82 km, U Schlesisches Tor 0.93 km, pin]",
+"title": "Helles, zentral gelegenes, möbliertes 14m2-WG-Zimmer in Friedrichshain"
 }
 ]
