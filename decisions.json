@@ -1,40 +1,5 @@
 [
 {
-"time": "2026-11-02 20:50",
-"id": "14308692",
-"verdict": "skip",
-"why": "4.91 km from Görlitzer Bahnhof",
-"title": "Bright furnished room in Britz (Neukölln) February 2027 - June 2027"
-},
-{
-"time": "2026-11-02 20:50",
-"id": "11022641",
-"verdict": "skip",
-"why": "7.03 km from Möckernbrücke",
-"title": "⭐ Möbliertes Doppelzimmer in 3er-WG in Wedding mit ANMELDUNG – langfristig"
-},
-{
-"time": "2026-11-02 21:01",
-"id": "14308705",
-"verdict": "skip",
-"why": "4.91 km from Görlitzer Bahnhof",
-"title": "Bright furnished room in Britz (Neukölln) February 2027 - June 2027"
-},
-{
-"time": "2026-11-02 21:05",
-"id": "7877914",
-"verdict": "skip",
-"why": "1.18 km from Möckernbrücke",
-"title": "Centrum - schön u. sonnig ≈ ca.3 - ca.9 Monate"
-},
-{
-"time": "2026-11-02 21:05",
-"id": "13904560",
-"verdict": "skip",
-"why": "12.85 km from Schlesisches Tor",
-"title": "WG Zimmer Frauen - Haus im Grünen - 24/7 alle 10 min 1/2 h S Bahn bis Mitte"
-},
-{
 "time": "2026-11-02 21:05",
 "id": "13535637",
 "verdict": "skip",
@@ -3498,5 +3463,40 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zechliner Straße, Berlin"
+},
+{
+"time": "2026-11-05 10:55",
+"id": "14319567",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sterndamm, Berlin"
+},
+{
+"time": "2026-11-05 10:55",
+"id": "14320486",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 10:55",
+"id": "14319596",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sterndamm, Berlin"
+},
+{
+"time": "2026-11-05 10:55",
+"id": "14319599",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Platanenweg, Berlin"
+},
+{
+"time": "2026-11-05 10:55",
+"id": "14319590",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Mittelstraße, Berlin"
 }
 ]
