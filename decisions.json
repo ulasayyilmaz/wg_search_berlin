@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 10:55",
-"id": "12015620",
-"verdict": "skip",
-"why": "female only",
-"title": "sonnenzimmer mit kleinem dachgarten im zentrum"
-},
-{
-"time": "2026-11-03 11:01",
-"id": "14269978",
-"verdict": "skip",
-"why": "3.32 km from Hallesches Tor",
-"title": "5 Wochen Untervermietung im Herzen von Berlin"
-},
-{
-"time": "2026-11-03 11:01",
-"id": "10784996",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "WG-Zimmer mit eigenem Bad und Kleiderkammer am Akazienkiez"
-},
-{
 "time": "2026-11-03 11:01",
 "id": "10078326",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "female only [flat 1.42 km, U Görlitzer Bahnhof 1.04 km, pin]",
 "title": "In Berlin ankommen in der süßesten WG!"
+},
+{
+"time": "2026-11-05 14:35",
+"id": "14323140",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Stromstraße, Berlin"
+},
+{
+"time": "2026-11-05 14:35",
+"id": "14319545",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zechliner Straße, Berlin"
+},
+{
+"time": "2026-11-05 14:35",
+"id": "14319777",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ratiborstraße, Berlin"
 }
 ]
