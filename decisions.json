@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 19:25",
-"id": "14304653",
-"verdict": "skip",
-"why": "1.64 km from Schlesisches Tor",
-"title": "Boxhagener Platz 01.11 - 31.12"
-},
-{
-"time": "2026-11-01 19:25",
 "id": "14304616",
 "verdict": "skip",
 "why": "14.01 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.38 km from flat, 3.03 km from Möckernbrücke (street)",
 "title": "Sublet Nähe Brandenburger Tor"
+},
+{
+"time": "2026-11-05 04:50",
+"id": "9705169",
+"verdict": "skip",
+"why": "8.25 km from flat, 5.24 km from Möckernbrücke (pin)",
+"title": "Suche Frau!! für nette Frauen -Zweck-Wg, ab 1.2.27 - 30.4.27 580€"
 }
 ]
