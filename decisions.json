@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 17:20",
-"id": "14312164",
-"verdict": "skip",
-"why": "5.33 km from Möckernbrücke (street)",
-"title": "Untervermietung meines Zimmers in Moabit - Langfristig"
-},
-{
 "time": "2026-11-03 17:25",
 "id": "14312209",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Buschkrugallee, Berlin"
+},
+{
+"time": "2026-11-05 21:05",
+"id": "14323943",
+"verdict": "skip",
+"why": "2.10 km from flat, 1.87 km from Görlitzer Bahnhof (pin)",
+"title": "WG ZIMMER in Neükolln"
 }
 ]
