@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-02 08:01",
-"id": "14169748",
-"verdict": "skip",
-"why": "7.76 km from Möckernbrücke",
-"title": "Lichtdurchflutetes WG-Zimmer (25qm) mit Balkon"
-},
-{
-"time": "2026-11-02 08:05",
-"id": "14035759",
-"verdict": "skip",
-"why": "6.59 km from Görlitzer Bahnhof",
-"title": "Schlafgelegenheit für einzelne Tage"
-},
-{
 "time": "2026-11-02 08:05",
 "id": "14307103",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Lienemannstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:01",
+"id": "14319769",
+"verdict": "skip",
+"why": "3.49 km from flat, 2.88 km from Schlesisches Tor (pin)",
+"title": "Gemütliches 22qm Zimmer mit Balkon!!"
+},
+{
+"time": "2026-11-05 08:01",
+"id": "14319568",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sterndamm, Berlin"
 }
 ]
