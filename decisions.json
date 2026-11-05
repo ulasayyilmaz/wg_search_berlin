@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 17:40",
-"id": "14175660",
-"verdict": "skip",
-"why": "5.49 km from flat, 2.28 km from Möckernbrücke (pin)",
-"title": "Top Location! Schöneberg, Berlin"
-},
-{
-"time": "2026-11-03 17:40",
 "id": "14312126",
 "verdict": "SENT",
 "why": " [flat 2.30 km, U Hallesches Tor 0.88 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.84 km from flat, 5.83 km from Möckernbrücke (pin)",
 "title": "Kleines WG Zimmer in Wilmersdorf (ab 1. Dez oder 1. Jan)"
+},
+{
+"time": "2026-11-05 21:45",
+"id": "14324014",
+"verdict": "skip",
+"why": "5.66 km from flat, 5.02 km from Schlesisches Tor (pin)",
+"title": "stw dormitory room in Lichtenberg"
 }
 ]
