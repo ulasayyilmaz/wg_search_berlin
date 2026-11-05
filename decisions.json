@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 19:25",
-"id": "14304616",
-"verdict": "skip",
-"why": "14.01 km from Schlesisches Tor",
-"title": "Untermiete in Haus WG mit Garten, unbefristet möglich"
-},
-{
 "time": "2026-11-01 19:55",
 "id": "13484740",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.25 km from flat, 5.24 km from Möckernbrücke (pin)",
 "title": "Suche Frau!! für nette Frauen -Zweck-Wg, ab 1.2.27 - 30.4.27 580€"
+},
+{
+"time": "2026-11-05 05:30",
+"id": "14059699",
+"verdict": "skip",
+"why": "3.99 km from flat, 3.46 km from Schlesisches Tor (pin)",
+"title": "Room for Student - Room in Lichtenberg"
 }
 ]
