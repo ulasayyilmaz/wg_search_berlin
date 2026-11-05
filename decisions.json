@@ -1,89 +1,5 @@
 [
 {
-"time": "2026-11-02 09:59",
-"id": "14307266",
-"verdict": "skip",
-"why": "5.65 km from Hallesches Tor",
-"title": "befristetes Zimmer Berlin Wedding (02.2027-07.2027)"
-},
-{
-"time": "2026-11-02 09:59",
-"id": "14231819",
-"verdict": "skip",
-"why": "3.13 km from Möckernbrücke",
-"title": "WG-Zimmer bis 12 Monate in Berlin-Schöneberg"
-},
-{
-"time": "2026-11-02 10:10",
-"id": "11419613",
-"verdict": "skip",
-"why": "5.50 km from Schlesisches Tor",
-"title": "you need a sublet for Christmas to new year in berlin?"
-},
-{
-"time": "2026-11-02 10:10",
-"id": "14293847",
-"verdict": "skip",
-"why": "5.61 km from Möckernbrücke",
-"title": "Hundefreundliche Mitbewohnerin gesucht"
-},
-{
-"time": "2026-11-02 10:10",
-"id": "12184701",
-"verdict": "skip",
-"why": "11.94 km from Möckernbrücke",
-"title": "WG im grünen (C Bereich) + Wintergarten/Garten"
-},
-{
-"time": "2026-11-02 10:30",
-"id": "14027593",
-"verdict": "skip",
-"why": "2.40 km from Schlesisches Tor",
-"title": "vOlkSpArk Friedrichshain"
-},
-{
-"time": "2026-11-02 10:30",
-"id": "14034487",
-"verdict": "skip",
-"why": "2.40 km from Schlesisches Tor",
-"title": "vOlkSpark Friedrichshain"
-},
-{
-"time": "2026-11-02 10:35",
-"id": "12985669",
-"verdict": "skip",
-"why": "5.72 km from Schlesisches Tor",
-"title": "Helles WG-Zimmer (ca. 20 m2) in ruhiger Lage – Berlin [Karlshorst -Lichtenberg]"
-},
-{
-"time": "2026-11-02 10:35",
-"id": "14307355",
-"verdict": "skip",
-"why": "3.48 km from Görlitzer Bahnhof",
-"title": "A big room sublet in a queer Neukölln WG"
-},
-{
-"time": "2026-11-02 10:40",
-"id": "12640327",
-"verdict": "skip",
-"why": "12.22 km from Möckernbrücke",
-"title": "Big bright room in a 3 bedroom flat share"
-},
-{
-"time": "2026-11-02 10:55",
-"id": "7575059",
-"verdict": "skip",
-"why": "8.02 km from Möckernbrücke",
-"title": "MÄDCHEN NUR Möblierte Wohnung / Internationale WG"
-},
-{
-"time": "2026-11-02 11:01",
-"id": "11041608",
-"verdict": "skip",
-"why": "no location",
-"title": "Wg Zimmer verfügbar bis Ende 2026"
-},
-{
 "time": "2026-11-02 11:10",
 "id": "14307288",
 "verdict": "skip",
@@ -3498,5 +3414,89 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Karl-Marx-Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "6015095",
+"verdict": "skip",
+"why": "7.03 km from flat, 4.21 km from Möckernbrücke (street)",
+"title": "Friedenau in Altbau, Zimmer mit eig. Küche und eig. Eingang, all incl."
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319799",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Jansastraße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319817",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Residenzstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319507",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Buschkrugallee, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319576",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Scharnweberstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319528",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Rhinstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319593",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sterndamm, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319783",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319934",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Frobenstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319543",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Graf-Haeseler-Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319606",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Otto-Franke-Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:20",
+"id": "14319527",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hohenzollerndamm, Berlin"
 }
 ]
