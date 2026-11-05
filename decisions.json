@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 11:25",
-"id": "14311464",
-"verdict": "skip",
-"why": "4.80 km from Möckernbrücke",
-"title": "Suche Person zur Zwischenmiete"
-},
-{
-"time": "2026-11-03 11:25",
-"id": "14311265",
-"verdict": "skip",
-"why": "4.68 km from Möckernbrücke",
-"title": "WG Zimmer ab Dezember 2026"
-},
-{
 "time": "2026-11-03 11:35",
 "id": "14311502",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hackenbergstraße, Berlin"
+},
+{
+"time": "2026-11-05 15:25",
+"id": "14319488",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sternstraße, Berlin"
+},
+{
+"time": "2026-11-05 15:25",
+"id": "14319795",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Detmolder Straße, Berlin"
 }
 ]
