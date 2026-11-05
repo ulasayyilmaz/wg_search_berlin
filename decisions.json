@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 10:25",
-"id": "14310067",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Ostendstraße, Berlin"
-},
-{
-"time": "2026-11-03 10:35",
-"id": "14237499",
-"verdict": "skip",
-"why": "5.61 km from Schlesisches Tor",
-"title": "Helles Altbau-Zimmer in Weißensee, flexible dates"
-},
-{
 "time": "2026-11-03 10:55",
 "id": "12015620",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "7.63 km from flat, 4.44 km from Möckernbrücke (pin)",
 "title": "Mitbewohner gesucht"
+},
+{
+"time": "2026-11-05 14:31",
+"id": "12232596",
+"verdict": "skip",
+"why": "6.39 km from flat, 6.04 km from Hallesches Tor (pin)",
+"title": "6 Monate in der Euler WG"
+},
+{
+"time": "2026-11-05 14:31",
+"id": "14323286",
+"verdict": "skip",
+"why": "female only [flat 1.42 km, U Görlitzer Bahnhof 1.04 km, pin]",
+"title": "In Berlin ankommen in der süßesten WG!"
 }
 ]
