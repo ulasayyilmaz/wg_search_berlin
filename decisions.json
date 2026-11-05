@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 16:55",
-"id": "8080871",
-"verdict": "skip",
-"why": "9.32 km from Möckernbrücke (postcode)",
-"title": "** helle & moderne Wohnung / Temporäre Vermietung mit Anmeldung ist auch möglich"
-},
-{
-"time": "2026-11-03 17:20",
-"id": "14312171",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [Kottbusser Tor 0.35 km, pin]",
-"title": "Neu gegründeter Student Flatshare - Renovierter Altbau bei Paul-Lincke-Ufer Kiez"
-},
-{
 "time": "2026-11-03 17:20",
 "id": "14312175",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Antonienstraße, Berlin"
+},
+{
+"time": "2026-11-05 20:35",
+"id": "13461543",
+"verdict": "skip",
+"why": "14.01 km from flat, 12.45 km from Möckernbrücke (pin)",
+"title": "Zimmer in 3er WG in kleinem Haus mit großem Garten"
+},
+{
+"time": "2026-11-05 20:35",
+"id": "14322964",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Stromstraße, Berlin"
 }
 ]
