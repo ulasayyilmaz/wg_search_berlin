@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-02 12:30",
-"id": "14307117",
-"verdict": "skip",
-"why": "1.17 km from Görlitzer Bahnhof",
-"title": "Befristetes, unmöbliertes WG Zimmer im Reuterkiez (Erdgeschoss) Dezember bis Mär"
-},
-{
-"time": "2026-11-02 12:30",
-"id": "9849223",
-"verdict": "skip",
-"why": "1.72 km from Görlitzer Bahnhof",
-"title": "4er WG in Neukölln nah am Ring 23 qm"
-},
-{
-"time": "2026-11-02 12:40",
-"id": "14307617",
-"verdict": "skip",
-"why": "3.02 km from Möckernbrücke",
-"title": "Bright, Spacious Furnished Room in Schöneberg — Winter Sublet / Helles, geräumig"
-},
-{
-"time": "2026-11-02 12:40",
-"id": "11247328",
-"verdict": "skip",
-"why": "2.27 km from Schlesisches Tor",
-"title": "Möbiliertes WG-Zimmer mit Balkon zur Untermiete ab Dezember/2026"
-},
-{
 "time": "2026-11-02 12:55",
 "id": "14307660",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Audre-Lorde-Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:55",
+"id": "14319813",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Petersburger Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:55",
+"id": "14319793",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Schierker Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:55",
+"id": "14319633",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müggelheimer Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:55",
+"id": "14319774",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ratiborstraße, Berlin"
 }
 ]
