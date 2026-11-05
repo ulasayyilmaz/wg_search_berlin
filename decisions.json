@@ -1,40 +1,5 @@
 [
 {
-"time": "2026-11-02 18:35",
-"id": "14128990",
-"verdict": "skip",
-"why": "5.49 km from Möckernbrücke",
-"title": "Großes WG-Zimmer zur Untermiete"
-},
-{
-"time": "2026-11-02 18:40",
-"id": "7461185",
-"verdict": "skip",
-"why": "4.07 km from Kottbusser Tor",
-"title": "Gemütliches, sicheres, sonniges und sehr ruhiges Zimmer nahe Tempelhofer Feld Ne"
-},
-{
-"time": "2026-11-02 18:40",
-"id": "14308333",
-"verdict": "skip",
-"why": "7.62 km from Möckernbrücke",
-"title": "2er WG an der Grenze zu Wedding"
-},
-{
-"time": "2026-11-02 18:45",
-"id": "9648471",
-"verdict": "skip",
-"why": "4.80 km from Kottbusser Tor",
-"title": "Zimmer in Prenzlauer Berg in 3er WG - Befristet für 3-12 Monate mit Anmeldung / "
-},
-{
-"time": "2026-11-02 18:45",
-"id": "11919746",
-"verdict": "skip",
-"why": "13.31 km from Möckernbrücke",
-"title": "helles Zimmer, möbliert ab 02.12.26 , 550,00€ warm zu vermieten! mit sehr guter "
-},
-{
 "time": "2026-11-02 18:55",
 "id": "14036854",
 "verdict": "skip",
@@ -3498,5 +3463,40 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:41",
+"id": "14159873",
+"verdict": "skip",
+"why": "3.00 km from flat, 2.66 km from Görlitzer Bahnhof (pin)",
+"title": "Zwischenmiete im Schillerkiez"
+},
+{
+"time": "2026-11-05 09:41",
+"id": "14319779",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Lückstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:41",
+"id": "14319589",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Mittelstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:41",
+"id": "14319557",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hackenbergstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:41",
+"id": "14320741",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilsnacker Straße, Berlin"
 }
 ]
