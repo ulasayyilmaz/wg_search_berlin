@@ -1,40 +1,5 @@
 [
 {
-"time": "2026-11-03 07:55",
-"id": "14310072",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Rathenaustraße, Berlin"
-},
-{
-"time": "2026-11-03 08:05",
-"id": "5538314",
-"verdict": "skip",
-"why": "4.53 km from Möckernbrücke",
-"title": "Altbauzimmer mit Morgensonne"
-},
-{
-"time": "2026-11-03 08:10",
-"id": "14236850",
-"verdict": "skip",
-"why": "2.36 km from Schlesisches Tor",
-"title": "1 WG Zimmer befristet"
-},
-{
-"time": "2026-11-03 08:10",
-"id": "14311132",
-"verdict": "skip",
-"why": "4.13 km from Schlesisches Tor",
-"title": "Helles Privatzimmer in einem freundlichen 3-Girl WG - Verfügbar ab Dezember 2026"
-},
-{
-"time": "2026-11-03 08:10",
-"id": "12991747",
-"verdict": "skip",
-"why": "1.17 km from Schlesisches Tor",
-"title": "Modernes Zimmer mit Balkon Berlin Friedrichshain"
-},
-{
 "time": "2026-11-03 08:20",
 "id": "12465806",
 "verdict": "skip",
@@ -3498,5 +3463,40 @@
 "verdict": "skip",
 "why": "7.34 km from flat, 6.77 km from Möckernbrücke (pin)",
 "title": "Wohnung in Mitte / Hochzeit, zwei Zimmer zur Verfügung. Private Nachricht für we"
+},
+{
+"time": "2026-11-05 12:50",
+"id": "14322914",
+"verdict": "skip",
+"why": "7.10 km from flat, 3.94 km from Möckernbrücke (street)",
+"title": "Wohnung Beste Lage am Kdamm"
+},
+{
+"time": "2026-11-05 12:50",
+"id": "14322789",
+"verdict": "skip",
+"why": "5.25 km from flat, 1.93 km from Möckernbrücke (pin)",
+"title": "schöneberg: 2er wg sucht untermiete (flexibel, 600 all in)"
+},
+{
+"time": "2026-11-05 12:50",
+"id": "14318739",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kamminer Straße, Berlin"
+},
+{
+"time": "2026-11-05 12:50",
+"id": "14319493",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Damerowstraße, Berlin"
+},
+{
+"time": "2026-11-05 12:50",
+"id": "14319536",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
 }
 ]
