@@ -1,75 +1,5 @@
 [
 {
-"time": "2026-11-02 15:10",
-"id": "13878825",
-"verdict": "skip",
-"why": "10.58 km from Schlesisches Tor",
-"title": "WG-Zimmer nahe Adlershof (kurz- oder langfristig)"
-},
-{
-"time": "2026-11-02 15:10",
-"id": "14139696",
-"verdict": "skip",
-"why": "5.31 km from Möckernbrücke",
-"title": "klein aber feines Zimmer in großer Wohnung mit top Lage"
-},
-{
-"time": "2026-11-02 15:10",
-"id": "8539323",
-"verdict": "skip",
-"why": "no location",
-"title": "Ab sofort - Ruhiges Zimmer in Kreuzberg - *Oranienstraße* 🙂"
-},
-{
-"time": "2026-11-02 15:15",
-"id": "5000567",
-"verdict": "skip",
-"why": "1.86 km from Schlesisches Tor",
-"title": "unkomplizierte,-r und saubere,-r für 15qm möbliertes Zimmer in FHAIN"
-},
-{
-"time": "2026-11-02 15:15",
-"id": "8702321",
-"verdict": "skip",
-"why": "5.70 km from Möckernbrücke",
-"title": "Neben Charité/Virchow & Beuth HS ** Anmeldung möglich ** mit Fahrrad ** schön sa"
-},
-{
-"time": "2026-11-02 15:15",
-"id": "8080871",
-"verdict": "skip",
-"why": "no location",
-"title": "** helle & moderne Wohnung / Temporäre Vermietung mit Anmeldung ist auch möglich"
-},
-{
-"time": "2026-11-02 15:31",
-"id": "12319490",
-"verdict": "skip",
-"why": "1.95 km from Görlitzer Bahnhof",
-"title": "big comfy room with high ceilings until April 2027 or longer in Queer WG"
-},
-{
-"time": "2026-11-02 15:35",
-"id": "14063829",
-"verdict": "skip",
-"why": "4.42 km from Schlesisches Tor",
-"title": "BEWOHNERIN gesucht...bitte NUR deutschsprachig"
-},
-{
-"time": "2026-11-02 15:40",
-"id": "14308015",
-"verdict": "skip",
-"why": "4.44 km from Möckernbrücke",
-"title": "Huge and bright room in Moabit for November"
-},
-{
-"time": "2026-11-02 15:40",
-"id": "14308007",
-"verdict": "skip",
-"why": "13.28 km from Möckernbrücke",
-"title": "shared room in fully furnished apartment"
-},
-{
 "time": "2026-11-02 15:50",
 "id": "12268020",
 "verdict": "skip",
@@ -3498,5 +3428,75 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Koloniestraße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14260824",
+"verdict": "skip",
+"why": "6.89 km from flat, 3.66 km from Möckernbrücke (pin)",
+"title": "Möbliertes 25 m2 Zimmer in 150 m2 Wohnung in Charlottenburg – 11.11.–07.12."
+},
+{
+"time": "2026-11-05 09:20",
+"id": "8723279",
+"verdict": "skip",
+"why": "2.04 km from flat, 1.58 km from Schlesisches Tor (pin)",
+"title": "12qm am Boxi/Simon-Dach-Kiez"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14320489",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14319775",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ratiborstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14319498",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Lübbener Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14318717",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kamminer Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14319767",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hoffmannstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14320759",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hackenbergstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14320756",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilhelminenhofstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:20",
+"id": "14319549",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Glienicker Straße, Berlin"
 }
 ]
