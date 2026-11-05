@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 08:45",
-"id": "14311190",
-"verdict": "skip",
-"why": "10.12 km from Möckernbrücke",
-"title": "Zimmer in Steglitz Zehlendorf"
-},
-{
-"time": "2026-11-03 08:45",
 "id": "14297144",
 "verdict": "skip",
 "why": "5.82 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "SENT",
 "why": "has 'frei bis' end date but extension: 'verlängerung möglich' [flat 0.82 km, U Schlesisches Tor 0.93 km, pin]",
 "title": "Helles, zentral gelegenes, möbliertes 14m2-WG-Zimmer in Friedrichshain"
+},
+{
+"time": "2026-11-05 13:25",
+"id": "14320744",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilsnacker Straße, Berlin"
 }
 ]
