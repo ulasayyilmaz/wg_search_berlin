@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 19:05",
-"id": "9146636",
-"verdict": "skip",
-"why": "2.11 km from Görlitzer Bahnhof",
-"title": "WG Zimmer in 2er WG, Schillerkiez, 13 QM , entspannter männlicher Mitbewohner ge"
-},
-{
 "time": "2026-11-01 19:15",
 "id": "9097225",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Lienemannstraße 95.2"
+},
+{
+"time": "2026-11-05 00:30",
+"id": "14316734",
+"verdict": "skip",
+"why": "7.03 km from flat, 5.40 km from Möckernbrücke (pin)",
+"title": "gemütliches WG-Zimmer im Wedding (befristet)"
 }
 ]
