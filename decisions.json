@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 15:45",
-"id": "14312004",
-"verdict": "skip",
-"why": "5.02 km from Hallesches Tor",
-"title": "Berlin modern 2-room apartment in"
-},
-{
-"time": "2026-11-03 15:50",
-"id": "12185086",
-"verdict": "skip",
-"why": "3.06 km from Prinzenstraße",
-"title": "sehr schönes Zimmer in Berlin Mitte befristet für Vegetarier ."
-},
-{
 "time": "2026-11-03 16:01",
 "id": "14311995",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.48 km from flat, 3.22 km from Görlitzer Bahnhof (street)",
 "title": "🍓 FLINTA WG- Grosses helles Zimmer mit eigenem Balkon und Sonne ☀️OHNE Hund"
+},
+{
+"time": "2026-11-05 18:45",
+"id": "12385166",
+"verdict": "skip",
+"why": "3.78 km from flat, 3.46 km from Görlitzer Bahnhof (pin)",
+"title": "Big sunny room in Neukölln"
+},
+{
+"time": "2026-11-05 18:45",
+"id": "14319616",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
 }
 ]
