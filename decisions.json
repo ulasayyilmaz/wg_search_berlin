@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-01 23:10",
-"id": "10247921",
-"verdict": "skip",
-"why": "starts 02.12.2026",
-"title": "Schönes großes Zimmer in 4er Wg mit Wohnküche"
-},
-{
-"time": "2026-11-01 23:10",
-"id": "1478376",
-"verdict": "skip",
-"why": "2.30 km from Schlesisches Tor",
-"title": "Schönes WG Zimmer in Friedrichshain"
-},
-{
-"time": "2026-11-01 23:20",
-"id": "14259613",
-"verdict": "skip",
-"why": "13.19 km from Möckernbrücke",
-"title": "Modernisiertes, vollmöbliertes WG-Zimmer nahe Bahnhof Berlin-Spandau"
-},
-{
-"time": "2026-11-01 23:30",
-"id": "12007602",
-"verdict": "skip",
-"why": "3.10 km from Prinzenstraße",
-"title": "PENDLERZIMMER nur für unter der Woche!! - COMMUTER ROOM just on weekdays!!"
-},
-{
 "time": "2026-11-01 23:30",
 "id": "13619881",
 "verdict": "SENT",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Scharnweberstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:45",
+"id": "14319597",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Jägerstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:45",
+"id": "14319634",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müggelheimer Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:45",
+"id": "14319505",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Buschkrugallee, Berlin"
+},
+{
+"time": "2026-11-05 07:45",
+"id": "14319608",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Otto-Franke-Straße, Berlin"
 }
 ]
