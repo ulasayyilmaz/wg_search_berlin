@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 06:58",
-"id": "14311054",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date",
-"title": "nice room in Kreuzberg"
-},
-{
-"time": "2026-11-03 07:40",
-"id": "11266475",
-"verdict": "skip",
-"why": "4.43 km from Schlesisches Tor",
-"title": "12qm Zimmer in Prenzlauer Berg"
-},
-{
 "time": "2026-11-03 07:45",
 "id": "14311086",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Sterndamm, Berlin"
+},
+{
+"time": "2026-11-05 12:30",
+"id": "14316350",
+"verdict": "skip",
+"why": "5.11 km from flat, 4.80 km from Görlitzer Bahnhof (pin)",
+"title": "Longterm with Anmeldung WG in Neukölln"
+},
+{
+"time": "2026-11-05 12:31",
+"id": "14322666",
+"verdict": "skip",
+"why": "temporary: befristet [flat 1.24 km, U Kottbusser Tor 0.59 km, pin]",
+"title": "Möbiliertes WG Zimmer in Kreuzberg- befristet auf 6 Monate mit Aussicht auf Verl"
 }
 ]
