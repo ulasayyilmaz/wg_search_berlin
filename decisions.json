@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 17:40",
-"id": "14154598",
-"verdict": "skip",
-"why": "4.90 km from flat, 4.29 km from Schlesisches Tor (pin)",
-"title": "3er WG in Lichtenberg die neu gegründet wird"
-},
-{
-"time": "2026-11-03 17:40",
 "id": "14175660",
 "verdict": "skip",
 "why": "5.49 km from flat, 2.28 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wattstraße, Berlin"
+},
+{
+"time": "2026-11-05 21:25",
+"id": "7928535",
+"verdict": "skip",
+"why": "8.84 km from flat, 5.83 km from Möckernbrücke (pin)",
+"title": "Kleines WG Zimmer in Wilmersdorf (ab 1. Dez oder 1. Jan)"
 }
 ]
