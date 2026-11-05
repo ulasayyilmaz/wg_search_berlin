@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-02 20:01",
-"id": "13337824",
-"verdict": "skip",
-"why": "4.44 km from Möckernbrücke",
-"title": "kleines Zimmer sucht großartigen Menschen"
-},
-{
-"time": "2026-11-02 20:01",
 "id": "11803062",
 "verdict": "skip",
 "why": "6.66 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Lübbener Straße, Berlin"
+},
+{
+"time": "2026-11-05 10:45",
+"id": "14319765",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilsnacker Straße, Berlin"
 }
 ]
