@@ -1,8 +1,8 @@
 {
- "time": "2026-11-05 13:35:24 UTC",
+ "time": "2026-11-05 13:40:56 UTC",
  "result": "ok",
- "new": 0,
- "matched": 0,
- "skipped": 0,
+ "new": 6,
+ "matched": 1,
+ "skipped": 5,
  "unread": 0
 }
