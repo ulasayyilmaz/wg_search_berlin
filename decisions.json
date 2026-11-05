@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 12:10",
-"id": "14311610",
-"verdict": "skip",
-"why": "3.65 km from Möckernbrücke",
-"title": "Besichtigung Mi 04.11. 18:30 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-F"
-},
-{
-"time": "2026-11-03 12:25",
-"id": "13029689",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "4er WG in Weitlingkiez sucht Mitbewohner/-in"
-},
-{
-"time": "2026-11-03 12:30",
-"id": "14311619",
-"verdict": "skip",
-"why": "2.06 km from Görlitzer Bahnhof",
-"title": "Subletting room in Neukölln Nov 19-Jan 4"
-},
-{
 "time": "2026-11-03 12:30",
 "id": "14311587",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "8.25 km from flat, 7.76 km from Möckernbrücke (pin)",
 "title": "Zimmer in vegetarischer WG (Reinickendorf)"
+},
+{
+"time": "2026-11-05 16:20",
+"id": "10592239",
+"verdict": "skip",
+"why": "2.10 km from flat, 1.73 km from Prinzenstraße (pin)",
+"title": "Wir suchen einen sympathischen Mitbewohner"
+},
+{
+"time": "2026-11-05 16:20",
+"id": "13408058",
+"verdict": "skip",
+"why": "12.23 km from flat, 11.63 km from Schlesisches Tor (pin)",
+"title": "Großes Zimmer in Berlin Hellersdorf für Frauen/ Flinta"
+},
+{
+"time": "2026-11-05 16:20",
+"id": "14320509",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
