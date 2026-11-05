@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 12:35",
-"id": "14069843",
-"verdict": "skip",
-"why": "female only",
-"title": "Zimmer zur Zwischenmiete im Graefekiez"
-},
-{
-"time": "2026-11-03 12:35",
 "id": "14311655",
 "verdict": "skip",
 "why": "1.01 km from Schlesisches Tor",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.92 km from flat, 6.40 km from Schlesisches Tor (pin)",
 "title": "Privatzimmer"
+},
+{
+"time": "2026-11-05 16:35",
+"id": "14322861",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Heerstraße, Berlin"
 }
 ]
