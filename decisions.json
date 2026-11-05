@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 10:20",
-"id": "12469367",
-"verdict": "skip",
-"why": "female only",
-"title": "Schönes möbliertes Altbauzimmer ab dem 1.12."
-},
-{
 "time": "2026-11-03 10:25",
 "id": "14310067",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wilsnacker Straße, Berlin"
+},
+{
+"time": "2026-11-05 14:20",
+"id": "10577711",
+"verdict": "skip",
+"why": "7.63 km from flat, 4.44 km from Möckernbrücke (pin)",
+"title": "Mitbewohner gesucht"
 }
 ]
