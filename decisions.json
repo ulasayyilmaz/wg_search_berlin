@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-02 21:40",
-"id": "14265650",
-"verdict": "skip",
-"why": "6.04 km from Möckernbrücke",
-"title": "Mitbewohnerin ab 1 März 2027 gesucht"
-},
-{
-"time": "2026-11-02 21:50",
-"id": "13203367",
-"verdict": "skip",
-"why": "3.83 km from Schlesisches Tor",
-"title": "Altbauzimmer mit Balkon"
-},
-{
-"time": "2026-11-02 21:55",
-"id": "14308769",
-"verdict": "skip",
-"why": "12.70 km from Möckernbrücke",
-"title": "Single room for Girls near Spandau S+U Bahnoff!"
-},
-{
 "time": "2026-11-02 22:01",
 "id": "14304487",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 11:15",
+"id": "14320485",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 11:15",
+"id": "14320755",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilhelminenhofstraße, Berlin"
+},
+{
+"time": "2026-11-05 11:15",
+"id": "14319530",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hermannstraße, Berlin"
 }
 ]
