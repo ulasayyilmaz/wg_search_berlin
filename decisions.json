@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 18:15",
-"id": "14312278",
-"verdict": "skip",
-"why": "2.43 km from flat, 2.09 km from Görlitzer Bahnhof (pin)",
-"title": "zwei-zimmer-flatshare im herzen von neukölln - lang- oder kurzfristig"
-},
-{
-"time": "2026-11-03 18:15",
 "id": "14312279",
 "verdict": "skip",
 "why": "6.98 km from flat, 5.70 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.39 km from flat, 2.54 km from Möckernbrücke (pin)",
 "title": "Zimmer in 2er WG"
+},
+{
+"time": "2026-11-05 22:19",
+"id": "14324143",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Weimarische Straße WG096.05"
 }
 ]
