@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-02 18:55",
-"id": "14036854",
-"verdict": "skip",
-"why": "10.70 km from Schlesisches Tor",
-"title": "Ruhiges WG-Zimmer in Einfamilienhaus mit Garten"
-},
-{
 "time": "2026-11-02 19:01",
 "id": "12154456",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wilsnacker Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:50",
+"id": "14319548",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zinsgutstraße, Berlin"
 }
 ]
