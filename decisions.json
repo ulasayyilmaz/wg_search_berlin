@@ -1,61 +1,5 @@
 [
 {
-"time": "2026-11-02 17:05",
-"id": "14308156",
-"verdict": "skip",
-"why": "2.33 km from Görlitzer Bahnhof",
-"title": "Zimmer in 4er WG zur Zwischenmiete (unmöbeliert)"
-},
-{
-"time": "2026-11-02 17:05",
-"id": "14293506",
-"verdict": "skip",
-"why": "2.97 km from Möckernbrücke",
-"title": "gemütliches WG Zimmer Schöneberger Altbau"
-},
-{
-"time": "2026-11-02 17:05",
-"id": "14308184",
-"verdict": "skip",
-"why": "13.72 km from Möckernbrücke",
-"title": "WG Zimmer in Spandau"
-},
-{
-"time": "2026-11-02 17:15",
-"id": "14308237",
-"verdict": "skip",
-"why": "3.54 km from Schlesisches Tor",
-"title": "3er WG Zimmer Berlin Lichtenberg/Friedrichshain - BEFRISTET"
-},
-{
-"time": "2026-11-02 17:15",
-"id": "14308182",
-"verdict": "skip",
-"why": "8.36 km from Möckernbrücke",
-"title": "Sublet for students available | No Anmeldung"
-},
-{
-"time": "2026-11-02 17:25",
-"id": "4297531",
-"verdict": "skip",
-"why": "1.69 km from Schlesisches Tor",
-"title": "Ostkreuz - Großes, helles Altbauzimmer. Elegantes Haus. Mit Sauna :)"
-},
-{
-"time": "2026-11-02 18:01",
-"id": "7166925",
-"verdict": "skip",
-"why": "10.01 km from Schlesisches Tor",
-"title": "Furnished flatshare in cool house with garden, extendable"
-},
-{
-"time": "2026-11-02 18:35",
-"id": "11930899",
-"verdict": "skip",
-"why": "2.16 km from Görlitzer Bahnhof",
-"title": "DRINGEND!! Gemütliche Einrichtung im Herzen von Neukölln 3er-WG mit ANMELDUNG"
-},
-{
 "time": "2026-11-02 18:35",
 "id": "14128990",
 "verdict": "skip",
@@ -3498,5 +3442,61 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Kamminer Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14319610",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Liebenwalder Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14320492",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14320512",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14319806",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Turmstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14319785",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Soldiner Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14319611",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14319582",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Lienemannstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:35",
+"id": "14320493",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
