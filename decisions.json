@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 20:01",
-"id": "14304710",
-"verdict": "skip",
-"why": "3.90 km from Schlesisches Tor",
-"title": "Bright Furnished Room with Balcony in Berlin – Short-Term Rental"
-},
-{
 "time": "2026-11-01 20:10",
 "id": "14304684",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Sternstraße- WG27.4 27.4"
+},
+{
+"time": "2026-11-05 06:50",
+"id": "14299823",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Nazarethkirchstraße, Berlin"
 }
 ]
