@@ -1,68 +1,5 @@
 [
 {
-"time": "2026-11-02 14:20",
-"id": "10789583",
-"verdict": "skip",
-"why": "5.73 km from Möckernbrücke",
-"title": "23qm helles Zimmer in Charlottenburg"
-},
-{
-"time": "2026-11-02 14:20",
-"id": "11738961",
-"verdict": "skip",
-"why": "4.72 km from Möckernbrücke",
-"title": "300 EUR - WARM - 6 Monate - Berlin-Wilmersdorf"
-},
-{
-"time": "2026-11-02 14:30",
-"id": "14207635",
-"verdict": "skip",
-"why": "5.94 km from Möckernbrücke",
-"title": "gemütliches zimmer für deinen herbst"
-},
-{
-"time": "2026-11-02 14:31",
-"id": "14307829",
-"verdict": "skip",
-"why": "3.08 km from Möckernbrücke",
-"title": "3 Zimmer in Gemeinschafts-Haus im Fliegerviertel"
-},
-{
-"time": "2026-11-02 14:31",
-"id": "3981697",
-"verdict": "skip",
-"why": "8.12 km from Möckernbrücke",
-"title": "18 m2 room close to FU University (Steglitz-Zehlendorf)"
-},
-{
-"time": "2026-11-02 14:40",
-"id": "14307676",
-"verdict": "skip",
-"why": "4.21 km from Schlesisches Tor",
-"title": "Zimmer in freundschaftlicher WG :)"
-},
-{
-"time": "2026-11-02 14:50",
-"id": "14287298",
-"verdict": "skip",
-"why": "4.54 km from Möckernbrücke",
-"title": "Zwischenmiete/ Sublet (1.12.2026 - 31.03.2027)"
-},
-{
-"time": "2026-11-02 15:01",
-"id": "14307915",
-"verdict": "skip",
-"why": "11.75 km from Möckernbrücke",
-"title": "Möbliertes Zimmer in Spandau-Haselhorst"
-},
-{
-"time": "2026-11-02 15:01",
-"id": "14307886",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date",
-"title": "Möbliertes WG-Zimmer in Kreuzberbg"
-},
-{
 "time": "2026-11-02 15:10",
 "id": "13878825",
 "verdict": "skip",
@@ -3498,5 +3435,68 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Ratiborstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14319510",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Plönzeile, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14320748",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Stubenrauchstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14319534",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Johanna-Tesch-Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14319624",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Eichbergstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14320735",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hauptstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14319768",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kantstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14319618",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Weserstr., Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14320758",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Leykestraße, Berlin"
+},
+{
+"time": "2026-11-05 09:15",
+"id": "14319518",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Koloniestraße, Berlin"
 }
 ]
