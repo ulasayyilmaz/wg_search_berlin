@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 07:50",
-"id": "14311103",
-"verdict": "skip",
-"why": "10.87 km from Schlesisches Tor",
-"title": "Zimmer in ruhiger Gegend Doppelhaus"
-},
-{
-"time": "2026-11-03 07:50",
-"id": "14249168",
-"verdict": "skip",
-"why": "2.60 km from Görlitzer Bahnhof",
-"title": "Privatzimmer zu vermieten (30m2) – Verfügbar ab 8. November"
-},
-{
-"time": "2026-11-03 07:55",
-"id": "14240926",
-"verdict": "skip",
-"why": "6.53 km from Möckernbrücke",
-"title": "Zimmer am See mit Frida und Garten"
-},
-{
 "time": "2026-11-03 07:55",
 "id": "14310072",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hackenbergstraße, Berlin"
+},
+{
+"time": "2026-11-05 12:40",
+"id": "11243900",
+"verdict": "skip",
+"why": "5.80 km from flat, 5.98 km from Schlesisches Tor (street)",
+"title": "Sublet 1 Month or longer: Quiet, bright Altbau room directly by Mauerpark, Dec 1"
+},
+{
+"time": "2026-11-05 12:40",
+"id": "14316006",
+"verdict": "SENT",
+"why": "zwischenmiete but extension: 'verlängerung langfristig möglich' [flat 1.73 km, U Görlitzer Bahnhof 1.55 km, pin]",
+"title": "gemütliches WG Zimmer in Neukölln"
+},
+{
+"time": "2026-11-05 12:40",
+"id": "14315992",
+"verdict": "skip",
+"why": "7.34 km from flat, 6.77 km from Möckernbrücke (pin)",
+"title": "Wohnung in Mitte / Hochzeit, zwei Zimmer zur Verfügung. Private Nachricht für we"
 }
 ]
