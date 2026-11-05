@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-02 21:10",
-"id": "14308679",
-"verdict": "skip",
-"why": "4.89 km from Schlesisches Tor",
-"title": "Bright and cosy room in a lovely WG"
-},
-{
-"time": "2026-11-02 21:25",
-"id": "12003387",
-"verdict": "skip",
-"why": "5.89 km from Schlesisches Tor",
-"title": "Zimmer unter dem Dach"
-},
-{
 "time": "2026-11-02 21:25",
 "id": "10795173",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "17.10 km from flat, 16.47 km from Schlesisches Tor (pin)",
 "title": "Gemütliches, helles WG-Zimmer zur Zwischenmiete"
+},
+{
+"time": "2026-11-05 11:05",
+"id": "14320743",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Weisestraße, Berlin"
+},
+{
+"time": "2026-11-05 11:05",
+"id": "14319825",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wattstraße, Berlin"
 }
 ]
