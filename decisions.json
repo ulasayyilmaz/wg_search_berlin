@@ -1,68 +1,5 @@
 [
 {
-"time": "2026-11-02 08:05",
-"id": "14307103",
-"verdict": "skip",
-"why": "11.12 km from Schlesisches Tor",
-"title": "MÖBLIERTES WG ZIMMER IN NEUKÖLLN RUDOW MIT GARTEN"
-},
-{
-"time": "2026-11-02 08:15",
-"id": "14304979",
-"verdict": "skip",
-"why": "6.27 km from Möckernbrücke",
-"title": "Zimmer zur Zwischenmiete in Berlin"
-},
-{
-"time": "2026-11-02 08:20",
-"id": "14286616",
-"verdict": "skip",
-"why": "female only",
-"title": "Zwischenmiete WG Zimmer"
-},
-{
-"time": "2026-11-02 08:30",
-"id": "14307093",
-"verdict": "skip",
-"why": "9.31 km from Möckernbrücke",
-"title": "WG ZIMMER MÖBLIERT WOHNUNG ANMELDUNG MÖGLICH REINICKENDORF"
-},
-{
-"time": "2026-11-02 08:40",
-"id": "10922541",
-"verdict": "skip",
-"why": "10.06 km from Möckernbrücke",
-"title": "Charmantes WG-Zimmer in Haus mit Garten"
-},
-{
-"time": "2026-11-02 09:10",
-"id": "14113730",
-"verdict": "skip",
-"why": "6.57 km from Schlesisches Tor",
-"title": "Schönes Zimmer in Schöneweide 21m2"
-},
-{
-"time": "2026-11-02 09:10",
-"id": "14307161",
-"verdict": "skip",
-"why": "5.69 km from Möckernbrücke",
-"title": "16 m2 möbliertes Zimmer in Einfamilienhaus mit Garten – Berlin-Steglitz | Anmeld"
-},
-{
-"time": "2026-11-02 09:15",
-"id": "14307192",
-"verdict": "skip",
-"why": "6.24 km from Hallesches Tor",
-"title": "Zimmer in Wedding zur Zwischenmiete | 14.11.–14.01."
-},
-{
-"time": "2026-11-02 09:20",
-"id": "14225750",
-"verdict": "skip",
-"why": "1.05 km from Hallesches Tor",
-"title": "Schönes Pendlerzimmer /Beautiful part-time room in Kreuzberg - Perfect for commu"
-},
-{
 "time": "2026-11-02 09:25",
 "id": "14307218",
 "verdict": "skip",
@@ -3498,5 +3435,68 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Sterndamm, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319932",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Frobenstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319814",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319821",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wattstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319926",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Frobenstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319491",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Stephanstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319625",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Antonienstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319766",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Richardstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319812",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Petersburger Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:05",
+"id": "14319801",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bandelstraße, Berlin"
 }
 ]
