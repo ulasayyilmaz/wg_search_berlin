@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 15:40",
-"id": "14311973",
-"verdict": "skip",
-"why": "5.16 km from Möckernbrücke",
-"title": "Zwischenmieter:in gesucht"
-},
-{
 "time": "2026-11-03 15:45",
 "id": "14312004",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 18:35",
+"id": "8828914",
+"verdict": "skip",
+"why": "3.48 km from flat, 3.22 km from Görlitzer Bahnhof (street)",
+"title": "🍓 FLINTA WG- Grosses helles Zimmer mit eigenem Balkon und Sonne ☀️OHNE Hund"
 }
 ]
