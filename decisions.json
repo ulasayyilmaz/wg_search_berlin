@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-02 21:05",
-"id": "13535637",
-"verdict": "skip",
-"why": "2.02 km from Görlitzer Bahnhof",
-"title": "21-qm Zimmer in charmanter Altbau-Wohnung in Neukölln – befristet (Dezember 2026"
-},
-{
 "time": "2026-11-02 21:10",
 "id": "14308679",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Mittelstraße, Berlin"
+},
+{
+"time": "2026-11-05 11:01",
+"id": "14321649",
+"verdict": "skip",
+"why": "17.10 km from flat, 16.47 km from Schlesisches Tor (pin)",
+"title": "Gemütliches, helles WG-Zimmer zur Zwischenmiete"
 }
 ]
