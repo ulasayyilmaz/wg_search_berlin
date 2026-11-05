@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 07:45",
-"id": "14311086",
-"verdict": "skip",
-"why": "15.98 km from Möckernbrücke",
-"title": "A1 Sicher, ruhig, idyllisch, gediegen, freundlich. Und noch viel mehr. WG vor de"
-},
-{
 "time": "2026-11-03 07:50",
 "id": "14311103",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "temporary: befristet [flat 1.24 km, U Kottbusser Tor 0.59 km, pin]",
 "title": "Möbiliertes WG Zimmer in Kreuzberg- befristet auf 6 Monate mit Aussicht auf Verl"
+},
+{
+"time": "2026-11-05 12:35",
+"id": "14319556",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hackenbergstraße, Berlin"
 }
 ]
