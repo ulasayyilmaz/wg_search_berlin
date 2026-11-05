@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-03 12:35",
-"id": "14311655",
-"verdict": "skip",
-"why": "1.01 km from Schlesisches Tor",
-"title": "Pinkes Paradis in bester Lage WG zimmer in Friedrichshain"
-},
-{
-"time": "2026-11-03 12:40",
-"id": "10932735",
-"verdict": "skip",
-"why": "7.04 km from Möckernbrücke",
-"title": "🔥 ZIMMER IN 3ER-WG | VOLL MÖBLIERT + ANMELDUNG | U6 REHBERGE"
-},
-{
-"time": "2026-11-03 12:50",
-"id": "14311685",
-"verdict": "skip",
-"why": "1.63 km from Schlesisches Tor",
-"title": "Room in Boxhagener Platz"
-},
-{
-"time": "2026-11-03 12:50",
-"id": "13774283",
-"verdict": "skip",
-"why": "3.43 km from Schlesisches Tor",
-"title": "Schöne Mädels WG sucht nette junge Frau!"
-},
-{
 "time": "2026-11-03 13:01",
 "id": "9761511",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Heerstraße, Berlin"
+},
+{
+"time": "2026-11-05 16:40",
+"id": "14323453",
+"verdict": "skip",
+"why": "16.53 km from flat, 13.68 km from Möckernbrücke (pin)",
+"title": "Möbiliertes, großes Zimmer in schöner, ruhiger Gegend zu vermieten"
+},
+{
+"time": "2026-11-05 16:40",
+"id": "14323527",
+"verdict": "skip",
+"why": "7.77 km from flat, 6.94 km from Möckernbrücke (pin)",
+"title": "3-zimmer wohnung looking for one roommate Dec1 start"
+},
+{
+"time": "2026-11-05 16:40",
+"id": "14323482",
+"verdict": "skip",
+"why": "7.55 km from flat, 6.57 km from Möckernbrücke (pin)",
+"title": "ruhiges Zimmer zur Zwischenmiete im Wedding (nur FLINTA*)"
+},
+{
+"time": "2026-11-05 16:40",
+"id": "14322091",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
 }
 ]
