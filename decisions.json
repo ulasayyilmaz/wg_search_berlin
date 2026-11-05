@@ -1,61 +1,5 @@
 [
 {
-"time": "2026-11-02 20:01",
-"id": "11803062",
-"verdict": "skip",
-"why": "6.66 km from Möckernbrücke",
-"title": "bright spacious Room in wedding in 2er WG"
-},
-{
-"time": "2026-11-02 20:15",
-"id": "14229036",
-"verdict": "skip",
-"why": "2.45 km from Möckernbrücke",
-"title": "Zimmer in Altbau-Mädels-WG 😊"
-},
-{
-"time": "2026-11-02 20:20",
-"id": "14297490",
-"verdict": "skip",
-"why": "8.91 km from Möckernbrücke",
-"title": "Warmes, möbliertes WG Zimmer ab sofort in Marienfelde zu vermieten, 650€ alles i"
-},
-{
-"time": "2026-11-02 20:25",
-"id": "10659792",
-"verdict": "skip",
-"why": "11.03 km from Schlesisches Tor",
-"title": "Furnished light room in greenest district of Berlin (Köpenick)"
-},
-{
-"time": "2026-11-02 20:30",
-"id": "14308647",
-"verdict": "skip",
-"why": "temporary: zwischenmiete",
-"title": "Zwischenmiete Dezember in Kreuzberg"
-},
-{
-"time": "2026-11-02 20:31",
-"id": "14304597",
-"verdict": "skip",
-"why": "2.43 km from Schlesisches Tor",
-"title": "Helles 22 m2 Zimmer mit eigenem Balkon in Friedrichshain | 580 € warm | ab sofor"
-},
-{
-"time": "2026-11-02 20:40",
-"id": "14308642",
-"verdict": "skip",
-"why": "1.50 km from Schlesisches Tor",
-"title": "Voll möbliertes WG-Zimmer + gem. Wohnraum in Friedrichshain"
-},
-{
-"time": "2026-11-02 20:40",
-"id": "14308607",
-"verdict": "skip",
-"why": "4.24 km from Möckernbrücke",
-"title": "Zimmer in Friedenau"
-},
-{
 "time": "2026-11-02 20:50",
 "id": "14308692",
 "verdict": "skip",
@@ -3498,5 +3442,61 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wilsnacker Straße, Berlin"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "10655213",
+"verdict": "skip",
+"why": "2.35 km from flat, 2.17 km from Schlesisches Tor (pin)",
+"title": "𑁍 Cosy Room in Friedrichshain 𑁍 (short term)"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "14319485",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Tempelhofer Weg, Berlin"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "14320747",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Mollstraße, Berlin"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "14320749",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Meyerheimstraße, Berlin"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "14320762",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilhelminenhofstraße, Berlin"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "14319816",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Holländerstraße, Berlin"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "14319800",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Jansastraße, Berlin"
+},
+{
+"time": "2026-11-05 10:50",
+"id": "14319546",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zechliner Straße, Berlin"
 }
 ]
