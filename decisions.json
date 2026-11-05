@@ -1,82 +1,5 @@
 [
 {
-"time": "2026-11-01 20:10",
-"id": "14190914",
-"verdict": "skip",
-"why": "9.52 km from Schlesisches Tor",
-"title": "Furnished rooms, with Registration in Pankow"
-},
-{
-"time": "2026-11-01 20:20",
-"id": "9725335",
-"verdict": "skip",
-"why": "2.50 km from Kottbusser Tor",
-"title": "Bright sunny WG in Alexanderplatz 14m2"
-},
-{
-"time": "2026-11-01 20:20",
-"id": "14304749",
-"verdict": "skip",
-"why": "4.99 km from Schlesisches Tor",
-"title": "Bright Furnished Room for Long Term Sublet"
-},
-{
-"time": "2026-11-01 20:20",
-"id": "14304741",
-"verdict": "skip",
-"why": "1.15 km from Hallesches Tor",
-"title": "Pendlerzimmer Pendler:innenzimmer in Kreuzberg"
-},
-{
-"time": "2026-11-01 20:31",
-"id": "8828579",
-"verdict": "skip",
-"why": "2.05 km from Görlitzer Bahnhof",
-"title": "Cozy flat for 4 months in Berlin // 2-Zimmer Wohnung im Herzen Neuköllns"
-},
-{
-"time": "2026-11-01 20:31",
-"id": "14180860",
-"verdict": "skip",
-"why": "13.88 km from Möckernbrücke",
-"title": "05.-30.11.26 WIEDER FREI: WOCHENMIETE MÖGLICH!!! WG-Zimmer Naturnah u. in 30 Min"
-},
-{
-"time": "2026-11-01 20:40",
-"id": "4794182",
-"verdict": "skip",
-"why": "5.37 km from Schlesisches Tor",
-"title": "Emphatische🧡und spirituelle🧘‍♀️Mitbewohnerin gesucht! ☺️🙏✨ Schönes Zimmer mit Ga"
-},
-{
-"time": "2026-11-01 20:40",
-"id": "6827865",
-"verdict": "skip",
-"why": "4.86 km from Möckernbrücke",
-"title": "registration possible, close to TU/UdK, Sunny furnished room in Moabit"
-},
-{
-"time": "2026-11-01 20:55",
-"id": "14287337",
-"verdict": "skip",
-"why": "4.19 km from Kottbusser Tor",
-"title": "WG Raum Berlin 598 Eine +Langfrist Alle inklusive"
-},
-{
-"time": "2026-11-01 21:05",
-"id": "11649111",
-"verdict": "skip",
-"why": "2.67 km from Schlesisches Tor",
-"title": "Friedrichshain, schönes großes zimmer in maisonettewohnung mit eigenem eingang"
-},
-{
-"time": "2026-11-01 21:05",
-"id": "14304804",
-"verdict": "skip",
-"why": "3.83 km from Möckernbrücke",
-"title": "Ruhiges sonniges Zimmer in 3er WG"
-},
-{
 "time": "2026-11-01 21:15",
 "id": "13030764",
 "verdict": "skip",
@@ -3498,5 +3421,82 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Nazarethkirchstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14315373",
+"verdict": "skip",
+"why": "8.32 km from flat, 6.56 km from Möckernbrücke (pin)",
+"title": "Kleines Zimmer in 2er WG"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "12277258",
+"verdict": "skip",
+"why": "14.55 km from flat, 11.52 km from Möckernbrücke (pin)",
+"title": "WG Zimmer Zehlendorf (Frau)"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14318752",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Halemweg, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14319544",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zechliner Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14319537",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14319560",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hainstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14319553",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Friedlander Straße, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14319504",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Plönzeile, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14319578",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Winckelmannstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "13787406",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Richardstraße, Berlin"
+},
+{
+"time": "2026-11-05 07:31",
+"id": "14319535",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zechliner Straße, Berlin"
 }
 ]
