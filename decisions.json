@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 00:30",
-"id": "10815558",
-"verdict": "skip",
-"why": "3.50 km from Möckernbrücke",
-"title": "❤️ Schönes, gemütliches WG-Zimmer in edler Jugendstil-Wohnung ❤️Respektvolle Zwe"
-},
-{
-"time": "2026-11-03 03:25",
-"id": "12095690",
-"verdict": "skip",
-"why": "4.19 km from Schlesisches Tor",
-"title": "Zentrales WG-Zimmer nahe Ostkreuz/ 650€ pro Monat/ Alles Inklusive"
-},
-{
 "time": "2026-11-03 05:45",
 "id": "2790647",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.36 km from flat, 5.11 km from Möckernbrücke (pin)",
 "title": "Ab 01.12.2026: Zeitraum flexibel nach Absprache: Möbliertes Zimmer in Frauen WG,"
+},
+{
+"time": "2026-11-05 12:20",
+"id": "14322330",
+"verdict": "skip",
+"why": "7.81 km from flat, 7.28 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer in Oberschöneweide, 610 € warm, Anmeldung möglich"
+},
+{
+"time": "2026-11-05 12:20",
+"id": "14321063",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Braunlager Straße, Berlin"
 }
 ]
