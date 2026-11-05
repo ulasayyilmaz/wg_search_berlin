@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 19:15",
-"id": "14304618",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date",
-"title": "3 WG Zimmer in schöner Kreuzberger Altbauwohnung mit 2 Bädern und einem Wohnzimm"
-},
-{
 "time": "2026-11-01 19:20",
 "id": "14270188",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.51 km from flat, 6.15 km from Möckernbrücke (pin)",
 "title": "Helles 24 m2 Zimmer mit Balkon in Berlin-Wedding zur Untermiete"
+},
+{
+"time": "2026-11-05 00:55",
+"id": "14316625",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - An der Wuhlheide 70.3"
 }
 ]
