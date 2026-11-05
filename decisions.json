@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-02 11:10",
-"id": "14307288",
-"verdict": "skip",
-"why": "3.60 km from Möckernbrücke",
-"title": "Gepflegtes Altbau Zimmer in 2er WG nähe S Bellevue"
-},
-{
-"time": "2026-11-02 11:10",
-"id": "14287704",
-"verdict": "skip",
-"why": "7.14 km from Schlesisches Tor",
-"title": "13qm Ersatzschlafzimmer - Schöneweide bei HTW - nur FLINTA*"
-},
-{
-"time": "2026-11-02 11:10",
-"id": "14307442",
-"verdict": "skip",
-"why": "5.68 km from Möckernbrücke",
-"title": "Möbliertes 21-m2-Zimmer nahe dem Gleisdreieckpark | Zwischenmiete für 3 Monate"
-},
-{
 "time": "2026-11-02 11:20",
 "id": "12274477",
 "verdict": "skip",
@@ -3495,6 +3474,27 @@
 {
 "time": "2026-11-05 08:20",
 "id": "14319527",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hohenzollerndamm, Berlin"
+},
+{
+"time": "2026-11-05 08:25",
+"id": "14319770",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kantstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:25",
+"id": "14319818",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Residenzstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:25",
+"id": "14319515",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hohenzollerndamm, Berlin"
