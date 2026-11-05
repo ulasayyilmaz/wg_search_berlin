@@ -1,54 +1,5 @@
 [
 {
-"time": "2026-11-02 13:25",
-"id": "14307722",
-"verdict": "skip",
-"why": "7.51 km from Görlitzer Bahnhof",
-"title": "1 Zimmer in 2 Zimmer-Wohnung Neukölln für 1 Frau"
-},
-{
-"time": "2026-11-02 13:25",
-"id": "2396709",
-"verdict": "skip",
-"why": "3.50 km from Schlesisches Tor",
-"title": "very nice big room 29qm in Prenzlauer Berg for 1 person for from 23.11.-06.12.20"
-},
-{
-"time": "2026-11-02 13:25",
-"id": "14186154",
-"verdict": "skip",
-"why": "2.98 km from Prinzenstraße",
-"title": "Zimmer - Gründung 2 Personenhaushalt - Zweck-WG"
-},
-{
-"time": "2026-11-02 13:31",
-"id": "7066657",
-"verdict": "skip",
-"why": "1.36 km from Görlitzer Bahnhof",
-"title": "Helles, möbliertes 25 m2 großes Zimmer zum Hof"
-},
-{
-"time": "2026-11-02 13:31",
-"id": "14307694",
-"verdict": "skip",
-"why": "1.49 km from Görlitzer Bahnhof",
-"title": "Pannierstraße, Altbau WG - Heart of Neukölln"
-},
-{
-"time": "2026-11-02 13:40",
-"id": "13750533",
-"verdict": "skip",
-"why": "3.56 km from Möckernbrücke",
-"title": "S-Bahn Ring.Zental Lage.Anmeldung.kleines, möbliertes Zimmer mit einem Hochbett."
-},
-{
-"time": "2026-11-02 13:40",
-"id": "14290535",
-"verdict": "skip",
-"why": "6.20 km from Kottbusser Tor",
-"title": "Untervermietung vom 21/11 bis 31/01 Flexible Termine in der Nähe von Mauer Park!"
-},
-{
 "time": "2026-11-02 13:40",
 "id": "10911840",
 "verdict": "skip",
@@ -3498,5 +3449,54 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Silberberger Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:05",
+"id": "14320503",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:05",
+"id": "14319494",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Damerowstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:05",
+"id": "14319622",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Attilastraße, Berlin"
+},
+{
+"time": "2026-11-05 09:05",
+"id": "14320487",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:05",
+"id": "14319807",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Turmstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:05",
+"id": "14319524",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Prenzlauer Promenade, Berlin"
+},
+{
+"time": "2026-11-05 09:05",
+"id": "14319573",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Prenzlauer Promenade, Berlin"
 }
 ]
