@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 16:30",
-"id": "10291420",
-"verdict": "skip",
-"why": "14.16 km from Möckernbrücke",
-"title": "Room With A View/ Zimmer im Grünen, 20qm"
-},
-{
 "time": "2026-11-03 16:45",
 "id": "14312091",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.65 km from flat, 5.17 km from Schlesisches Tor (pin)",
 "title": "25-m2-Zimmer in 4er-WG in Baumschulenweg (möbliert)"
+},
+{
+"time": "2026-11-05 20:25",
+"id": "13727912",
+"verdict": "skip",
+"why": "4.12 km from flat, 3.32 km from Hallesches Tor (pin)",
+"title": "Bright room in a shared Apartment for rent (short term) - Berlin Mitte"
 }
 ]
