@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-02 15:50",
-"id": "12268020",
-"verdict": "skip",
-"why": "3.28 km from Görlitzer Bahnhof",
-"title": "WG Zimmer nähe S Hermannstr"
-},
-{
-"time": "2026-11-02 16:05",
-"id": "14308063",
-"verdict": "skip",
-"why": "female only",
-"title": "Sehr großes Zimmer im Altbau mitten in Kreuzberg zu vermieten - Zwischenmiete"
-},
-{
-"time": "2026-11-02 16:05",
-"id": "12690625",
-"verdict": "skip",
-"why": "5.12 km from Möckernbrücke",
-"title": "Gästezimmer in Berlin Steglitz 29.11.-12.12."
-},
-{
-"time": "2026-11-02 16:15",
-"id": "14290425",
-"verdict": "skip",
-"why": "4.09 km from Kottbusser Tor",
-"title": "Charming room in calm, comfortable flat (Prenzlauer Berg)"
-},
-{
 "time": "2026-11-02 16:25",
 "id": "14308098",
 "verdict": "SENT",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Glienicker Straße, Berlin"
+},
+{
+"time": "2026-11-05 09:30",
+"id": "11928407",
+"verdict": "SENT",
+"why": " [flat 1.99 km, U Kottbusser Tor 2.14 km, pin]",
+"title": "550,- EUR BALCONY! Friendly WG Alexanderplatz – Anmeldung möglich"
+},
+{
+"time": "2026-11-05 09:30",
+"id": "14320553",
+"verdict": "SENT",
+"why": " [flat 1.61 km, U Schlesisches Tor 1.24 km, pin]",
+"title": "6-PERSON ROOFTOP WG: LOOKING FOR NEW FAMILY MEMBER"
+},
+{
+"time": "2026-11-05 09:30",
+"id": "14307144",
+"verdict": "skip",
+"why": "2.77 km from flat, 2.44 km from Schlesisches Tor (pin)",
+"title": "Befristes WG-Zimmer"
+},
+{
+"time": "2026-11-05 09:30",
+"id": "14319599",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Platanenweg, Berlin"
 }
 ]
