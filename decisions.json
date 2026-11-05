@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 17:25",
-"id": "14312209",
-"verdict": "skip",
-"why": "6.65 km from Möckernbrücke (pin)",
-"title": "Großes möbliertes Zimmer mit Balkon in ruhiger Altbauwohnung in Gesundbrunnen – "
-},
-{
-"time": "2026-11-03 17:25",
-"id": "14297618",
-"verdict": "skip",
-"why": "5.01 km from Möckernbrücke (pin)",
-"title": "Ruhiges WG-Zimmer (12 m2) in heller DG-Wohnung in Charlottenburg – Zwischenmiete"
-},
-{
-"time": "2026-11-03 17:35",
-"id": "13175089",
-"verdict": "skip",
-"why": "11.24 km from flat, 10.66 km from Schlesisches Tor (pin)",
-"title": "Helles & Gemütliches Zimmer in Berlin-Köpenick"
-},
-{
 "time": "2026-11-03 17:40",
 "id": "14154598",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "2.10 km from flat, 1.87 km from Görlitzer Bahnhof (pin)",
 "title": "WG ZIMMER in Neükolln"
+},
+{
+"time": "2026-11-05 21:15",
+"id": "14201016",
+"verdict": "SENT",
+"why": " [flat 1.65 km, U Görlitzer Bahnhof 1.47 km, pin]",
+"title": "WG-Zimmer (+ großes gemeins. Wohnzimmer) in 2er-WG in Neukölln/ Landwehrkanal ab"
+},
+{
+"time": "2026-11-05 21:15",
+"id": "14319623",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Eichbergstraße, Berlin"
+},
+{
+"time": "2026-11-05 21:15",
+"id": "14319822",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wattstraße, Berlin"
 }
 ]
