@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-01 20:00",
-"id": "14304688",
-"verdict": "skip",
-"why": "4.19 km from Möckernbrücke",
-"title": "Sublet with balcony across from the park ☀️🍃"
-},
-{
 "time": "2026-11-01 20:01",
 "id": "14304710",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.34 km from flat, 4.84 km from Möckernbrücke (pin)",
 "title": "WG-Zimmer mit Balkon in Tempelhof"
+},
+{
+"time": "2026-11-05 06:15",
+"id": "14316616",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Sternstraße- WG27.4 27.4"
 }
 ]
