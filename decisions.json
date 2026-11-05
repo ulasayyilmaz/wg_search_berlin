@@ -1,54 +1,5 @@
 [
 {
-"time": "2026-11-02 13:40",
-"id": "10911840",
-"verdict": "skip",
-"why": "11.59 km from Möckernbrücke",
-"title": "1,5 möblierte Zimmer in 2er WG AB SOFORT ODER 1.12"
-},
-{
-"time": "2026-11-02 13:50",
-"id": "14058374",
-"verdict": "skip",
-"why": "anmeldung: 'keine anmeldung'",
-"title": "Zimmer in zentraler Lage"
-},
-{
-"time": "2026-11-02 14:01",
-"id": "14307710",
-"verdict": "skip",
-"why": "8.18 km from Schlesisches Tor",
-"title": "Wunderschönes WG-Zimmer in familiärer WG in Pankow (zöliakiegerecht)"
-},
-{
-"time": "2026-11-02 14:01",
-"id": "12871939",
-"verdict": "skip",
-"why": "10.75 km from Möckernbrücke",
-"title": "Studenten-WG 16 qm möbliert"
-},
-{
-"time": "2026-11-02 14:01",
-"id": "6237789",
-"verdict": "skip",
-"why": "10.74 km from Möckernbrücke",
-"title": "Studenten WG - 10qm möbliert."
-},
-{
-"time": "2026-11-02 14:10",
-"id": "13500900",
-"verdict": "skip",
-"why": "7.51 km from Möckernbrücke",
-"title": "Cosy Room - Liebevolle Zwischenmiete in ruhiger Lage am Botanischen Garten"
-},
-{
-"time": "2026-11-02 14:10",
-"id": "10754249",
-"verdict": "skip",
-"why": "2.49 km from Kottbusser Tor",
-"title": "Zimmer in Mitte"
-},
-{
 "time": "2026-11-02 14:20",
 "id": "10789583",
 "verdict": "skip",
@@ -3498,5 +3449,54 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Prenzlauer Promenade, Berlin"
+},
+{
+"time": "2026-11-05 09:10",
+"id": "14319604",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Jüdenstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:10",
+"id": "14320483",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:10",
+"id": "14319541",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:10",
+"id": "14319525",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wrangelstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:10",
+"id": "14319784",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:10",
+"id": "14319495",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Damerowstraße, Berlin"
+},
+{
+"time": "2026-11-05 09:10",
+"id": "14319776",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ratiborstraße, Berlin"
 }
 ]
