@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 19:05",
-"id": "14304548",
-"verdict": "skip",
-"why": "5.00 km from Möckernbrücke",
-"title": "MItte: freundliches Zimmer in ausgezeichneter Lage"
-},
-{
-"time": "2026-11-01 19:05",
 "id": "14290892",
 "verdict": "skip",
 "why": "no location",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 1.60 km, U Kottbusser Tor 0.91 km, pin]",
 "title": "Suche Mitbewohner/in"
+},
+{
+"time": "2026-11-05 00:15",
+"id": "14316711",
+"verdict": "skip",
+"why": "12.92 km from flat, 10.55 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer in Berlin-Steglitz | Zwischenmiete"
 }
 ]
