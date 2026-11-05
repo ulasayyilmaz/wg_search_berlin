@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-01 19:15",
-"id": "9097225",
-"verdict": "skip",
-"why": "4.58 km from Hallesches Tor",
-"title": "Zwischenmiete"
-},
-{
-"time": "2026-11-01 19:15",
 "id": "14304618",
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.03 km from flat, 5.40 km from Möckernbrücke (pin)",
 "title": "gemütliches WG-Zimmer im Wedding (befristet)"
+},
+{
+"time": "2026-11-05 00:40",
+"id": "14316733",
+"verdict": "skip",
+"why": "7.51 km from flat, 6.15 km from Möckernbrücke (pin)",
+"title": "Helles 24 m2 Zimmer mit Balkon in Berlin-Wedding zur Untermiete"
 }
 ]
