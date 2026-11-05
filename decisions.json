@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 11:10",
-"id": "14242248",
-"verdict": "skip",
-"why": "2.90 km from Möckernbrücke",
-"title": "schönes Zimmer in einer alt bau Wohung"
-},
-{
-"time": "2026-11-03 11:10",
 "id": "14311457",
 "verdict": "skip",
 "why": "5.89 km from Möckernbrücke",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.67 km from flat, 3.37 km from Görlitzer Bahnhof (pin)",
 "title": "WG-Zimmer + eigenem Balkon, vollmöbliert - Pendler:in gesucht"
+},
+{
+"time": "2026-11-05 14:45",
+"id": "14319577",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Winckelmannstraße, Berlin"
 }
 ]
