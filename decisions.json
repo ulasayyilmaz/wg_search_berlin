@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 13:01",
-"id": "9761511",
-"verdict": "skip",
-"why": "12.71 km from Möckernbrücke",
-"title": "Möbliertes Zimmer in frisch sanierter 3er-WG in Berlin-Spandau"
-},
-{
-"time": "2026-11-03 13:15",
-"id": "3479396",
-"verdict": "skip",
-"why": "5.37 km from Kottbusser Tor",
-"title": "Zimmer in Prenzlauer Berg"
-},
-{
-"time": "2026-11-03 13:30",
-"id": "14311732",
-"verdict": "skip",
-"why": "9.20 km from Möckernbrücke",
-"title": "wg zimmer in licherfelde ost,angenehme lage, nette mitbewohner und gute anbindun"
-},
-{
 "time": "2026-11-03 13:35",
 "id": "14311755",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-05 16:50",
+"id": "10667350",
+"verdict": "skip",
+"why": "6.53 km from flat, 6.72 km from Kottbusser Tor (pin)",
+"title": "Pendlerzimmer / Teilzeitzimmer/ Nur Pendler/Frauen!"
+},
+{
+"time": "2026-11-05 16:50",
+"id": "10683323",
+"verdict": "skip",
+"why": "3.21 km from flat, 3.14 km from Schlesisches Tor (pin)",
+"title": "Nette Flatshare in einer großartigen Lage (FLINTA, nur LGBTQ)"
+},
+{
+"time": "2026-11-05 16:50",
+"id": "14128149",
+"verdict": "skip",
+"why": "6.28 km from flat, 4.45 km from Möckernbrücke (pin)",
+"title": "Ruhige WG in selbstverwalteter Hausgemeinschaft"
 }
 ]
