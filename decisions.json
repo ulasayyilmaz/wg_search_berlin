@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 18:15",
-"id": "14297655",
-"verdict": "skip",
-"why": "10.32 km from flat, 8.61 km from Möckernbrücke (pin)",
-"title": "Süße Studierenden-WG in Lankwitz (vegan) 🌿🍄🌟💗"
-},
-{
 "time": "2026-11-03 18:20",
 "id": "14241021",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wadzeckstraße, Berlin"
+},
+{
+"time": "2026-11-05 22:55",
+"id": "14319786",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wilhelmstraße, Berlin"
 }
 ]
