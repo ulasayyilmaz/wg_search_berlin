@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 14:45",
-"id": "4279554",
-"verdict": "skip",
-"why": "2.19 km from Schlesisches Tor",
-"title": "Sonniges, ruhiges Altbauzimmer im Herzen Friedrichshains, sucht netten Mitbewohn"
-},
-{
 "time": "2026-11-03 14:55",
 "id": "14311800",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Amalienhofstraße, Berlin"
+},
+{
+"time": "2026-11-05 18:05",
+"id": "14320479",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
