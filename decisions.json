@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 14:40",
-"id": "10418428",
-"verdict": "skip",
-"why": "7.08 km from Möckernbrücke",
-"title": "WG-Zimmer Frei"
-},
-{
 "time": "2026-11-03 14:45",
 "id": "4279554",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Rainweg, Berlin"
+},
+{
+"time": "2026-11-05 18:00",
+"id": "14319581",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Amalienhofstraße, Berlin"
 }
 ]
