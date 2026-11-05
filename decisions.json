@@ -1,54 +1,5 @@
 [
 {
-"time": "2026-11-02 11:31",
-"id": "14307487",
-"verdict": "skip",
-"why": "13.34 km from Möckernbrücke",
-"title": "Gemütliches Zimmer in großem Haus in Schlachtensee"
-},
-{
-"time": "2026-11-02 11:31",
-"id": "14307478",
-"verdict": "skip",
-"why": "4.49 km from Görlitzer Bahnhof",
-"title": "WG Zimmer in Berlin Britz *Nur Frauen*"
-},
-{
-"time": "2026-11-02 11:35",
-"id": "14254836",
-"verdict": "skip",
-"why": "4.37 km from Schlesisches Tor",
-"title": "Entspannte 2er WG im Prenzlauer Berg"
-},
-{
-"time": "2026-11-02 11:35",
-"id": "14307452",
-"verdict": "skip",
-"why": "4.77 km from Möckernbrücke",
-"title": "Wunderschönes Zimmer in gemütlicher WG (ACHTUNG UNTERMIETE/SUBLEASE!)"
-},
-{
-"time": "2026-11-02 11:40",
-"id": "11193870",
-"verdict": "skip",
-"why": "3.98 km from Schlesisches Tor",
-"title": "WG-Zimmer in entspannter 3-Personen-WG frei"
-},
-{
-"time": "2026-11-02 11:45",
-"id": "14307517",
-"verdict": "skip",
-"why": "3.62 km from Kottbusser Tor",
-"title": "Helles WG-Zimmer in 2er-Studenten-WG am Tempelhofer Feld"
-},
-{
-"time": "2026-11-02 12:01",
-"id": "14297488",
-"verdict": "skip",
-"why": "6.36 km from Möckernbrücke",
-"title": "3-er WG between U Seestr. and U Rehberge"
-},
-{
 "time": "2026-11-02 12:05",
 "id": "7036477",
 "verdict": "skip",
@@ -3487,16 +3438,65 @@
 },
 {
 "time": "2026-11-05 08:35",
-"id": "14319590",
+"id": "14248148",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
-"title": "Mittelstraße, Berlin"
+"title": "Petersburger Straße, Berlin"
 },
 {
 "time": "2026-11-05 08:35",
-"id": "14319815",
+"id": "14319579",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
-"title": "Badensche Straße, Berlin"
+"title": "Winckelmannstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319574",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Immenweg, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319763",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Prinzenallee, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319782",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319630",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müggelheimer Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319620",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Suhler Straße, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319764",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ritterlandweg, Berlin"
+},
+{
+"time": "2026-11-05 08:35",
+"id": "14319492",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Stephanstraße, Berlin"
 }
 ]
