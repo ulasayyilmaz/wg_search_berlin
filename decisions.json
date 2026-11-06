@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 14:05",
-"id": "10813539",
-"verdict": "skip",
-"why": "anmeldung: 'anmeldung nicht möglich' [flat 1.75 km, U Schlesisches Tor 1.43 km, pin]",
-"title": "1 Wg Zimmer in Friedrichshain für 3 Monate"
-},
-{
 "time": "2026-11-04 14:15",
 "id": "14315562",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.61 km from flat, 3.61 km from Möckernbrücke (pin)",
 "title": "Helles Zimmer im Tiergarten"
+},
+{
+"time": "2026-11-06 20:01",
+"id": "13066698",
+"verdict": "skip",
+"why": "10.67 km from flat, 8.11 km from Möckernbrücke (pin)",
+"title": "Ruhige, freundliche, bunte Wohnung/Quiet friendly colourful appartment"
 }
 ]
