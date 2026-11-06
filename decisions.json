@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 09:45",
-"id": "13540001",
-"verdict": "skip",
-"why": "7.27 km from flat, 4.66 km from Möckernbrücke (pin)",
-"title": "Zwischenmiete möbliert in Moabiter Seitenstraße"
-},
-{
-"time": "2026-11-04 09:45",
 "id": "14315155",
 "verdict": "skip",
 "why": "8.01 km from flat, 7.59 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bandelstraße, Berlin"
+},
+{
+"time": "2026-11-06 13:50",
+"id": "14327907",
+"verdict": "skip",
+"why": "6.68 km from flat, 6.03 km from Möckernbrücke (pin)",
+"title": "Mitbewohnerin dringend am 1 Dezember gesucht"
 }
 ]
