@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 05:50",
-"id": "14076719",
-"verdict": "skip",
-"why": "6.58 km from flat, 4.22 km from Möckernbrücke (pin)",
-"title": "Auf der suche? Gemütliches Zimmer in Berlin Mitte ab sofort! :)"
-},
-{
 "time": "2026-11-04 06:01",
 "id": "14181168",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.95 km from flat, 2.20 km from Möckernbrücke (pin)",
 "title": "doppelnutzungsraum"
+},
+{
+"time": "2026-11-06 10:30",
+"id": "14327564",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 2.54 km, U Hallesches Tor 0.36 km, pin]",
+"title": "Nette 4 Personen WG"
 }
 ]
