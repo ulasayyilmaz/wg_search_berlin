@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-04 11:45",
-"id": "14315376",
-"verdict": "skip",
-"why": "10.82 km from flat, 7.70 km from Möckernbrücke (pin)",
-"title": "Privatzimmer zur Untermiete verfügbar | Private Room Available for Sublet"
-},
-{
-"time": "2026-11-04 12:01",
-"id": "14170552",
-"verdict": "skip",
-"why": "5.08 km from flat, 4.72 km from Hallesches Tor (pin)",
-"title": "🏡 Möblierter Untermietraum ab Dezember 2026 – Berlin |"
-},
-{
-"time": "2026-11-04 12:05",
-"id": "13701717",
-"verdict": "skip",
-"why": "7.24 km from flat, 3.93 km from Möckernbrücke (pin)",
-"title": "renting out one room in 2-room flat. only short Term. 25eur/day"
-},
-{
 "time": "2026-11-04 12:30",
 "id": "9759470",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "13.21 km from flat, 10.16 km from Möckernbrücke (pin)",
 "title": "Ruhiges Zimmer in 2er WG"
+},
+{
+"time": "2026-11-06 16:30",
+"id": "14143503",
+"verdict": "SENT",
+"why": " [flat 3.21 km, U Möckernbrücke 0.27 km, pin]",
+"title": "Helles Zimmer in Kreuzberger Dreier-WG 🌞"
+},
+{
+"time": "2026-11-06 16:30",
+"id": "14328140",
+"verdict": "skip",
+"why": "3.03 km from flat, 2.56 km from Schlesisches Tor (pin)",
+"title": "Großes WG-Zimmer für Dezember in Friedrichshain"
+},
+{
+"time": "2026-11-06 16:31",
+"id": "14328143",
+"verdict": "skip",
+"why": "6.76 km from flat, 5.00 km from Möckernbrücke (pin)",
+"title": "Sonniges Zimmer in Berlin Mitte"
 }
 ]
