@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 18:40",
-"id": "14255028",
-"verdict": "skip",
-"why": "6.56 km from flat, 3.56 km from Möckernbrücke (pin)",
-"title": "Big room in queer WG --- Großes Zimmer in queerer WG zur Zwischenmiete"
-},
-{
 "time": "2026-11-03 18:50",
 "id": "14311960",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.47 km from flat, 5.98 km from Möckernbrücke (pin)",
 "title": "4 Personen Shared Apartment"
+},
+{
+"time": "2026-11-06 00:40",
+"id": "14324176",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Flemmingstraße WG126.04"
 }
 ]
