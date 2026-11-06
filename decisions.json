@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 06:15",
-"id": "7150758",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 1.38 km, U Schlesisches Tor 1.03 km, pin]",
-"title": "3er-Wg in Friedrichshain"
-},
-{
 "time": "2026-11-04 06:35",
 "id": "13284806",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "16.56 km from flat, 13.62 km from Möckernbrücke (pin)",
 "title": "ein zimmer mit bakcony und registrierung"
+},
+{
+"time": "2026-11-06 10:45",
+"id": "14326616",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Dörpfeldstraße, Berlin"
 }
 ]
