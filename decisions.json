@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 18:50",
-"id": "14311960",
-"verdict": "skip",
-"why": "2.61 km from flat, 2.26 km from Kottbusser Tor (pin)",
-"title": "20qm in Neukölln, Schiller Kiez, direkt am Tempelhofer Feld/U8 Boddenstraße"
-},
-{
-"time": "2026-11-03 18:50",
 "id": "5026631",
 "verdict": "skip",
 "why": "2.62 km from flat, 2.62 km from Kottbusser Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Flemmingstraße WG126.04"
+},
+{
+"time": "2026-11-06 00:55",
+"id": "13645408",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Münchener Straße, Berlin"
 }
 ]
