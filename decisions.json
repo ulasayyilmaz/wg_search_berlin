@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 09:15",
-"id": "7103792",
-"verdict": "skip",
-"why": "3.04 km from flat, 3.05 km from Kottbusser Tor (pin)",
-"title": "schönes, großes, ruhiges, möbliertes Zimmer zur Zwischenuntermiete"
-},
-{
-"time": "2026-11-04 09:15",
 "id": "14315096",
 "verdict": "skip",
 "why": "6.20 km from flat, 5.58 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.18 km from flat, 3.87 km from Möckernbrücke (pin)",
 "title": "WG Zimmer **NUR FRAUEN**"
+},
+{
+"time": "2026-11-06 13:01",
+"id": "11513326",
+"verdict": "skip",
+"why": "6.71 km from flat, 6.40 km from Hallesches Tor (pin)",
+"title": "Großes Zimmer zur Zwischenmiete"
 }
 ]
