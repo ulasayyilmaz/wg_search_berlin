@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 20:55",
-"id": "6834123",
-"verdict": "skip",
-"why": "5.05 km from flat, 4.07 km from Möckernbrücke (pin)",
-"title": "Zentral gelegenes Studio, kleines Schlafzimmer und Wohnküche für Menschen, die e"
-},
-{
 "time": "2026-11-03 21:11",
 "id": "14034352",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Tabbertstraße"
+},
+{
+"time": "2026-11-06 07:45",
+"id": "14325889",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Lauterberger Straße, Berlin"
 }
 ]
