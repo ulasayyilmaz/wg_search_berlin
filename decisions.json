@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 13:50",
-"id": "14315646",
-"verdict": "skip",
-"why": "4.12 km from flat, 3.32 km from Hallesches Tor (pin)",
-"title": "WG Zimmer Untermiete"
-},
-{
-"time": "2026-11-04 13:50",
 "id": "14315614",
 "verdict": "skip",
 "why": "2.47 km from flat, 1.88 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.62 km from flat, 10.00 km from Schlesisches Tor (pin)",
 "title": "10 m2 Zimmer in 7 Personen WG, U5 Kaulsdorf-Nord, mit Anmeldung, 500 € warm."
+},
+{
+"time": "2026-11-06 18:40",
+"id": "14327829",
+"verdict": "skip",
+"why": "8.03 km from flat, 5.24 km from Möckernbrücke (pin)",
+"title": "Möbliertes WG-Zimmer in 2er-WG in Berlin-Steglitz - Mitbewohnerin/FLINTA* Person"
 }
 ]
