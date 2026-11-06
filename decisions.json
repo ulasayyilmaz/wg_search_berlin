@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 13:50",
-"id": "13421329",
-"verdict": "skip",
-"why": "5.04 km from flat, 4.64 km from Schlesisches Tor (pin)",
-"title": "1 Large room in a 3 rooms WG"
-},
-{
 "time": "2026-11-04 13:51",
 "id": "14315016",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.33 km from flat, 2.96 km from Möckernbrücke (pin)",
 "title": "Zentral, 5 Min. zum Hauptbahnhof | Erstbezug nach Sanierung | möbliert"
+},
+{
+"time": "2026-11-06 19:20",
+"id": "14328369",
+"verdict": "skip",
+"why": "5.33 km from flat, 2.96 km from Möckernbrücke (pin)",
+"title": "Zentral in Mitte, 5 Min. zum Hauptbahnhof | Erstbezug nach Sanierung | möbliert"
 }
 ]
