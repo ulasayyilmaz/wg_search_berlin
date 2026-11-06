@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 19:35",
-"id": "12075365",
-"verdict": "skip",
-"why": "3.96 km from flat, 3.33 km from Schlesisches Tor (pin)",
-"title": "Zimmer in ruhiger Lage nahe Ostkreuz – 16 m2, gute Anbindung"
-},
-{
 "time": "2026-11-03 20:10",
 "id": "14195957",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Braunlager Straße, Berlin"
+},
+{
+"time": "2026-11-06 04:30",
+"id": "14324190",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wilhelmstraße"
 }
 ]
