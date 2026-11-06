@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 19:20",
-"id": "14312404",
-"verdict": "skip",
-"why": "7.67 km from flat, 7.14 km from Schlesisches Tor (pin)",
-"title": "13sqm bedroom - Schöneweide near HTW - GIRLS AND FLINTA* only"
-},
-{
 "time": "2026-11-03 19:25",
 "id": "5145261",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.06 km from flat, 1.51 km from Schlesisches Tor (pin)",
 "title": "Gemütliches 11 qm Zimmer in der Nähe von Boxi! mit Terrasse | 4,5 ppl WG | 2 Bad"
+},
+{
+"time": "2026-11-06 03:35",
+"id": "14319529",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hainstraße, Berlin"
 }
 ]
