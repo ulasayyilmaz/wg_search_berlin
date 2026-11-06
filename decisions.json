@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 19:25",
-"id": "5145261",
-"verdict": "skip",
-"why": "5.72 km from flat, 5.86 km from Schlesisches Tor (pin)",
-"title": "Kleines Zimmer mit Hochbett, tolle Lage Schönhauser Allee"
-},
-{
 "time": "2026-11-03 19:35",
 "id": "12075365",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hainstraße, Berlin"
+},
+{
+"time": "2026-11-06 03:50",
+"id": "14321061",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Braunlager Straße, Berlin"
 }
 ]
