@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 08:50",
-"id": "14315073",
-"verdict": "skip",
-"why": "6.11 km from flat, 6.27 km from Kottbusser Tor (street)",
-"title": "4er Berufstätigen-WG im Prenzlauer Berg sucht 2 neue Mitbewohner*innen!"
-},
-{
-"time": "2026-11-04 08:50",
-"id": "14312880",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Richardstraße"
-},
-{
 "time": "2026-11-04 08:55",
 "id": "14196991",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-06 12:30",
+"id": "13235689",
+"verdict": "skip",
+"why": "14.37 km from flat, 11.11 km from Möckernbrücke (pin)",
+"title": "Möbliertes Apartmentzimmer"
+},
+{
+"time": "2026-11-06 12:30",
+"id": "10544213",
+"verdict": "skip",
+"why": "2.76 km from flat, 2.42 km from Görlitzer Bahnhof (pin)",
+"title": "Zimmer in Altbau-Wohnung im Schillerkiez Neukölln"
 }
 ]
