@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-04 07:55",
-"id": "12717033",
-"verdict": "skip",
-"why": "9.97 km from flat, 6.86 km from Möckernbrücke (pin)",
-"title": "Gemütliches WG-Zimmer in Charlottenburg (befristet)"
-},
-{
-"time": "2026-11-04 08:05",
-"id": "14315023",
-"verdict": "skip",
-"why": "12.56 km from flat, 9.43 km from Möckernbrücke (pin)",
-"title": "Zimmer in 3-Personen-Flat mit Anmeldung"
-},
-{
-"time": "2026-11-04 08:05",
-"id": "14283122",
-"verdict": "skip",
-"why": "female only [flat 1.04 km, U Görlitzer Bahnhof 0.77 km, pin]",
-"title": "WG Zimmer in 4er WG - Long Term"
-},
-{
 "time": "2026-11-04 08:25",
 "id": "14308217",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Dörpfeldstraße, Berlin"
+},
+{
+"time": "2026-11-06 12:01",
+"id": "14215545",
+"verdict": "skip",
+"why": "6.14 km from flat, 5.51 km from Schlesisches Tor (pin)",
+"title": "16m2 zimmer in einem 3-personen-flatshare (2 frauen)"
+},
+{
+"time": "2026-11-06 12:01",
+"id": "13645201",
+"verdict": "skip",
+"why": "8.38 km from flat, 5.13 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer - Nähe S Ring Heidelberger Platz"
+},
+{
+"time": "2026-11-06 12:01",
+"id": "14327623",
+"verdict": "skip",
+"why": "6.76 km from flat, 3.78 km from Möckernbrücke (pin)",
+"title": "2er WG in Friedenau sucht nette Flinta*-Person"
 }
 ]
