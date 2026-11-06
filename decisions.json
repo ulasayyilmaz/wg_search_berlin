@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 07:30",
-"id": "14291496",
-"verdict": "SENT",
-"why": " [flat 2.93 km, U Hallesches Tor 0.38 km, pin]",
-"title": "2 Zimmer in 2er-WG am Mehringdamm – beide Zimmer frei ab sofort"
-},
-{
-"time": "2026-11-04 07:55",
-"id": "10887040",
-"verdict": "skip",
-"why": "temporary: zwischenmiete [flat 0.74 km, U Kottbusser Tor 0.35 km, pin]",
-"title": "Zwischenmiete - Schönes Zimmer im Reichenberger Kiez"
-},
-{
 "time": "2026-11-04 07:55",
 "id": "12717033",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "11.34 km from flat, 8.15 km from Möckernbrücke (pin)",
 "title": "Stilvoll studieren und wohnen in bester Lage"
+},
+{
+"time": "2026-11-06 11:55",
+"id": "14319831",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-06 11:55",
+"id": "14326615",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Dörpfeldstraße, Berlin"
 }
 ]
