@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-04 13:51",
-"id": "14315016",
-"verdict": "skip",
-"why": "8.29 km from flat, 7.91 km from Schlesisches Tor (pin)",
-"title": "Großes WG-Zimmer in Johannisthal (24,11 m2) – FLINTA-WG mit Pepper 🐈"
-},
-{
-"time": "2026-11-04 13:55",
-"id": "13506683",
-"verdict": "skip",
-"why": "10.66 km from flat, 10.15 km from Schlesisches Tor (pin)",
-"title": "🏡 WG mit Garten+Terrasse+Anmeldung | 15min-> Ostkreuz| 14 min->Neukölln| 9 min->"
-},
-{
-"time": "2026-11-04 14:05",
-"id": "14315664",
-"verdict": "skip",
-"why": "3.72 km from flat, 3.82 km from Schlesisches Tor (pin)",
-"title": "Zimmer in 2er WG Nähe Greifswalderstraße"
-},
-{
 "time": "2026-11-04 14:05",
 "id": "9112034",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.33 km from flat, 2.96 km from Möckernbrücke (pin)",
 "title": "Zentral in Mitte, 5 Min. zum Hauptbahnhof | Erstbezug nach Sanierung | möbliert"
+},
+{
+"time": "2026-11-06 19:40",
+"id": "9929834",
+"verdict": "skip",
+"why": "5.46 km from flat, 3.84 km from Möckernbrücke (pin)",
+"title": "WG Zimmer in Tempelhof"
+},
+{
+"time": "2026-11-06 19:40",
+"id": "11138799",
+"verdict": "skip",
+"why": "6.32 km from flat, 5.93 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer groß & möbliert"
+},
+{
+"time": "2026-11-06 19:40",
+"id": "10521972",
+"verdict": "skip",
+"why": "2.14 km from flat, 1.91 km from Görlitzer Bahnhof (pin)",
+"title": "Ein gemütliches Zimmer zu vermieten im Herzen von Neukölln"
 }
 ]
