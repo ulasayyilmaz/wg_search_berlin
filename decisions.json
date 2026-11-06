@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 11:25",
-"id": "13977074",
-"verdict": "skip",
-"why": "female only [flat 1.82 km, U Schlesisches Tor 1.44 km, pin]",
-"title": "Wg zimmer in Fridrichshain Short Term"
-},
-{
 "time": "2026-11-04 11:30",
 "id": "14201667",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.93 km from flat, 5.18 km from Möckernbrücke (pin)",
 "title": "Zwischenmiete in 3er WG Berlin-Steglitz"
+},
+{
+"time": "2026-11-06 16:10",
+"id": "14328098",
+"verdict": "skip",
+"why": "3.88 km from flat, 3.50 km from Schlesisches Tor (pin)",
+"title": "1 Zimmer teilen Wohnungen 11 Dezember bis 28. Februar"
 }
 ]
