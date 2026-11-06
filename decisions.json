@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 05:45",
-"id": "14312876",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Ratiborstraße"
-},
-{
-"time": "2026-11-04 05:50",
-"id": "14041915",
-"verdict": "skip",
-"why": "6.58 km from flat, 4.22 km from Möckernbrücke (pin)",
-"title": "Auf der suche ? dann komm vorbei! Schönes Zimmer in Mitte ab sofort :)"
-},
-{
 "time": "2026-11-04 05:50",
 "id": "14076719",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Tabbertstraße, Berlin"
+},
+{
+"time": "2026-11-06 10:20",
+"id": "12529199",
+"verdict": "skip",
+"why": "female only [flat 2.54 km, U Hallesches Tor 0.36 km, pin]",
+"title": "Schöne 4 WG Nähe Mehringdamm"
+},
+{
+"time": "2026-11-06 10:20",
+"id": "14327534",
+"verdict": "skip",
+"why": "3.95 km from flat, 2.20 km from Möckernbrücke (pin)",
+"title": "doppelnutzungsraum"
 }
 ]
