@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 21:11",
-"id": "14312651",
-"verdict": "skip",
-"why": "5.27 km from flat, 5.37 km from Schlesisches Tor (pin)",
-"title": "Room in Prenzlauer Berg | 2-Person Female WG"
-},
-{
 "time": "2026-11-03 21:13",
 "id": "14034414",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.78 km from flat, 3.48 km from Görlitzer Bahnhof (pin)",
 "title": "Zimmer mieten"
+},
+{
+"time": "2026-11-06 08:00",
+"id": "14319835",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
 }
 ]
