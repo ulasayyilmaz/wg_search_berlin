@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 10:40",
-"id": "14315268",
-"verdict": "skip",
-"why": "4.06 km from flat, 3.19 km from Hallesches Tor (pin)",
-"title": "Female WG in Mitte"
-},
-{
-"time": "2026-11-04 10:40",
 "id": "14315206",
 "verdict": "skip",
 "why": "2.14 km from flat, 1.91 km from Görlitzer Bahnhof (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.40 km from flat, 4.11 km from Görlitzer Bahnhof (pin)",
 "title": "Lebensraum! - Aber nur für eine Frau!"
+},
+{
+"time": "2026-11-06 14:40",
+"id": "7183138",
+"verdict": "skip",
+"why": "8.54 km from flat, 6.58 km from Möckernbrücke (pin)",
+"title": "möbliertes Zimmer 16 qm in Doppelhaushälfte - Steglitz"
 }
 ]
