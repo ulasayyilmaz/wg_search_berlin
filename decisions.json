@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 14:15",
-"id": "13416884",
-"verdict": "skip",
-"why": "8.35 km from flat, 5.53 km from Möckernbrücke (street)",
-"title": "möbliertes Zimmer an Studenten zz vermieten"
-},
-{
 "time": "2026-11-04 14:35",
 "id": "14315680",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-06 20:30",
+"id": "12810635",
+"verdict": "skip",
+"why": "11.99 km from flat, 11.31 km from Möckernbrücke (pin)",
+"title": "lichtdurchflutete Dachwohnung mit flauschiger Mitbewohnerin"
 }
 ]
