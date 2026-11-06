@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 18:35",
-"id": "5266716",
-"verdict": "skip",
-"why": "5.08 km from flat, 4.07 km from Möckernbrücke (pin)",
-"title": "Furnished Clean Cosy WG in Mitte / Möblierte Saubere Gemütliche WG in Mitte"
-},
-{
 "time": "2026-11-03 18:40",
 "id": "9089987",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Brückenstraße, Berlin"
+},
+{
+"time": "2026-11-06 00:05",
+"id": "14324150",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wattstraße WG030.04"
 }
 ]
