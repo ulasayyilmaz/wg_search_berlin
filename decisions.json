@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 20:10",
-"id": "14195957",
-"verdict": "skip",
-"why": "10.31 km from flat, 7.19 km from Möckernbrücke (pin)",
-"title": "A Very cool shared flatshare in Charlottenburg Wilmersdorf. Shared bathroom and "
-},
-{
 "time": "2026-11-03 20:25",
 "id": "14229946",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Wilhelmstraße"
+},
+{
+"time": "2026-11-06 05:01",
+"id": "14240901",
+"verdict": "skip",
+"why": "3.67 km from flat, 1.42 km from Möckernbrücke (pin)",
+"title": "Large Triple Rooms for just €450!"
 }
 ]
