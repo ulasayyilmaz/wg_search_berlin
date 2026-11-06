@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 11:05",
-"id": "14117851",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "Schönes Zimmer in Friedenau in Generationen WG"
-},
-{
 "time": "2026-11-04 11:10",
 "id": "14315339",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.45 km from flat, 4.16 km from Möckernbrücke (pin)",
 "title": "Zimmer in Charlottenburg"
+},
+{
+"time": "2026-11-06 15:30",
+"id": "13182189",
+"verdict": "skip",
+"why": "7.48 km from flat, 6.03 km from Möckernbrücke (pin)",
+"title": "Großes WG-Zimmer in Weddinger Altbau"
 }
 ]
