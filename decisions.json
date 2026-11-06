@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 18:40",
-"id": "14312349",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 1.36 km, U Kottbusser Tor 0.45 km, pin]",
-"title": "Zimmer im schönen ruhigen Hinterhof (WG)"
-},
-{
-"time": "2026-11-03 18:40",
 "id": "14255028",
 "verdict": "skip",
 "why": "6.56 km from flat, 3.56 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.79 km from flat, 5.02 km from Möckernbrücke (pin)",
 "title": "Girls WG sucht neue Mitbewohnerin"
+},
+{
+"time": "2026-11-06 00:30",
+"id": "14324243",
+"verdict": "skip",
+"why": "7.47 km from flat, 5.98 km from Möckernbrücke (pin)",
+"title": "4 Personen Shared Apartment"
 }
 ]
