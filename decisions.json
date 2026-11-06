@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 18:31",
-"id": "14312290",
-"verdict": "skip",
-"why": "7.15 km from flat, 6.54 km from Schlesisches Tor (pin)",
-"title": "Zimmer für Pendler*innen"
-},
-{
 "time": "2026-11-03 18:35",
 "id": "5266716",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Stephanstraße 28.4"
+},
+{
+"time": "2026-11-06 00:01",
+"id": "14319540",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Brückenstraße, Berlin"
 }
 ]
