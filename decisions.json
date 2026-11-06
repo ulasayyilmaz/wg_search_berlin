@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 12:30",
-"id": "9759470",
-"verdict": "skip",
-"why": "2.40 km from flat, 2.17 km from Schlesisches Tor (pin)",
-"title": "WG in 4 Zimmerwohnung mit Anmeldung/registration ALL INCLUSIVE"
-},
-{
-"time": "2026-11-04 12:30",
 "id": "14265735",
 "verdict": "SENT",
 "why": "has 'frei bis' end date but extension: 'verlängerung möglich' [flat 0.56 km, U Görlitzer Bahnhof 0.34 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.76 km from flat, 5.00 km from Möckernbrücke (pin)",
 "title": "Sonniges Zimmer in Berlin Mitte"
+},
+{
+"time": "2026-11-06 16:40",
+"id": "12639683",
+"verdict": "skip",
+"why": "4.69 km from flat, 4.21 km from Schlesisches Tor (pin)",
+"title": "WG bei S-Baumschulenweg"
 }
 ]
