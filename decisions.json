@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 13:30",
-"id": "14211758",
-"verdict": "skip",
-"why": "14.00 km from flat, 13.50 km from Prinzenstraße (pin)",
-"title": "ca. 50 (-70)m2 in 130m2 Einfamilienhaus (ca. 10+40(+20)m2); S2-Bahn nah (5min zu"
-},
-{
 "time": "2026-11-04 13:35",
 "id": "14196698",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "14.04 km from flat, 12.97 km from Möckernbrücke (pin)",
 "title": "Queer anarchistisches Wohnprojekt - SHARED SLEEPING ROOM"
+},
+{
+"time": "2026-11-06 17:30",
+"id": "4666406",
+"verdict": "skip",
+"why": "4.63 km from flat, 4.76 km from Schlesisches Tor (street)",
+"title": "preisgünstiges Zimmer in super Lage im Prenzlauer Berg (nur 5 Min. von der S/U-B"
 }
 ]
