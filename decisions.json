@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 14:05",
-"id": "9112034",
-"verdict": "skip",
-"why": "female only [flat 1.75 km, U Schlesisches Tor 1.21 km, pin]",
-"title": "Zimmer in 2er WG"
-},
-{
-"time": "2026-11-04 14:05",
 "id": "10813539",
 "verdict": "skip",
 "why": "anmeldung: 'anmeldung nicht möglich' [flat 1.75 km, U Schlesisches Tor 1.43 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.14 km from flat, 1.91 km from Görlitzer Bahnhof (pin)",
 "title": "Ein gemütliches Zimmer zu vermieten im Herzen von Neukölln"
+},
+{
+"time": "2026-11-06 19:50",
+"id": "14328395",
+"verdict": "skip",
+"why": "6.61 km from flat, 3.61 km from Möckernbrücke (pin)",
+"title": "Helles Zimmer im Tiergarten"
 }
 ]
