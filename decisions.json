@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 20:30",
-"id": "14308761",
-"verdict": "skip",
-"why": "5.35 km from flat, 4.89 km from Schlesisches Tor (pin)",
-"title": "Schöne WG mit hellem und gemütlichem Raum"
-},
-{
 "time": "2026-11-03 20:55",
 "id": "14312079",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-06 07:01",
+"id": "8753872",
+"verdict": "skip",
+"why": "8.17 km from flat, 7.56 km from Prinzenstraße (pin)",
+"title": "1 Zimmer in 3er WG mit Garten, Bus in 2Min, Park in Nähe, ruhig und zentral"
 }
 ]
