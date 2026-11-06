@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 20:25",
-"id": "14229946",
-"verdict": "skip",
-"why": "4.53 km from flat, 4.54 km from Schlesisches Tor (pin)",
-"title": "Kleines gemütliches Zimmer zur Untermiete"
-},
-{
-"time": "2026-11-03 20:25",
 "id": "14312494",
 "verdict": "skip",
 "why": "5.44 km from flat, 5.37 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.67 km from flat, 1.42 km from Möckernbrücke (pin)",
 "title": "Large Triple Rooms for just €450!"
+},
+{
+"time": "2026-11-06 05:30",
+"id": "14324192",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Hoffmannstraße"
 }
 ]
