@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 20:55",
-"id": "14312079",
-"verdict": "skip",
-"why": "5.70 km from flat, 5.87 km from Kottbusser Tor (pin)",
-"title": "temporäre WG-Zimmer in 3er WG bis 02.12. (~3 Wochen) / Provisorisches Zimmer in "
-},
-{
-"time": "2026-11-03 20:55",
 "id": "6834123",
 "verdict": "skip",
 "why": "5.05 km from flat, 4.07 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.17 km from flat, 7.56 km from Prinzenstraße (pin)",
 "title": "1 Zimmer in 3er WG mit Garten, Bus in 2Min, Park in Nähe, ruhig und zentral"
+},
+{
+"time": "2026-11-06 07:25",
+"id": "14324195",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Tabbertstraße"
 }
 ]
