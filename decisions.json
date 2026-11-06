@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 08:25",
-"id": "14308217",
-"verdict": "skip",
-"why": "3.11 km from flat, 3.29 km from Kottbusser Tor (pin)",
-"title": "3 separate Zimmer in Prenzlauer Berg zu vermietet Ab sofort verfügbar"
-},
-{
-"time": "2026-11-04 08:35",
-"id": "14228937",
-"verdict": "skip",
-"why": "11.12 km from flat, 8.02 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer mit Balkon in Dahlem frei"
-},
-{
 "time": "2026-11-04 08:45",
 "id": "14315025",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.76 km from flat, 3.78 km from Möckernbrücke (pin)",
 "title": "2er WG in Friedenau sucht nette Flinta*-Person"
+},
+{
+"time": "2026-11-06 12:20",
+"id": "14327739",
+"verdict": "skip",
+"why": "temporary: zwischenmiete [flat 2.42 km, U Prinzenstraße 0.97 km, pin]",
+"title": "1 Zi. 23qm Kreuzberg Übernachtung 27€ per Nacht"
+},
+{
+"time": "2026-11-06 12:20",
+"id": "14327737",
+"verdict": "skip",
+"why": "10.48 km from flat, 10.05 km from Möckernbrücke (pin)",
+"title": "Schönes Zimmer in gemischter WG"
 }
 ]
