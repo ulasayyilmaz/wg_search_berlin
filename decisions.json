@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 12:30",
-"id": "14265735",
-"verdict": "SENT",
-"why": "has 'frei bis' end date but extension: 'verlängerung möglich' [flat 0.56 km, U Görlitzer Bahnhof 0.34 km, pin]",
-"title": "gemütliche Wohnung in top Lage"
-},
-{
-"time": "2026-11-04 12:40",
-"id": "14315494",
-"verdict": "skip",
-"why": "11.96 km from flat, 9.13 km from Möckernbrücke (pin)",
-"title": "Gemütliches WG-Zimmer mit Blick ins Grüne – dein ruhiger Rückzugsort"
-},
-{
 "time": "2026-11-04 12:45",
 "id": "7819302",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.69 km from flat, 4.21 km from Schlesisches Tor (pin)",
 "title": "WG bei S-Baumschulenweg"
+},
+{
+"time": "2026-11-06 16:50",
+"id": "14328187",
+"verdict": "skip",
+"why": "4.06 km from flat, 3.43 km from Schlesisches Tor (pin)",
+"title": "Sehr schöne 3 er WG in Lichtenberg"
+},
+{
+"time": "2026-11-06 16:50",
+"id": "10081749",
+"verdict": "skip",
+"why": "7.55 km from flat, 7.26 km from Hallesches Tor (pin)",
+"title": "von 18.nov -15. Dez. Schönes Dachgeschoss Zimmer Berlin Wedding/Gesundbrunnen"
 }
 ]
