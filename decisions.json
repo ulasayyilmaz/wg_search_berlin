@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 22:50",
-"id": "14312838",
-"verdict": "skip",
-"why": "2.04 km from flat, 1.58 km from Schlesisches Tor (pin)",
-"title": "Zimmer in 2er Wg *Flinta only* (ohne Anmeldung)"
-},
-{
-"time": "2026-11-03 23:01",
-"id": "14249328",
-"verdict": "skip",
-"why": "3.83 km from flat, 3.32 km from Schlesisches Tor (pin)",
-"title": "Möbliertes Zimmer zur Zwischenmiete im Dezember 2026 – Berlin-Plänterwald"
-},
-{
-"time": "2026-11-03 23:01",
-"id": "14283065",
-"verdict": "skip",
-"why": "starts 01.01.2027 [flat 1.52 km, U Kottbusser Tor 1.49 km, pin]",
-"title": "~16,5 qm Zimmer in einer 4-WG im Herzen von Berlin (sehr zentral). Tut mir leid,"
-},
-{
 "time": "2026-11-03 23:25",
 "id": "14312877",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "16.45 km from flat, 13.65 km from Möckernbrücke (pin)",
 "title": "2 Private Rooms(furnished) available in a Fully Renovated Large 3-Room Apartment"
+},
+{
+"time": "2026-11-06 09:20",
+"id": "14327449",
+"verdict": "skip",
+"why": "9.85 km from flat, 6.75 km from Möckernbrücke (pin)",
+"title": "Altbau Wohnung in guter Lage"
+},
+{
+"time": "2026-11-06 09:20",
+"id": "14326675",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-06 09:20",
+"id": "14324184",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Damerowstraße"
 }
 ]
