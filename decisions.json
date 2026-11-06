@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 19:10",
-"id": "14238335",
-"verdict": "skip",
-"why": "6.09 km from flat, 5.16 km from Möckernbrücke (pin)",
-"title": "Sublet / Zwischenmiete 17.11.–31.01.: Furnished WG room in Wedding"
-},
-{
 "time": "2026-11-03 19:20",
 "id": "14312404",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Stromstraße, Berlin"
+},
+{
+"time": "2026-11-06 03:01",
+"id": "9282795",
+"verdict": "skip",
+"why": "2.06 km from flat, 1.51 km from Schlesisches Tor (pin)",
+"title": "Gemütliches 11 qm Zimmer in der Nähe von Boxi! mit Terrasse | 4,5 ppl WG | 2 Bad"
 }
 ]
