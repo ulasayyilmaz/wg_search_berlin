@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-03 18:40",
-"id": "9089987",
-"verdict": "skip",
-"why": "10.71 km from flat, 10.07 km from Möckernbrücke (pin)",
-"title": "16m2 Zimmer in Zweck - 2er WG Berlin Lichtenrade/Tempelhof (INCL. WLAN, STROM, K"
-},
-{
-"time": "2026-11-03 18:40",
 "id": "14312349",
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 1.36 km, U Kottbusser Tor 0.45 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Wattstraße WG030.04"
+},
+{
+"time": "2026-11-06 00:10",
+"id": "11980752",
+"verdict": "skip",
+"why": "6.79 km from flat, 5.02 km from Möckernbrücke (pin)",
+"title": "Girls WG sucht neue Mitbewohnerin"
 }
 ]
