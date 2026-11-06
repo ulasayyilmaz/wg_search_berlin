@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 14:50",
-"id": "14107093",
-"verdict": "skip",
-"why": "starts 14.12.2027 [flat 1.35 km, U Kottbusser Tor 0.55 km, pin]",
-"title": "Dreamy & Cozy Dezember Untervermietung im Herzen von Kreuzberg (Duplex)"
-},
-{
-"time": "2026-11-04 14:50",
 "id": "14315734",
 "verdict": "skip",
 "why": "3.00 km from flat, 2.87 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.47 km from flat, 6.26 km from Möckernbrücke (pin)",
 "title": "Room in 5 people flatshare available"
+},
+{
+"time": "2026-11-06 21:30",
+"id": "14328489",
+"verdict": "skip",
+"why": "6.78 km from flat, 5.30 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer im Sprengelkiez (Berlin Mitte/Wedding)"
 }
 ]
