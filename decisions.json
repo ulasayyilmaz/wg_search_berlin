@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 08:55",
-"id": "14196991",
-"verdict": "skip",
-"why": "14.96 km from flat, 14.36 km from Schlesisches Tor (pin)",
-"title": "Zimmer (15m2) - möbliert (3), große Küche (17m2), gut ausgestattet, Bad (9m2) mi"
-},
-{
 "time": "2026-11-04 09:15",
 "id": "7103792",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.76 km from flat, 2.42 km from Görlitzer Bahnhof (pin)",
 "title": "Zimmer in Altbau-Wohnung im Schillerkiez Neukölln"
+},
+{
+"time": "2026-11-06 12:50",
+"id": "14327778",
+"verdict": "skip",
+"why": "7.18 km from flat, 3.87 km from Möckernbrücke (pin)",
+"title": "WG Zimmer **NUR FRAUEN**"
 }
 ]
