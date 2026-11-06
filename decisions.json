@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 14:40",
-"id": "14315726",
-"verdict": "skip",
-"why": "7.72 km from flat, 5.16 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer in Steglitz mit Balkon"
-},
-{
 "time": "2026-11-04 14:50",
 "id": "14107093",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.16 km from flat, 9.67 km from Schlesisches Tor (street)",
 "title": "Helles WG Zimmernin einer großen, hellen und sauberen 5 Zimmerwohnung – entspann"
+},
+{
+"time": "2026-11-06 21:10",
+"id": "5001201",
+"verdict": "skip",
+"why": "9.47 km from flat, 6.26 km from Möckernbrücke (pin)",
+"title": "Room in 5 people flatshare available"
 }
 ]
