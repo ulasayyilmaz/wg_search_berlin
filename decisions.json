@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 21:13",
-"id": "14034414",
-"verdict": "skip",
-"why": "3.57 km from flat, 2.96 km from Schlesisches Tor (pin)",
-"title": "17 qm WG Zimmer an der Rummelsburger Bucht"
-},
-{
 "time": "2026-11-03 21:30",
 "id": "14312625",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-06 08:20",
+"id": "14326614",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Otto-Franke-Straße, Berlin"
 }
 ]
