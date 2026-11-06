@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 22:30",
-"id": "10713356",
-"verdict": "skip",
-"why": "12.71 km from flat, 12.08 km from Schlesisches Tor (pin)",
-"title": "Zwischenmiete in herzlicher 6er WG"
-},
-{
-"time": "2026-11-03 22:30",
-"id": "4487212",
-"verdict": "skip",
-"why": "9.45 km from flat, 6.98 km from Möckernbrücke (pin)",
-"title": "18 m2 Zimmer - \"good vibe flat\"- in zentraler Lage in WG für StudentInen"
-},
-{
 "time": "2026-11-03 22:45",
 "id": "3967346",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "10.09 km from flat, 9.67 km from Möckernbrücke (pin)",
 "title": "Schönes helles Zimmer in Pankow"
+},
+{
+"time": "2026-11-06 09:01",
+"id": "14287690",
+"verdict": "skip",
+"why": "9.43 km from flat, 6.52 km from Möckernbrücke (pin)",
+"title": "Wg in Charlottenburg, Zeitraum flexibel :)"
+},
+{
+"time": "2026-11-06 09:01",
+"id": "14319834",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
 }
 ]
