@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 08:45",
-"id": "14315025",
-"verdict": "skip",
-"why": "female only [flat 1.98 km, U Schlesisches Tor 2.21 km, pin]",
-"title": "wg zimmer fur eine frau"
-},
-{
-"time": "2026-11-04 08:45",
-"id": "14307825",
-"verdict": "skip",
-"why": "6.19 km from flat, 6.34 km from Kottbusser Tor (pin)",
-"title": "4er Berufstätigen-WG im Prenzlauer Berg sucht 2 neue Mitbewohner*innen!"
-},
-{
 "time": "2026-11-04 08:50",
 "id": "14315073",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "10.48 km from flat, 10.05 km from Möckernbrücke (pin)",
 "title": "Schönes Zimmer in gemischter WG"
+},
+{
+"time": "2026-11-06 12:25",
+"id": "13859754",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kaiser-Friedrich-Straße, Berlin"
+},
+{
+"time": "2026-11-06 12:25",
+"id": "14319829",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
 }
 ]
