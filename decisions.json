@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-03 23:40",
-"id": "13780082",
-"verdict": "skip",
-"why": "3.98 km from flat, 3.98 km from Prinzenstraße (pin)",
-"title": "💫 Prenzlauer Berg 21qm Zimmer sucht ♀︎Mitbewohnerin 01.12.2026 - 28.02.2027 even"
-},
-{
-"time": "2026-11-04 00:15",
-"id": "14248290",
-"verdict": "skip",
-"why": "7.57 km from flat, 7.17 km from Schlesisches Tor (pin)",
-"title": "(Dec 1 – Feb 10) 14m2 in 3-er WG - Kurzfristige Untervermietung"
-},
-{
 "time": "2026-11-04 01:35",
 "id": "14312486",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "16.84 km from flat, 13.79 km from Möckernbrücke (pin)",
 "title": "Helles, möbliertes WG-Zimmer am Schlachtensee-WG-ZIMMER · BERLIN-ZEHLENDORF"
+},
+{
+"time": "2026-11-06 10:01",
+"id": "14327517",
+"verdict": "skip",
+"why": "2.54 km from flat, 2.36 km from Schlesisches Tor (pin)",
+"title": "Helles, gemütliches und ruhiges Zimmer in Neukölln"
+},
+{
+"time": "2026-11-06 10:01",
+"id": "14327505",
+"verdict": "skip",
+"why": "3.83 km from flat, 3.58 km from Görlitzer Bahnhof (pin)",
+"title": "zimmer in 3er wg mit balkon für 2 monate"
 }
 ]
