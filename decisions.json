@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 14:15",
-"id": "14315562",
-"verdict": "skip",
-"why": "2.28 km from flat, 2.05 km from Schlesisches Tor (pin)",
-"title": "Room near Sonnenallee"
-},
-{
-"time": "2026-11-04 14:15",
 "id": "13416884",
 "verdict": "skip",
 "why": "8.35 km from flat, 5.53 km from Möckernbrücke (street)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.67 km from flat, 8.11 km from Möckernbrücke (pin)",
 "title": "Ruhige, freundliche, bunte Wohnung/Quiet friendly colourful appartment"
+},
+{
+"time": "2026-11-06 20:25",
+"id": "14319828",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
 }
 ]
