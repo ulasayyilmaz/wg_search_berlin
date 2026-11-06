@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 06:45",
-"id": "14312879",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Residenzstraße"
-},
-{
-"time": "2026-11-04 07:05",
-"id": "14314980",
-"verdict": "skip",
-"why": "2.57 km from flat, 2.20 km from Schlesisches Tor (pin)",
-"title": "2 month room 29.11 til 24.01 20 meters 10 min walking karl marx strasse ubhan"
-},
-{
 "time": "2026-11-04 07:30",
 "id": "14291496",
 "verdict": "SENT",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-06 11:42",
+"id": "9212287",
+"verdict": "skip",
+"why": "starts 13.12.2026 [flat 1.29 km, U Kottbusser Tor 0.41 km, street]",
+"title": "Altbau Zwischenmiete Mitte Dez-Jan.in Kreuzberg"
+},
+{
+"time": "2026-11-06 11:42",
+"id": "6796322",
+"verdict": "skip",
+"why": "11.34 km from flat, 8.15 km from Möckernbrücke (pin)",
+"title": "Stilvoll studieren und wohnen in bester Lage"
 }
 ]
