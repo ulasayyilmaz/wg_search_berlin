@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-03 21:30",
-"id": "14312625",
-"verdict": "skip",
-"why": "7.55 km from flat, 6.03 km from Möckernbrücke (pin)",
-"title": "süßes zentrales Zimmer in 2er-WG mit Balkon Jan&Feb 27"
-},
-{
-"time": "2026-11-03 21:31",
-"id": "14312510",
-"verdict": "skip",
-"why": "7.01 km from flat, 4.24 km from Möckernbrücke (pin)",
-"title": "gemütliches Zimmer in Friedenau"
-},
-{
-"time": "2026-11-03 21:45",
-"id": "14312713",
-"verdict": "skip",
-"why": "4.35 km from flat, 2.14 km from Möckernbrücke (pin)",
-"title": "Gemütliches WG-Zimmer in Haus mit Garten"
-},
-{
 "time": "2026-11-03 22:10",
 "id": "4682090",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Otto-Franke-Straße, Berlin"
+},
+{
+"time": "2026-11-06 08:30",
+"id": "14327388",
+"verdict": "skip",
+"why": "6.56 km from flat, 5.01 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer im Sprengelkiez"
+},
+{
+"time": "2026-11-06 08:30",
+"id": "10208111",
+"verdict": "skip",
+"why": "5.01 km from flat, 5.06 km from Schlesisches Tor (pin)",
+"title": "2 months sublet in WG- Prenzlauer Berg (Flexible dates)"
+},
+{
+"time": "2026-11-06 08:31",
+"id": "14323498",
+"verdict": "skip",
+"why": "4.11 km from flat, 3.34 km from Hallesches Tor (pin)",
+"title": "Komplett möbliertes Zimmer, Toilette, Küche in einer gemeinsamen WG | Dez 01 - J"
 }
 ]
