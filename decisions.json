@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-04 14:50",
-"id": "14315734",
-"verdict": "skip",
-"why": "3.00 km from flat, 2.87 km from Schlesisches Tor (pin)",
-"title": "22m2 schön helles Altbauzimmer"
-},
-{
-"time": "2026-11-04 14:50",
-"id": "2322962",
-"verdict": "skip",
-"why": "4.62 km from flat, 1.36 km from Möckernbrücke (pin)",
-"title": "Möbilierte 32 qm in Schöneberg/Furnished room 32 qm"
-},
-{
-"time": "2026-11-04 14:50",
 "id": "14315729",
 "verdict": "skip",
 "why": "7.42 km from flat, 6.02 km from Möckernbrücke (pin)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.78 km from flat, 5.30 km from Möckernbrücke (pin)",
 "title": "WG-Zimmer im Sprengelkiez (Berlin Mitte/Wedding)"
+},
+{
+"time": "2026-11-06 21:40",
+"id": "14328457",
+"verdict": "skip",
+"why": "10.60 km from flat, 7.80 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer meiner Privatwohnung für 1 oder 2 Personen bis zu 6 Monate zu "
+},
+{
+"time": "2026-11-06 21:40",
+"id": "14324165",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG040.03 Schierker Straße"
 }
 ]
