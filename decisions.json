@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 06:01",
-"id": "14181168",
-"verdict": "skip",
-"why": "6.12 km from flat, 4.88 km from Möckernbrücke (pin)",
-"title": "Auf der suche nach einem Gemütlichen Zimmer in Wedding? Dann bist du hier genau "
-},
-{
-"time": "2026-11-04 06:05",
-"id": "14312871",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Treskowallee 22.6"
-},
-{
 "time": "2026-11-04 06:15",
 "id": "7150758",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 2.54 km, U Hallesches Tor 0.36 km, pin]",
 "title": "Nette 4 Personen WG"
+},
+{
+"time": "2026-11-06 10:40",
+"id": "10936690",
+"verdict": "skip",
+"why": "7.61 km from flat, 6.60 km from Möckernbrücke (pin)",
+"title": "1.12.26 - 28.02.27 - schönes möbliertes Altbauzimmer in einer chilligen WG in We"
+},
+{
+"time": "2026-11-06 10:40",
+"id": "14327572",
+"verdict": "skip",
+"why": "16.56 km from flat, 13.62 km from Möckernbrücke (pin)",
+"title": "ein zimmer mit bakcony und registrierung"
 }
 ]
