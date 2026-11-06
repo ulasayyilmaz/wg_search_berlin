@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 11:30",
-"id": "14201667",
-"verdict": "skip",
-"why": "2.64 km from flat, 2.10 km from Schlesisches Tor (pin)",
-"title": "WG-Zimmer zur Zwischenmiete in Friedrichshain"
-},
-{
-"time": "2026-11-04 11:45",
-"id": "14315188",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 2.33 km, U Hallesches Tor 0.44 km, pin]",
-"title": "3-4 Monate sehr zentrales, helles WG- Zimmer in Kreuzberg"
-},
-{
 "time": "2026-11-04 11:45",
 "id": "14315376",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.88 km from flat, 3.50 km from Schlesisches Tor (pin)",
 "title": "1 Zimmer teilen Wohnungen 11 Dezember bis 28. Februar"
+},
+{
+"time": "2026-11-06 16:20",
+"id": "13915554",
+"verdict": "skip",
+"why": "9.50 km from flat, 7.20 km from Möckernbrücke (pin)",
+"title": "Zimmer in ruhiger Lage nahe S-Bahn - Dauer nach Absprache individuell möglich"
+},
+{
+"time": "2026-11-06 16:20",
+"id": "14328115",
+"verdict": "skip",
+"why": "13.21 km from flat, 10.16 km from Möckernbrücke (pin)",
+"title": "Ruhiges Zimmer in 2er WG"
 }
 ]
