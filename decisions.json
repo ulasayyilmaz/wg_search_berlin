@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 14:50",
-"id": "14315729",
-"verdict": "skip",
-"why": "7.42 km from flat, 6.02 km from Möckernbrücke (pin)",
-"title": "Zentrales WG-Zimmer – 600 € all inclusive, Balkon & Top-Anbindung"
-},
-{
 "time": "2026-11-04 15:01",
 "id": "14315721",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - WG040.03 Schierker Straße"
+},
+{
+"time": "2026-11-06 22:40",
+"id": "8283071",
+"verdict": "skip",
+"why": "13.43 km from flat, 12.31 km from Möckernbrücke (pin)",
+"title": "Möblierte WG-Zimmer in Wittenau (nahe S-Bahn Wittenau) – 2,5 Monate !!Möbelübern"
 }
 ]
