@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-04 09:45",
-"id": "14315155",
-"verdict": "skip",
-"why": "8.01 km from flat, 7.59 km from Schlesisches Tor (pin)",
-"title": "Dec1-Feb12 (flexible) sublet in 3er WG"
-},
-{
-"time": "2026-11-04 09:45",
-"id": "12020477",
-"verdict": "skip",
-"why": "8.07 km from flat, 7.78 km from Schlesisches Tor (pin)",
-"title": "2 freie Wg Zimmer in Berlin Rudow Seidelbastweg"
-},
-{
-"time": "2026-11-04 09:50",
-"id": "13456707",
-"verdict": "skip",
-"why": "17.44 km from flat, 14.44 km from Möckernbrücke (pin)",
-"title": "WG Zimmer zu vermieten, teilmöbliert"
-},
-{
 "time": "2026-11-04 10:10",
 "id": "14273600",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "6.68 km from flat, 6.03 km from Möckernbrücke (pin)",
 "title": "Mitbewohnerin dringend am 1 Dezember gesucht"
+},
+{
+"time": "2026-11-06 14:01",
+"id": "14327903",
+"verdict": "skip",
+"why": "6.89 km from flat, 4.04 km from Möckernbrücke (pin)",
+"title": "Cozy room in Schönberg"
+},
+{
+"time": "2026-11-06 14:01",
+"id": "12933616",
+"verdict": "skip",
+"why": "10.65 km from flat, 7.76 km from Möckernbrücke (pin)",
+"title": "Zimmer in charmanter Stadtvilla in Dahlem – lebendige Studenten-WG"
+},
+{
+"time": "2026-11-06 14:01",
+"id": "7648460",
+"verdict": "skip",
+"why": "8.61 km from flat, 8.05 km from Möckernbrücke (pin)",
+"title": "großes Zimmer in 2er-WG nahe S-Bahnhof Schönholz"
 }
 ]
