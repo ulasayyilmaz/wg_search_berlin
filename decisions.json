@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-03 23:30",
-"id": "14312875",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Ratiborstraße"
-},
-{
 "time": "2026-11-03 23:40",
 "id": "13780082",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.20 km from flat, 3.37 km from Kottbusser Tor (street)",
 "title": "Kleines, ruhiges und gemütliches Hofzimmer in Prenzlauer Berg, Jan–März (keine A"
+},
+{
+"time": "2026-11-06 09:50",
+"id": "14315540",
+"verdict": "skip",
+"why": "16.84 km from flat, 13.79 km from Möckernbrücke (pin)",
+"title": "Helles, möbliertes WG-Zimmer am Schlachtensee-WG-ZIMMER · BERLIN-ZEHLENDORF"
 }
 ]
