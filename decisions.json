@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 13:20",
-"id": "14315496",
-"verdict": "skip",
-"why": "5.65 km from flat, 5.17 km from Schlesisches Tor (pin)",
-"title": "25-m2-Zimmer in 4er-WG in Baumschulenweg (möbliert)"
-},
-{
-"time": "2026-11-04 13:20",
-"id": "11963580",
-"verdict": "skip",
-"why": "5.41 km from flat, 5.36 km from Prinzenstraße (pin)",
-"title": "Berlin am Mauerpark, Prenzlauer Berg ab VB 1Dezember, 1 WG Zimmer 13qm"
-},
-{
 "time": "2026-11-04 13:30",
 "id": "14211758",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wiebestraße, Berlin"
+},
+{
+"time": "2026-11-06 17:20",
+"id": "14291000",
+"verdict": "skip",
+"why": "2.43 km from flat, 1.86 km from Schlesisches Tor (pin)",
+"title": "Zimmer in einer schönen, ruhigen und geräumigen Wohnung im Herzen von F'hain - T"
+},
+{
+"time": "2026-11-06 17:20",
+"id": "14202158",
+"verdict": "skip",
+"why": "14.04 km from flat, 12.97 km from Möckernbrücke (pin)",
+"title": "Queer anarchistisches Wohnprojekt - SHARED SLEEPING ROOM"
 }
 ]
