@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-04 09:15",
-"id": "14315096",
-"verdict": "skip",
-"why": "6.20 km from flat, 5.58 km from Schlesisches Tor (pin)",
-"title": "Untervermietung meines großen Zimmers"
-},
-{
-"time": "2026-11-04 09:15",
-"id": "14315095",
-"verdict": "skip",
-"why": "3.20 km from flat, 2.83 km from Kottbusser Tor (pin)",
-"title": "Longterm WG Zimmer in Schillerkiez (NO ANMELDUNG)"
-},
-{
-"time": "2026-11-04 09:30",
-"id": "14143637",
-"verdict": "SENT",
-"why": "befristet but extension: 'option auf verlängerung' [flat 3.21 km, U Möckernbrücke 0.27 km, pin]",
-"title": "Schöne WG im Bergmannkiez sucht neue/n Mitbewohni 🐭 (vorerst auf 6 Monate befris"
-},
-{
 "time": "2026-11-04 09:31",
 "id": "14262375",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "6.71 km from flat, 6.40 km from Hallesches Tor (pin)",
 "title": "Großes Zimmer zur Zwischenmiete"
+},
+{
+"time": "2026-11-06 13:31",
+"id": "14139391",
+"verdict": "skip",
+"why": "8.55 km from flat, 5.54 km from Möckernbrücke (pin)",
+"title": "Möbliertes WG-Zimmer nähe U-Rüdesheimer Platz (U3) | Furnished room in shared fl"
+},
+{
+"time": "2026-11-06 13:31",
+"id": "14327846",
+"verdict": "skip",
+"why": "starts 24.12.2026 [flat 0.26 km, U Görlitzer Bahnhof 0.54 km, pin]",
+"title": "ROOM KREUZBERG DEC 24 - JAN 03"
+},
+{
+"time": "2026-11-06 13:31",
+"id": "14327786",
+"verdict": "skip",
+"why": "6.67 km from flat, 5.94 km from Möckernbrücke (pin)",
+"title": "Mitbewohnerin/Mitbewohner gesucht!"
 }
 ]
