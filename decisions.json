@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 12:45",
-"id": "7819302",
-"verdict": "skip",
-"why": "15.31 km from flat, 14.04 km from Möckernbrücke (pin)",
-"title": "Wohnen im Grünen und schnell in der Stadt"
-},
-{
-"time": "2026-11-04 12:45",
 "id": "12486251",
 "verdict": "skip",
 "why": "12.50 km from flat, 11.86 km from Schlesisches Tor (postcode)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.55 km from flat, 7.26 km from Hallesches Tor (pin)",
 "title": "von 18.nov -15. Dez. Schönes Dachgeschoss Zimmer Berlin Wedding/Gesundbrunnen"
+},
+{
+"time": "2026-11-06 17:05",
+"id": "14319832",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
 }
 ]
