@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 10:40",
-"id": "14315206",
-"verdict": "skip",
-"why": "2.14 km from flat, 1.91 km from Görlitzer Bahnhof (pin)",
-"title": "18m2 Zimmer in 2er WG"
-},
-{
-"time": "2026-11-04 10:50",
-"id": "13972997",
-"verdict": "skip",
-"why": "7.17 km from flat, 6.54 km from Schlesisches Tor (pin)",
-"title": "Zimmer in 2er WG"
-},
-{
 "time": "2026-11-04 10:50",
 "id": "14315283",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.54 km from flat, 6.58 km from Möckernbrücke (pin)",
 "title": "möbliertes Zimmer 16 qm in Doppelhaushälfte - Steglitz"
+},
+{
+"time": "2026-11-06 14:50",
+"id": "14327945",
+"verdict": "skip",
+"why": "9.62 km from flat, 9.77 km from Schlesisches Tor (pin)",
+"title": "Helles, großes Zimmer in Pankow (2er FLINTA-WG) ✨"
+},
+{
+"time": "2026-11-06 14:50",
+"id": "14327967",
+"verdict": "skip",
+"why": "3.94 km from flat, 4.15 km from Kottbusser Tor (pin)",
+"title": "Möbliertes Dachgeschoss mit Dachterrasse | Kollwitzkiez | ab sofort"
 }
 ]
