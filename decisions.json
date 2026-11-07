@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 16:40",
-"id": "3495459",
-"verdict": "skip",
-"why": "3.08 km from flat, 2.84 km from Schlesisches Tor (pin)",
-"title": "Möbliertes Zimmer mit Balkon"
-},
-{
 "time": "2026-11-04 17:01",
 "id": "14290404",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Otto-Franke-Straße 77.3"
+},
+{
+"time": "2026-11-07 06:25",
+"id": "11445076",
+"verdict": "skip",
+"why": "4.82 km from flat, 4.94 km from Schlesisches Tor (pin)",
+"title": "Helles, möbliertes Zimmer mit Balkon im Prenzlauer Berg (01.12. – 28.02.) / Brig"
 }
 ]
