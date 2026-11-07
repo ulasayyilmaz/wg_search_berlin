@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:31",
-"id": "14319560",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hainstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:31",
 "id": "14319553",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.82 km from flat, 5.89 km from Möckernbrücke (pin)",
 "title": "Großes Souterrain-Zimmer in Zweier-WG zur Zwischenmiete"
+},
+{
+"time": "2026-11-07 15:01",
+"id": "12082768",
+"verdict": "skip",
+"why": "2.39 km from flat, 2.51 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer in Friedrichshain"
 }
 ]
