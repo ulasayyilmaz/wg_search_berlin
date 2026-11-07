@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 15:50",
-"id": "10949777",
-"verdict": "skip",
-"why": "12.77 km from flat, 9.83 km from Möckernbrücke (street)",
-"title": "Freies WG-Zimmer & Assistenzjob in einer inklusiven WG"
-},
-{
 "time": "2026-11-04 15:51",
 "id": "14287791",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Kottbusser Damm, Berlin"
+},
+{
+"time": "2026-11-07 04:50",
+"id": "14266716",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Kaiser-Friedrich-Straße - Room 2"
 }
 ]
