@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 00:55",
-"id": "14316625",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - An der Wuhlheide 70.3"
-},
-{
 "time": "2026-11-05 04:10",
 "id": "14266413",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Paul-Schneider-Straße, Berlin"
+},
+{
+"time": "2026-11-07 13:05",
+"id": "14332093",
+"verdict": "skip",
+"why": "5.40 km from flat, 3.77 km from Möckernbrücke (pin)",
+"title": "Wg Zimmer im schönen Tempelhof"
 }
 ]
