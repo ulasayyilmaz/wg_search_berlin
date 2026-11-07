@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 07:35",
-"id": "14319602",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Dörpfeldstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
-"id": "14319614",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tabbertstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
 "id": "14319609",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.82 km from flat, 5.94 km from Möckernbrücke (postcode)",
 "title": "Zwischenmieter:in in großer 3ZKB Altbauwohnung"
+},
+{
+"time": "2026-11-07 18:10",
+"id": "5812095",
+"verdict": "skip",
+"why": "14.41 km from flat, 11.15 km from Möckernbrücke (pin)",
+"title": "Kleines kuschliges Zimmer mit einem Holzhochbett"
+},
+{
+"time": "2026-11-07 18:10",
+"id": "14332462",
+"verdict": "skip",
+"why": "5.09 km from flat, 4.59 km from Hallesches Tor (pin)",
+"title": "Helles, gemütliches Zimmer im Zentrum Berlins – €500 All Inclusive"
 }
 ]
