@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:40",
-"id": "14319612",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tabbertstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:40",
 "id": "14319575",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.23 km from flat, 4.29 km from Schlesisches Tor (pin)",
 "title": "WG Zimmer - mit eigenem Bad WC/ Waschbecken"
+},
+{
+"time": "2026-11-07 21:05",
+"id": "14332717",
+"verdict": "skip",
+"why": "7.55 km from flat, 6.03 km from Möckernbrücke (pin)",
+"title": "Zimmer in 3er-Männer-WG"
 }
 ]
