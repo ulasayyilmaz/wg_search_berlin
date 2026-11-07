@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:31",
-"id": "14318752",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Halemweg, Berlin"
-},
-{
-"time": "2026-11-05 07:31",
 "id": "14319544",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.73 km from flat, 1.01 km from Hallesches Tor (pin)",
 "title": "4er-FLINTA-WG in Kreuzberg"
+},
+{
+"time": "2026-11-07 14:30",
+"id": "14332250",
+"verdict": "skip",
+"why": "starts 06.12.2026 [flat 2.07 km, U Prinzenstraße 0.44 km, pin]",
+"title": "Zimmer zur Zwischenmiete im Dezember – 15 qm in gemütlicher 2er-WG"
 }
 ]
