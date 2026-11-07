@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 06:15",
-"id": "14316616",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Sternstraße- WG27.4 27.4"
-},
-{
 "time": "2026-11-05 06:50",
 "id": "14299823",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.89 km from flat, 4.38 km from Hallesches Tor (pin)",
 "title": "direkt an der ubahn bernauerstrasse , nähe sbahn nordbahnhof, nöhe mauerpark , ö"
+},
+{
+"time": "2026-11-07 13:45",
+"id": "14332173",
+"verdict": "skip",
+"why": "8.33 km from flat, 7.81 km from Möckernbrücke (pin)",
+"title": "WG Zimmer in Hausotterkiez"
 }
 ]
