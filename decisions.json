@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 15:51",
-"id": "14315852",
-"verdict": "skip",
-"why": "8.11 km from flat, 7.57 km from Schlesisches Tor (pin)",
-"title": "WG zimmer zum vermieten"
-},
-{
-"time": "2026-11-04 15:51",
 "id": "14314958",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Münchener Straße"
+},
+{
+"time": "2026-11-07 05:45",
+"id": "7862616",
+"verdict": "skip",
+"why": "8.22 km from flat, 6.20 km from Möckernbrücke (pin)",
+"title": "Ruhige möblierte Zimmern in Berlin Steglitz"
 }
 ]
