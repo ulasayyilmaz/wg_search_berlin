@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-11-05 07:40",
-"id": "13888837",
-"verdict": "skip",
-"why": "4.79 km from flat, 1.61 km from Möckernbrücke (pin)",
-"title": "schönes Zimmer zur Zwischenmiete in Schöneberg"
-},
-{
-"time": "2026-11-05 07:40",
-"id": "7888463",
-"verdict": "skip",
-"why": "2.78 km from flat, 2.39 km from Schlesisches Tor (street)",
-"title": "Perfekt für Praktikanten: Zimmer in Friedrichshain, möbliert - Room in Friedrich"
-},
-{
-"time": "2026-11-05 07:40",
-"id": "14319487",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Treskowallee, Berlin"
-},
-{
-"time": "2026-11-05 07:40",
 "id": "14319486",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.21 km from flat, 4.76 km from Schlesisches Tor (pin)",
 "title": "gemütliches zimmer für november / dezember in ruhiger gegend, aber zentral :"
+},
+{
+"time": "2026-11-07 19:05",
+"id": "14133851",
+"verdict": "skip",
+"why": "15.51 km from flat, 15.42 km from Schlesisches Tor (pin)",
+"title": "Zimmer zur Untermiete am Waldrand"
+},
+{
+"time": "2026-11-07 19:05",
+"id": "14332575",
+"verdict": "skip",
+"why": "2.04 km from flat, 1.41 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer am Osthafen (Ostkreuz/Treptower Park)"
+},
+{
+"time": "2026-11-07 19:05",
+"id": "9452862",
+"verdict": "skip",
+"why": "6.70 km from flat, 5.59 km from Möckernbrücke (pin)",
+"title": "Geräumiges Zimmer in Berlin Mitte/Hochzeit"
 }
 ]
