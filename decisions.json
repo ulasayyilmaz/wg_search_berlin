@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:35",
-"id": "14319595",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sterndamm, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
 "id": "14319513",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.10 km from flat, 6.68 km from Hallesches Tor (pin)",
 "title": "Möbliertes Zimmer in Berlin-Hochzeit (13359) - weiblicher Mieter bevorzugt"
+},
+{
+"time": "2026-11-07 17:20",
+"id": "12128414",
+"verdict": "skip",
+"why": "9.99 km from flat, 7.29 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer in ruhiger 3er-WG – Charlottenburg Berlin (ab sofort frei)"
 }
 ]
