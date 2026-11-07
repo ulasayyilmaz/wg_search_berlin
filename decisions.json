@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 15:50",
-"id": "14232639",
-"verdict": "skip",
-"why": "2.30 km from flat, 2.40 km from Schlesisches Tor (pin)",
-"title": "🏠 Furnished 18m2 room in perfect Friedrichshain location"
-},
-{
-"time": "2026-11-04 15:50",
 "id": "10949777",
 "verdict": "skip",
 "why": "12.77 km from flat, 9.83 km from Möckernbrücke (street)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bandelstraße- WG059.03"
+},
+{
+"time": "2026-11-07 04:15",
+"id": "14325874",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kottbusser Damm, Berlin"
 }
 ]
