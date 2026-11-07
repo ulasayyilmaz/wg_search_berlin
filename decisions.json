@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 15:51",
-"id": "14314958",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Flemmingstraße, Berlin"
-},
-{
 "time": "2026-11-04 16:20",
 "id": "14315874",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.22 km from flat, 6.20 km from Möckernbrücke (pin)",
 "title": "Ruhige möblierte Zimmern in Berlin Steglitz"
+},
+{
+"time": "2026-11-07 05:50",
+"id": "12278867",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sonnenallee, Berlin"
 }
 ]
