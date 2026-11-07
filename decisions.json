@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 15:01",
-"id": "14315754",
-"verdict": "skip",
-"why": "2.72 km from flat, 2.50 km from Schlesisches Tor (pin)",
-"title": "1 Monat über xmas/NYE in ruhigem Kiez in Friedrichshain (veg flat)"
-},
-{
-"time": "2026-11-04 15:01",
 "id": "14315767",
 "verdict": "skip",
 "why": "7.72 km from flat, 4.45 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.21 km from flat, 3.02 km from Möckernbrücke (pin)",
 "title": "mitbewohner (m/w/d) gssucht"
+},
+{
+"time": "2026-11-07 00:10",
+"id": "14328662",
+"verdict": "skip",
+"why": "2.19 km from flat, 1.64 km from Schlesisches Tor (pin)",
+"title": "Langzeitzimmer (ca. 18 m2 mit Balkon) in einer WG - Voll möbliert - ca. 10 min v"
 }
 ]
