@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-04 18:31",
-"id": "13674199",
-"verdict": "skip",
-"why": "5.17 km from flat, 2.00 km from Möckernbrücke (pin)",
-"title": "Bright 14 sqm Room in 2-Room Apartment Short-Term"
-},
-{
-"time": "2026-11-04 18:31",
-"id": "14316181",
-"verdict": "skip",
-"why": "6.58 km from flat, 3.65 km from Möckernbrücke (pin)",
-"title": "Besichtigung So 08.11. 18 Uhr | Lichtdurchflutetes möbliertes Zimmer in 2er-Frau"
-},
-{
-"time": "2026-11-04 18:31",
 "id": "14316166",
 "verdict": "skip",
 "why": "8.00 km from flat, 4.76 km from Möckernbrücke (pin)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Herthastraße, Berlin"
+},
+{
+"time": "2026-11-07 08:55",
+"id": "14319502",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Audre-Lorde-Straße, Berlin"
+},
+{
+"time": "2026-11-07 08:55",
+"id": "14324179",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Lutherstraße"
 }
 ]
