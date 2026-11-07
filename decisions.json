@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 15:40",
-"id": "11540934",
-"verdict": "skip",
-"why": "temporary: zwischenmiete [flat 0.32 km, U Görlitzer Bahnhof 0.57 km, pin]",
-"title": "🌞Bright & spacious room in Kreuzberg for Zwischenmiete – Flexible dates!"
-},
-{
-"time": "2026-11-04 15:40",
 "id": "12044916",
 "verdict": "skip",
 "why": "7.61 km from flat, 4.31 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Richardstraße"
+},
+{
+"time": "2026-11-07 02:05",
+"id": "14328626",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Dörpfeldstraße"
 }
 ]
