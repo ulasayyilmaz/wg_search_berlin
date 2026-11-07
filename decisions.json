@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 07:35",
-"id": "14319489",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sternstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
-"id": "14319600",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Platanenweg, Berlin"
-},
-{
 "time": "2026-11-05 07:40",
 "id": "13888837",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "female only [flat 1.59 km, U Görlitzer Bahnhof 1.23 km, pin]",
 "title": "Introverts welcome"
+},
+{
+"time": "2026-11-07 18:55",
+"id": "2184752",
+"verdict": "skip",
+"why": "6.64 km from flat, 6.76 km from Prinzenstraße (pin)",
+"title": "Schönes Zimmer in netter Umgebung - Süd-Pankow, nähe z.B. Prenzlauer Berg, 3er-W"
+},
+{
+"time": "2026-11-07 18:55",
+"id": "14332600",
+"verdict": "skip",
+"why": "5.21 km from flat, 4.76 km from Schlesisches Tor (pin)",
+"title": "gemütliches zimmer für november / dezember in ruhiger gegend, aber zentral :"
 }
 ]
