@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 21:20",
-"id": "14316467",
-"verdict": "skip",
-"why": "2.17 km from flat, 1.20 km from Prinzenstraße (pin)",
-"title": "Zimmer direkt am Südstern ab 23.11"
-},
-{
-"time": "2026-11-04 21:30",
-"id": "14316486",
-"verdict": "skip",
-"why": "2.87 km from flat, 2.63 km from Görlitzer Bahnhof (pin)",
-"title": "Wg Zimmer verfügbar von 20.11 bis 29.12"
-},
-{
 "time": "2026-11-04 21:30",
 "id": "14316305",
 "verdict": "SENT",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.19 km from flat, 3.99 km from Hallesches Tor (pin)",
 "title": "Schönes Zimmer zur Zwischenmiete Rosenthaler Platz"
+},
+{
+"time": "2026-11-07 10:45",
+"id": "14328478",
+"verdict": "skip",
+"why": "8.60 km from flat, 6.31 km from Möckernbrücke (pin)",
+"title": "18 m2 Altbau-Zimmer am Stadtpark Steglitz – unbefristet ab 15.11."
+},
+{
+"time": "2026-11-07 10:45",
+"id": "13909906",
+"verdict": "skip",
+"why": "10.42 km from flat, 7.29 km from Möckernbrücke (pin)",
+"title": "Helles 13m2 Zimmer in einer freundlichen 2 Personen WG"
 }
 ]
