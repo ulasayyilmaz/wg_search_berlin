@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 00:20",
-"id": "14316652",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Lienemannstraße 95.2"
-},
-{
-"time": "2026-11-05 00:30",
-"id": "14316734",
-"verdict": "skip",
-"why": "7.03 km from flat, 5.40 km from Möckernbrücke (pin)",
-"title": "gemütliches WG-Zimmer im Wedding (befristet)"
-},
-{
 "time": "2026-11-05 00:40",
 "id": "14316733",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Greifswalder Straße, Berlin"
+},
+{
+"time": "2026-11-07 12:45",
+"id": "9960503",
+"verdict": "skip",
+"why": "7.39 km from flat, 6.83 km from Möckernbrücke (pin)",
+"title": "Zimmer in kreativer Musiker WG inklusive Hochbett und schöner Lage"
+},
+{
+"time": "2026-11-07 12:45",
+"id": "14331249",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
