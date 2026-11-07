@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:35",
-"id": "14319609",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
 "id": "14319489",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.09 km from flat, 4.59 km from Hallesches Tor (pin)",
 "title": "Helles, gemütliches Zimmer im Zentrum Berlins – €500 All Inclusive"
+},
+{
+"time": "2026-11-07 18:36",
+"id": "10810649",
+"verdict": "skip",
+"why": "female only [flat 1.59 km, U Görlitzer Bahnhof 1.23 km, pin]",
+"title": "Introverts welcome"
 }
 ]
