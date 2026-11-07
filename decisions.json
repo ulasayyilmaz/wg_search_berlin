@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:35",
-"id": "14319598",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schloßstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
 "id": "14319550",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - fm80.6 Herthastraße 80.6"
+},
+{
+"time": "2026-11-07 16:40",
+"id": "14332418",
+"verdict": "skip",
+"why": "3.12 km from flat, 3.30 km from Schlesisches Tor (pin)",
+"title": "Möbliertes Altbauzimmer mit Schlafgalerie & Balkon im Bötzowviertel"
 }
 ]
