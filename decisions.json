@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:31",
-"id": "14319553",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Friedlander Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:31",
 "id": "14319504",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.39 km from flat, 2.51 km from Schlesisches Tor (pin)",
 "title": "WG-Zimmer in Friedrichshain"
+},
+{
+"time": "2026-11-07 15:10",
+"id": "12189993",
+"verdict": "skip",
+"why": "4.64 km from flat, 3.57 km from Möckernbrücke (pin)",
+"title": "Teilmöbliertes WG-Zimmer sucht neue Mitbewohnerin in Mitte"
 }
 ]
