@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 04:10",
-"id": "14266413",
-"verdict": "skip",
-"why": "4.38 km from flat, 3.03 km from Möckernbrücke (street)",
-"title": "Sublet Nähe Brandenburger Tor"
-},
-{
-"time": "2026-11-05 04:50",
-"id": "9705169",
-"verdict": "skip",
-"why": "8.25 km from flat, 5.24 km from Möckernbrücke (pin)",
-"title": "Suche Frau!! für nette Frauen -Zweck-Wg, ab 1.2.27 - 30.4.27 580€"
-},
-{
 "time": "2026-11-05 05:30",
 "id": "14059699",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "5.40 km from flat, 3.77 km from Möckernbrücke (pin)",
 "title": "Wg Zimmer im schönen Tempelhof"
+},
+{
+"time": "2026-11-07 13:15",
+"id": "11296930",
+"verdict": "skip",
+"why": "10.27 km from flat, 9.95 km from Hallesches Tor (pin)",
+"title": "WG Zimmer- 28m2 in 3er Mädels WG, Wohnfläche 91m2"
+},
+{
+"time": "2026-11-07 13:15",
+"id": "14200705",
+"verdict": "skip",
+"why": "5.21 km from flat, 4.76 km from Schlesisches Tor (pin)",
+"title": "Zimmer für 1-2 Monate :) 5 Minuten von Neukölln entfernt"
 }
 ]
