@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-11-05 07:40",
-"id": "14319542",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Reginhardstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:40",
-"id": "14319629",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müggelheimer Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:40",
-"id": "14319615",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tabbertstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:40",
 "id": "14319621",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "6.29 km from flat, 3.32 km from Möckernbrücke (pin)",
 "title": "Ab sofort - 2 Monate - Altbauzimmer 25m2 + Balkon"
+},
+{
+"time": "2026-11-07 19:45",
+"id": "14042218",
+"verdict": "skip",
+"why": "11.47 km from flat, 10.94 km from Schlesisches Tor (pin)",
+"title": "2 einzelne Zimmer in heller sanierter 4er WG im wunderschönen Köpenick"
+},
+{
+"time": "2026-11-07 19:45",
+"id": "6873227",
+"verdict": "skip",
+"why": "7.54 km from flat, 6.51 km from Möckernbrücke (pin)",
+"title": "Helles und zentrales Zimmer"
+},
+{
+"time": "2026-11-07 19:45",
+"id": "13603035",
+"verdict": "skip",
+"why": "9.13 km from flat, 7.66 km from Möckernbrücke (pin)",
+"title": "Bright, fully furnished room in 4-room apartment in Wedding (Englisches Viertel)"
 }
 ]
