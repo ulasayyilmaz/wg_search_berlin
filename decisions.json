@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 20:40",
-"id": "14316395",
-"verdict": "skip",
-"why": "female only [flat 2.70 km, U Hallesches Tor 0.90 km, pin]",
-"title": "Zimmer frei in 5er WG"
-},
-{
 "time": "2026-11-04 20:50",
 "id": "14226129",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-07 10:15",
+"id": "13488200",
+"verdict": "skip",
+"why": "5.87 km from flat, 5.23 km from Schlesisches Tor (pin)",
+"title": "Gemütliches Zimmer in geteilter Wohnung in Berlin verfügbar"
 }
 ]
