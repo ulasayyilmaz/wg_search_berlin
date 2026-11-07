@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 15:01",
-"id": "14315767",
-"verdict": "skip",
-"why": "7.72 km from flat, 4.45 km from Möckernbrücke (pin)",
-"title": "wg-zimmer in wilmersdorf in 2er wg"
-},
-{
-"time": "2026-11-04 15:01",
 "id": "14315762",
 "verdict": "skip",
 "why": "not private (Unternehmen PRO)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.19 km from flat, 1.64 km from Schlesisches Tor (pin)",
 "title": "Langzeitzimmer (ca. 18 m2 mit Balkon) in einer WG - Voll möbliert - ca. 10 min v"
+},
+{
+"time": "2026-11-07 00:30",
+"id": "14328668",
+"verdict": "skip",
+"why": "6.51 km from flat, 3.22 km from Möckernbrücke (pin)",
+"title": "Mitbewohnerin gesucht"
 }
 ]
