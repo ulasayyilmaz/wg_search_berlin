@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 07:40",
-"id": "14319575",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Scharnweberstraße, Berlin"
-},
-{
 "time": "2026-11-05 07:45",
 "id": "14319597",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.55 km from flat, 6.03 km from Möckernbrücke (pin)",
 "title": "Zimmer in 3er-Männer-WG"
+},
+{
+"time": "2026-11-07 21:25",
+"id": "14332738",
+"verdict": "skip",
+"why": "11.57 km from flat, 8.69 km from Möckernbrücke (pin)",
+"title": "Großes Sonnenzimmer in Charlottenburg für ~2,5 Monate"
 }
 ]
