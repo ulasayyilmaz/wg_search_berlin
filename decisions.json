@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 21:30",
-"id": "14316305",
-"verdict": "SENT",
-"why": " [flat 1.22 km, U Schlesisches Tor 0.66 km, pin]",
-"title": "WG Zimmer Friedrichshain"
-},
-{
 "time": "2026-11-04 21:40",
 "id": "11500751",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.42 km from flat, 7.29 km from Möckernbrücke (pin)",
 "title": "Helles 13m2 Zimmer in einer freundlichen 2 Personen WG"
+},
+{
+"time": "2026-11-07 11:07",
+"id": "13009491",
+"verdict": "skip",
+"why": "5.76 km from flat, 2.48 km from Möckernbrücke (pin)",
+"title": "WG Room von Oktober bis Dezember"
 }
 ]
