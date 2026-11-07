@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:35",
-"id": "14319513",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Flughafenstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
 "id": "14319564",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.99 km from flat, 7.29 km from Möckernbrücke (pin)",
 "title": "Möbliertes Zimmer in ruhiger 3er-WG – Charlottenburg Berlin (ab sofort frei)"
+},
+{
+"time": "2026-11-07 17:40",
+"id": "11348459",
+"verdict": "skip",
+"why": "10.96 km from flat, 9.43 km from Möckernbrücke (pin)",
+"title": "Helles Zimmer nahe dem S + U Bhf. Karl-Bonhoeffer-Nervenklinik in 3er WG - mit A"
 }
 ]
