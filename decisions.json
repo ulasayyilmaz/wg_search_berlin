@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 07:31",
-"id": "14319544",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zechliner Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:31",
-"id": "14319537",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Brückenstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:31",
 "id": "14319560",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "starts 06.12.2026 [flat 2.07 km, U Prinzenstraße 0.44 km, pin]",
 "title": "Zimmer zur Zwischenmiete im Dezember – 15 qm in gemütlicher 2er-WG"
+},
+{
+"time": "2026-11-07 14:40",
+"id": "4710984",
+"verdict": "skip",
+"why": "5.25 km from flat, 1.95 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer, 16m2, mit Balkon, renoviertes altes Gebäude typisch für Berli"
+},
+{
+"time": "2026-11-07 14:40",
+"id": "14265961",
+"verdict": "skip",
+"why": "8.82 km from flat, 5.89 km from Möckernbrücke (pin)",
+"title": "Großes Souterrain-Zimmer in Zweier-WG zur Zwischenmiete"
 }
 ]
