@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 07:45",
-"id": "14319608",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Otto-Franke-Straße, Berlin"
-},
-{
 "time": "2026-11-05 07:50",
 "id": "13433811",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "14.42 km from flat, 11.96 km from Möckernbrücke (pin)",
 "title": "aktive WG in Zehlendorf, zwei Zimmer sind frei!"
+},
+{
+"time": "2026-11-07 23:35",
+"id": "14332904",
+"verdict": "skip",
+"why": "20.23 km from flat, 17.16 km from Möckernbrücke (pin)",
+"title": "2er - WG in Berlin Zehlendorf /befristet"
 }
 ]
