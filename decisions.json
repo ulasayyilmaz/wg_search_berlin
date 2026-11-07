@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 19:30",
-"id": "14316256",
-"verdict": "skip",
-"why": "6.71 km from flat, 4.16 km from Möckernbrücke (pin)",
-"title": "WG Zi. 18 qm möbliert befristet 15.11. - 28.03.27"
-},
-{
 "time": "2026-11-04 19:31",
 "id": "14316268",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Audre-Lorde-Straße"
+},
+{
+"time": "2026-11-07 09:25",
+"id": "14331795",
+"verdict": "skip",
+"why": "11.33 km from flat, 9.60 km from Möckernbrücke (pin)",
+"title": "🏡 Ganze Wohnung - Private 1,5 -Zimmer-Wohnung ab 650 € | Möbliert | Flexibel ab "
 }
 ]
