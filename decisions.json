@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 17:01",
-"id": "14290404",
-"verdict": "skip",
-"why": "7.11 km from flat, 5.68 km from Möckernbrücke (pin)",
-"title": "helles, ruhiges Zimmer in gemeinschaftlicher WG mit Balkon, WBS-pflichtig!!"
-},
-{
-"time": "2026-11-04 17:10",
-"id": "14316029",
-"verdict": "skip",
-"why": "5.70 km from flat, 5.07 km from Schlesisches Tor (pin)",
-"title": "Privatzimmer in geteilter Wohnung"
-},
-{
 "time": "2026-11-04 17:10",
 "id": "14316025",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.82 km from flat, 4.94 km from Schlesisches Tor (pin)",
 "title": "Helles, möbliertes Zimmer mit Balkon im Prenzlauer Berg (01.12. – 28.02.) / Brig"
+},
+{
+"time": "2026-11-07 07:35",
+"id": "9514975",
+"verdict": "skip",
+"why": "female only [flat 0.24 km, U Görlitzer Bahnhof 0.47 km, pin]",
+"title": "sehr ruhiges Zimmer mit Dachterasse"
+},
+{
+"time": "2026-11-07 07:35",
+"id": "14331029",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Krowelstraße, Berlin"
 }
 ]
