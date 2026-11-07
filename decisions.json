@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:31",
-"id": "14319578",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Winckelmannstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:31",
 "id": "13787406",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "15.89 km from flat, 15.77 km from Schlesisches Tor (pin)",
 "title": "WG Zimmer in kunterbunter Wohnung mit Garten in Berlin Buch"
+},
+{
+"time": "2026-11-07 15:30",
+"id": "14332315",
+"verdict": "skip",
+"why": "5.51 km from flat, 5.11 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer 15.11.2026-20.12.2026"
 }
 ]
