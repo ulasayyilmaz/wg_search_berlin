@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-04 21:40",
-"id": "11500751",
-"verdict": "skip",
-"why": "3.05 km from flat, 2.81 km from Görlitzer Bahnhof (pin)",
-"title": "Kurzzeitzimmer Herz von Neukölln"
-},
-{
-"time": "2026-11-04 21:40",
-"id": "14314182",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Klosterstraße, Berlin"
-},
-{
 "time": "2026-11-04 21:50",
 "id": "12019702",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "5.76 km from flat, 2.48 km from Möckernbrücke (pin)",
 "title": "WG Room von Oktober bis Dezember"
+},
+{
+"time": "2026-11-07 11:25",
+"id": "8674103",
+"verdict": "skip",
+"why": "female only [flat 1.61 km, U Schlesisches Tor 1.47 km, pin]",
+"title": "🍁Cosy Zimmer 🦘 OLNLY FLINTA- ohne Hund"
+},
+{
+"time": "2026-11-07 11:25",
+"id": "14297034",
+"verdict": "skip",
+"why": "5.38 km from flat, 5.53 km from Kottbusser Tor (pin)",
+"title": "ruhiges und gemütliches WG Zimmer in Prenzlauer Berg"
 }
 ]
