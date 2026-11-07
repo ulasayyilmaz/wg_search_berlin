@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-04 22:20",
-"id": "14070068",
-"verdict": "skip",
-"why": "2.77 km from flat, 2.49 km from Schlesisches Tor (pin)",
-"title": "WG-Zimmer Neukölln 15qm Zwischenmiete"
-},
-{
-"time": "2026-11-04 22:20",
 "id": "14316501",
 "verdict": "skip",
 "why": "female only [flat 1.99 km, U Prinzenstraße 0.25 km, street]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.32 km from flat, 3.12 km from Schlesisches Tor (pin)",
 "title": "AB SOFORT Helles Altbau-Zimmer (15m2/28m2) | Flexibel 3 Monate mit Option auf Ve"
+},
+{
+"time": "2026-11-07 11:55",
+"id": "14331998",
+"verdict": "skip",
+"why": "8.37 km from flat, 6.18 km from Möckernbrücke (pin)",
+"title": "Zwischenmiete ab Dezember"
 }
 ]
