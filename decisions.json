@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:31",
-"id": "14319504",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Plönzeile, Berlin"
-},
-{
-"time": "2026-11-05 07:31",
 "id": "14319578",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.64 km from flat, 3.57 km from Möckernbrücke (pin)",
 "title": "Teilmöbliertes WG-Zimmer sucht neue Mitbewohnerin in Mitte"
+},
+{
+"time": "2026-11-07 15:20",
+"id": "10170281",
+"verdict": "skip",
+"why": "15.89 km from flat, 15.77 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer in kunterbunter Wohnung mit Garten in Berlin Buch"
 }
 ]
