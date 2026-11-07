@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 20:10",
-"id": "14316335",
-"verdict": "skip",
-"why": "6.18 km from flat, 3.03 km from Möckernbrücke (pin)",
-"title": "Helles und möbliertes WG Zimmer in Berlin Schöneberg"
-},
-{
 "time": "2026-11-04 20:40",
 "id": "14316395",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.01 km from flat, 3.99 km from Prinzenstraße (street)",
 "title": "WG ROOM ,Mitte"
+},
+{
+"time": "2026-11-07 10:05",
+"id": "14330042",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
 }
 ]
