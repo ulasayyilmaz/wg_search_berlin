@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:45",
-"id": "14319505",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Buschkrugallee, Berlin"
-},
-{
-"time": "2026-11-05 07:45",
 "id": "14319608",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "11.55 km from flat, 9.16 km from Möckernbrücke (pin)",
 "title": "WG-Zimmer in der Nähe der Freien Universität"
+},
+{
+"time": "2026-11-07 22:25",
+"id": "14332702",
+"verdict": "skip",
+"why": "14.42 km from flat, 11.96 km from Möckernbrücke (pin)",
+"title": "aktive WG in Zehlendorf, zwei Zimmer sind frei!"
 }
 ]
