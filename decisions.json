@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:45",
-"id": "14319634",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müggelheimer Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:45",
 "id": "14319505",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.55 km from flat, 6.57 km from Möckernbrücke (pin)",
 "title": "Zimmer befristet zu vergeben"
+},
+{
+"time": "2026-11-07 21:55",
+"id": "14332731",
+"verdict": "skip",
+"why": "11.55 km from flat, 9.16 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer in der Nähe der Freien Universität"
 }
 ]
