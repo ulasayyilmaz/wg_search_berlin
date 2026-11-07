@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 15:01",
-"id": "14315762",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "Friendsroom für vier in Berlin-Oberschöneweide – Bettplatz für 349 € monatlich"
-},
-{
 "time": "2026-11-04 15:20",
 "id": "13962611",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.51 km from flat, 3.22 km from Möckernbrücke (pin)",
 "title": "Mitbewohnerin gesucht"
+},
+{
+"time": "2026-11-07 00:50",
+"id": "14328671",
+"verdict": "skip",
+"why": "7.74 km from flat, 7.21 km from Schlesisches Tor (pin)",
+"title": "WG room in Schöneweide :)"
 }
 ]
