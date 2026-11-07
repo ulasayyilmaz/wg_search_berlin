@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-04 21:20",
-"id": "14316470",
-"verdict": "skip",
-"why": "2.11 km from flat, 1.82 km from Görlitzer Bahnhof (pin)",
-"title": "Wg Zimmer available from 20.11 to 29.12"
-},
-{
-"time": "2026-11-04 21:20",
-"id": "14316447",
-"verdict": "skip",
-"why": "2.63 km from flat, 2.07 km from Schlesisches Tor (pin)",
-"title": "WG Zimmer in Friedrichshain (Nur für Frauen)"
-},
-{
-"time": "2026-11-04 21:20",
 "id": "14316467",
 "verdict": "skip",
 "why": "2.17 km from flat, 1.20 km from Prinzenstraße (pin)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "15.31 km from flat, 14.04 km from Möckernbrücke (pin)",
 "title": "Wohnen im Grünen"
+},
+{
+"time": "2026-11-07 10:35",
+"id": "14277077",
+"verdict": "skip",
+"why": "2.85 km from flat, 2.53 km from Görlitzer Bahnhof (pin)",
+"title": "WG-Zimmer 20qm Ofenwohnung unrenovierter Altbau"
+},
+{
+"time": "2026-11-07 10:35",
+"id": "14331862",
+"verdict": "skip",
+"why": "4.19 km from flat, 3.99 km from Hallesches Tor (pin)",
+"title": "Schönes Zimmer zur Zwischenmiete Rosenthaler Platz"
 }
 ]
