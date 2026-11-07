@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:35",
-"id": "14319533",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Johanna-Tesch-Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
 "id": "14319602",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "anmeldung: 'no anmeldung' [flat 1.36 km, U Schlesisches Tor 1.35 km, pin]",
 "title": "big sunny room for sublet"
+},
+{
+"time": "2026-11-07 18:01",
+"id": "7740560",
+"verdict": "skip",
+"why": "8.82 km from flat, 5.94 km from Möckernbrücke (postcode)",
+"title": "Zwischenmieter:in in großer 3ZKB Altbauwohnung"
 }
 ]
