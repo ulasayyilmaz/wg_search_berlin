@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:35",
-"id": "14319550",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Glienicker Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:35",
 "id": "14319595",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.12 km from flat, 3.30 km from Schlesisches Tor (pin)",
 "title": "Möbliertes Altbauzimmer mit Schlafgalerie & Balkon im Bötzowviertel"
+},
+{
+"time": "2026-11-07 17:10",
+"id": "14332458",
+"verdict": "skip",
+"why": "7.10 km from flat, 6.68 km from Hallesches Tor (pin)",
+"title": "Möbliertes Zimmer in Berlin-Hochzeit (13359) - weiblicher Mieter bevorzugt"
 }
 ]
