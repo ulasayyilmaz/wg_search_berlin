@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-04 15:40",
-"id": "12044916",
-"verdict": "skip",
-"why": "7.61 km from flat, 4.31 km from Möckernbrücke (pin)",
-"title": "Zimmer in 85qm Wohnung"
-},
-{
 "time": "2026-11-04 15:50",
 "id": "14232639",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Dörpfeldstraße"
+},
+{
+"time": "2026-11-07 03:05",
+"id": "14328595",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bandelstraße- WG059.03"
 }
 ]
