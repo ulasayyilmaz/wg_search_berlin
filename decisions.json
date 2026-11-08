@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 07:55",
-"id": "14319583",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lienemannstraße, Berlin"
-},
-{
 "time": "2026-11-05 08:01",
 "id": "14319769",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "14.62 km from flat, 13.58 km from Möckernbrücke (pin)",
 "title": "30 qm Zimmer Zentrale Lage in Berlin Mitte - - Habitación grande y luminosa"
+},
+{
+"time": "2026-11-08 10:05",
+"id": "14336041",
+"verdict": "skip",
+"why": "9.11 km from flat, 6.62 km from Möckernbrücke (pin)",
+"title": "WG Zimmer Steglitz 500€ inklusive"
 }
 ]
