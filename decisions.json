@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:55",
-"id": "14319572",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Prenzlauer Promenade, Berlin"
-},
-{
-"time": "2026-11-05 07:55",
 "id": "14319584",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.39 km from flat, 7.82 km from Möckernbrücke (pin)",
 "title": "Möbliertes Zimmer in 2er WG – Berlin Wedding"
+},
+{
+"time": "2026-11-08 09:15",
+"id": "14335995",
+"verdict": "skip",
+"why": "4.40 km from flat, 3.78 km from Schlesisches Tor (pin)",
+"title": "Möblierte 2er-WG nahe S+U Lichtenberg - 1 Platz frei"
 }
 ]
