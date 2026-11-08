@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:55",
-"id": "14319531",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lutherstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:55",
 "id": "14319572",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.57 km from flat, 6.16 km from Hallesches Tor (pin)",
 "title": "Kleines gemütliches Zimmer nähe Gesundbrunnen"
+},
+{
+"time": "2026-11-08 08:55",
+"id": "11311876",
+"verdict": "skip",
+"why": "9.39 km from flat, 7.82 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer in 2er WG – Berlin Wedding"
 }
 ]
