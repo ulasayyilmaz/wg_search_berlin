@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:20",
-"id": "14260824",
-"verdict": "skip",
-"why": "6.89 km from flat, 3.66 km from Möckernbrücke (pin)",
-"title": "Möbliertes 25 m2 Zimmer in 150 m2 Wohnung in Charlottenburg – 11.11.–07.12."
-},
-{
-"time": "2026-11-05 09:20",
 "id": "8723279",
 "verdict": "skip",
 "why": "2.04 km from flat, 1.58 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.42 km from flat, 6.02 km from Möckernbrücke (pin)",
 "title": "2 helle (21+10m2) Zimmer in renov. Altbau – möbliert"
+},
+{
+"time": "2026-11-08 22:30",
+"id": "14332857",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bornholmer Straße - Room 4"
 }
 ]
