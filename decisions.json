@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 08:35",
-"id": "14248148",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Petersburger Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:35",
 "id": "14319579",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "16.84 km from flat, 13.60 km from Möckernbrücke (pin)",
 "title": "Möbliertes WG-Zimmer mit Balkon in Berlin-Spandau · 23 m2 · 550 € warm · ab 01.1"
+},
+{
+"time": "2026-11-08 14:45",
+"id": "13086693",
+"verdict": "skip",
+"why": "3.32 km from flat, 3.12 km from Schlesisches Tor (pin)",
+"title": "🌿 A Cozy Private Room in Berlin-Rixdorf Neukölln | 1–15 December"
 }
 ]
