@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 08:40",
-"id": "14319824",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wattstraße, Berlin"
-},
-{
 "time": "2026-11-05 08:50",
 "id": "8043778",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.56 km from flat, 6.11 km from Hallesches Tor (pin)",
 "title": "Gemütliche Altbau Wg Gesundbrunnen/Wedding"
+},
+{
+"time": "2026-11-08 16:55",
+"id": "8633993",
+"verdict": "skip",
+"why": "15.37 km from flat, 14.27 km from Möckernbrücke (pin)",
+"title": "Haus Wg sucht neuen Mitbewohni"
 }
 ]
