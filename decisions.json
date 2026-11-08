@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:50",
-"id": "14319617",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tabbertstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:50",
 "id": "14319638",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.08 km from flat, 3.57 km from Möckernbrücke (pin)",
 "title": "WG-Zimmer in Mitte für August September 2027"
+},
+{
+"time": "2026-11-08 05:15",
+"id": "14332965",
+"verdict": "skip",
+"why": "5.16 km from flat, 3.52 km from Möckernbrücke (pin)",
+"title": "Zimmer in süßer 3er Wg"
 }
 ]
