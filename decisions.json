@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 09:05",
-"id": "14319622",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Attilastraße, Berlin"
-},
-{
-"time": "2026-11-05 09:05",
-"id": "14320487",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:05",
 "id": "14319807",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 0.68 km, U Schlesisches Tor 0.05 km, pin]",
 "title": "WG-Zimmer am Schlesi:))"
+},
+{
+"time": "2026-11-08 18:55",
+"id": "14174896",
+"verdict": "skip",
+"why": "17.37 km from flat, 14.18 km from Möckernbrücke (pin)",
+"title": "Möbliertes, abschließbares Zimmer in einer geräumigen 3-Zimmer-Wohnung | Anmeldu"
+},
+{
+"time": "2026-11-08 18:55",
+"id": "14336977",
+"verdict": "skip",
+"why": "6.89 km from flat, 4.43 km from Möckernbrücke (pin)",
+"title": "Zimmer in 3er-WG in Moabit ab dem 01.12."
 }
 ]
