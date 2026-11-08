@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:50",
-"id": "14319532",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lutherstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:50",
 "id": "14319617",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - fm92.1 Krowelstraße 92.1"
+},
+{
+"time": "2026-11-08 04:45",
+"id": "14201338",
+"verdict": "skip",
+"why": "6.08 km from flat, 3.57 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer in Mitte für August September 2027"
 }
 ]
