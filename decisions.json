@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 08:01",
-"id": "14319769",
-"verdict": "skip",
-"why": "3.49 km from flat, 2.88 km from Schlesisches Tor (pin)",
-"title": "Gemütliches 22qm Zimmer mit Balkon!!"
-},
-{
-"time": "2026-11-05 08:01",
 "id": "14319568",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.11 km from flat, 6.62 km from Möckernbrücke (pin)",
 "title": "WG Zimmer Steglitz 500€ inklusive"
+},
+{
+"time": "2026-11-08 10:15",
+"id": "14335998",
+"verdict": "skip",
+"why": "2.88 km from flat, 2.57 km from Görlitzer Bahnhof (pin)",
+"title": "Möbliertes, sonniges Zimmer in Berlin-Neukölln zur Zwischenmiete. Sunny, Spaciou"
 }
 ]
