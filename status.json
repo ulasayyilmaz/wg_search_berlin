@@ -1,4 +1,8 @@
 {
- "time": "2026-11-08 16:10:41 UTC",
- "result": "error: 503 Server Error: Service Unavailable for url: https://www.wg-gesucht.de/wg-zimmer-in-Berlin.8.0.1.1.html?rMax=650"
+ "time": "2026-11-08 16:15:32 UTC",
+ "result": "ok",
+ "new": 0,
+ "matched": 0,
+ "skipped": 0,
+ "unread": 0
 }
