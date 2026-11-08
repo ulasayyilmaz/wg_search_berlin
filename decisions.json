@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 09:01",
-"id": "14316642",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Silberberger Straße 78.4"
-},
-{
-"time": "2026-11-05 09:01",
-"id": "14319585",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schürstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:01",
 "id": "14319566",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "9.05 km from flat, 6.11 km from Möckernbrücke (pin)",
 "title": "schönes Zimmer in Charlottenburg zur Zwischenmiete ✨"
+},
+{
+"time": "2026-11-08 18:25",
+"id": "11775889",
+"verdict": "skip",
+"why": "starts 12.01.2027 [flat 1.48 km, U Görlitzer Bahnhof 1.17 km, pin]",
+"title": "WG Zimmer in Berlin-Neukölln mit Balkon"
+},
+{
+"time": "2026-11-08 18:25",
+"id": "7206999",
+"verdict": "skip",
+"why": "starts 24.12.2026 [flat 1.26 km, U Görlitzer Bahnhof 0.93 km, postcode]",
+"title": "Großes und helles Schlafzimmer in einer schönen High-End-Dachwohnung in Kreuzköl"
 }
 ]
