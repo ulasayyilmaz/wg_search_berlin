@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:55",
-"id": "14319584",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schürstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:55",
 "id": "14319521",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.40 km from flat, 3.78 km from Schlesisches Tor (pin)",
 "title": "Möblierte 2er-WG nahe S+U Lichtenberg - 1 Platz frei"
+},
+{
+"time": "2026-11-08 09:20",
+"id": "14330203",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Nordkapstraße, Berlin"
 }
 ]
