@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 08:55",
-"id": "14319813",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Petersburger Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:55",
-"id": "14319793",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schierker Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:55",
 "id": "14319633",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.49 km from flat, 5.25 km from Möckernbrücke (pin)",
 "title": "Zimmer in Dreier-WG"
+},
+{
+"time": "2026-11-08 17:45",
+"id": "14336781",
+"verdict": "skip",
+"why": "4.69 km from flat, 4.83 km from Kottbusser Tor (pin)",
+"title": "FLINTA Mitbewohni gesucht ab 1.12 (Altbau, Prenzlauer Berg)"
+},
+{
+"time": "2026-11-08 17:45",
+"id": "14336887",
+"verdict": "skip",
+"why": "8.87 km from flat, 8.35 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer in ruhiger Lage im Neubau"
 }
 ]
