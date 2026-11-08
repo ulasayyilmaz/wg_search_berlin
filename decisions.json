@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 08:20",
-"id": "14319817",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Residenzstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
-"id": "14319507",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Buschkrugallee, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
 "id": "14319576",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.54 km from flat, 2.33 km from Görlitzer Bahnhof (pin)",
 "title": "Möbliertes Zimmer im Herzen Neuköllns"
+},
+{
+"time": "2026-11-08 13:05",
+"id": "14336387",
+"verdict": "skip",
+"why": "2.87 km from flat, 2.57 km from Görlitzer Bahnhof (pin)",
+"title": "Komplett möbliertes 20 m2 großes Zimmer in einer Damenwohnung | Neukölln | Dezem"
+},
+{
+"time": "2026-11-08 13:05",
+"id": "14336367",
+"verdict": "skip",
+"why": "6.89 km from flat, 4.04 km from Möckernbrücke (pin)",
+"title": "Small Cozy Room in Schönberg"
 }
 ]
