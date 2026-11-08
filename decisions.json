@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:50",
-"id": "14319638",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müggelheimer Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:50",
 "id": "14319506",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.16 km from flat, 3.52 km from Möckernbrücke (pin)",
 "title": "Zimmer in süßer 3er Wg"
+},
+{
+"time": "2026-11-08 05:30",
+"id": "14332887",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Nordkapstraße - Private Room 3"
 }
 ]
