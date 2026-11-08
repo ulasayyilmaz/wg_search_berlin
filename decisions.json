@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 09:10",
-"id": "14319776",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Ratiborstraße, Berlin"
-},
-{
 "time": "2026-11-05 09:15",
 "id": "14319510",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.74 km from flat, 3.50 km from Görlitzer Bahnhof (pin)",
 "title": "Helles Zimmer im 4. OG mit Blick ins Grüne – Neukölln, U Leinestr."
+},
+{
+"time": "2026-11-08 20:15",
+"id": "8012878",
+"verdict": "SENT",
+"why": " [flat 1.30 km, U Schlesisches Tor 1.50 km, pin]",
+"title": "Untermieter/in gesucht für Zimmer (12m2) direkt am Ostbahnhof/Holzmarkt/Spree/Mi"
 }
 ]
