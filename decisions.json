@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 08:55",
-"id": "14319633",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müggelheimer Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:55",
-"id": "14319774",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Ratiborstraße, Berlin"
-},
-{
 "time": "2026-11-05 09:01",
 "id": "13552961",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.87 km from flat, 8.35 km from Schlesisches Tor (pin)",
 "title": "WG Zimmer in ruhiger Lage im Neubau"
+},
+{
+"time": "2026-11-08 17:55",
+"id": "13889169",
+"verdict": "skip",
+"why": "13.88 km from flat, 12.32 km from Möckernbrücke (pin)",
+"title": "Möbliertes WG-Zimmer mit eigener Terrasse und Parkplatz – Berlin-Tegel"
+},
+{
+"time": "2026-11-08 17:55",
+"id": "10911338",
+"verdict": "skip",
+"why": "female only [flat 1.22 km, U Schlesisches Tor 1.40 km, pin]",
+"title": "Room in 2-female apartment share in Friedrichshain - near Ostbahnhof"
 }
 ]
