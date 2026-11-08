@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:55",
-"id": "14319503",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Plönzeile, Berlin"
-},
-{
-"time": "2026-11-05 07:55",
 "id": "14319526",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.71 km from flat, 7.05 km from Möckernbrücke (pin)",
 "title": "WG ZIMMER AB SOFORT 520 WARM"
+},
+{
+"time": "2026-11-08 09:45",
+"id": "14336016",
+"verdict": "skip",
+"why": "female only [flat 1.26 km, U Schlesisches Tor 0.63 km, street]",
+"title": "Friedrichshain, ab 01.12.2026 frei (all inkl., befristet), Frauen-WG"
 }
 ]
