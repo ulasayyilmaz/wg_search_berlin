@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:50",
-"id": "14319792",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schierker Straße, Berlin"
-},
-{
-"time": "2026-11-05 07:50",
 "id": "14319619",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.38 km from flat, 4.45 km from Möckernbrücke (pin)",
 "title": "zwischenmiete/ nur Frauen / 3er WG"
+},
+{
+"time": "2026-11-08 07:05",
+"id": "10829231",
+"verdict": "skip",
+"why": "12.71 km from flat, 12.76 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer in Pankow in Mädels-WG"
 }
 ]
