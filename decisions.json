@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 08:10",
-"id": "14319586",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Fritz-Werner-Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:10",
 "id": "14319798",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.96 km from flat, 5.34 km from Schlesisches Tor (street)",
 "title": "Schönes Zimmer in 3-Zimmer Wohnung mit Balkon zur Untermiete"
+},
+{
+"time": "2026-11-08 12:25",
+"id": "14336300",
+"verdict": "skip",
+"why": "7.82 km from flat, 7.85 km from Schlesisches Tor (pin)",
+"title": "Möbliertes WG-Zimmer in 4-Zimmer-Wohnung"
 }
 ]
