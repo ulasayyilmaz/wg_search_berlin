@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:55",
-"id": "14319521",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Plönzeile, Berlin"
-},
-{
-"time": "2026-11-05 07:55",
 "id": "14275809",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Nordkapstraße, Berlin"
+},
+{
+"time": "2026-11-08 09:25",
+"id": "13263562",
+"verdict": "skip",
+"why": "female only [flat 1.26 km, U Schlesisches Tor 0.63 km, street]",
+"title": "Friedrichshain, ab 01.12.26 Zimmer frei (all inkl., befristet), Frauen-WG"
 }
 ]
