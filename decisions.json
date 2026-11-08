@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-11-05 09:01",
-"id": "13552961",
-"verdict": "skip",
-"why": "4.53 km from flat, 4.54 km from Schlesisches Tor (pin)",
-"title": "suche Mitbewohnerin für das frei werdendes Zimmer in meiner 2er WG in Prenzlauer"
-},
-{
-"time": "2026-11-05 09:01",
-"id": "12039783",
-"verdict": "skip",
-"why": "6.91 km from flat, 4.27 km from Möckernbrücke (pin)",
-"title": "Zimmer frei in entspannter 4er-WG – Wir suchen dich!"
-},
-{
-"time": "2026-11-05 09:01",
-"id": "14319791",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
-"time": "2026-11-05 09:01",
 "id": "14316642",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "female only [flat 1.22 km, U Schlesisches Tor 1.40 km, pin]",
 "title": "Room in 2-female apartment share in Friedrichshain - near Ostbahnhof"
+},
+{
+"time": "2026-11-08 18:05",
+"id": "11422004",
+"verdict": "skip",
+"why": "10.53 km from flat, 10.03 km from Schlesisches Tor (pin)",
+"title": "FLINTA* WG-Zimmer für Studierende/Auszubildende"
+},
+{
+"time": "2026-11-08 18:05",
+"id": "10737768",
+"verdict": "skip",
+"why": "11.87 km from flat, 9.22 km from Möckernbrücke (pin)",
+"title": "Zimmer in Lichterfelde West befristet zu vermieten"
+},
+{
+"time": "2026-11-08 18:05",
+"id": "14336922",
+"verdict": "skip",
+"why": "9.05 km from flat, 6.11 km from Möckernbrücke (pin)",
+"title": "schönes Zimmer in Charlottenburg zur Zwischenmiete ✨"
 }
 ]
