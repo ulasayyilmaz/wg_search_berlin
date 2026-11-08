@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:05",
-"id": "14319807",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Turmstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:05",
 "id": "14319524",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.89 km from flat, 4.43 km from Möckernbrücke (pin)",
 "title": "Zimmer in 3er-WG in Moabit ab dem 01.12."
+},
+{
+"time": "2026-11-08 19:15",
+"id": "14337060",
+"verdict": "skip",
+"why": "2.30 km from flat, 1.97 km from Görlitzer Bahnhof (pin)",
+"title": "Neukölln Pendler Zimmer mit Balkon und großer Küche"
 }
 ]
