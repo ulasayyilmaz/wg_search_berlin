@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:20",
-"id": "14319775",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Ratiborstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:20",
 "id": "14319498",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.87 km from flat, 5.27 km from Möckernbrücke (pin)",
 "title": "Möbliertes WG Zimmer in schöner Penthouse-Wohnung"
+},
+{
+"time": "2026-11-08 23:35",
+"id": "14332881",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - WG029.01 Müllerstraße"
 }
 ]
