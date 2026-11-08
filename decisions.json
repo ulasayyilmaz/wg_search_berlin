@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 08:10",
-"id": "14319554",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Friedlander Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:10",
 "id": "14319561",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.43 km from flat, 2.11 km from Möckernbrücke (pin)",
 "title": "Quiet and central cozy furnished room in Schöneberg"
+},
+{
+"time": "2026-11-08 11:55",
+"id": "14336230",
+"verdict": "skip",
+"why": "6.20 km from flat, 6.26 km from Prinzenstraße (pin)",
+"title": "Ein sauberes Zimmer in einer gemeinsamen Wohnung. Gute Lage, leicht zugängliche "
 }
 ]
