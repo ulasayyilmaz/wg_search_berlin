@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 09:10",
-"id": "14319541",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Brückenstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:10",
-"id": "14319525",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wrangelstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:10",
 "id": "14319784",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.68 km from flat, 6.18 km from Schlesisches Tor (pin)",
 "title": "Untervermietung eines Zimmers in einer 2-Zimmer-Wohnung"
+},
+{
+"time": "2026-11-08 19:55",
+"id": "13846391",
+"verdict": "skip",
+"why": "7.11 km from flat, 5.68 km from Möckernbrücke (pin)",
+"title": "15qm Altbau-Zimmer nahe Gleisdreieckpark in 4er WG"
+},
+{
+"time": "2026-11-08 19:55",
+"id": "8187259",
+"verdict": "skip",
+"why": "10.53 km from flat, 10.02 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer in 2,5 Zimmer-Wohnung in ruhiger Wohnlage 12489 Berlin Adlershof"
 }
 ]
