@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:50",
-"id": "14319626",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Antonienstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:50",
 "id": "14319532",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 1.96 km, U Görlitzer Bahnhof 1.67 km, street]",
 "title": "Zimmer Nähe Rathaus Neukölln"
+},
+{
+"time": "2026-11-08 04:25",
+"id": "14332888",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - fm92.1 Krowelstraße 92.1"
 }
 ]
