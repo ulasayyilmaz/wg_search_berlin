@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:15",
-"id": "14319768",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Kantstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:15",
 "id": "14319618",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.29 km from flat, 2.29 km from Möckernbrücke (pin)",
 "title": "Zimmer Zur Untermiete Schöneberg"
+},
+{
+"time": "2026-11-08 21:25",
+"id": "12912046",
+"verdict": "skip",
+"why": "8.62 km from flat, 5.38 km from Möckernbrücke (pin)",
+"title": "Helles, ruhiges 15 m2 Altbau 3. OG nach Westen, nahe S-Charlottenburg"
 }
 ]
