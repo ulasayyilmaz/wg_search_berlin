@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 08:10",
-"id": "14319820",
-"verdict": "skip",
-"why": "not private (Unternehmen PRO)",
-"title": "Friendsroom für zwei – möbliertes Zimmer in Berlin-Kreuzberg"
-},
-{
-"time": "2026-11-05 08:10",
 "id": "14319554",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.70 km from flat, 5.03 km from Möckernbrücke (pin)",
 "title": "Sofort frei: Neu(es Zimmer ) in Berlin ? Großes möbliertes Zimmer: Suche suche k"
+},
+{
+"time": "2026-11-08 11:25",
+"id": "14195977",
+"verdict": "skip",
+"why": "5.43 km from flat, 2.11 km from Möckernbrücke (pin)",
+"title": "Quiet and central cozy furnished room in Schöneberg"
 }
 ]
