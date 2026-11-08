@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:55",
-"id": "14319526",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wrangelstraße, Berlin"
-},
-{
-"time": "2026-11-05 07:55",
 "id": "14319583",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "female only [flat 1.26 km, U Schlesisches Tor 0.63 km, street]",
 "title": "Friedrichshain, ab 01.12.2026 frei (all inkl., befristet), Frauen-WG"
+},
+{
+"time": "2026-11-08 09:55",
+"id": "9814102",
+"verdict": "skip",
+"why": "14.62 km from flat, 13.58 km from Möckernbrücke (pin)",
+"title": "30 qm Zimmer Zentrale Lage in Berlin Mitte - - Habitación grande y luminosa"
 }
 ]
