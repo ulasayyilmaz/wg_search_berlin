@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 08:01",
-"id": "14319568",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sterndamm, Berlin"
-},
-{
 "time": "2026-11-05 08:05",
 "id": "14319932",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.88 km from flat, 2.57 km from Görlitzer Bahnhof (pin)",
 "title": "Möbliertes, sonniges Zimmer in Berlin-Neukölln zur Zwischenmiete. Sunny, Spaciou"
+},
+{
+"time": "2026-11-08 10:25",
+"id": "13553463",
+"verdict": "skip",
+"why": "7.99 km from flat, 4.76 km from Möckernbrücke (pin)",
+"title": "WG 1Zimmer /Frau ab 01.02. 2027"
 }
 ]
