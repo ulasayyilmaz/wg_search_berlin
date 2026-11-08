@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:15",
-"id": "14320748",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Stubenrauchstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:15",
 "id": "14319534",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "16.28 km from flat, 13.31 km from Möckernbrücke (pin)",
 "title": "ein schönes ruhiges zimmer mit balkon und registrierung"
+},
+{
+"time": "2026-11-08 20:45",
+"id": "14248395",
+"verdict": "skip",
+"why": "3.55 km from flat, 3.28 km from Görlitzer Bahnhof (pin)",
+"title": "Flinta* WG"
 }
 ]
