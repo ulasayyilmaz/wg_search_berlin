@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 08:20",
-"id": "14319543",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Graf-Haeseler-Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
-"id": "14319606",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Otto-Franke-Straße, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
 "id": "14319527",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.89 km from flat, 1.25 km from Hallesches Tor (pin)",
 "title": "Möbliertes 20 qm Zimmer im Chamissokiez"
+},
+{
+"time": "2026-11-08 13:55",
+"id": "10790403",
+"verdict": "skip",
+"why": "4.39 km from flat, 4.50 km from Kottbusser Tor (pin)",
+"title": "Schönes, loftähnliches Zimmer im Zentrum von Berlin und Prenzlauer Berg"
+},
+{
+"time": "2026-11-08 13:55",
+"id": "14336416",
+"verdict": "skip",
+"why": "4.73 km from flat, 1.79 km from Möckernbrücke (pin)",
+"title": "WG zimmer zur Untermiete (FLINTA Personen bevorzugt)"
 }
 ]
