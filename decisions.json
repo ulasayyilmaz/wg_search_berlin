@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 08:50",
-"id": "14319484",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Koloniestraße, Berlin"
-},
-{
-"time": "2026-11-05 08:50",
-"id": "14319501",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Audre-Lorde-Straße, Berlin"
-},
-{
 "time": "2026-11-05 08:55",
 "id": "14319813",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "starts 05.12.2026 [flat 1.99 km, U Prinzenstraße 1.43 km, pin]",
 "title": "Temporäre Untervermietung in einer WG"
+},
+{
+"time": "2026-11-08 17:35",
+"id": "5531759",
+"verdict": "skip",
+"why": "10.57 km from flat, 7.58 km from Möckernbrücke (street)",
+"title": "WG neu gründen / Start a new WG (The apartment has yet to be found!)"
+},
+{
+"time": "2026-11-08 17:35",
+"id": "14336784",
+"verdict": "skip",
+"why": "8.49 km from flat, 5.25 km from Möckernbrücke (pin)",
+"title": "Zimmer in Dreier-WG"
 }
 ]
