@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 08:35",
-"id": "14319579",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Winckelmannstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:35",
 "id": "14319574",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.32 km from flat, 3.12 km from Schlesisches Tor (pin)",
 "title": "🌿 A Cozy Private Room in Berlin-Rixdorf Neukölln | 1–15 December"
+},
+{
+"time": "2026-11-08 14:55",
+"id": "14293476",
+"verdict": "skip",
+"why": "6.78 km from flat, 3.52 km from Möckernbrücke (pin)",
+"title": "Zimmer mit großem Fenster in Schöneberg mit guter ÖPNV-Anbindung im Ring"
 }
 ]
