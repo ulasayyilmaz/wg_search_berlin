@@ -1,34 +1,6 @@
 [
 {
 "time": "2026-11-05 08:05",
-"id": "14319932",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Frobenstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:05",
-"id": "14319814",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:05",
-"id": "14319821",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wattstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:05",
-"id": "14319926",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Frobenstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:05",
 "id": "14319491",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "7.99 km from flat, 4.76 km from Möckernbrücke (pin)",
 "title": "WG 1Zimmer /Frau ab 01.02. 2027"
+},
+{
+"time": "2026-11-08 10:35",
+"id": "14336085",
+"verdict": "skip",
+"why": "6.70 km from flat, 3.95 km from Möckernbrücke (pin)",
+"title": "WG Zimmer in 5er WG"
+},
+{
+"time": "2026-11-08 10:35",
+"id": "14323357",
+"verdict": "skip",
+"why": "6.01 km from flat, 3.00 km from Möckernbrücke (pin)",
+"title": "Schnuckliges WG-Zimmer (3er WG) in Schöneberg zur Zwischenmiete frei! 🏡"
+},
+{
+"time": "2026-11-08 10:35",
+"id": "14332459",
+"verdict": "skip",
+"why": "8.21 km from flat, 7.97 km from Görlitzer Bahnhof (pin)",
+"title": "34 m2 Zimmer in Neukölln: Ab Sofort - 31.03.2027"
+},
+{
+"time": "2026-11-08 10:35",
+"id": "13735178",
+"verdict": "skip",
+"why": "8.14 km from flat, 4.95 km from Möckernbrücke (pin)",
+"title": "WG 1 Zimmer für 1 Frau"
 }
 ]
