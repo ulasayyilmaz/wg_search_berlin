@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:15",
-"id": "14319510",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Plönzeile, Berlin"
-},
-{
-"time": "2026-11-05 09:15",
 "id": "14320748",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "SENT",
 "why": " [flat 1.30 km, U Schlesisches Tor 1.50 km, pin]",
 "title": "Untermieter/in gesucht für Zimmer (12m2) direkt am Ostbahnhof/Holzmarkt/Spree/Mi"
+},
+{
+"time": "2026-11-08 20:35",
+"id": "14337214",
+"verdict": "skip",
+"why": "16.28 km from flat, 13.31 km from Möckernbrücke (pin)",
+"title": "ein schönes ruhiges zimmer mit balkon und registrierung"
 }
 ]
