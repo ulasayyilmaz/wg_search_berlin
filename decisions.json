@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 08:20",
-"id": "14319576",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Scharnweberstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
-"id": "14319528",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Rhinstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
 "id": "14319593",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.89 km from flat, 4.04 km from Möckernbrücke (pin)",
 "title": "Small Cozy Room in Schönberg"
+},
+{
+"time": "2026-11-08 13:25",
+"id": "3396924",
+"verdict": "skip",
+"why": "5.49 km from flat, 2.27 km from Möckernbrücke (pin)",
+"title": "Zimmer in WG in Schöneberg (Akazienkiez) frei vom 1. Januar 2027 bis 30. April 2"
+},
+{
+"time": "2026-11-08 13:25",
+"id": "12727444",
+"verdict": "skip",
+"why": "4.57 km from flat, 4.28 km from Görlitzer Bahnhof (pin)",
+"title": "Wohlfühl-WG-Zimmer Neukölln"
 }
 ]
