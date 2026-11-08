@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-11-05 08:20",
-"id": "14319593",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sterndamm, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
-"id": "14319783",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Brückenstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
-"id": "14319934",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Frobenstraße, Berlin"
-},
-{
-"time": "2026-11-05 08:20",
 "id": "14319543",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "4.57 km from flat, 4.28 km from Görlitzer Bahnhof (pin)",
 "title": "Wohlfühl-WG-Zimmer Neukölln"
+},
+{
+"time": "2026-11-08 13:45",
+"id": "14336419",
+"verdict": "skip",
+"why": "6.56 km from flat, 5.85 km from Prinzenstraße (pin)",
+"title": "Helles Zimmer in entspannter 2er-WG | 01.12.–07.01."
+},
+{
+"time": "2026-11-08 13:45",
+"id": "14336457",
+"verdict": "skip",
+"why": "3.49 km from flat, 3.27 km from Schlesisches Tor (pin)",
+"title": "Untervermietungsraum vom 17.11. bis März 2027"
+},
+{
+"time": "2026-11-08 13:45",
+"id": "10805144",
+"verdict": "skip",
+"why": "2.89 km from flat, 1.25 km from Hallesches Tor (pin)",
+"title": "Möbliertes 20 qm Zimmer im Chamissokiez"
 }
 ]
