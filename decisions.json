@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 08:25",
-"id": "14319515",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hohenzollerndamm, Berlin"
-},
-{
 "time": "2026-11-05 08:35",
 "id": "14248148",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.82 km from flat, 5.98 km from Schlesisches Tor (pin)",
 "title": "WG Zimmer mit besonderer Dynamik 😊"
+},
+{
+"time": "2026-11-08 14:35",
+"id": "14336510",
+"verdict": "skip",
+"why": "16.84 km from flat, 13.60 km from Möckernbrücke (pin)",
+"title": "Möbliertes WG-Zimmer mit Balkon in Berlin-Spandau · 23 m2 · 550 € warm · ab 01.1"
 }
 ]
