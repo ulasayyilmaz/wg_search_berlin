@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 09:05",
-"id": "14319524",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Prenzlauer Promenade, Berlin"
-},
-{
-"time": "2026-11-05 09:05",
-"id": "14319573",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Prenzlauer Promenade, Berlin"
-},
-{
 "time": "2026-11-05 09:10",
 "id": "14319604",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.30 km from flat, 1.97 km from Görlitzer Bahnhof (pin)",
 "title": "Neukölln Pendler Zimmer mit Balkon und großer Küche"
+},
+{
+"time": "2026-11-08 19:25",
+"id": "13780042",
+"verdict": "skip",
+"why": "5.50 km from flat, 5.46 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer - Berlin Weißensee - Altbau"
+},
+{
+"time": "2026-11-08 19:25",
+"id": "12227658",
+"verdict": "skip",
+"why": "19.26 km from flat, 15.98 km from Möckernbrücke (pin)",
+"title": "B3 Wohnen und Studieren in Kladow, Stadtnah, Naturnah und Wassernah, ab Dezember"
 }
 ]
