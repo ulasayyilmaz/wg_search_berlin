@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 07:50",
-"id": "13433811",
-"verdict": "skip",
-"why": "4.99 km from flat, 3.53 km from Möckernbrücke (pin)",
-"title": "Möbliertes Zimmer mit Balkon in perfekter Lage"
-},
-{
-"time": "2026-11-05 07:50",
 "id": "14319787",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "20.23 km from flat, 17.16 km from Möckernbrücke (pin)",
 "title": "2er - WG in Berlin Zehlendorf /befristet"
+},
+{
+"time": "2026-11-08 01:45",
+"id": "14303849",
+"verdict": "skip",
+"why": "6.86 km from flat, 4.44 km from Möckernbrücke (pin)",
+"title": "Tolle 1 1/2 Zimmer mit Balkon im schönen Kiez direkt U9"
 }
 ]
