@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 08:50",
-"id": "8043778",
-"verdict": "skip",
-"why": "2.76 km from flat, 2.45 km from Schlesisches Tor (pin)",
-"title": "aktuell nur 300€/Mo wegen kleiner Einschränkung/Anpassung"
-},
-{
-"time": "2026-11-05 08:50",
 "id": "11441840",
 "verdict": "skip",
 "why": "2.76 km from flat, 2.45 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "15.37 km from flat, 14.27 km from Möckernbrücke (pin)",
 "title": "Haus Wg sucht neuen Mitbewohni"
+},
+{
+"time": "2026-11-08 17:05",
+"id": "8539323",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 0.80 km, U Kottbusser Tor 0.24 km, street]",
+"title": "Ab sofort - Ruhiges Zimmer in Kreuzberg - *Oranienstraße* 🙂"
 }
 ]
