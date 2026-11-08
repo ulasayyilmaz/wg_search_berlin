@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:15",
-"id": "14320758",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Leykestraße, Berlin"
-},
-{
-"time": "2026-11-05 09:15",
 "id": "14319518",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.74 km from flat, 2.55 km from Schlesisches Tor (pin)",
 "title": "Großes Sonnenzimmer in Friedrichshain Wohnung"
+},
+{
+"time": "2026-11-08 22:05",
+"id": "14337330",
+"verdict": "skip",
+"why": "7.68 km from flat, 6.56 km from Möckernbrücke (pin)",
+"title": "Schlafzimmer zur Verfügung (in 2 teilen große Zimmer) für Jungen in einer gemein"
 }
 ]
