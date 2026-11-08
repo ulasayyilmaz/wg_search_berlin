@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 08:20",
-"id": "14319527",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hohenzollerndamm, Berlin"
-},
-{
 "time": "2026-11-05 08:25",
 "id": "14319770",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.73 km from flat, 1.79 km from Möckernbrücke (pin)",
 "title": "WG zimmer zur Untermiete (FLINTA Personen bevorzugt)"
+},
+{
+"time": "2026-11-08 14:05",
+"id": "14276764",
+"verdict": "skip",
+"why": "4.13 km from flat, 3.63 km from Schlesisches Tor (pin)",
+"title": "Kleines Zimmer in schöner Wohnung nahe Frankfurter Allee"
 }
 ]
