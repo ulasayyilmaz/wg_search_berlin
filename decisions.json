@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 09:15",
-"id": "14319518",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Koloniestraße, Berlin"
-},
-{
 "time": "2026-11-05 09:20",
 "id": "14260824",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.68 km from flat, 6.56 km from Möckernbrücke (pin)",
 "title": "Schlafzimmer zur Verfügung (in 2 teilen große Zimmer) für Jungen in einer gemein"
+},
+{
+"time": "2026-11-08 22:15",
+"id": "12727135",
+"verdict": "skip",
+"why": "7.42 km from flat, 6.02 km from Möckernbrücke (pin)",
+"title": "2 helle (21+10m2) Zimmer in renov. Altbau – möbliert"
 }
 ]
