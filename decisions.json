@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:35",
-"id": "14319785",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Soldiner Straße, Berlin"
-},
-{
-"time": "2026-11-05 09:35",
 "id": "14319611",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.95 km from flat, 4.54 km from Möckernbrücke (pin)",
 "title": "Zwischenmiete/Sublet from 01.12.2026 - 31.03.2027 in 2er GW"
+},
+{
+"time": "2026-11-09 08:48",
+"id": "14340512",
+"verdict": "skip",
+"why": "14.68 km from flat, 11.59 km from Möckernbrücke (pin)",
+"title": "Ruhiges und freundliches Zusammenwohnen"
 }
 ]
