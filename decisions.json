@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 11:15",
-"id": "14320755",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilhelminenhofstraße, Berlin"
-},
-{
-"time": "2026-11-05 11:15",
-"id": "14319530",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hermannstraße, Berlin"
-},
-{
 "time": "2026-11-05 11:20",
 "id": "14319788",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "10.62 km from flat, 10.21 km from Möckernbrücke (pin)",
 "title": "6er-Frauen-WG-Haus mit Garten in Pankow-Rosenthal"
+},
+{
+"time": "2026-11-09 14:55",
+"id": "14341229",
+"verdict": "skip",
+"why": "6.71 km from flat, 5.02 km from Möckernbrücke (pin)",
+"title": "Schöne helles Zimmer"
+},
+{
+"time": "2026-11-09 14:55",
+"id": "3803082",
+"verdict": "skip",
+"why": "3.64 km from flat, 3.81 km from Schlesisches Tor (pin)",
+"title": "22 m2Zimmer in 176qm-Wohnung inkl. großem WG-eigenen Garten!"
 }
 ]
