@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 11:31",
-"id": "14286878",
-"verdict": "skip",
-"why": "6.17 km from flat, 5.04 km from Möckernbrücke (pin)",
-"title": "1 Zimmer Berlin Tempelhof"
-},
-{
-"time": "2026-11-05 11:31",
 "id": "14320753",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.39 km from flat, 4.71 km from Möckernbrücke (pin)",
 "title": "WG-Zimmer in 2er-WG"
+},
+{
+"time": "2026-11-09 15:25",
+"id": "14341298",
+"verdict": "skip",
+"why": "female only [flat 1.04 km, U Görlitzer Bahnhof 0.77 km, pin]",
+"title": "WG Zimmer in 4er WG - Long Term"
 }
 ]
