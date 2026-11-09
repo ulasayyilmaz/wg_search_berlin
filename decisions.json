@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 10:55",
-"id": "14319567",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sterndamm, Berlin"
-},
-{
-"time": "2026-11-05 10:55",
 "id": "14320486",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.74 km from flat, 4.90 km from Möckernbrücke (pin)",
 "title": "Geräumiges Zimmer nähe TU Campus und Spree"
+},
+{
+"time": "2026-11-09 13:25",
+"id": "14340792",
+"verdict": "skip",
+"why": "2884.90 km from flat, 2884.41 km from Schlesisches Tor (pin)",
+"title": "1 Zimmer, gemütlich, TU-Nähe"
 }
 ]
