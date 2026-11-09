@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 13:40",
-"id": "13677840",
-"verdict": "SENT",
-"why": " [flat 1.92 km, U Schlesisches Tor 1.49 km, pin]",
-"title": "cozy housing project functional flat (fuwo) looking for new longterm roomie"
-},
-{
-"time": "2026-11-05 13:40",
 "id": "14290246",
 "verdict": "skip",
 "why": "8.65 km from flat, 5.52 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.96 km from flat, 6.03 km from Prinzenstraße (pin)",
 "title": "schönes WG-Zimmer in 3er WG in Prenzlauer Berg"
+},
+{
+"time": "2026-11-09 19:40",
+"id": "11851384",
+"verdict": "SENT",
+"why": " [flat 1.99 km, U Schlesisches Tor 1.40 km, pin]",
+"title": "WG-Zimmer in Friedrichshain"
 }
 ]
