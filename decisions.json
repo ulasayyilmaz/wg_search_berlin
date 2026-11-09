@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:31",
-"id": "14319591",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Dörpfeldstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:31",
 "id": "14319637",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.37 km from flat, 3.74 km from Hallesches Tor (pin)",
 "title": "Mobliertes 22qm in einer 2er WG in Berlin-Mitte"
+},
+{
+"time": "2026-11-09 07:30",
+"id": "14340459",
+"verdict": "skip",
+"why": "3.20 km from flat, 2.18 km from Hallesches Tor (pin)",
+"title": "Helles Zimmer im Tiergarten"
 }
 ]
