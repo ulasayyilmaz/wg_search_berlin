@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 11:05",
-"id": "14320743",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Weisestraße, Berlin"
-},
-{
-"time": "2026-11-05 11:05",
 "id": "14319825",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.74 km from flat, 3.84 km from Schlesisches Tor (pin)",
 "title": "WG-Zimmer in Prenzlauer Berg ab sofort"
+},
+{
+"time": "2026-11-09 14:15",
+"id": "14327602",
+"verdict": "skip",
+"why": "7.60 km from flat, 6.57 km from Möckernbrücke (pin)",
+"title": "1.12.26 - 15.02.27 - schönes möblierte Altbauzimmer mit Balkon in einer chillige"
 }
 ]
