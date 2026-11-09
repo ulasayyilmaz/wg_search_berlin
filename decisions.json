@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 09:35",
-"id": "14320492",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:35",
-"id": "14320512",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:35",
 "id": "14319806",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "female only [flat 1.04 km, U Görlitzer Bahnhof 0.81 km, pin]",
 "title": "Sonnige Zimmer in 2 Zimmer Wohnung zeitraumflexible"
+},
+{
+"time": "2026-11-09 08:31",
+"id": "14069310",
+"verdict": "skip",
+"why": "4.64 km from flat, 2.37 km from Möckernbrücke (street)",
+"title": "Room near Tempelhofer Feld"
+},
+{
+"time": "2026-11-09 08:31",
+"id": "9599570",
+"verdict": "skip",
+"why": "6.66 km from flat, 4.63 km from Möckernbrücke (pin)",
+"title": "helles großes Zimmer in schöner Altbauwohnung in Mitte"
 }
 ]
