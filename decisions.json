@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 10:55",
-"id": "14320486",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 10:55",
 "id": "14319596",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2884.90 km from flat, 2884.41 km from Schlesisches Tor (pin)",
 "title": "1 Zimmer, gemütlich, TU-Nähe"
+},
+{
+"time": "2026-11-09 13:35",
+"id": "14341029",
+"verdict": "skip",
+"why": "6.67 km from flat, 6.10 km from Hallesches Tor (pin)",
+"title": "WG Mitbewohnerin gesucht zum 01.12"
 }
 ]
