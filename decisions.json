@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 13:40",
-"id": "14322774",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hermsdorfer Straße, Berlin"
-},
-{
-"time": "2026-11-05 13:40",
-"id": "14320477",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 13:40",
 "id": "14322960",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.28 km from flat, 1.65 km from Schlesisches Tor (pin)",
 "title": "Süßes Zimmer in einer WG in Friedrichshain"
+},
+{
+"time": "2026-11-09 20:30",
+"id": "8051143",
+"verdict": "skip",
+"why": "8.11 km from flat, 5.28 km from Möckernbrücke (pin)",
+"title": "ruhiges Zimmer mit Balkon in entspannter 2er-WG, gute Anbindung durch U9/S1/Bus "
+},
+{
+"time": "2026-11-09 20:31",
+"id": "8440209",
+"verdict": "SENT",
+"why": " [flat 2.74 km, U Hallesches Tor 0.92 km, pin]",
+"title": "Kreuzberg Bergmannkiez WG Zimmer mit Anmeldung ( Heizung ,Strom, Internet includ"
 }
 ]
