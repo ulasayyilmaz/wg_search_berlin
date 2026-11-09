@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 13:40",
-"id": "14323001",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Stromstraße, Berlin"
-},
-{
-"time": "2026-11-05 13:40",
 "id": "14322774",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.57 km from flat, 2.50 km from Schlesisches Tor (postcode)",
 "title": "Gemütliche Wohnung in Friedrichshain - 14. bis 27. November 2026"
+},
+{
+"time": "2026-11-09 20:20",
+"id": "14341928",
+"verdict": "skip",
+"why": "2.28 km from flat, 1.65 km from Schlesisches Tor (pin)",
+"title": "Süßes Zimmer in einer WG in Friedrichshain"
 }
 ]
