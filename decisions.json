@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 14:01",
-"id": "11369478",
-"verdict": "skip",
-"why": "7.33 km from flat, 4.78 km from Möckernbrücke (pin)",
-"title": "WG Zimmer in Berlin Moabit-ohne Anmeldung"
-},
-{
-"time": "2026-11-05 14:01",
 "id": "14320736",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.25 km from flat, 3.98 km from Görlitzer Bahnhof (pin)",
 "title": "2 Zimmer in 5 person WG, Neukölln"
+},
+{
+"time": "2026-11-09 21:40",
+"id": "14342081",
+"verdict": "skip",
+"why": "6.88 km from flat, 4.60 km from Möckernbrücke (street)",
+"title": "Schönes WG-Zimmer mit Balkon in entspannter 3er-WG | ab Januar 2027"
 }
 ]
