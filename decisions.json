@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 10:10",
-"id": "14315728",
-"verdict": "skip",
-"why": "6.33 km from flat, 3.07 km from Möckernbrücke (pin)",
-"title": "vollmöbliertes WG Zimmer am Bayerischen Platz in Schöneberg zum 01.12 frei, U-Ba"
-},
-{
-"time": "2026-11-05 10:10",
 "id": "14319511",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.64 km from flat, 6.72 km from Möckernbrücke (pin)",
 "title": "WG sucht Frau ;-)"
+},
+{
+"time": "2026-11-09 11:05",
+"id": "14340755",
+"verdict": "skip",
+"why": "5.84 km from flat, 5.42 km from Schlesisches Tor (pin)",
+"title": "Gemütliches Wohnzimmer in Lichtenberg auf Zeit (flexible Dauer) Perfekt als Über"
 }
 ]
