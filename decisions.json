@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 14:45",
-"id": "14319577",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Winckelmannstraße, Berlin"
-},
-{
 "time": "2026-11-05 14:50",
 "id": "14322936",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.62 km from flat, 3.83 km from Schlesisches Tor (pin)",
 "title": "Prenzl, super zentral, sehr posh, aber günstig und sauber"
+},
+{
+"time": "2026-11-09 23:20",
+"id": "14342292",
+"verdict": "skip",
+"why": "13.97 km from flat, 11.17 km from Möckernbrücke (pin)",
+"title": "Zwischenmiete ! schönes möbliertes Zi. in Uni Nähe 1.1.27 - 30.4. 2027 470€ Nebe"
 }
 ]
