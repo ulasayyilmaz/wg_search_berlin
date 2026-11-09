@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 10:50",
-"id": "10655213",
-"verdict": "skip",
-"why": "2.35 km from flat, 2.17 km from Schlesisches Tor (pin)",
-"title": "𑁍 Cosy Room in Friedrichshain 𑁍 (short term)"
-},
-{
-"time": "2026-11-05 10:50",
-"id": "14319485",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tempelhofer Weg, Berlin"
-},
-{
-"time": "2026-11-05 10:50",
 "id": "14320747",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "11.59 km from flat, 9.97 km from Möckernbrücke (pin)",
 "title": "Clean and comfortable Room for rent - Very bright and comfortable."
+},
+{
+"time": "2026-11-09 12:15",
+"id": "14340907",
+"verdict": "skip",
+"why": "temporary: short term [flat 1.07 km, U Kottbusser Tor 0.53 km, pin]",
+"title": "ROOM FREE NOVEMBER OR DEC LONG-TERM"
+},
+{
+"time": "2026-11-09 12:15",
+"id": "14340878",
+"verdict": "skip",
+"why": "starts 15.12.2026 [flat 2.70 km, U Hallesches Tor 0.90 km, street]",
+"title": "Freies Zimmer in 3er Wg"
 }
 ]
