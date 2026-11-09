@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 10:50",
-"id": "14319816",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Holländerstraße, Berlin"
-},
-{
-"time": "2026-11-05 10:50",
-"id": "14319800",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Jansastraße, Berlin"
-},
-{
-"time": "2026-11-05 10:50",
-"id": "14319546",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zechliner Straße, Berlin"
-},
-{
 "time": "2026-11-05 10:55",
 "id": "14319567",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "8.13 km from flat, 7.23 km from Möckernbrücke (street)",
 "title": "Geräumiges helles Zimmer in der Hochzeit | Queen-Size-Bett"
+},
+{
+"time": "2026-11-09 13:05",
+"id": "14340952",
+"verdict": "skip",
+"why": "4.01 km from flat, 1.20 km from Möckernbrücke (pin)",
+"title": "Bright 11m2 Room in Modern Neubau | Berlin-Mitte (Tiergarten) | €620 All-Inc. | "
+},
+{
+"time": "2026-11-09 13:05",
+"id": "11438475",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "1 Zimmer mit Aussicht in Wannsee (room with a view)"
+},
+{
+"time": "2026-11-09 13:05",
+"id": "11875317",
+"verdict": "skip",
+"why": "7.74 km from flat, 4.90 km from Möckernbrücke (pin)",
+"title": "Geräumiges Zimmer nähe TU Campus und Spree"
 }
 ]
