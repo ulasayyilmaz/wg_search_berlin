@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 11:20",
-"id": "14319788",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilhelmstraße, Berlin"
-},
-{
-"time": "2026-11-05 11:20",
-"id": "14319805",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Turmstraße, Berlin"
-},
-{
-"time": "2026-11-05 11:20",
 "id": "14319804",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.64 km from flat, 3.81 km from Schlesisches Tor (pin)",
 "title": "22 m2Zimmer in 176qm-Wohnung inkl. großem WG-eigenen Garten!"
+},
+{
+"time": "2026-11-09 15:05",
+"id": "14341281",
+"verdict": "skip",
+"why": "5.53 km from flat, 2.24 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer in Berlin-Schöneberg (Kyffhäuserstraße) – 400 € all inclusive"
+},
+{
+"time": "2026-11-09 15:05",
+"id": "14341251",
+"verdict": "skip",
+"why": "8.78 km from flat, 5.89 km from Möckernbrücke (pin)",
+"title": "WG Zimmer in Berlin Steglitz zu vermieten"
 }
 ]
