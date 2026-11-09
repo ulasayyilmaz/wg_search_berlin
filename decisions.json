@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 14:01",
-"id": "14320736",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilsnacker Straße, Berlin"
-},
-{
 "time": "2026-11-05 14:20",
 "id": "10577711",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.88 km from flat, 4.60 km from Möckernbrücke (street)",
 "title": "Schönes WG-Zimmer mit Balkon in entspannter 3er-WG | ab Januar 2027"
+},
+{
+"time": "2026-11-09 21:50",
+"id": "9502657",
+"verdict": "skip",
+"why": "3.03 km from flat, 2.53 km from Schlesisches Tor (pin)",
+"title": "1 Zimmer sonnig mit Balkon in 2er WG zu vermieten"
 }
 ]
