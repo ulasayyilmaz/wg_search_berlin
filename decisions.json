@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 13:10",
-"id": "13176647",
-"verdict": "skip",
-"why": "7.38 km from flat, 4.09 km from Möckernbrücke (pin)",
-"title": "4er-WG-Neugründung in großer 5-Zimmer-Wohnung (Zimmer 1)"
-},
-{
-"time": "2026-11-05 13:20",
-"id": "14322886",
-"verdict": "skip",
-"why": "13.74 km from flat, 10.91 km from Möckernbrücke (pin)",
-"title": "1 Zimmer 460.-€"
-},
-{
-"time": "2026-11-05 13:20",
-"id": "14322889",
-"verdict": "skip",
-"why": "4.64 km from flat, 4.81 km from Kottbusser Tor (pin)",
-"title": "Schöne 2-Zimmer WG im Herzen von P-Berg :)"
-},
-{
 "time": "2026-11-05 13:20",
 "id": "13996397",
 "verdict": "SENT",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "10.51 km from flat, 10.04 km from Schlesisches Tor (postcode)",
 "title": "20 qm, ein Balkon und eine Prise Gelassenheit"
+},
+{
+"time": "2026-11-09 19:05",
+"id": "14341728",
+"verdict": "skip",
+"why": "2.70 km from flat, 2.52 km from Schlesisches Tor (pin)",
+"title": "Zimmer in Frierdrischain"
+},
+{
+"time": "2026-11-09 19:05",
+"id": "11848069",
+"verdict": "skip",
+"why": "5.68 km from flat, 5.61 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer im wunderschönen Weißensee"
+},
+{
+"time": "2026-11-09 19:05",
+"id": "14341059",
+"verdict": "skip",
+"why": "7.70 km from flat, 5.03 km from Möckernbrücke (street)",
+"title": "Zimmer in 5-WG zu untervermieten"
 }
 ]
