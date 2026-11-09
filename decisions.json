@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:31",
-"id": "14320553",
-"verdict": "SENT",
-"why": " [flat 1.61 km, U Schlesisches Tor 1.24 km, pin]",
-"title": "6-PERSON ROOFTOP WG: LOOKING FOR NEW FAMILY MEMBER"
-},
-{
-"time": "2026-11-05 09:31",
 "id": "14307144",
 "verdict": "skip",
 "why": "2.77 km from flat, 2.44 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.42 km from flat, 2.19 km from Schlesisches Tor (pin)",
 "title": "Großes und gemütliches Zimmer in Friedrichshain"
+},
+{
+"time": "2026-11-09 06:40",
+"id": "14279245",
+"verdict": "skip",
+"why": "female only [flat 1.31 km, U Schlesisches Tor 0.93 km, pin]",
+"title": "Furnished room for rent/ Möbiliertes Zimmer zur Zweischenmiete"
 }
 ]
