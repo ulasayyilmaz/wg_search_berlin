@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 13:40",
-"id": "14290246",
-"verdict": "skip",
-"why": "8.65 km from flat, 5.52 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer Charlottenburg ab 1.12.26"
-},
-{
-"time": "2026-11-05 13:40",
 "id": "14323001",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "SENT",
 "why": " [flat 1.99 km, U Schlesisches Tor 1.40 km, pin]",
 "title": "WG-Zimmer in Friedrichshain"
+},
+{
+"time": "2026-11-09 19:50",
+"id": "14267026",
+"verdict": "skip",
+"why": "2.57 km from flat, 2.50 km from Schlesisches Tor (postcode)",
+"title": "Gemütliche Wohnung in Friedrichshain - 14. bis 27. November 2026"
 }
 ]
