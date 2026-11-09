@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 14:31",
-"id": "14323286",
-"verdict": "skip",
-"why": "female only [flat 1.42 km, U Görlitzer Bahnhof 1.04 km, pin]",
-"title": "In Berlin ankommen in der süßesten WG!"
-},
-{
 "time": "2026-11-05 14:35",
 "id": "14323140",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.66 km from flat, 3.82 km from Schlesisches Tor (street)",
 "title": "Schönes möbeliertes WG Altbau-Zimmer in 2er WG, mit eigener Küche und Balkon zur"
+},
+{
+"time": "2026-11-09 22:20",
+"id": "14342212",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 1.80 km, U Görlitzer Bahnhof 1.49 km, pin]",
+"title": "Zimmer verfügbar in 2-WG"
 }
 ]
