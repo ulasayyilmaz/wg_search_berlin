@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 09:50",
-"id": "14319548",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zinsgutstraße, Berlin"
-},
-{
 "time": "2026-11-05 09:55",
 "id": "14320484",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.52 km from flat, 5.31 km from Möckernbrücke (pin)",
 "title": "ein Zimmer in einer brandneuen 2-Zimmer-Gartenwohnung in Pankow"
+},
+{
+"time": "2026-11-09 10:35",
+"id": "14340703",
+"verdict": "skip",
+"why": "2.92 km from flat, 2.60 km from Görlitzer Bahnhof (pin)",
+"title": "Room in a WG in Neukölln – Available from December"
 }
 ]
