@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 09:20",
-"id": "14319549",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Glienicker Straße, Berlin"
-},
-{
 "time": "2026-11-05 09:31",
 "id": "11928407",
 "verdict": "SENT",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "14.45 km from flat, 14.01 km from Schlesisches Tor (pin)",
 "title": "WG Zimmer Treptow LGBTQ friendly"
+},
+{
+"time": "2026-11-09 03:25",
+"id": "14200937",
+"verdict": "skip",
+"why": "4.10 km from flat, 3.50 km from Schlesisches Tor (pin)",
+"title": "Sunny 20m2 room near Frankfurter Allee, sublet from now to Jan 31 / Helles 20m2 "
 }
 ]
