@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 13:01",
-"id": "14320750",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Waldstraße, Berlin"
-},
-{
-"time": "2026-11-05 13:01",
 "id": "14319571",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.75 km from flat, 2.71 km from Möckernbrücke (pin)",
 "title": "Cute 2er WG sucht neue Mitbewohnerin"
+},
+{
+"time": "2026-11-09 18:21",
+"id": "14341599",
+"verdict": "skip",
+"why": "5.67 km from flat, 5.11 km from Prinzenstraße (pin)",
+"title": "1 Zimmer in einer Wohnung in der Nähe von Tempelhofer Feld"
 }
 ]
