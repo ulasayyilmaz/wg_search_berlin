@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 14:35",
-"id": "14323140",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Stromstraße, Berlin"
-},
-{
-"time": "2026-11-05 14:35",
 "id": "14319545",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 1.80 km, U Görlitzer Bahnhof 1.49 km, pin]",
 "title": "Zimmer verfügbar in 2-WG"
+},
+{
+"time": "2026-11-09 22:40",
+"id": "14342139",
+"verdict": "skip",
+"why": "6.71 km from flat, 5.02 km from Möckernbrücke (pin)",
+"title": "Langfristiges Zimmer Innenstadt"
 }
 ]
