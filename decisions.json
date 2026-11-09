@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 12:25",
-"id": "14319592",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sterndamm, Berlin"
-},
-{
 "time": "2026-11-05 12:30",
 "id": "14316350",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.71 km from flat, 9.32 km from Möckernbrücke (pin)",
 "title": "freies Zimmer in einer 3 Zi. Whg"
+},
+{
+"time": "2026-11-09 16:05",
+"id": "9052211",
+"verdict": "skip",
+"why": "6.55 km from flat, 4.33 km from Möckernbrücke (pin)",
+"title": "gemütliches, großes Zimmer in einer Wohnung mit einem mittelgroßen Hund. KEINE A"
 }
 ]
