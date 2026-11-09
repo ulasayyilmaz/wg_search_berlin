@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-11-05 09:31",
-"id": "14307144",
-"verdict": "skip",
-"why": "2.77 km from flat, 2.44 km from Schlesisches Tor (pin)",
-"title": "Befristes WG-Zimmer"
-},
-{
-"time": "2026-11-05 09:31",
-"id": "14319580",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Winckelmannstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:31",
-"id": "14320737",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilsnacker Straße, Berlin"
-},
-{
-"time": "2026-11-05 09:31",
 "id": "14319591",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "female only [flat 1.31 km, U Schlesisches Tor 0.93 km, pin]",
 "title": "Furnished room for rent/ Möbiliertes Zimmer zur Zweischenmiete"
+},
+{
+"time": "2026-11-09 07:20",
+"id": "14340447",
+"verdict": "skip",
+"why": "7.73 km from flat, 4.75 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer in Friedenau 08.01.-30.06."
+},
+{
+"time": "2026-11-09 07:20",
+"id": "14283736",
+"verdict": "skip",
+"why": "5.19 km from flat, 5.30 km from Schlesisches Tor (pin)",
+"title": "Biete befristet 22 m2-Zimmer mit Balkon in 2er WG - Prenzlauer Berg"
+},
+{
+"time": "2026-11-09 07:20",
+"id": "14340448",
+"verdict": "skip",
+"why": "4.37 km from flat, 3.74 km from Hallesches Tor (pin)",
+"title": "Mobliertes 22qm in einer 2er WG in Berlin-Mitte"
 }
 ]
