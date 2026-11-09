@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 09:41",
-"id": "14320741",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilsnacker Straße, Berlin"
-},
-{
 "time": "2026-11-05 09:50",
 "id": "14319548",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "female only [flat 1.92 km, U Kottbusser Tor 1.24 km, pin]",
 "title": "langzeitmöbliertes zimmer in der nähe von hermannplatz mit anmeldung"
+},
+{
+"time": "2026-11-09 10:05",
+"id": "12724614",
+"verdict": "skip",
+"why": "6.52 km from flat, 5.31 km from Möckernbrücke (pin)",
+"title": "ein Zimmer in einer brandneuen 2-Zimmer-Gartenwohnung in Pankow"
 }
 ]
