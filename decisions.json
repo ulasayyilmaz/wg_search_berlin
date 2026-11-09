@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 11:40",
-"id": "10173792",
-"verdict": "skip",
-"why": "8.36 km from flat, 5.11 km from Möckernbrücke (pin)",
-"title": "Ab 01.12.2026: Zeitraum flexibel nach Absprache: Möbliertes Zimmer in Frauen WG,"
-},
-{
 "time": "2026-11-05 12:20",
 "id": "14322330",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.75 km from flat, 8.54 km from Möckernbrücke (pin)",
 "title": "Mitbewohner*in für 28qm Zi in schöner 3er WG gesucht"
+},
+{
+"time": "2026-11-09 15:45",
+"id": "14266273",
+"verdict": "skip",
+"why": "7.55 km from flat, 6.03 km from Möckernbrücke (pin)",
+"title": "Suche solidarische Mitbewohnis für WG-Neugründung im Wedding // Searching for le"
 }
 ]
