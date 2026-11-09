@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 13:20",
-"id": "13996397",
-"verdict": "SENT",
-"why": "has 'frei bis' end date but extension: 'verlängerung möglich' [flat 0.82 km, U Schlesisches Tor 0.93 km, pin]",
-"title": "Helles, zentral gelegenes, möbliertes 14m2-WG-Zimmer in Friedrichshain"
-},
-{
-"time": "2026-11-05 13:25",
-"id": "14320744",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilsnacker Straße, Berlin"
-},
-{
 "time": "2026-11-05 13:30",
 "id": "14315478",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "7.70 km from flat, 5.03 km from Möckernbrücke (street)",
 "title": "Zimmer in 5-WG zu untervermieten"
+},
+{
+"time": "2026-11-09 19:20",
+"id": "3793144",
+"verdict": "skip",
+"why": "6.96 km from flat, 4.74 km from Möckernbrücke (pin)",
+"title": "WG mit Mama und Kind in sonniger Altbauwohnung in Moabit"
+},
+{
+"time": "2026-11-09 19:20",
+"id": "14341744",
+"verdict": "skip",
+"why": "3.00 km from flat, 2.37 km from Schlesisches Tor (pin)",
+"title": "🌞🌿Kleines feines Zimmer in gemütlicher WG sucht Dich🌿🌞"
 }
 ]
