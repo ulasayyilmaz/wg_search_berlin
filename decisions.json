@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 13:40",
-"id": "14322960",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Stromstraße, Berlin"
-},
-{
-"time": "2026-11-05 13:55",
-"id": "14319819",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Eichborndamm, Berlin"
-},
-{
 "time": "2026-11-05 13:55",
 "id": "14319605",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "SENT",
 "why": " [flat 2.74 km, U Hallesches Tor 0.92 km, pin]",
 "title": "Kreuzberg Bergmannkiez WG Zimmer mit Anmeldung ( Heizung ,Strom, Internet includ"
+},
+{
+"time": "2026-11-09 20:40",
+"id": "14342009",
+"verdict": "skip",
+"why": "7.35 km from flat, 4.41 km from Möckernbrücke (pin)",
+"title": "3 Aktien WG."
+},
+{
+"time": "2026-11-09 20:40",
+"id": "14341955",
+"verdict": "skip",
+"why": "anmeldung: 'anmeldung ist bei uns leider nicht möglich' [flat 0.74 km, U Kottbusser Tor 0.35 km, pin]",
+"title": "WG-Zimmer im Herzen von Kreuzberg"
 }
 ]
