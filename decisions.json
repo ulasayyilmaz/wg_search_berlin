@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 13:55",
-"id": "14319605",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Immenweg, Berlin"
-},
-{
-"time": "2026-11-05 13:55",
 "id": "14322912",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "anmeldung: 'anmeldung ist bei uns leider nicht möglich' [flat 0.74 km, U Kottbusser Tor 0.35 km, pin]",
 "title": "WG-Zimmer im Herzen von Kreuzberg"
+},
+{
+"time": "2026-11-09 20:50",
+"id": "14341957",
+"verdict": "skip",
+"why": "3.00 km from flat, 2.87 km from Schlesisches Tor (pin)",
+"title": "Super WG-Zimmer im schönem Prenzl Berg!"
 }
 ]
