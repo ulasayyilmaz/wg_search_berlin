@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 12:40",
-"id": "14316006",
-"verdict": "SENT",
-"why": "zwischenmiete but extension: 'verlängerung langfristig möglich' [flat 1.73 km, U Görlitzer Bahnhof 1.55 km, pin]",
-"title": "gemütliches WG Zimmer in Neukölln"
-},
-{
-"time": "2026-11-05 12:40",
 "id": "14315992",
 "verdict": "skip",
 "why": "7.34 km from flat, 6.77 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.58 km from flat, 5.84 km from Möckernbrücke (pin)",
 "title": "Schickes möbliertes Zimmer in 2-er WG"
+},
+{
+"time": "2026-11-09 17:05",
+"id": "14341537",
+"verdict": "skip",
+"why": "2.19 km from flat, 1.64 km from Schlesisches Tor (pin)",
+"title": "Zimmeruntervermietung Friedrichshain mit Balkon"
 }
 ]
