@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 14:35",
-"id": "14319545",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zechliner Straße, Berlin"
-},
-{
-"time": "2026-11-05 14:35",
-"id": "14319777",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Ratiborstraße, Berlin"
-},
-{
 "time": "2026-11-05 14:40",
 "id": "14232868",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.71 km from flat, 5.02 km from Möckernbrücke (pin)",
 "title": "Langfristiges Zimmer Innenstadt"
+},
+{
+"time": "2026-11-09 22:50",
+"id": "13730495",
+"verdict": "skip",
+"why": "7.89 km from flat, 5.26 km from Möckernbrücke (street)",
+"title": "WG: furnished room in Moabit near S41 and U9"
+},
+{
+"time": "2026-11-09 22:50",
+"id": "14342261",
+"verdict": "skip",
+"why": "8.57 km from flat, 6.15 km from Möckernbrücke (pin)",
+"title": "zimmer in lieber 3er mädels-wg"
 }
 ]
