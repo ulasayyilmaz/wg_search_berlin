@@ -1,27 +1,6 @@
 [
 {
 "time": "2026-11-05 09:31",
-"id": "14319637",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müggelheimer Straße, Berlin"
-},
-{
-"time": "2026-11-05 09:31",
-"id": "14319815",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Badensche Straße, Berlin"
-},
-{
-"time": "2026-11-05 09:31",
-"id": "14320490",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:31",
 "id": "14318740",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "3.20 km from flat, 2.18 km from Hallesches Tor (pin)",
 "title": "Helles Zimmer im Tiergarten"
+},
+{
+"time": "2026-11-09 07:40",
+"id": "14159735",
+"verdict": "skip",
+"why": "13.27 km from flat, 12.47 km from Möckernbrücke (pin)",
+"title": "Zimmer in Familienwohnung"
+},
+{
+"time": "2026-11-09 07:40",
+"id": "10931987",
+"verdict": "skip",
+"why": "16.95 km from flat, 14.52 km from Möckernbrücke (street)",
+"title": "1 freies WG-Zimmer Berlin-Reinickendorf"
+},
+{
+"time": "2026-11-09 07:40",
+"id": "14297249",
+"verdict": "skip",
+"why": "2.38 km from flat, 1.85 km from Schlesisches Tor (pin)",
+"title": "Unmöbliertes Zimmer in 5er Wg von 01.11.-01.01."
 }
 ]
