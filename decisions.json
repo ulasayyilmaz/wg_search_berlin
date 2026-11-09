@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 10:35",
-"id": "14319517",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hohenzollerndamm, Berlin"
-},
-{
-"time": "2026-11-05 10:35",
-"id": "14320761",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lübbener Straße, Berlin"
-},
-{
 "time": "2026-11-05 10:45",
 "id": "14319765",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "5.80 km from flat, 5.35 km from Hallesches Tor (pin)",
 "title": "Untervermietung im Dezember (flexible Daten)"
+},
+{
+"time": "2026-11-09 11:55",
+"id": "14340853",
+"verdict": "skip",
+"why": "starts 20.01.2027 [flat 3.79 km, U Möckernbrücke 0.86 km, pin]",
+"title": "Untermiete für 3 Wochen in einer Wohnung mit einem Mitbewohner"
+},
+{
+"time": "2026-11-09 11:55",
+"id": "14340824",
+"verdict": "skip",
+"why": "2.19 km from flat, 2.40 km from Schlesisches Tor (pin)",
+"title": "WG zimmer in Berlin Mitte ab December 2026 (4-6 monate)"
 }
 ]
