@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 09:41",
-"id": "14159873",
-"verdict": "skip",
-"why": "3.00 km from flat, 2.66 km from Görlitzer Bahnhof (pin)",
-"title": "Zwischenmiete im Schillerkiez"
-},
-{
-"time": "2026-11-05 09:41",
-"id": "14319779",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lückstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:41",
 "id": "14319589",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bismarckstraße, Berlin"
+},
+{
+"time": "2026-11-09 09:25",
+"id": "5181654",
+"verdict": "skip",
+"why": "8.13 km from flat, 8.31 km from Kottbusser Tor (pin)",
+"title": "Sonniges, ruhiges WG-Zimmer zentral gelegen in Berlin-Pankow"
+},
+{
+"time": "2026-11-09 09:25",
+"id": "14233416",
+"verdict": "skip",
+"why": "5.97 km from flat, 6.08 km from Prinzenstraße (pin)",
+"title": "Zwei 30sqm WG Zimmer zu Verfügung in 3er WG in Prenzlauerberg"
 }
 ]
