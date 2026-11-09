@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 13:55",
-"id": "14322912",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wiebestraße, Berlin"
-},
-{
 "time": "2026-11-05 14:01",
 "id": "11369478",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.00 km from flat, 2.87 km from Schlesisches Tor (pin)",
 "title": "Super WG-Zimmer im schönem Prenzl Berg!"
+},
+{
+"time": "2026-11-09 21:30",
+"id": "14332098",
+"verdict": "skip",
+"why": "4.25 km from flat, 3.98 km from Görlitzer Bahnhof (pin)",
+"title": "2 Zimmer in 5 person WG, Neukölln"
 }
 ]
