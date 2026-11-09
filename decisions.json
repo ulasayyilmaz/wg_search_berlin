@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 11:01",
-"id": "14321649",
-"verdict": "skip",
-"why": "17.10 km from flat, 16.47 km from Schlesisches Tor (pin)",
-"title": "Gemütliches, helles WG-Zimmer zur Zwischenmiete"
-},
-{
 "time": "2026-11-05 11:05",
 "id": "14320743",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.11 km from flat, 7.90 km from Schlesisches Tor (pin)",
 "title": "Helles Zimmer in Berlin-Buckow"
+},
+{
+"time": "2026-11-09 14:05",
+"id": "14341140",
+"verdict": "skip",
+"why": "3.74 km from flat, 3.84 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer in Prenzlauer Berg ab sofort"
 }
 ]
