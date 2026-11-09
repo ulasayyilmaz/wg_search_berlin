@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 13:01",
-"id": "13168365",
-"verdict": "skip",
-"why": "7.38 km from flat, 4.09 km from Möckernbrücke (pin)",
-"title": "4er-WG-Neugründung in großer 5-Zimmer-Wohnung"
-},
-{
-"time": "2026-11-05 13:01",
 "id": "10505929",
 "verdict": "skip",
 "why": "4.33 km from flat, 1.94 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.15 km from flat, 4.91 km from Görlitzer Bahnhof (pin)",
 "title": "Hell eingerichtetes Zimmer in Britz (Neukölln) Februar 2027 - Juni 2027"
+},
+{
+"time": "2026-11-09 17:45",
+"id": "9503156",
+"verdict": "skip",
+"why": "7.70 km from flat, 5.17 km from Möckernbrücke (pin)",
+"title": "Helles möbliertes WG Zimmer in Wilmersdorf"
 }
 ]
