@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 13:05",
-"id": "14316633",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Dominicusstraße WG103.03"
-},
-{
 "time": "2026-11-05 13:10",
 "id": "13176647",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.03 km from flat, 1.54 km from Möckernbrücke (pin)",
 "title": "1-Jahres-Untervermietung in einer schönen, geräumigen Wohnung in Kreuzberg"
+},
+{
+"time": "2026-11-09 18:50",
+"id": "14341767",
+"verdict": "skip",
+"why": "10.51 km from flat, 10.04 km from Schlesisches Tor (postcode)",
+"title": "20 qm, ein Balkon und eine Prise Gelassenheit"
 }
 ]
