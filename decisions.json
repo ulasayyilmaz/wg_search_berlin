@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 14:20",
-"id": "10577711",
-"verdict": "skip",
-"why": "7.63 km from flat, 4.44 km from Möckernbrücke (pin)",
-"title": "Mitbewohner gesucht"
-},
-{
-"time": "2026-11-05 14:31",
-"id": "12232596",
-"verdict": "skip",
-"why": "6.39 km from flat, 6.04 km from Hallesches Tor (pin)",
-"title": "6 Monate in der Euler WG"
-},
-{
 "time": "2026-11-05 14:31",
 "id": "14323286",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.03 km from flat, 2.53 km from Schlesisches Tor (pin)",
 "title": "1 Zimmer sonnig mit Balkon in 2er WG zu vermieten"
+},
+{
+"time": "2026-11-09 22:01",
+"id": "11123707",
+"verdict": "skip",
+"why": "2.75 km from flat, 2.21 km from Schlesisches Tor (pin)",
+"title": "FUNKY BOHEMIAN HOME / SANCTUAR Geräumiges Doppelzimmer in ausgezeichneter Lage ~"
+},
+{
+"time": "2026-11-09 22:01",
+"id": "7320526",
+"verdict": "skip",
+"why": "3.66 km from flat, 3.82 km from Schlesisches Tor (street)",
+"title": "Schönes möbeliertes WG Altbau-Zimmer in 2er WG, mit eigener Küche und Balkon zur"
 }
 ]
