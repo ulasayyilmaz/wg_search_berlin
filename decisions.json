@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:20",
-"id": "14320756",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilhelminenhofstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:20",
 "id": "14319549",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "16.18 km from flat, 13.24 km from Möckernbrücke (pin)",
 "title": "Suche Mitbewohnerin für ein gemütliches, helles Zimmer in FLINTA* WG"
+},
+{
+"time": "2026-11-09 01:45",
+"id": "14233196",
+"verdict": "skip",
+"why": "14.45 km from flat, 14.01 km from Schlesisches Tor (pin)",
+"title": "WG Zimmer Treptow LGBTQ friendly"
 }
 ]
