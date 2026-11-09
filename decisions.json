@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 12:50",
-"id": "14319536",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Brückenstraße, Berlin"
-},
-{
 "time": "2026-11-05 13:01",
 "id": "13168365",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "SENT",
 "why": " [flat 1.12 km, U Kottbusser Tor 0.59 km, pin]",
 "title": "Möbliertes WG-Zimmer in Kreuzberg"
+},
+{
+"time": "2026-11-09 17:35",
+"id": "14341602",
+"verdict": "skip",
+"why": "5.15 km from flat, 4.91 km from Görlitzer Bahnhof (pin)",
+"title": "Hell eingerichtetes Zimmer in Britz (Neukölln) Februar 2027 - Juni 2027"
 }
 ]
