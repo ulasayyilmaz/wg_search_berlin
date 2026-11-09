@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 12:50",
-"id": "14318739",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Kamminer Straße, Berlin"
-},
-{
-"time": "2026-11-05 12:50",
-"id": "14319493",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Damerowstraße, Berlin"
-},
-{
-"time": "2026-11-05 12:50",
 "id": "14319536",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "SENT",
 "why": " [flat 1.27 km, U Schlesisches Tor 1.46 km, pin]",
 "title": "Vermiete 1 Zimmer in 3 Zimmerwohnung in Friedrichshain / Kreuzberg"
+},
+{
+"time": "2026-11-09 17:25",
+"id": "14341578",
+"verdict": "skip",
+"why": "8.79 km from flat, 5.53 km from Möckernbrücke (pin)",
+"title": "wunderschönes WG-Zimmer in Top Lage"
+},
+{
+"time": "2026-11-09 17:25",
+"id": "13310764",
+"verdict": "SENT",
+"why": " [flat 1.12 km, U Kottbusser Tor 0.59 km, pin]",
+"title": "Möbliertes WG-Zimmer in Kreuzberg"
 }
 ]
