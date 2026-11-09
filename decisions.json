@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 13:01",
-"id": "10505929",
-"verdict": "skip",
-"why": "4.33 km from flat, 1.94 km from Möckernbrücke (pin)",
-"title": "Gemütliches Zimmer in 3er WG in Kreuz-Tempelhof für 2 Wochen"
-},
-{
-"time": "2026-11-05 13:01",
 "id": "14320750",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.70 km from flat, 5.17 km from Möckernbrücke (pin)",
 "title": "Helles möbliertes WG Zimmer in Wilmersdorf"
+},
+{
+"time": "2026-11-09 17:55",
+"id": "14341621",
+"verdict": "skip",
+"why": "5.75 km from flat, 2.71 km from Möckernbrücke (pin)",
+"title": "Cute 2er WG sucht neue Mitbewohnerin"
 }
 ]
