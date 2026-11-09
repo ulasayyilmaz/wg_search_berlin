@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 12:40",
-"id": "14315992",
-"verdict": "skip",
-"why": "7.34 km from flat, 6.77 km from Möckernbrücke (pin)",
-"title": "Wohnung in Mitte / Hochzeit, zwei Zimmer zur Verfügung. Private Nachricht für we"
-},
-{
-"time": "2026-11-05 12:50",
-"id": "14322914",
-"verdict": "skip",
-"why": "7.10 km from flat, 3.94 km from Möckernbrücke (street)",
-"title": "Wohnung Beste Lage am Kdamm"
-},
-{
-"time": "2026-11-05 12:50",
-"id": "14322789",
-"verdict": "skip",
-"why": "5.25 km from flat, 1.93 km from Möckernbrücke (pin)",
-"title": "schöneberg: 2er wg sucht untermiete (flexibel, 600 all in)"
-},
-{
 "time": "2026-11-05 12:50",
 "id": "14318739",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "2.19 km from flat, 1.64 km from Schlesisches Tor (pin)",
 "title": "Zimmeruntervermietung Friedrichshain mit Balkon"
+},
+{
+"time": "2026-11-09 17:15",
+"id": "13346131",
+"verdict": "skip",
+"why": "13.27 km from flat, 10.21 km from Möckernbrücke (pin)",
+"title": "furnished room"
+},
+{
+"time": "2026-11-09 17:15",
+"id": "7946346",
+"verdict": "skip",
+"why": "7.83 km from flat, 7.14 km from Möckernbrücke (pin)",
+"title": "Kostenloses möbliertes Zimmer in Gemeinschaftswohnung"
+},
+{
+"time": "2026-11-09 17:15",
+"id": "13678223",
+"verdict": "SENT",
+"why": " [flat 1.27 km, U Schlesisches Tor 1.46 km, pin]",
+"title": "Vermiete 1 Zimmer in 3 Zimmerwohnung in Friedrichshain / Kreuzberg"
 }
 ]
