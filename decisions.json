@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 09:35",
-"id": "14320493",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
 "time": "2026-11-05 09:41",
 "id": "14159873",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.16 km from flat, 1.99 km from Möckernbrücke (pin)",
 "title": "WG Zimmer in Central Schöneberg ab sofort verfügbar"
+},
+{
+"time": "2026-11-09 09:20",
+"id": "14339194",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bismarckstraße, Berlin"
 }
 ]
