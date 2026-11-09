@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 11:20",
-"id": "14319804",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Turmstraße, Berlin"
-},
-{
 "time": "2026-11-05 11:31",
 "id": "14286878",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.78 km from flat, 5.89 km from Möckernbrücke (pin)",
 "title": "WG Zimmer in Berlin Steglitz zu vermieten"
+},
+{
+"time": "2026-11-09 15:15",
+"id": "9286022",
+"verdict": "skip",
+"why": "7.39 km from flat, 4.71 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer in 2er-WG"
 }
 ]
