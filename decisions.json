@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 13:01",
-"id": "14319571",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Herthastraße, Berlin"
-},
-{
 "time": "2026-11-05 13:05",
 "id": "14316633",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.67 km from flat, 5.11 km from Prinzenstraße (pin)",
 "title": "1 Zimmer in einer Wohnung in der Nähe von Tempelhofer Feld"
+},
+{
+"time": "2026-11-09 18:40",
+"id": "6726709",
+"verdict": "skip",
+"why": "4.03 km from flat, 1.54 km from Möckernbrücke (pin)",
+"title": "1-Jahres-Untervermietung in einer schönen, geräumigen Wohnung in Kreuzberg"
 }
 ]
