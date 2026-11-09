@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:41",
-"id": "14319589",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Mittelstraße, Berlin"
-},
-{
-"time": "2026-11-05 09:41",
 "id": "14319557",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.97 km from flat, 6.08 km from Prinzenstraße (pin)",
 "title": "Zwei 30sqm WG Zimmer zu Verfügung in 3er WG in Prenzlauerberg"
+},
+{
+"time": "2026-11-09 09:45",
+"id": "14340592",
+"verdict": "skip",
+"why": "4.60 km from flat, 4.02 km from Schlesisches Tor (pin)",
+"title": "Geräumiges 27 m2 Privatzimmer für Untervermietung"
 }
 ]
