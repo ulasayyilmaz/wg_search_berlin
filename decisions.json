@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 12:30",
-"id": "14316350",
-"verdict": "skip",
-"why": "5.11 km from flat, 4.80 km from Görlitzer Bahnhof (pin)",
-"title": "Longterm with Anmeldung WG in Neukölln"
-},
-{
-"time": "2026-11-05 12:31",
-"id": "14322666",
-"verdict": "skip",
-"why": "temporary: befristet [flat 1.24 km, U Kottbusser Tor 0.59 km, pin]",
-"title": "Möbiliertes WG Zimmer in Kreuzberg- befristet auf 6 Monate mit Aussicht auf Verl"
-},
-{
 "time": "2026-11-05 12:35",
 "id": "14319556",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.55 km from flat, 4.33 km from Möckernbrücke (pin)",
 "title": "gemütliches, großes Zimmer in einer Wohnung mit einem mittelgroßen Hund. KEINE A"
+},
+{
+"time": "2026-11-09 16:15",
+"id": "14341415",
+"verdict": "skip",
+"why": "8.61 km from flat, 6.13 km from Möckernbrücke (pin)",
+"title": "20.2.-31.3.2027 Untermiete in sehr süßer Studi-WG"
+},
+{
+"time": "2026-11-09 16:15",
+"id": "12017103",
+"verdict": "skip",
+"why": "temporary: für 3 monate [flat 0.93 km, U Kottbusser Tor 0.18 km, street]",
+"title": "23m2 Zimmer Kreuzberg"
 }
 ]
