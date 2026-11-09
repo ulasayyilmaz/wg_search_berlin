@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:20",
-"id": "14318717",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Kamminer Straße, Berlin"
-},
-{
-"time": "2026-11-05 09:20",
 "id": "14319767",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "14.66 km from flat, 13.49 km from Möckernbrücke (pin)",
 "title": "Schönes Zimmer in Berlin-Hermsdorf"
+},
+{
+"time": "2026-11-09 00:35",
+"id": "14337432",
+"verdict": "skip",
+"why": "3.78 km from flat, 3.48 km from Görlitzer Bahnhof (pin)",
+"title": "🏡 Voll eingerichtetes Zimmer in Girls-Only WG | Berlin Neukölln | Ab sofort verf"
 }
 ]
