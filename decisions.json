@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 10:10",
-"id": "14321274",
-"verdict": "skip",
-"why": "2.57 km from flat, 2.41 km from Schlesisches Tor (pin)",
-"title": "3 room WG inside ringbahn"
-},
-{
-"time": "2026-11-05 10:10",
 "id": "14315728",
 "verdict": "skip",
 "why": "6.33 km from flat, 3.07 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.39 km from flat, 2.03 km from Schlesisches Tor (pin)",
 "title": "jan 2027 onwards, daily/weekly rental / Co Living in Friedrichshain"
+},
+{
+"time": "2026-11-09 10:55",
+"id": "12533500",
+"verdict": "skip",
+"why": "7.64 km from flat, 6.72 km from Möckernbrücke (pin)",
+"title": "WG sucht Frau ;-)"
 }
 ]
