@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:31",
-"id": "11928407",
-"verdict": "SENT",
-"why": " [flat 1.99 km, U Kottbusser Tor 2.14 km, pin]",
-"title": "550,- EUR BALCONY! Friendly WG Alexanderplatz – Anmeldung möglich"
-},
-{
-"time": "2026-11-05 09:31",
 "id": "14320553",
 "verdict": "SENT",
 "why": " [flat 1.61 km, U Schlesisches Tor 1.24 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.10 km from flat, 3.50 km from Schlesisches Tor (pin)",
 "title": "Sunny 20m2 room near Frankfurter Allee, sublet from now to Jan 31 / Helles 20m2 "
+},
+{
+"time": "2026-11-09 05:25",
+"id": "9738199",
+"verdict": "skip",
+"why": "2.42 km from flat, 2.19 km from Schlesisches Tor (pin)",
+"title": "Großes und gemütliches Zimmer in Friedrichshain"
 }
 ]
