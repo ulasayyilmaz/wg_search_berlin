@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 09:20",
-"id": "14319498",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lübbener Straße, Berlin"
-},
-{
-"time": "2026-11-05 09:20",
 "id": "14318717",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - WG029.01 Müllerstraße"
+},
+{
+"time": "2026-11-09 00:15",
+"id": "14337416",
+"verdict": "skip",
+"why": "14.66 km from flat, 13.49 km from Möckernbrücke (pin)",
+"title": "Schönes Zimmer in Berlin-Hermsdorf"
 }
 ]
