@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 13:31",
-"id": "14327846",
-"verdict": "skip",
-"why": "starts 24.12.2026 [flat 0.26 km, U Görlitzer Bahnhof 0.54 km, pin]",
-"title": "ROOM KREUZBERG DEC 24 - JAN 03"
-},
-{
-"time": "2026-11-06 13:31",
 "id": "14327786",
 "verdict": "skip",
 "why": "6.67 km from flat, 5.94 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Boxhagener Straße - Private Room"
+},
+{
+"time": "2026-11-10 22:55",
+"id": "14347037",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Boxhagener Straße - Room 4"
 }
 ]
