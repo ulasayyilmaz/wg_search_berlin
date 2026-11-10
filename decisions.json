@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 13:31",
-"id": "14327786",
-"verdict": "skip",
-"why": "6.67 km from flat, 5.94 km from Möckernbrücke (pin)",
-"title": "Mitbewohnerin/Mitbewohner gesucht!"
-},
-{
 "time": "2026-11-06 13:35",
 "id": "14323008",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Boxhagener Straße - Room 4"
+},
+{
+"time": "2026-11-10 23:05",
+"id": "14347039",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Nordkapstraße - Room 2"
 }
 ]
