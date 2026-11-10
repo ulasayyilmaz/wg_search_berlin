@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 17:45",
-"id": "14196455",
-"verdict": "skip",
-"why": "7.34 km from flat, 7.50 km from Kottbusser Tor (pin)",
-"title": "kleines Zimmer zum vermieten"
-},
-{
-"time": "2026-11-05 17:45",
-"id": "14323002",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Stromstraße, Berlin"
-},
-{
 "time": "2026-11-05 17:55",
 "id": "14323668",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "starts 07.12.2026 [flat 1.92 km, U Kottbusser Tor 1.24 km, pin]",
 "title": "2-3 Monate Untervermietung in Graefekiez"
+},
+{
+"time": "2026-11-10 10:25",
+"id": "14345666",
+"verdict": "skip",
+"why": "6.20 km from flat, 6.26 km from Prinzenstraße (pin)",
+"title": "Sauber eingerichtetes Zimmer. Gute Lage. Einfacher Zugang zu öffentlichen Verkeh"
+},
+{
+"time": "2026-11-10 10:25",
+"id": "14343832",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wisbyer Straße, Berlin"
 }
 ]
