@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-06 11:01",
-"id": "14034643",
-"verdict": "skip",
-"why": "6.29 km from flat, 5.78 km from Schlesisches Tor (pin)",
-"title": "Zimmer in Oberschöneweide🌈"
-},
-{
-"time": "2026-11-06 11:01",
-"id": "14327614",
-"verdict": "skip",
-"why": "7.83 km from flat, 6.16 km from Möckernbrücke (pin)",
-"title": "Gemütliches WG-Zimmer in Berlin Wedding"
-},
-{
-"time": "2026-11-06 11:20",
-"id": "14319827",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
 "time": "2026-11-06 11:42",
 "id": "9212287",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Eichborndamm, Berlin"
+},
+{
+"time": "2026-11-10 20:20",
+"id": "14346798",
+"verdict": "skip",
+"why": "8.30 km from flat, 6.36 km from Möckernbrücke (pin)",
+"title": "Room for FLINTA person in Wedding"
+},
+{
+"time": "2026-11-10 20:20",
+"id": "14346791",
+"verdict": "skip",
+"why": "2.87 km from flat, 2.52 km from Kottbusser Tor (pin)",
+"title": "Veggie FLINTA* WG mit Katzis ✨🌱"
+},
+{
+"time": "2026-11-10 20:20",
+"id": "9193065",
+"verdict": "skip",
+"why": "4.06 km from flat, 3.81 km from Görlitzer Bahnhof (pin)",
+"title": "Zwischenmiete (3 Wochen) 20qm in Berlin Neukölln"
 }
 ]
