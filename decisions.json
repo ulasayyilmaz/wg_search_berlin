@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 09:01",
-"id": "14287690",
-"verdict": "skip",
-"why": "9.43 km from flat, 6.52 km from Möckernbrücke (pin)",
-"title": "Wg in Charlottenburg, Zeitraum flexibel :)"
-},
-{
-"time": "2026-11-06 09:01",
 "id": "14319834",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hermannstraße, Berlin"
+},
+{
+"time": "2026-11-10 17:50",
+"id": "12140229",
+"verdict": "skip",
+"why": "13.38 km from flat, 12.82 km from Schlesisches Tor (pin)",
+"title": "🚤 WG mit Herz, Humor & eigenem Boot sucht 2x Verstärkung!"
 }
 ]
