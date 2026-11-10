@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 17:15",
-"id": "14320757",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilhelminenhofstraße, Berlin"
-},
-{
 "time": "2026-11-05 17:45",
 "id": "14196455",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Biebricher Straße, Berlin"
+},
+{
+"time": "2026-11-10 10:15",
+"id": "14345622",
+"verdict": "skip",
+"why": "starts 07.12.2026 [flat 1.92 km, U Kottbusser Tor 1.24 km, pin]",
+"title": "2-3 Monate Untervermietung in Graefekiez"
 }
 ]
