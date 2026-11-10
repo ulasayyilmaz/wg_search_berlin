@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-06 05:30",
-"id": "14324192",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Hoffmannstraße"
-},
-{
-"time": "2026-11-06 06:50",
-"id": "14242201",
-"verdict": "skip",
-"why": "16.44 km from flat, 13.42 km from Möckernbrücke (pin)",
-"title": "1WG Zi, MÖBLIERT 18 qm+Balkon in Spandau sofort frei in 3er Frauen WG"
-},
-{
-"time": "2026-11-06 06:50",
-"id": "14319830",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
-"time": "2026-11-06 07:01",
-"id": "8753872",
-"verdict": "skip",
-"why": "8.17 km from flat, 7.56 km from Prinzenstraße (pin)",
-"title": "1 Zimmer in 3er WG mit Garten, Bus in 2Min, Park in Nähe, ruhig und zentral"
-},
-{
 "time": "2026-11-06 07:25",
 "id": "14324195",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-10 16:10",
+"id": "14034447",
+"verdict": "skip",
+"why": "7.64 km from flat, 6.75 km from Möckernbrücke (pin)",
+"title": "Untermiete WG-Zimmer Wedding"
+},
+{
+"time": "2026-11-10 16:10",
+"id": "14346211",
+"verdict": "skip",
+"why": "8.65 km from flat, 8.59 km from Hallesches Tor (pin)",
+"title": "Schönes Zimmer in Mädels WG"
+},
+{
+"time": "2026-11-10 16:10",
+"id": "14343216",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Neltestraße, Berlin"
+},
+{
+"time": "2026-11-10 16:10",
+"id": "14344710",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Holländerstraße, Berlin"
 }
 ]
