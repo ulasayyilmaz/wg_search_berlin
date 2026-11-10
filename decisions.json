@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 15:50",
-"id": "8180083",
-"verdict": "skip",
-"why": "8.25 km from flat, 7.76 km from Möckernbrücke (pin)",
-"title": "Zimmer in vegetarischer WG (Reinickendorf)"
-},
-{
-"time": "2026-11-05 15:50",
 "id": "3897817",
 "verdict": "skip",
 "why": "8.25 km from flat, 7.76 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Nordkapstraße, Berlin"
+},
+{
+"time": "2026-11-10 07:30",
+"id": "14340709",
+"verdict": "skip",
+"why": "female only [flat 0.68 km, U Schlesisches Tor 0.05 km, pin]",
+"title": "Zimmer in Familienwohnung - nur Frauen"
 }
 ]
