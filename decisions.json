@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 00:40",
-"id": "14324176",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Flemmingstraße WG126.04"
-},
-{
 "time": "2026-11-06 00:55",
 "id": "13645408",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Boxhagener Straße, Berlin"
+},
+{
+"time": "2026-11-10 14:31",
+"id": "10743079",
+"verdict": "skip",
+"why": "8.89 km from flat, 7.28 km from Möckernbrücke (street)",
+"title": "Zimmer in Mitte Hochzeit (Kurzfrist für Jan 2027)"
 }
 ]
