@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 21:15",
-"id": "14319822",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wattstraße, Berlin"
-},
-{
-"time": "2026-11-05 21:25",
-"id": "7928535",
-"verdict": "skip",
-"why": "8.84 km from flat, 5.83 km from Möckernbrücke (pin)",
-"title": "Kleines WG Zimmer in Wilmersdorf (ab 1. Dez oder 1. Jan)"
-},
-{
 "time": "2026-11-05 21:45",
 "id": "14324014",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "5.94 km from flat, 6.07 km from Schlesisches Tor (pin)",
 "title": "Möbliertes Zimmer mit privatem Balkon in einem Zwei-Personen-Flatshare"
+},
+{
+"time": "2026-11-10 12:50",
+"id": "14345940",
+"verdict": "skip",
+"why": "5.25 km from flat, 4.91 km from Hallesches Tor (pin)",
+"title": "Süßes Zimmer für Dezember"
+},
+{
+"time": "2026-11-10 12:50",
+"id": "14343675",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Boxhagener Straße, Berlin"
 }
 ]
