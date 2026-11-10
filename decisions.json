@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 08:31",
-"id": "14323498",
-"verdict": "skip",
-"why": "4.11 km from flat, 3.34 km from Hallesches Tor (pin)",
-"title": "Komplett möbliertes Zimmer, Toilette, Küche in einer gemeinsamen WG | Dez 01 - J"
-},
-{
-"time": "2026-11-06 08:40",
-"id": "14113839",
-"verdict": "skip",
-"why": "10.09 km from flat, 9.67 km from Möckernbrücke (pin)",
-"title": "Schönes helles Zimmer in Pankow"
-},
-{
 "time": "2026-11-06 09:01",
 "id": "14287690",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.13 km from flat, 6.21 km from Schlesisches Tor (pin)",
 "title": "Great modern room at an exceptional wg - November/December sublet"
+},
+{
+"time": "2026-11-10 17:20",
+"id": "14346461",
+"verdict": "skip",
+"why": "6.24 km from flat, 5.78 km from Schlesisches Tor (pin)",
+"title": "Available!! spacious 30sqm room in quiet area close to u8"
+},
+{
+"time": "2026-11-10 17:20",
+"id": "14343707",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hermannstraße, Berlin"
 }
 ]
