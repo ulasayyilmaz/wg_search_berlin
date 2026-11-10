@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 00:55",
-"id": "13645408",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Münchener Straße, Berlin"
-},
-{
 "time": "2026-11-06 01:35",
 "id": "14324175",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.89 km from flat, 7.28 km from Möckernbrücke (street)",
 "title": "Zimmer in Mitte Hochzeit (Kurzfrist für Jan 2027)"
+},
+{
+"time": "2026-11-10 14:40",
+"id": "14341556",
+"verdict": "skip",
+"why": "3.55 km from flat, 3.27 km from Görlitzer Bahnhof (pin)",
+"title": "Zimmer mit Balkon in Neukölln / Körnerkiez – ab 1. Januar 2027"
 }
 ]
