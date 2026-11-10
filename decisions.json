@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 13:50",
-"id": "14327907",
-"verdict": "skip",
-"why": "6.68 km from flat, 6.03 km from Möckernbrücke (pin)",
-"title": "Mitbewohnerin dringend am 1 Dezember gesucht"
-},
-{
 "time": "2026-11-06 14:01",
 "id": "14327903",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.14 km from flat, 5.09 km from Möckernbrücke (pin)",
 "title": "WG auf suche nach neuen Mitwewohner*In KEINE ZWECK WG"
+},
+{
+"time": "2026-11-10 23:35",
+"id": "14343742",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
 }
 ]
