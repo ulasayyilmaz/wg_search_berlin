@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 15:50",
-"id": "3897817",
-"verdict": "skip",
-"why": "8.25 km from flat, 7.76 km from Möckernbrücke (pin)",
-"title": "Zimmer in vegetarischer WG (Reinickendorf)"
-},
-{
 "time": "2026-11-05 16:20",
 "id": "10592239",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "female only [flat 0.68 km, U Schlesisches Tor 0.05 km, pin]",
 "title": "Zimmer in Familienwohnung - nur Frauen"
+},
+{
+"time": "2026-11-10 08:10",
+"id": "14345362",
+"verdict": "skip",
+"why": "2.92 km from flat, 2.49 km from Kottbusser Tor (pin)",
+"title": "Zimmer in einer schönen Nachbarschaft."
 }
 ]
