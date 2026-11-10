@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 16:20",
-"id": "10592239",
-"verdict": "skip",
-"why": "2.10 km from flat, 1.73 km from Prinzenstraße (pin)",
-"title": "Wir suchen einen sympathischen Mitbewohner"
-},
-{
-"time": "2026-11-05 16:20",
-"id": "13408058",
-"verdict": "skip",
-"why": "12.23 km from flat, 11.63 km from Schlesisches Tor (pin)",
-"title": "Großes Zimmer in Berlin Hellersdorf für Frauen/ Flinta"
-},
-{
-"time": "2026-11-05 16:20",
 "id": "14320509",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.92 km from flat, 2.49 km from Kottbusser Tor (pin)",
 "title": "Zimmer in einer schönen Nachbarschaft."
+},
+{
+"time": "2026-11-10 08:15",
+"id": "14343630",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-10 08:15",
+"id": "14344914",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
