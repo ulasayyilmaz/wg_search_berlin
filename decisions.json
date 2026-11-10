@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 01:35",
-"id": "14324175",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Flemmingstraße WG126.01"
-},
-{
-"time": "2026-11-06 02:05",
-"id": "14322617",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Albrecht-Berblinger-Straße, Berlin"
-},
-{
 "time": "2026-11-06 02:25",
 "id": "14322965",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "3.55 km from flat, 3.27 km from Görlitzer Bahnhof (pin)",
 "title": "Zimmer mit Balkon in Neukölln / Körnerkiez – ab 1. Januar 2027"
+},
+{
+"time": "2026-11-10 15:01",
+"id": "13030926",
+"verdict": "skip",
+"why": "9.64 km from flat, 6.97 km from Möckernbrücke (pin)",
+"title": "Ruhiges Zimmer in Charlottenburg-Nord (U7) – 3-6 Monate – Quiet Room"
+},
+{
+"time": "2026-11-10 15:01",
+"id": "14344911",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
