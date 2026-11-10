@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 10:30",
-"id": "14327564",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 2.54 km, U Hallesches Tor 0.36 km, pin]",
-"title": "Nette 4 Personen WG"
-},
-{
-"time": "2026-11-06 10:40",
-"id": "10936690",
-"verdict": "skip",
-"why": "7.61 km from flat, 6.60 km from Möckernbrücke (pin)",
-"title": "1.12.26 - 28.02.27 - schönes möbliertes Altbauzimmer in einer chilligen WG in We"
-},
-{
 "time": "2026-11-06 10:40",
 "id": "14327572",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "14.03 km from flat, 12.54 km from Möckernbrücke (pin)",
 "title": "Helles, möbliertes 20 m2 Zimmer mit großem Balkon in Berlin-Waidmannslust"
+},
+{
+"time": "2026-11-10 20:01",
+"id": "14346775",
+"verdict": "skip",
+"why": "7.07 km from flat, 6.83 km from Görlitzer Bahnhof (pin)",
+"title": "WG Zimmer U Britz-Süd (2 Zimmer)"
+},
+{
+"time": "2026-11-10 20:01",
+"id": "14346768",
+"verdict": "skip",
+"why": "3.50 km from flat, 3.02 km from Hallesches Tor (pin)",
+"title": "Private Room in girl’s apartment 350€ Warmmiete"
 }
 ]
