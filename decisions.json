@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 08:30",
-"id": "10208111",
-"verdict": "skip",
-"why": "5.01 km from flat, 5.06 km from Schlesisches Tor (pin)",
-"title": "2 months sublet in WG- Prenzlauer Berg (Flexible dates)"
-},
-{
 "time": "2026-11-06 08:31",
 "id": "14323498",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Boxhagener Straße, Berlin"
+},
+{
+"time": "2026-11-10 17:10",
+"id": "12359577",
+"verdict": "skip",
+"why": "6.13 km from flat, 6.21 km from Schlesisches Tor (pin)",
+"title": "Great modern room at an exceptional wg - November/December sublet"
 }
 ]
