@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 22:10",
-"id": "14319811",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Petersburger Straße, Berlin"
-},
-{
-"time": "2026-11-05 22:10",
-"id": "14319587",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lutherstraße, Berlin"
-},
-{
-"time": "2026-11-05 22:15",
-"id": "14324145",
-"verdict": "skip",
-"why": "5.39 km from flat, 2.54 km from Möckernbrücke (pin)",
-"title": "Zimmer in 2er WG"
-},
-{
 "time": "2026-11-05 22:19",
 "id": "14324143",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "9.65 km from flat, 7.02 km from Möckernbrücke (pin)",
 "title": "Cooles Zimmer in super angenehmer Lage"
+},
+{
+"time": "2026-11-10 13:31",
+"id": "14346021",
+"verdict": "skip",
+"why": "7.28 km from flat, 4.88 km from Möckernbrücke (pin)",
+"title": "🏡 Großes Zimmer in Berlin-Moabit zur Zwischenmiete!"
+},
+{
+"time": "2026-11-10 13:31",
+"id": "8015167",
+"verdict": "skip",
+"why": "2.55 km from flat, 2.34 km from Görlitzer Bahnhof (street)",
+"title": "Zimmer im Rathaus Neukölln - verfügbar ab 1. Dezember flexibler Umzug in Termine"
+},
+{
+"time": "2026-11-10 13:31",
+"id": "13425615",
+"verdict": "skip",
+"why": "5.77 km from flat, 3.19 km from Möckernbrücke (pin)",
+"title": "Ruhiges, helles Zimmer in gepflegter Wohnung – zentrale Lage an Spree & Tiergart"
 }
 ]
