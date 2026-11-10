@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-06 09:40",
-"id": "10298336",
-"verdict": "skip",
-"why": "temporary: temporar [flat 1.09 km, U Kottbusser Tor 0.41 km, pin]",
-"title": "WG-Zimmer mit Hochbett- Kreuzberg 10999"
-},
-{
-"time": "2026-11-06 09:40",
-"id": "14327424",
-"verdict": "skip",
-"why": "3.20 km from flat, 3.37 km from Kottbusser Tor (street)",
-"title": "Kleines, ruhiges und gemütliches Hofzimmer in Prenzlauer Berg, Jan–März (keine A"
-},
-{
-"time": "2026-11-06 09:50",
-"id": "14315540",
-"verdict": "skip",
-"why": "16.84 km from flat, 13.79 km from Möckernbrücke (pin)",
-"title": "Helles, möbliertes WG-Zimmer am Schlachtensee-WG-ZIMMER · BERLIN-ZEHLENDORF"
-},
-{
 "time": "2026-11-06 10:01",
 "id": "14327517",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.27 km from flat, 2.18 km from Möckernbrücke (pin)",
 "title": "Möbliertes Zimmer im Schönen Schöneberg"
+},
+{
+"time": "2026-11-10 19:01",
+"id": "13603425",
+"verdict": "skip",
+"why": "2.18 km from flat, 1.83 km from Schlesisches Tor (pin)",
+"title": "16 sq.m. sunny room in shared flat in F-Hain"
+},
+{
+"time": "2026-11-10 19:01",
+"id": "10185730",
+"verdict": "skip",
+"why": "21.22 km from flat, 18.15 km from Möckernbrücke (pin)",
+"title": "Gemütliches DG-Zimmer in guter Lage (unbefristet)"
+},
+{
+"time": "2026-11-10 19:01",
+"id": "8536491",
+"verdict": "skip",
+"why": "temporary: befristet [flat 1.98 km, U Görlitzer Bahnhof 1.73 km, pin]",
+"title": "Gemütliches WG Zimmer im Herzen von Neukölln"
 }
 ]
