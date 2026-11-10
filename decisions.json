@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 14:01",
-"id": "12933616",
-"verdict": "skip",
-"why": "10.65 km from flat, 7.76 km from Möckernbrücke (pin)",
-"title": "Zimmer in charmanter Stadtvilla in Dahlem – lebendige Studenten-WG"
-},
-{
-"time": "2026-11-06 14:01",
 "id": "7648460",
 "verdict": "skip",
 "why": "8.61 km from flat, 8.05 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.62 km from flat, 1.60 km from Möckernbrücke (pin)",
 "title": "Bed in a shared room | temporary & furnished | bills incl."
+},
+{
+"time": "2026-11-10 23:50",
+"id": "11102273",
+"verdict": "skip",
+"why": "5.05 km from flat, 5.00 km from Schlesisches Tor (pin)",
+"title": "Cute Altbau Zimmer mit Balkon"
 }
 ]
