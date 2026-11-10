@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 09:20",
-"id": "14326675",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
-"time": "2026-11-06 09:20",
-"id": "14324184",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Damerowstraße"
-},
-{
 "time": "2026-11-06 09:40",
 "id": "10298336",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "7.01 km from flat, 5.24 km from Möckernbrücke (pin)",
 "title": "1 wg Zimmer"
+},
+{
+"time": "2026-11-10 18:30",
+"id": "9276559",
+"verdict": "skip",
+"why": "4.67 km from flat, 1.37 km from Möckernbrücke (pin)",
+"title": "Schönes WG-Zimmer Nähe Bülowstraße / Anmeldung + Vertrag"
+},
+{
+"time": "2026-11-10 18:30",
+"id": "14346511",
+"verdict": "skip",
+"why": "5.27 km from flat, 2.18 km from Möckernbrücke (pin)",
+"title": "Möbliertes Zimmer im Schönen Schöneberg"
 }
 ]
