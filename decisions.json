@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 12:01",
-"id": "13645201",
-"verdict": "skip",
-"why": "8.38 km from flat, 5.13 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer - Nähe S Ring Heidelberger Platz"
-},
-{
-"time": "2026-11-06 12:01",
-"id": "14327623",
-"verdict": "skip",
-"why": "6.76 km from flat, 3.78 km from Möckernbrücke (pin)",
-"title": "2er WG in Friedenau sucht nette Flinta*-Person"
-},
-{
 "time": "2026-11-06 12:20",
 "id": "14327739",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.42 km from flat, 6.71 km from Möckernbrücke (pin)",
 "title": "Helles 20 qm Zimmer in süßen 2er-WG in Berlin Wedding zur Zwischenmiete"
+},
+{
+"time": "2026-11-10 21:30",
+"id": "14346888",
+"verdict": "skip",
+"why": "11.44 km from flat, 8.15 km from Möckernbrücke (pin)",
+"title": "Möbliertes WG-Zimmer in Berlin zur Zwischenmiete"
+},
+{
+"time": "2026-11-10 21:30",
+"id": "12916263",
+"verdict": "skip",
+"why": "4.61 km from flat, 3.98 km from Schlesisches Tor (pin)",
+"title": "Small cozy room in our WG close to S+U Lichtenberg"
 }
 ]
