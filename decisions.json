@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 15:25",
-"id": "14319488",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sternstraße, Berlin"
-},
-{
-"time": "2026-11-05 15:25",
 "id": "14319795",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.62 km from flat, 10.69 km from Hallesches Tor (pin)",
 "title": "in 45 Minuten am Alex, helles großen Zimmer, in netter internationaler und ruhig"
+},
+{
+"time": "2026-11-10 05:50",
+"id": "13611873",
+"verdict": "skip",
+"why": "female only [flat 0.30 km, U Görlitzer Bahnhof 0.10 km, pin]",
+"title": "BEAUTIFUL ROOM IN KREUZBERG"
 }
 ]
