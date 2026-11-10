@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 16:35",
-"id": "14322861",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Heerstraße, Berlin"
-},
-{
 "time": "2026-11-05 16:40",
 "id": "14323453",
 "verdict": "skip",
@@ -3495,6 +3488,13 @@
 {
 "time": "2026-11-10 08:31",
 "id": "14343616",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hermannstraße, Berlin"
+},
+{
+"time": "2026-11-10 08:40",
+"id": "14343608",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hermannstraße, Berlin"
