@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 14:50",
-"id": "14322999",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Stromstraße, Berlin"
-},
-{
 "time": "2026-11-05 15:10",
 "id": "14323358",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.11 km from flat, 8.21 km from Möckernbrücke (street)",
 "title": "warmes Zimmer 20 Meter, Mindestmietdauer: 6 Monate."
+},
+{
+"time": "2026-11-10 01:50",
+"id": "14342339",
+"verdict": "skip",
+"why": "6.98 km from flat, 5.71 km from Möckernbrücke (pin)",
+"title": "Wg-Zimmer am Leo"
 }
 ]
