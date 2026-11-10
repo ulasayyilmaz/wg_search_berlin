@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 20:55",
-"id": "14323968",
-"verdict": "skip",
-"why": "9.41 km from flat, 6.50 km from Möckernbrücke (pin)",
-"title": "Möblierte Zimmer in einer internationalen WG | Anmeldung Verfügbar | 630 alle in"
-},
-{
-"time": "2026-11-05 20:55",
-"id": "14319508",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Buschkrugallee, Berlin"
-},
-{
 "time": "2026-11-05 21:05",
 "id": "14323943",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Greifswalder Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:55",
+"id": "12652857",
+"verdict": "skip",
+"why": "2.07 km from flat, 1.60 km from Schlesisches Tor (pin)",
+"title": "Community WG 😺😺30+ female / queer only"
+},
+{
+"time": "2026-11-10 11:55",
+"id": "13435166",
+"verdict": "skip",
+"why": "6.70 km from flat, 3.51 km from Möckernbrücke (pin)",
+"title": "Praktikum in Berlin? Ruhig arbeiten? - Zwischenmiete"
 }
 ]
