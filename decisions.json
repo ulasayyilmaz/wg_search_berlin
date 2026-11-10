@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 07:45",
-"id": "14325889",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Lauterberger Straße, Berlin"
-},
-{
 "time": "2026-11-06 07:50",
 "id": "14327332",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "temporary: sublet [flat 2.30 km, U Prinzenstraße 0.65 km, pin]",
 "title": "Sunny Room in Kreuzberg - Sublet / Untermiete Dec /Jan"
+},
+{
+"time": "2026-11-10 16:30",
+"id": "12018605",
+"verdict": "skip",
+"why": "4.88 km from flat, 5.02 km from Kottbusser Tor (pin)",
+"title": "Ruhiges, helles & möbliertes 22qm Zimmer (mitten im P ́ Berg) in netter 3er WG) "
 }
 ]
