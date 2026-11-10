@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 15:15",
-"id": "14320752",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Hackenbergstraße, Berlin"
-},
-{
 "time": "2026-11-05 15:25",
 "id": "14319488",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.43 km from flat, 7.35 km from Hallesches Tor (pin)",
 "title": "WG Zimmer 16,8 qm in berufstätigen und studierenden 2er WG ab sofort 2026"
+},
+{
+"time": "2026-11-10 05:40",
+"id": "9895167",
+"verdict": "skip",
+"why": "10.62 km from flat, 10.69 km from Hallesches Tor (pin)",
+"title": "in 45 Minuten am Alex, helles großen Zimmer, in netter internationaler und ruhig"
 }
 ]
