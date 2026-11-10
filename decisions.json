@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 11:55",
-"id": "14326615",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Dörpfeldstraße, Berlin"
-},
-{
-"time": "2026-11-06 12:01",
-"id": "14215545",
-"verdict": "skip",
-"why": "6.14 km from flat, 5.51 km from Schlesisches Tor (pin)",
-"title": "16m2 zimmer in einem 3-personen-flatshare (2 frauen)"
-},
-{
 "time": "2026-11-06 12:01",
 "id": "13645201",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "starts 09.12.2026 [flat 1.58 km, U Schlesisches Tor 1.63 km, pin]",
 "title": "1 private room available for rent"
+},
+{
+"time": "2026-11-10 21:20",
+"id": "14346893",
+"verdict": "skip",
+"why": "6.69 km from flat, 6.54 km from Hallesches Tor (pin)",
+"title": "Bright, quiet room in 3-person mixed WG in the Soldiner Kiez (Gesundbrunnen)"
+},
+{
+"time": "2026-11-10 21:20",
+"id": "14346876",
+"verdict": "skip",
+"why": "8.42 km from flat, 6.71 km from Möckernbrücke (pin)",
+"title": "Helles 20 qm Zimmer in süßen 2er-WG in Berlin Wedding zur Zwischenmiete"
 }
 ]
