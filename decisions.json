@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 21:15",
-"id": "14319623",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Eichbergstraße, Berlin"
-},
-{
-"time": "2026-11-05 21:15",
 "id": "14319822",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Holteistraße, Berlin"
+},
+{
+"time": "2026-11-10 12:31",
+"id": "14345906",
+"verdict": "skip",
+"why": "5.94 km from flat, 6.07 km from Schlesisches Tor (pin)",
+"title": "Möbliertes Zimmer mit privatem Balkon in einem Zwei-Personen-Flatshare"
 }
 ]
