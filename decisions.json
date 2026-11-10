@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 17:55",
-"id": "14321953",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Rainweg, Berlin"
-},
-{
-"time": "2026-11-05 18:00",
-"id": "14319581",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Amalienhofstraße, Berlin"
-},
-{
 "time": "2026-11-05 18:05",
 "id": "14320479",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:10",
+"id": "14343729",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:10",
+"id": "14343604",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hermannstraße, Berlin"
 }
 ]
