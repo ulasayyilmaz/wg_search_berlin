@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 07:25",
-"id": "14324195",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Tabbertstraße"
-},
-{
 "time": "2026-11-06 07:45",
 "id": "14325889",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Holländerstraße, Berlin"
+},
+{
+"time": "2026-11-10 16:20",
+"id": "14345854",
+"verdict": "skip",
+"why": "temporary: sublet [flat 2.30 km, U Prinzenstraße 0.65 km, pin]",
+"title": "Sunny Room in Kreuzberg - Sublet / Untermiete Dec /Jan"
 }
 ]
