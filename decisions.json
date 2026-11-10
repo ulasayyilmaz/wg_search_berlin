@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-05 17:55",
-"id": "14323668",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 0.74 km, U Kottbusser Tor 0.35 km, pin]",
-"title": "Neu gegründeter Student Flatshare - Renovierter Altbau bei Paul-Lincke-Ufer Kiez"
-},
-{
-"time": "2026-11-05 17:55",
-"id": "6478755",
-"verdict": "skip",
-"why": "14.73 km from flat, 11.81 km from Möckernbrücke (pin)",
-"title": "Quiet student room Berlin Spandau - Zimmermiete ab Januar/Februar 2027."
-},
-{
-"time": "2026-11-05 17:55",
 "id": "14319551",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wisbyer Straße, Berlin"
+},
+{
+"time": "2026-11-10 10:45",
+"id": "14345671",
+"verdict": "skip",
+"why": "4.52 km from flat, 4.23 km from Görlitzer Bahnhof (pin)",
+"title": "Schönes WG-Zimmer mit Balkon in 2er-WG in Neukölln | ab Januar 2027"
+},
+{
+"time": "2026-11-10 10:45",
+"id": "14343879",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kaiser-Friedrich-Straße, Berlin"
 }
 ]
