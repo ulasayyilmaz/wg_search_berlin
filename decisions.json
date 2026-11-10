@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 14:50",
-"id": "14322936",
-"verdict": "skip",
-"why": "3.12 km from flat, 2.93 km from Prinzenstraße (pin)",
-"title": "Möbliertes Zimmer zur Zwischenmiete in Berlin-Mitte (Frauen WG)"
-},
-{
-"time": "2026-11-05 14:50",
 "id": "14322999",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "13.97 km from flat, 11.17 km from Möckernbrücke (pin)",
 "title": "Zwischenmiete ! schönes möbliertes Zi. in Uni Nähe 1.1.27 - 30.4. 2027 470€ Nebe"
+},
+{
+"time": "2026-11-10 01:40",
+"id": "12614380",
+"verdict": "skip",
+"why": "9.11 km from flat, 8.21 km from Möckernbrücke (street)",
+"title": "warmes Zimmer 20 Meter, Mindestmietdauer: 6 Monate."
 }
 ]
