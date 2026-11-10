@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 16:40",
-"id": "14323453",
-"verdict": "skip",
-"why": "16.53 km from flat, 13.68 km from Möckernbrücke (pin)",
-"title": "Möbiliertes, großes Zimmer in schöner, ruhiger Gegend zu vermieten"
-},
-{
-"time": "2026-11-05 16:40",
 "id": "14323527",
 "verdict": "skip",
 "why": "7.77 km from flat, 6.94 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hermannstraße, Berlin"
+},
+{
+"time": "2026-11-10 08:50",
+"id": "14265459",
+"verdict": "skip",
+"why": "2.61 km from flat, 2.27 km from Görlitzer Bahnhof (pin)",
+"title": "Großes Zimmer bei Familie"
 }
 ]
