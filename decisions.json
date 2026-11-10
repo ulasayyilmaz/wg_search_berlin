@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-05 18:55",
-"id": "14323724",
-"verdict": "skip",
-"why": "5.93 km from flat, 4.93 km from Möckernbrücke (pin)",
-"title": "WG - Zimmer 20qm mit Balkon."
-},
-{
-"time": "2026-11-05 19:15",
-"id": "12047042",
-"verdict": "skip",
-"why": "5.08 km from flat, 4.72 km from Schlesisches Tor (street)",
-"title": "WG-Zimmer in Neukölln"
-},
-{
-"time": "2026-11-05 19:15",
-"id": "14322944",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Schwabstraße, Berlin"
-},
-{
-"time": "2026-11-05 19:55",
-"id": "14323830",
-"verdict": "skip",
-"why": "5.65 km from flat, 5.17 km from Schlesisches Tor (pin)",
-"title": "25-m2-Zimmer in 4er-WG in Baumschulenweg (möbliert)"
-},
-{
 "time": "2026-11-05 20:25",
 "id": "13727912",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Boxhagener Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:35",
+"id": "14345798",
+"verdict": "skip",
+"why": "not private (Unternehmen PRO)",
+"title": "Tolles Zimmer in GenerationenWG in Moabit"
+},
+{
+"time": "2026-11-10 11:35",
+"id": "14345793",
+"verdict": "skip",
+"why": "6.68 km from flat, 6.18 km from Schlesisches Tor (pin)",
+"title": "Möbliertes Zimmer in der Nähe von HTW Berlin | Nur für Frauen | Kurzzeit"
+},
+{
+"time": "2026-11-10 11:35",
+"id": "14343704",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Boxhagener Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:35",
+"id": "14343662",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Biebricher Straße, Berlin"
 }
 ]
