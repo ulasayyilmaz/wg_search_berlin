@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-06 00:05",
-"id": "14324150",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Wattstraße WG030.04"
-},
-{
-"time": "2026-11-06 00:10",
-"id": "11980752",
-"verdict": "skip",
-"why": "6.79 km from flat, 5.02 km from Möckernbrücke (pin)",
-"title": "Girls WG sucht neue Mitbewohnerin"
-},
-{
-"time": "2026-11-06 00:30",
-"id": "14324243",
-"verdict": "skip",
-"why": "7.47 km from flat, 5.98 km from Möckernbrücke (pin)",
-"title": "4 Personen Shared Apartment"
-},
-{
 "time": "2026-11-06 00:40",
 "id": "14324176",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "2.73 km from flat, 1.01 km from Hallesches Tor (pin)",
 "title": "1 furnished room in a shared flat (WG) in Kreuzberg – Bergmannkiez"
+},
+{
+"time": "2026-11-10 14:20",
+"id": "14346127",
+"verdict": "skip",
+"why": "6.46 km from flat, 3.17 km from Möckernbrücke (pin)",
+"title": "Sublet Room in Schoneberg"
+},
+{
+"time": "2026-11-10 14:20",
+"id": "14341036",
+"verdict": "skip",
+"why": "5.96 km from flat, 5.93 km from Hallesches Tor (pin)",
+"title": "Kurzzeit-Untervermietung in 2-Personen-Wohnung in Prenzlauer Berg"
+},
+{
+"time": "2026-11-10 14:20",
+"id": "14343595",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Boxhagener Straße, Berlin"
 }
 ]
