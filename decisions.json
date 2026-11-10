@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 18:05",
-"id": "14320479",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-05 18:10",
-"id": "14318716",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Kamminer Straße, Berlin"
-},
-{
-"time": "2026-11-05 18:20",
-"id": "14320480",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
 "time": "2026-11-05 18:35",
 "id": "8828914",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hermannstraße, Berlin"
+},
+{
+"time": "2026-11-10 11:15",
+"id": "14345729",
+"verdict": "skip",
+"why": "7.93 km from flat, 7.45 km from Schlesisches Tor (pin)",
+"title": "Schönes 20qm Zimmer in Shared Flat"
+},
+{
+"time": "2026-11-10 11:15",
+"id": "14291113",
+"verdict": "skip",
+"why": "2.53 km from flat, 2.16 km from Schlesisches Tor (pin)",
+"title": "Furnished WG Room in Berlin-Neukolln"
+},
+{
+"time": "2026-11-10 11:15",
+"id": "14343730",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
 }
 ]
