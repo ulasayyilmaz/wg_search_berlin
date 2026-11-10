@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-05 15:40",
-"id": "8296842",
-"verdict": "skip",
-"why": "10.19 km from flat, 7.05 km from Möckernbrücke (pin)",
-"title": "Studentenverbindung in Dahlem sucht einen neuen Bewohner"
-},
-{
-"time": "2026-11-05 15:40",
-"id": "7848180",
-"verdict": "skip",
-"why": "temporary: zwischenmiete [flat 3.27 km, U Möckernbrücke 0.95 km, pin]",
-"title": "SHORT time rent 5 WEEKS- Zwischenmiete -möbliert- Super Schöne Wohnung im Bergma"
-},
-{
 "time": "2026-11-05 15:50",
 "id": "8180083",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Boxhagener Straße, Berlin"
+},
+{
+"time": "2026-11-10 07:15",
+"id": "14343746",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wühlischstraße, Berlin"
+},
+{
+"time": "2026-11-10 07:15",
+"id": "14343671",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Nordkapstraße, Berlin"
 }
 ]
