@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 13:01",
-"id": "11513326",
-"verdict": "skip",
-"why": "6.71 km from flat, 6.40 km from Hallesches Tor (pin)",
-"title": "Großes Zimmer zur Zwischenmiete"
-},
-{
-"time": "2026-11-06 13:31",
-"id": "14139391",
-"verdict": "skip",
-"why": "8.55 km from flat, 5.54 km from Möckernbrücke (pin)",
-"title": "Möbliertes WG-Zimmer nähe U-Rüdesheimer Platz (U3) | Furnished room in shared fl"
-},
-{
 "time": "2026-11-06 13:31",
 "id": "14327846",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Kantstraße, Berlin"
+},
+{
+"time": "2026-11-10 22:50",
+"id": "14347105",
+"verdict": "skip",
+"why": "3.62 km from flat, 1.60 km from Möckernbrücke (pin)",
+"title": "Bed in a shared room | temporary & furnished | bills incl."
+},
+{
+"time": "2026-11-10 22:50",
+"id": "14347038",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Boxhagener Straße - Private Room"
 }
 ]
