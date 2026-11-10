@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 21:15",
-"id": "14201016",
-"verdict": "SENT",
-"why": " [flat 1.65 km, U Görlitzer Bahnhof 1.47 km, pin]",
-"title": "WG-Zimmer (+ großes gemeins. Wohnzimmer) in 2er-WG in Neukölln/ Landwehrkanal ab"
-},
-{
-"time": "2026-11-05 21:15",
 "id": "14319623",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.47 km from flat, 3.19 km from Görlitzer Bahnhof (pin)",
 "title": "25 m2 Zimmer, Neukölln, möbliert (Nov.–Feb.)"
+},
+{
+"time": "2026-11-10 12:10",
+"id": "14343856",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Holteistraße, Berlin"
 }
 ]
