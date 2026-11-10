@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-05 21:45",
-"id": "14324014",
-"verdict": "skip",
-"why": "5.66 km from flat, 5.02 km from Schlesisches Tor (pin)",
-"title": "stw dormitory room in Lichtenberg"
-},
-{
 "time": "2026-11-05 22:10",
 "id": "14319811",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Boxhagener Straße, Berlin"
+},
+{
+"time": "2026-11-10 13:01",
+"id": "8378899",
+"verdict": "skip",
+"why": "9.65 km from flat, 7.02 km from Möckernbrücke (pin)",
+"title": "Cooles Zimmer in super angenehmer Lage"
 }
 ]
