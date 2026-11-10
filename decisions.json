@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 12:20",
-"id": "14327739",
-"verdict": "skip",
-"why": "temporary: zwischenmiete [flat 2.42 km, U Prinzenstraße 0.97 km, pin]",
-"title": "1 Zi. 23qm Kreuzberg Übernachtung 27€ per Nacht"
-},
-{
-"time": "2026-11-06 12:20",
 "id": "14327737",
 "verdict": "skip",
 "why": "10.48 km from flat, 10.05 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.61 km from flat, 3.98 km from Schlesisches Tor (pin)",
 "title": "Small cozy room in our WG close to S+U Lichtenberg"
+},
+{
+"time": "2026-11-10 21:50",
+"id": "14346933",
+"verdict": "skip",
+"why": "2.87 km from flat, 2.63 km from Görlitzer Bahnhof (pin)",
+"title": "Room in WG with balcony and shared living room"
 }
 ]
