@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 17:55",
-"id": "14319551",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "An der Wuhlheide, Berlin"
-},
-{
-"time": "2026-11-05 17:55",
 "id": "14321953",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Kaiser-Friedrich-Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:01",
+"id": "14343731",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
 }
 ]
