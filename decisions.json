@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 03:50",
-"id": "14321061",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Braunlager Straße, Berlin"
-},
-{
-"time": "2026-11-06 04:30",
-"id": "14324190",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Wilhelmstraße"
-},
-{
 "time": "2026-11-06 05:01",
 "id": "14240901",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wühlischstraße, Berlin"
+},
+{
+"time": "2026-11-10 16:01",
+"id": "14346262",
+"verdict": "skip",
+"why": "5.54 km from flat, 5.61 km from Prinzenstraße (pin)",
+"title": "Untervermietung Dezember"
+},
+{
+"time": "2026-11-10 16:01",
+"id": "14343612",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wisbyer Straße, Berlin"
 }
 ]
