@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-06 11:42",
-"id": "9212287",
-"verdict": "skip",
-"why": "starts 13.12.2026 [flat 1.29 km, U Kottbusser Tor 0.41 km, street]",
-"title": "Altbau Zwischenmiete Mitte Dez-Jan.in Kreuzberg"
-},
-{
-"time": "2026-11-06 11:42",
-"id": "6796322",
-"verdict": "skip",
-"why": "11.34 km from flat, 8.15 km from Möckernbrücke (pin)",
-"title": "Stilvoll studieren und wohnen in bester Lage"
-},
-{
-"time": "2026-11-06 11:55",
-"id": "14319831",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
 "time": "2026-11-06 11:55",
 "id": "14326615",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "4.06 km from flat, 3.81 km from Görlitzer Bahnhof (pin)",
 "title": "Zwischenmiete (3 Wochen) 20qm in Berlin Neukölln"
+},
+{
+"time": "2026-11-10 21:10",
+"id": "5202973",
+"verdict": "skip",
+"why": "2.38 km from flat, 1.07 km from Prinzenstraße (pin)",
+"title": "Room at Südstern"
+},
+{
+"time": "2026-11-10 21:10",
+"id": "14346897",
+"verdict": "skip",
+"why": "5.24 km from flat, 4.40 km from Möckernbrücke (pin)",
+"title": "Room Available for a Female Flatmate in Central Berlin! 🏡"
+},
+{
+"time": "2026-11-10 21:10",
+"id": "14346899",
+"verdict": "skip",
+"why": "starts 09.12.2026 [flat 1.58 km, U Schlesisches Tor 1.63 km, pin]",
+"title": "1 private room available for rent"
 }
 ]
