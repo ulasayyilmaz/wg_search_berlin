@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-05 16:40",
-"id": "14323527",
-"verdict": "skip",
-"why": "7.77 km from flat, 6.94 km from Möckernbrücke (pin)",
-"title": "3-zimmer wohnung looking for one roommate Dec1 start"
-},
-{
-"time": "2026-11-05 16:40",
-"id": "14323482",
-"verdict": "skip",
-"why": "7.55 km from flat, 6.57 km from Möckernbrücke (pin)",
-"title": "ruhiges Zimmer zur Zwischenmiete im Wedding (nur FLINTA*)"
-},
-{
-"time": "2026-11-05 16:40",
-"id": "14322091",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Brückenstraße, Berlin"
-},
-{
-"time": "2026-11-05 16:50",
-"id": "10667350",
-"verdict": "skip",
-"why": "6.53 km from flat, 6.72 km from Kottbusser Tor (pin)",
-"title": "Pendlerzimmer / Teilzeitzimmer/ Nur Pendler/Frauen!"
-},
-{
 "time": "2026-11-05 16:50",
 "id": "10683323",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "2.61 km from flat, 2.27 km from Görlitzer Bahnhof (pin)",
 "title": "Großes Zimmer bei Familie"
+},
+{
+"time": "2026-11-10 09:01",
+"id": "14311926",
+"verdict": "skip",
+"why": "starts 20.12.2026 [flat 2.22 km, U Prinzenstraße 1.00 km, pin]",
+"title": "Zimmer in Kreuzberg vom 20.12.26 bis 14.03.27 befristet, möbliert. Nur Nichtrauc"
+},
+{
+"time": "2026-11-10 09:01",
+"id": "14343716",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Wühlischstraße, Berlin"
+},
+{
+"time": "2026-11-10 09:01",
+"id": "14343828",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Kantstraße, Berlin"
+},
+{
+"time": "2026-11-10 09:01",
+"id": "14343698",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
 }
 ]
