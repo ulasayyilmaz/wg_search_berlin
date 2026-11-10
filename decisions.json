@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-06 12:20",
-"id": "14327737",
-"verdict": "skip",
-"why": "10.48 km from flat, 10.05 km from Möckernbrücke (pin)",
-"title": "Schönes Zimmer in gemischter WG"
-},
-{
-"time": "2026-11-06 12:25",
-"id": "13859754",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Kaiser-Friedrich-Straße, Berlin"
-},
-{
-"time": "2026-11-06 12:25",
-"id": "14319829",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
 "time": "2026-11-06 12:30",
 "id": "13235689",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "2.87 km from flat, 2.63 km from Görlitzer Bahnhof (pin)",
 "title": "Room in WG with balcony and shared living room"
+},
+{
+"time": "2026-11-10 22:01",
+"id": "14346931",
+"verdict": "skip",
+"why": "4.43 km from flat, 4.05 km from Schlesisches Tor (pin)",
+"title": "Zweck-WG in Neukölln ab 1.12."
+},
+{
+"time": "2026-11-10 22:01",
+"id": "14346943",
+"verdict": "skip",
+"why": "7.87 km from flat, 4.64 km from Möckernbrücke (pin)",
+"title": "WG Zimmer *Wilmersdorf*"
+},
+{
+"time": "2026-11-10 22:01",
+"id": "14347044",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bornholmer Straße - Room 2"
 }
 ]
