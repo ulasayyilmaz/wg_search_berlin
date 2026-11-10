@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 20:25",
-"id": "13727912",
-"verdict": "skip",
-"why": "4.12 km from flat, 3.32 km from Hallesches Tor (pin)",
-"title": "Bright room in a shared Apartment for rent (short term) - Berlin Mitte"
-},
-{
-"time": "2026-11-05 20:30",
-"id": "14319627",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Antonienstraße, Berlin"
-},
-{
-"time": "2026-11-05 20:35",
-"id": "13461543",
-"verdict": "skip",
-"why": "14.01 km from flat, 12.45 km from Möckernbrücke (pin)",
-"title": "Zimmer in 3er WG in kleinem Haus mit großem Garten"
-},
-{
 "time": "2026-11-05 20:35",
 "id": "14322964",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Biebricher Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:45",
+"id": "14345763",
+"verdict": "skip",
+"why": "anmeldung: 'no registration' [flat 1.95 km, U Görlitzer Bahnhof 1.70 km, pin]",
+"title": "Geräumiges Zimmer in ruhiger WG (Sonnenallee/Fuldastr.)"
+},
+{
+"time": "2026-11-10 11:45",
+"id": "13941498",
+"verdict": "skip",
+"why": "8.96 km from flat, 5.83 km from Möckernbrücke (pin)",
+"title": "WG Zimmer zu vermieten"
+},
+{
+"time": "2026-11-10 11:45",
+"id": "14345802",
+"verdict": "skip",
+"why": "2.37 km from flat, 1.88 km from Schlesisches Tor (pin)",
+"title": "12sqm, sublet süd Zimmer 300€, Nov till end January"
 }
 ]
