@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 14:01",
-"id": "14327903",
-"verdict": "skip",
-"why": "6.89 km from flat, 4.04 km from Möckernbrücke (pin)",
-"title": "Cozy room in Schönberg"
-},
-{
-"time": "2026-11-06 14:01",
 "id": "12933616",
 "verdict": "skip",
 "why": "10.65 km from flat, 7.76 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-10 23:40",
+"id": "14347126",
+"verdict": "skip",
+"why": "3.62 km from flat, 1.60 km from Möckernbrücke (pin)",
+"title": "Bed in a shared room | temporary & furnished | bills incl."
 }
 ]
