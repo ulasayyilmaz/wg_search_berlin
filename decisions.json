@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 10:10",
-"id": "11975612",
-"verdict": "skip",
-"why": "4.82 km from flat, 1.81 km from Möckernbrücke (pin)",
-"title": "Zimmer für eine Studentin"
-},
-{
-"time": "2026-11-06 10:10",
 "id": "14326618",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.94 km from flat, 4.05 km from Schlesisches Tor (pin)",
 "title": "Room in flatshare - Prenzlauer Berg (8.2.- 28.2.2027)"
+},
+{
+"time": "2026-11-10 19:41",
+"id": "14346703",
+"verdict": "skip",
+"why": "4.87 km from flat, 4.85 km from Schlesisches Tor (pin)",
+"title": "Cozy Room in Prenzlauer Berg"
 }
 ]
