@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 08:30",
-"id": "14327388",
-"verdict": "skip",
-"why": "6.56 km from flat, 5.01 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer im Sprengelkiez"
-},
-{
-"time": "2026-11-06 08:30",
 "id": "10208111",
 "verdict": "skip",
 "why": "5.01 km from flat, 5.06 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.12 km from flat, 3.32 km from Hallesches Tor (pin)",
 "title": "Student only WG room in Mitte, short-term sublet (19.12 - 05.03)"
+},
+{
+"time": "2026-11-10 17:05",
+"id": "14343676",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Boxhagener Straße, Berlin"
 }
 ]
