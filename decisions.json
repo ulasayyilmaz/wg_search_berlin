@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 22:19",
-"id": "14324143",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Weimarische Straße WG096.05"
-},
-{
-"time": "2026-11-05 22:50",
-"id": "14322971",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wadzeckstraße, Berlin"
-},
-{
-"time": "2026-11-05 22:55",
-"id": "14319786",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wilhelmstraße, Berlin"
-},
-{
 "time": "2026-11-05 23:05",
 "id": "14323802",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.77 km from flat, 3.19 km from Möckernbrücke (pin)",
 "title": "Ruhiges, helles Zimmer in gepflegter Wohnung – zentrale Lage an Spree & Tiergart"
+},
+{
+"time": "2026-11-10 13:40",
+"id": "14345979",
+"verdict": "skip",
+"why": "3.53 km from flat, 3.30 km from Schlesisches Tor (pin)",
+"title": "Zimmer in 3er WG"
+},
+{
+"time": "2026-11-10 13:40",
+"id": "14343899",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Nordkapstraße, Berlin"
+},
+{
+"time": "2026-11-10 13:40",
+"id": "14343708",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Hermannstraße, Berlin"
 }
 ]
