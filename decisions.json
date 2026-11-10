@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-05 18:35",
-"id": "8828914",
-"verdict": "skip",
-"why": "3.48 km from flat, 3.22 km from Görlitzer Bahnhof (street)",
-"title": "🍓 FLINTA WG- Grosses helles Zimmer mit eigenem Balkon und Sonne ☀️OHNE Hund"
-},
-{
-"time": "2026-11-05 18:45",
-"id": "12385166",
-"verdict": "skip",
-"why": "3.78 km from flat, 3.46 km from Görlitzer Bahnhof (pin)",
-"title": "Big sunny room in Neukölln"
-},
-{
-"time": "2026-11-05 18:45",
-"id": "14319616",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Tabbertstraße, Berlin"
-},
-{
 "time": "2026-11-05 18:55",
 "id": "14323724",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-10 11:25",
+"id": "14345689",
+"verdict": "skip",
+"why": "5.79 km from flat, 4.96 km from Hallesches Tor (pin)",
+"title": "Möbliertes Zimmer vom 01.12.2026 - 28.02.2027 zu vermieten – 550 € warm"
+},
+{
+"time": "2026-11-10 11:25",
+"id": "14345771",
+"verdict": "skip",
+"why": "5.64 km from flat, 5.59 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer 500€"
+},
+{
+"time": "2026-11-10 11:25",
+"id": "14343589",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Boxhagener Straße, Berlin"
 }
 ]
