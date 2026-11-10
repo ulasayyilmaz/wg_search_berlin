@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-05 16:50",
-"id": "10683323",
-"verdict": "skip",
-"why": "3.21 km from flat, 3.14 km from Schlesisches Tor (pin)",
-"title": "Nette Flatshare in einer großartigen Lage (FLINTA, nur LGBTQ)"
-},
-{
-"time": "2026-11-05 16:50",
 "id": "14128149",
 "verdict": "skip",
 "why": "6.28 km from flat, 4.45 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Bornholmer Straße, Berlin"
+},
+{
+"time": "2026-11-10 09:31",
+"id": "14345538",
+"verdict": "skip",
+"why": "6.68 km from flat, 6.03 km from Möckernbrücke (pin)",
+"title": "Mitbewohnerin dringend gesucht"
 }
 ]
