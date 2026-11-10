@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 05:01",
-"id": "14240901",
-"verdict": "skip",
-"why": "3.67 km from flat, 1.42 km from Möckernbrücke (pin)",
-"title": "Large Triple Rooms for just €450!"
-},
-{
 "time": "2026-11-06 05:30",
 "id": "14324192",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Wisbyer Straße, Berlin"
+},
+{
+"time": "2026-11-10 16:05",
+"id": "14343839",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
 }
 ]
