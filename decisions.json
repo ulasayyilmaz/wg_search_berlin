@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-07 15:20",
-"id": "10170281",
-"verdict": "skip",
-"why": "15.89 km from flat, 15.77 km from Schlesisches Tor (pin)",
-"title": "WG Zimmer in kunterbunter Wohnung mit Garten in Berlin Buch"
-},
-{
-"time": "2026-11-07 15:30",
-"id": "14332315",
-"verdict": "skip",
-"why": "5.51 km from flat, 5.11 km from Schlesisches Tor (pin)",
-"title": "WG-Zimmer 15.11.2026-20.12.2026"
-},
-{
-"time": "2026-11-07 16:01",
-"id": "14332352",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 0.74 km, U Kottbusser Tor 0.35 km, pin]",
-"title": "Neu gegründeter Student Flatshare - Renovierter Altbau bei Paul-Lincke-Ufer Kiez"
-},
-{
 "time": "2026-11-07 16:01",
 "id": "14059050",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "7.60 km from flat, 6.42 km from Möckernbrücke (pin)",
 "title": "Unmöbliertes 18,5m2-Zimmer in 2er-WG im Wedding zu vergeben"
+},
+{
+"time": "2026-11-11 21:25",
+"id": "14341440",
+"verdict": "skip",
+"why": "2.07 km from flat, 1.60 km from Schlesisches Tor (pin)",
+"title": "Cozy room in a shared flat in Alt-Treptow available for sublet (15.12.- 15.04.)"
+},
+{
+"time": "2026-11-11 21:25",
+"id": "4070003",
+"verdict": "skip",
+"why": "temporary: zwischenmiete [flat 1.53 km, U Kottbusser Tor 0.70 km, pin]",
+"title": "Zimmer für 1 Person Kreuzberg"
+},
+{
+"time": "2026-11-11 21:25",
+"id": "14351552",
+"verdict": "skip",
+"why": "7.39 km from flat, 6.24 km from Möckernbrücke (pin)",
+"title": "☀️ Bright & Cozy Room in Wedding with reen Surroundings and great Connections"
 }
 ]
