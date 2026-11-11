@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 20:01",
-"id": "13066698",
-"verdict": "skip",
-"why": "10.67 km from flat, 8.11 km from Möckernbrücke (pin)",
-"title": "Ruhige, freundliche, bunte Wohnung/Quiet friendly colourful appartment"
-},
-{
 "time": "2026-11-06 20:25",
 "id": "14319828",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "8.43 km from flat, 6.68 km from Möckernbrücke (pin)",
 "title": "Möbliertes WG-Zimmer in Berlin-Wedding nahe U6, ruhig und freundlich"
+},
+{
+"time": "2026-11-11 10:20",
+"id": "13815113",
+"verdict": "skip",
+"why": "2.51 km from flat, 2.20 km from Schlesisches Tor (pin)",
+"title": "01.02 - 01.03.2027 Möbliertes Schlafzimmer + Balkon + Wohngemeinschaft / Friedri"
 }
 ]
