@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 15:20",
-"id": "11160826",
-"verdict": "skip",
-"why": "7.45 km from flat, 4.16 km from Möckernbrücke (pin)",
-"title": "Zimmer in Charlottenburg"
-},
-{
 "time": "2026-11-06 15:30",
 "id": "13182189",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.34 km from flat, 5.10 km from Görlitzer Bahnhof (street)",
 "title": "3 Zimmer wg"
+},
+{
+"time": "2026-11-11 05:30",
+"id": "14347050",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bornholmer Straße - Room 5"
 }
 ]
