@@ -1,20 +1,6 @@
 [
 {
 "time": "2026-11-07 11:45",
-"id": "14331965",
-"verdict": "skip",
-"why": "5.03 km from flat, 5.05 km from Schlesisches Tor (pin)",
-"title": "20.12.-31.03. WG-Zimmer Untermiete Prenzlauer Berg"
-},
-{
-"time": "2026-11-07 11:45",
-"id": "14331973",
-"verdict": "skip",
-"why": "3.28 km from flat, 3.06 km from Görlitzer Bahnhof (pin)",
-"title": "Short Stay in Neukölln"
-},
-{
-"time": "2026-11-07 11:45",
 "id": "14283924",
 "verdict": "skip",
 "why": "3.32 km from flat, 3.12 km from Schlesisches Tor (pin)",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "11.42 km from flat, 8.13 km from Möckernbrücke (pin)",
 "title": "Maisonette im Studentenwohnheim Eichkamp"
+},
+{
+"time": "2026-11-11 17:50",
+"id": "14232852",
+"verdict": "skip",
+"why": "7.55 km from flat, 6.03 km from Möckernbrücke (pin)",
+"title": "20 m2 Berlin Wedding nahe U-Seestr"
+},
+{
+"time": "2026-11-11 17:50",
+"id": "14351164",
+"verdict": "skip",
+"why": "2.11 km from flat, 1.64 km from Prinzenstraße (pin)",
+"title": "Schönes Zimmer in Mitte"
 }
 ]
