@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-07 18:55",
-"id": "2184752",
-"verdict": "skip",
-"why": "6.64 km from flat, 6.76 km from Prinzenstraße (pin)",
-"title": "Schönes Zimmer in netter Umgebung - Süd-Pankow, nähe z.B. Prenzlauer Berg, 3er-W"
-},
-{
-"time": "2026-11-07 18:55",
-"id": "14332600",
-"verdict": "skip",
-"why": "5.21 km from flat, 4.76 km from Schlesisches Tor (pin)",
-"title": "gemütliches zimmer für november / dezember in ruhiger gegend, aber zentral :"
-},
-{
-"time": "2026-11-07 19:05",
-"id": "14133851",
-"verdict": "skip",
-"why": "15.51 km from flat, 15.42 km from Schlesisches Tor (pin)",
-"title": "Zimmer zur Untermiete am Waldrand"
-},
-{
 "time": "2026-11-07 19:05",
 "id": "14332575",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "13.01 km from flat, 9.93 km from Möckernbrücke (pin)",
 "title": "Zimmer in familiärer Haus-WG"
+},
+{
+"time": "2026-11-11 23:01",
+"id": "14351716",
+"verdict": "skip",
+"why": "no location (Schönhauserallee 141 1407 Berlin Pankow)",
+"title": "1 Monat Untermiete in zentraler Lage"
+},
+{
+"time": "2026-11-11 23:01",
+"id": "14351694",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wühlischstraße - Room 5"
+},
+{
+"time": "2026-11-11 23:01",
+"id": "14351691",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wühlischstraße - Room 1"
 }
 ]
