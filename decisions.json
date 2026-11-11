@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-07 12:35",
-"id": "14331030",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Greifswalder Straße, Berlin"
-},
-{
-"time": "2026-11-07 12:45",
-"id": "9960503",
-"verdict": "skip",
-"why": "7.39 km from flat, 6.83 km from Möckernbrücke (pin)",
-"title": "Zimmer in kreativer Musiker WG inklusive Hochbett und schöner Lage"
-},
-{
 "time": "2026-11-07 12:45",
 "id": "14331249",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "SENT",
 "why": " [flat 0.99 km, U Schlesisches Tor 1.09 km, pin]",
 "title": "What Zimmer in Kreuzberg"
+},
+{
+"time": "2026-11-11 18:40",
+"id": "14351224",
+"verdict": "skip",
+"why": "5.67 km from flat, 5.53 km from Schlesisches Tor (pin)",
+"title": "Dein Zimmer zwischen See und Kiez – 17 m2 in einer gemütlichen WG in Berlin-Weiß"
+},
+{
+"time": "2026-11-11 18:40",
+"id": "8497979",
+"verdict": "skip",
+"why": "6.59 km from flat, 6.72 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer in Berlin-Pankow ab 15.12.2026 / 01.01.2027"
 }
 ]
