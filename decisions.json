@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 09:55",
-"id": "14331834",
-"verdict": "skip",
-"why": "3.63 km from flat, 3.33 km from Görlitzer Bahnhof (pin)",
-"title": "3-4 monatige Untermiete in Neukölln"
-},
-{
-"time": "2026-11-07 09:55",
 "id": "14328194",
 "verdict": "skip",
 "why": "4.01 km from flat, 3.99 km from Prinzenstraße (street)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Stromstraße, Berlin"
+},
+{
+"time": "2026-11-11 15:30",
+"id": "14350895",
+"verdict": "skip",
+"why": "5.36 km from flat, 5.39 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer Frei ab 1.12.26"
 }
 ]
