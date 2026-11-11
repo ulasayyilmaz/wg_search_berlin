@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 07:55",
-"id": "14331248",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
 "time": "2026-11-07 08:15",
 "id": "14331738",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Treskowallee, Berlin"
+},
+{
+"time": "2026-11-11 13:50",
+"id": "14222884",
+"verdict": "skip",
+"why": "4.19 km from flat, 1.77 km from Möckernbrücke (pin)",
+"title": "Untervermietung 1 Zimmer in Gemeinschaftswohnung 01.13.-31.12.26"
 }
 ]
