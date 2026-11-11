@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-07 10:05",
-"id": "14330042",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Bornholmer Straße, Berlin"
-},
-{
-"time": "2026-11-07 10:15",
-"id": "13488200",
-"verdict": "skip",
-"why": "5.87 km from flat, 5.23 km from Schlesisches Tor (pin)",
-"title": "Gemütliches Zimmer in geteilter Wohnung in Berlin verfügbar"
-},
-{
-"time": "2026-11-07 10:25",
-"id": "8286654",
-"verdict": "skip",
-"why": "15.31 km from flat, 14.04 km from Möckernbrücke (pin)",
-"title": "Wohnen im Grünen"
-},
-{
-"time": "2026-11-07 10:35",
-"id": "14277077",
-"verdict": "skip",
-"why": "2.85 km from flat, 2.53 km from Görlitzer Bahnhof (pin)",
-"title": "WG-Zimmer 20qm Ofenwohnung unrenovierter Altbau"
-},
-{
 "time": "2026-11-07 10:35",
 "id": "14331862",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bornholmer Straße - Room 3"
+},
+{
+"time": "2026-11-11 16:10",
+"id": "14351032",
+"verdict": "skip",
+"why": "5.18 km from flat, 5.02 km from Hallesches Tor (pin)",
+"title": "Berlin WG fully furnished rooms for rent"
+},
+{
+"time": "2026-11-11 16:10",
+"id": "14351000",
+"verdict": "skip",
+"why": "3.08 km from flat, 1.18 km from Hallesches Tor (pin)",
+"title": "25m2 Room in one of the most beautiful kiez of Kreuzberg"
+},
+{
+"time": "2026-11-11 16:10",
+"id": "7502499",
+"verdict": "skip",
+"why": "8.90 km from flat, 7.65 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer frei in 2er WG"
+},
+{
+"time": "2026-11-11 16:10",
+"id": "14336006",
+"verdict": "skip",
+"why": "5.76 km from flat, 5.94 km from Schlesisches Tor (pin)",
+"title": "20 Qm WG-Zimmer, unmöbliert (ca. 1 Jahr) Prenzlauer Berg"
 }
 ]
