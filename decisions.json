@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-07 12:05",
-"id": "4671590",
-"verdict": "skip",
-"why": "5.86 km from flat, 6.05 km from Kottbusser Tor (pin)",
-"title": "Beautiful funrished room in a 3-room Apartment in Prenzlauer Berg available by T"
-},
-{
-"time": "2026-11-07 12:35",
-"id": "14331866",
-"verdict": "skip",
-"why": "temporary: zwischenmiete [flat 1.75 km, U Schlesisches Tor 1.49 km, pin]",
-"title": "Sonnige 22qm mit Balkon zur Zwischenmiete"
-},
-{
 "time": "2026-11-07 12:35",
 "id": "14331030",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.59 km from flat, 4.29 km from Görlitzer Bahnhof (pin)",
 "title": "20 Meter Gemütliche Zimmer"
+},
+{
+"time": "2026-11-11 18:30",
+"id": "4086177",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 1.53 km, U Kottbusser Tor 0.70 km, pin]",
+"title": "25qm - großes Zimmer in Kreuzberg für 1 Person"
+},
+{
+"time": "2026-11-11 18:31",
+"id": "14351140",
+"verdict": "SENT",
+"why": " [flat 0.99 km, U Schlesisches Tor 1.09 km, pin]",
+"title": "What Zimmer in Kreuzberg"
 }
 ]
