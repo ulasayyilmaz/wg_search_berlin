@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-07 08:55",
-"id": "14324179",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Lutherstraße"
-},
-{
-"time": "2026-11-07 09:15",
-"id": "14331085",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
-"time": "2026-11-07 09:15",
-"id": "14237728",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Audre-Lorde-Straße"
-},
-{
-"time": "2026-11-07 09:25",
-"id": "14331795",
-"verdict": "skip",
-"why": "11.33 km from flat, 9.60 km from Möckernbrücke (pin)",
-"title": "🏡 Ganze Wohnung - Private 1,5 -Zimmer-Wohnung ab 650 € | Möbliert | Flexibel ab "
-},
-{
 "time": "2026-11-07 09:35",
 "id": "14327822",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "2.28 km from flat, 2.05 km from Schlesisches Tor (pin)",
 "title": "Room near Sonnenallee"
+},
+{
+"time": "2026-11-11 14:40",
+"id": "11889749",
+"verdict": "skip",
+"why": "temporary: befristet [flat 1.81 km, U Görlitzer Bahnhof 1.45 km, pin]",
+"title": "Zimmer in einer 2er WG"
+},
+{
+"time": "2026-11-11 14:40",
+"id": "9883205",
+"verdict": "skip",
+"why": "7.82 km from flat, 5.80 km from Möckernbrücke (pin)",
+"title": "Ein günstiges Zimmer mit Balkon zu mieten"
+},
+{
+"time": "2026-11-11 14:40",
+"id": "14170480",
+"verdict": "skip",
+"why": "5.71 km from flat, 5.55 km from Schlesisches Tor (pin)",
+"title": "Zimmer frei für Zwischenmiete in Wg"
+},
+{
+"time": "2026-11-11 14:40",
+"id": "14216305",
+"verdict": "skip",
+"why": "5.75 km from flat, 2.71 km from Möckernbrücke (pin)",
+"title": "3-Month Sublet in Berlin-Schöneberg | €650 All-Inclusive"
 }
 ]
