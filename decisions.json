@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-07 05:20",
-"id": "14328631",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Münchener Straße"
-},
-{
-"time": "2026-11-07 05:45",
-"id": "7862616",
-"verdict": "skip",
-"why": "8.22 km from flat, 6.20 km from Möckernbrücke (pin)",
-"title": "Ruhige möblierte Zimmern in Berlin Steglitz"
-},
-{
 "time": "2026-11-07 05:50",
 "id": "12278867",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Hainstraße, Berlin"
+},
+{
+"time": "2026-11-11 12:30",
+"id": "14350620",
+"verdict": "skip",
+"why": "4.86 km from flat, 4.24 km from Hallesches Tor (pin)",
+"title": "Private WG Zimmer 1 - 25 Dec"
+},
+{
+"time": "2026-11-11 12:30",
+"id": "14350606",
+"verdict": "skip",
+"why": "7.46 km from flat, 4.93 km from Möckernbrücke (pin)",
+"title": "Helles und großes Altabau-Zimmer"
 }
 ]
