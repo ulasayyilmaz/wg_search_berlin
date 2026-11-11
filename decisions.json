@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 21:10",
-"id": "5001201",
-"verdict": "skip",
-"why": "9.47 km from flat, 6.26 km from Möckernbrücke (pin)",
-"title": "Room in 5 people flatshare available"
-},
-{
 "time": "2026-11-06 21:30",
 "id": "14328489",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.23 km from flat, 2.68 km from Schlesisches Tor (pin)",
 "title": "Großes Wg-Zimmer Frankfurter Allee"
+},
+{
+"time": "2026-11-11 11:01",
+"id": "3323817",
+"verdict": "skip",
+"why": "6.01 km from flat, 6.18 km from Schlesisches Tor (pin)",
+"title": "möbliertes, schönes und großes Zimmer im Szenebezirk Prenzlauer Berg zu vermiete"
 }
 ]
