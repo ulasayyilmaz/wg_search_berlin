@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 17:05",
-"id": "14319832",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Köpenicker Straße, Berlin"
-},
-{
 "time": "2026-11-06 17:10",
 "id": "14328198",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Lienemannstraße, Berlin"
+},
+{
+"time": "2026-11-11 09:01",
+"id": "14350246",
+"verdict": "skip",
+"why": "8.75 km from flat, 5.49 km from Möckernbrücke (pin)",
+"title": "FLINTA only! 14m2 in WG mit Kindern"
 }
 ]
