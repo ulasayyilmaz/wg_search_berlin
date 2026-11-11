@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 17:40",
-"id": "11348459",
-"verdict": "skip",
-"why": "10.96 km from flat, 9.43 km from Möckernbrücke (pin)",
-"title": "Helles Zimmer nahe dem S + U Bhf. Karl-Bonhoeffer-Nervenklinik in 3er WG - mit A"
-},
-{
 "time": "2026-11-07 17:50",
 "id": "14332529",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.61 km from flat, 3.64 km from Schlesisches Tor (pin)",
 "title": "Big Zimmer at Prenzlauer Berg"
+},
+{
+"time": "2026-11-11 21:55",
+"id": "14351589",
+"verdict": "skip",
+"why": "4.94 km from flat, 4.95 km from Schlesisches Tor (pin)",
+"title": "Cozy Room in Prenzlauer Berg"
 }
 ]
