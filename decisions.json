@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-07 18:10",
-"id": "14332462",
-"verdict": "skip",
-"why": "5.09 km from flat, 4.59 km from Hallesches Tor (pin)",
-"title": "Helles, gemütliches Zimmer im Zentrum Berlins – €500 All Inclusive"
-},
-{
-"time": "2026-11-07 18:36",
-"id": "10810649",
-"verdict": "skip",
-"why": "female only [flat 1.59 km, U Görlitzer Bahnhof 1.23 km, pin]",
-"title": "Introverts welcome"
-},
-{
 "time": "2026-11-07 18:55",
 "id": "2184752",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "4.74 km from flat, 1.44 km from Möckernbrücke (pin)",
 "title": "6 monatige Zwischenmiete in 4er WG neben Gleisdreieckspark"
+},
+{
+"time": "2026-11-11 22:25",
+"id": "14351700",
+"verdict": "skip",
+"why": "3.53 km from flat, 3.30 km from Schlesisches Tor (pin)",
+"title": "Zimmer in den Wolken"
+},
+{
+"time": "2026-11-11 22:25",
+"id": "13575021",
+"verdict": "skip",
+"why": "13.01 km from flat, 9.93 km from Möckernbrücke (pin)",
+"title": "Zimmer in familiärer Haus-WG"
 }
 ]
