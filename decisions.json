@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 16:30",
-"id": "14143503",
-"verdict": "SENT",
-"why": " [flat 3.21 km, U Möckernbrücke 0.27 km, pin]",
-"title": "Helles Zimmer in Kreuzberger Dreier-WG 🌞"
-},
-{
-"time": "2026-11-06 16:30",
 "id": "14328140",
 "verdict": "skip",
 "why": "3.03 km from flat, 2.56 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.97 km from flat, 5.63 km from Hallesches Tor (pin)",
 "title": "unbefristetes WG-Zimmer in Gesundbrunnen"
+},
+{
+"time": "2026-11-11 07:40",
+"id": "14349159",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Richardstraße, Berlin"
 }
 ]
