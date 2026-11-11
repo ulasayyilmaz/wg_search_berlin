@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 07:55",
-"id": "13630450",
-"verdict": "skip",
-"why": "2.14 km from flat, 1.91 km from Görlitzer Bahnhof (pin)",
-"title": "Neukölln : Weserstr. zwischenmiete (1 Dec - 31 Jan)"
-},
-{
-"time": "2026-11-07 07:55",
 "id": "14033735",
 "verdict": "skip",
 "why": "9.81 km from flat, 9.59 km from Schlesisches Tor (postcode)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.66 km from flat, 5.78 km from Schlesisches Tor (pin)",
 "title": "22 m2 Zimmer in 2er-WG frei"
+},
+{
+"time": "2026-11-11 13:30",
+"id": "14350700",
+"verdict": "skip",
+"why": "16.85 km from flat, 13.91 km from Möckernbrücke (pin)",
+"title": "Komplett eingerichtetes Zimmer sofort verfügbar !!️"
 }
 ]
