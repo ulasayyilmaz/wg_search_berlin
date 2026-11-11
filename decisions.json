@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 13:05",
-"id": "14332093",
-"verdict": "skip",
-"why": "5.40 km from flat, 3.77 km from Möckernbrücke (pin)",
-"title": "Wg Zimmer im schönen Tempelhof"
-},
-{
 "time": "2026-11-07 13:15",
 "id": "11296930",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "12.54 km from flat, 12.05 km from Möckernbrücke (pin)",
 "title": "WG Zimmer zu untermieten"
+},
+{
+"time": "2026-11-11 19:50",
+"id": "14351415",
+"verdict": "skip",
+"why": "starts 10.12.2026 [flat 0.97 km, U Kottbusser Tor 0.17 km, pin]",
+"title": "WG-Zimmer am Kottbusser Tor zur Untermiete"
 }
 ]
