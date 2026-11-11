@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 02:00",
-"id": "14328627",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Dörpfeldstraße"
-},
-{
-"time": "2026-11-07 02:00",
 "id": "14328632",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "9.01 km from flat, 6.12 km from Möckernbrücke (pin)",
 "title": "18 m2 Zimmer in Berlin-Steglitz – Nebenkosten inklusive"
+},
+{
+"time": "2026-11-11 11:45",
+"id": "14349447",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Müllerstraße, Berlin"
 }
 ]
