@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-07 05:50",
-"id": "12278867",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Sonnenallee, Berlin"
-},
-{
-"time": "2026-11-07 06:00",
-"id": "14328602",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Otto-Franke-Straße 77.3"
-},
-{
-"time": "2026-11-07 06:25",
-"id": "11445076",
-"verdict": "skip",
-"why": "4.82 km from flat, 4.94 km from Schlesisches Tor (pin)",
-"title": "Helles, möbliertes Zimmer mit Balkon im Prenzlauer Berg (01.12. – 28.02.) / Brig"
-},
-{
-"time": "2026-11-07 07:35",
-"id": "9514975",
-"verdict": "skip",
-"why": "female only [flat 0.24 km, U Görlitzer Bahnhof 0.47 km, pin]",
-"title": "sehr ruhiges Zimmer mit Dachterasse"
-},
-{
 "time": "2026-11-07 07:35",
 "id": "14331029",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "skip",
 "why": "7.46 km from flat, 4.93 km from Möckernbrücke (pin)",
 "title": "Helles und großes Altabau-Zimmer"
+},
+{
+"time": "2026-11-11 12:40",
+"id": "8177868",
+"verdict": "skip",
+"why": "11.79 km from flat, 11.19 km from Schlesisches Tor (pin)",
+"title": "Reihenhaus mit Zimmer im Dachgeschoss Nähe Gärten der Welt"
+},
+{
+"time": "2026-11-11 12:40",
+"id": "14350639",
+"verdict": "skip",
+"why": "8.35 km from flat, 5.03 km from Möckernbrücke (pin)",
+"title": "In unserer ruhigen und ordentlichen WG im schönen Berliner Stadtteil Wilmersdorf"
+},
+{
+"time": "2026-11-11 12:40",
+"id": "14350545",
+"verdict": "skip",
+"why": "3.43 km from flat, 3.21 km from Görlitzer Bahnhof (pin)",
+"title": "🏡✨ Kuscheliges WG-Zimmer zur Zwischenmiete vom 13.12.2026 bis 02.01.2027"
+},
+{
+"time": "2026-11-11 12:40",
+"id": "14350628",
+"verdict": "skip",
+"why": "4.86 km from flat, 4.24 km from Hallesches Tor (pin)",
+"title": "Privatzimmer in Mitte für Dezember"
 }
 ]
