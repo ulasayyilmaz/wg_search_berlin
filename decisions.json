@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 09:55",
-"id": "14328194",
-"verdict": "skip",
-"why": "4.01 km from flat, 3.99 km from Prinzenstraße (street)",
-"title": "WG ROOM ,Mitte"
-},
-{
 "time": "2026-11-07 10:05",
 "id": "14330042",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.36 km from flat, 5.39 km from Schlesisches Tor (pin)",
 "title": "WG-Zimmer Frei ab 1.12.26"
+},
+{
+"time": "2026-11-11 16:00",
+"id": "14347047",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bornholmer Straße - Room 3"
 }
 ]
