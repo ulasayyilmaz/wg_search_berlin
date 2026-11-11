@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 17:30",
-"id": "4666406",
-"verdict": "skip",
-"why": "4.63 km from flat, 4.76 km from Schlesisches Tor (street)",
-"title": "preisgünstiges Zimmer in super Lage im Prenzlauer Berg (nur 5 Min. von der S/U-B"
-},
-{
-"time": "2026-11-06 18:30",
-"id": "14328182",
-"verdict": "skip",
-"why": "10.62 km from flat, 10.00 km from Schlesisches Tor (pin)",
-"title": "10 m2 Zimmer in 7 Personen WG, U5 Kaulsdorf-Nord, mit Anmeldung, 500 € warm."
-},
-{
 "time": "2026-11-06 18:40",
 "id": "14327829",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "7.37 km from flat, 4.82 km from Möckernbrücke (pin)",
 "title": "Möbliertes WG-Zimmer in Berlin-Mitte zu vermieten"
+},
+{
+"time": "2026-11-11 09:30",
+"id": "13677862",
+"verdict": "skip",
+"why": "2.16 km from flat, 1.97 km from Görlitzer Bahnhof (pin)",
+"title": "Neukölln : Weserstr. (1 Dec- 31 Jan )"
+},
+{
+"time": "2026-11-11 09:30",
+"id": "14350294",
+"verdict": "skip",
+"why": "5.48 km from flat, 2.26 km from Möckernbrücke (pin)",
+"title": "Helles Zimmer im Tiergarten"
 }
 ]
