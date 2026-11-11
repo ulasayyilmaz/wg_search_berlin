@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-06 19:10",
-"id": "14328359",
-"verdict": "skip",
-"why": "5.33 km from flat, 2.96 km from Möckernbrücke (pin)",
-"title": "Zentral, 5 Min. zum Hauptbahnhof | Erstbezug nach Sanierung | möbliert"
-},
-{
-"time": "2026-11-06 19:20",
-"id": "14328369",
-"verdict": "skip",
-"why": "5.33 km from flat, 2.96 km from Möckernbrücke (pin)",
-"title": "Zentral in Mitte, 5 Min. zum Hauptbahnhof | Erstbezug nach Sanierung | möbliert"
-},
-{
-"time": "2026-11-06 19:40",
-"id": "9929834",
-"verdict": "skip",
-"why": "5.46 km from flat, 3.84 km from Möckernbrücke (pin)",
-"title": "WG Zimmer in Tempelhof"
-},
-{
 "time": "2026-11-06 19:40",
 "id": "11138799",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Meyerheimstraße, Berlin"
+},
+{
+"time": "2026-11-11 09:50",
+"id": "14350330",
+"verdict": "skip",
+"why": "3.62 km from flat, 3.83 km from Schlesisches Tor (pin)",
+"title": "1,5 monate oder auch weniger"
+},
+{
+"time": "2026-11-11 09:50",
+"id": "14350316",
+"verdict": "skip",
+"why": "2.52 km from flat, 2.33 km from Görlitzer Bahnhof (pin)",
+"title": "kurzzeitmiete in Neukoln"
+},
+{
+"time": "2026-11-11 09:50",
+"id": "14350291",
+"verdict": "skip",
+"why": "6.31 km from flat, 3.08 km from Möckernbrücke (pin)",
+"title": "Gemütliches, möbliertes WG-Zimmer in Altbauwohnung"
 }
 ]
