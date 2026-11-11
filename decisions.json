@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 16:01",
-"id": "14059050",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - fm80.6 Herthastraße 80.6"
-},
-{
 "time": "2026-11-07 16:40",
 "id": "14332418",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.39 km from flat, 6.24 km from Möckernbrücke (pin)",
 "title": "☀️ Bright & Cozy Room in Wedding with reen Surroundings and great Connections"
+},
+{
+"time": "2026-11-11 21:35",
+"id": "8029835",
+"verdict": "skip",
+"why": "starts 01.01.2027 [flat 1.85 km, U Schlesisches Tor 1.75 km, pin]",
+"title": "PENDLERZIMMER /Friedrichshain/U-Weberwiese"
 }
 ]
