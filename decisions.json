@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-07 11:25",
-"id": "8674103",
-"verdict": "skip",
-"why": "female only [flat 1.61 km, U Schlesisches Tor 1.47 km, pin]",
-"title": "🍁Cosy Zimmer 🦘 OLNLY FLINTA- ohne Hund"
-},
-{
-"time": "2026-11-07 11:25",
-"id": "14297034",
-"verdict": "skip",
-"why": "5.38 km from flat, 5.53 km from Kottbusser Tor (pin)",
-"title": "ruhiges und gemütliches WG Zimmer in Prenzlauer Berg"
-},
-{
 "time": "2026-11-07 11:45",
 "id": "14331965",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "temporary: zwischenmiete [flat 1.66 km, U Görlitzer Bahnhof 1.38 km, pin]",
 "title": "WG Zimmer Zwischenmiete"
+},
+{
+"time": "2026-11-11 17:40",
+"id": "10037853",
+"verdict": "skip",
+"why": "6.42 km from flat, 5.26 km from Möckernbrücke (pin)",
+"title": "Zentrale Lage – Möblierte 20 m2 Zimmer in einem 3-Personen-Flatshare in Berlin-H"
+},
+{
+"time": "2026-11-11 17:40",
+"id": "13847524",
+"verdict": "skip",
+"why": "11.42 km from flat, 8.13 km from Möckernbrücke (pin)",
+"title": "Maisonette im Studentenwohnheim Eichkamp"
 }
 ]
