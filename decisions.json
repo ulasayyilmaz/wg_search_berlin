@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 15:40",
-"id": "12633846",
-"verdict": "skip",
-"why": "7.93 km from flat, 5.18 km from Möckernbrücke (pin)",
-"title": "Zwischenmiete in 3er WG Berlin-Steglitz"
-},
-{
 "time": "2026-11-06 16:10",
 "id": "14328098",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "11.77 km from flat, 8.54 km from Möckernbrücke (pin)",
 "title": "Zimmer in Charlottenburg, Studenten-WG, Uni-Nähe"
+},
+{
+"time": "2026-11-11 06:45",
+"id": "14346538",
+"verdict": "skip",
+"why": "10.29 km from flat, 7.65 km from Möckernbrücke (pin)",
+"title": "Biete WG-Zimmer für Frau ab 30"
 }
 ]
