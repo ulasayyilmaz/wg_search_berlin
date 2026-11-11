@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 14:50",
-"id": "14327945",
-"verdict": "skip",
-"why": "9.62 km from flat, 9.77 km from Schlesisches Tor (pin)",
-"title": "Helles, großes Zimmer in Pankow (2er FLINTA-WG) ✨"
-},
-{
-"time": "2026-11-06 14:50",
 "id": "14327967",
 "verdict": "skip",
 "why": "3.94 km from flat, 4.15 km from Kottbusser Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.52 km from flat, 2.47 km from Möckernbrücke (street)",
 "title": "Beautiful, bright, furnished room for women only/nur Frauen- 16m2"
+},
+{
+"time": "2026-11-11 04:10",
+"id": "14347052",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wisbyer Straße - Room 4"
 }
 ]
