@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 07:55",
-"id": "14331729",
-"verdict": "skip",
-"why": "11.12 km from flat, 8.02 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer mit Balkon in Dahlem frei"
-},
-{
-"time": "2026-11-07 07:55",
 "id": "13630450",
 "verdict": "skip",
 "why": "2.14 km from flat, 1.91 km from Görlitzer Bahnhof (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.20 km from flat, 3.13 km from Möckernbrücke (pin)",
 "title": "Short-term ASAP - Dez. 2026, Helles Zimmer in Berlin-Schöneberg"
+},
+{
+"time": "2026-11-11 13:20",
+"id": "14350681",
+"verdict": "skip",
+"why": "5.66 km from flat, 5.78 km from Schlesisches Tor (pin)",
+"title": "22 m2 Zimmer in 2er-WG frei"
 }
 ]
