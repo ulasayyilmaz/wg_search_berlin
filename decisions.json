@@ -1,61 +1,5 @@
 [
 {
-"time": "2026-11-07 13:35",
-"id": "14165029",
-"verdict": "skip",
-"why": "4.89 km from flat, 4.38 km from Hallesches Tor (pin)",
-"title": "direkt an der ubahn bernauerstrasse , nähe sbahn nordbahnhof, nöhe mauerpark , ö"
-},
-{
-"time": "2026-11-07 13:45",
-"id": "14332173",
-"verdict": "skip",
-"why": "8.33 km from flat, 7.81 km from Möckernbrücke (pin)",
-"title": "WG Zimmer in Hausotterkiez"
-},
-{
-"time": "2026-11-07 14:02",
-"id": "14332203",
-"verdict": "skip",
-"why": "5.36 km from flat, 5.39 km from Schlesisches Tor (pin)",
-"title": "Gemütliches Zimmer in einer geteilten 3-Zimmer-Wohnung mit Garten"
-},
-{
-"time": "2026-11-07 14:02",
-"id": "14331286",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Stubenrauchstraße, Berlin"
-},
-{
-"time": "2026-11-07 14:10",
-"id": "12590389",
-"verdict": "skip",
-"why": "2.68 km from flat, 2.45 km from Schlesisches Tor (pin)",
-"title": "Pendler - commuter!!!"
-},
-{
-"time": "2026-11-07 14:10",
-"id": "14332214",
-"verdict": "skip",
-"why": "2.73 km from flat, 1.01 km from Hallesches Tor (pin)",
-"title": "4er-FLINTA-WG in Kreuzberg"
-},
-{
-"time": "2026-11-07 14:30",
-"id": "14332250",
-"verdict": "skip",
-"why": "starts 06.12.2026 [flat 2.07 km, U Prinzenstraße 0.44 km, pin]",
-"title": "Zimmer zur Zwischenmiete im Dezember – 15 qm in gemütlicher 2er-WG"
-},
-{
-"time": "2026-11-07 14:40",
-"id": "4710984",
-"verdict": "skip",
-"why": "5.25 km from flat, 1.95 km from Möckernbrücke (pin)",
-"title": "Möbliertes Zimmer, 16m2, mit Balkon, renoviertes altes Gebäude typisch für Berli"
-},
-{
 "time": "2026-11-07 14:40",
 "id": "14265961",
 "verdict": "skip",
@@ -3498,5 +3442,61 @@
 "verdict": "skip",
 "why": "7.76 km from flat, 7.01 km from Möckernbrücke (pin)",
 "title": "Voll ausgestattetes Privatzimmer zur Untervermietung in Berlin-Reinickendorf | 2"
+},
+{
+"time": "2026-11-11 20:57",
+"id": "14350254",
+"verdict": "skip",
+"why": "7.08 km from flat, 6.08 km from Möckernbrücke (pin)",
+"title": "Gemütliches Altbauzimmer im Wedding - 6 Wochen"
+},
+{
+"time": "2026-11-11 20:58",
+"id": "14263386",
+"verdict": "skip",
+"why": "5.98 km from flat, 5.35 km from Schlesisches Tor (pin)",
+"title": "Möblierte Privatzimmer für Untervermietung (Dec - Feb) Mädchen NUR"
+},
+{
+"time": "2026-11-11 20:58",
+"id": "14351435",
+"verdict": "skip",
+"why": "8.04 km from flat, 7.14 km from Möckernbrücke (pin)",
+"title": "Gemütliches Gemeinschaftszimmer in Berlin mit Anmeldung"
+},
+{
+"time": "2026-11-11 20:58",
+"id": "14350991",
+"verdict": "skip",
+"why": "6.78 km from flat, 5.30 km from Möckernbrücke (pin)",
+"title": "Wg-Zimmer in 2erWg (Wedding)"
+},
+{
+"time": "2026-11-11 20:58",
+"id": "14280259",
+"verdict": "skip",
+"why": "8.28 km from flat, 8.41 km from Schlesisches Tor (pin)",
+"title": "Freies Zimmer in FLINTA* WG"
+},
+{
+"time": "2026-11-11 20:58",
+"id": "8971336",
+"verdict": "skip",
+"why": "6.69 km from flat, 6.54 km from Hallesches Tor (pin)",
+"title": "Gemütliches sonniges Zimmer mit Blick zum Grünstreifen"
+},
+{
+"time": "2026-11-11 20:58",
+"id": "12341666",
+"verdict": "skip",
+"why": "3.47 km from flat, 3.62 km from Kottbusser Tor (pin)",
+"title": "schönes zimmer in einer schönen gegend"
+},
+{
+"time": "2026-11-11 20:58",
+"id": "14351454",
+"verdict": "skip",
+"why": "3.90 km from flat, 1.67 km from Möckernbrücke (pin)",
+"title": "SUBLET 30 sqm room at Platz der Luftbrucke"
 }
 ]
