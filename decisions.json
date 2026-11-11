@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 16:10",
-"id": "14328098",
-"verdict": "skip",
-"why": "3.88 km from flat, 3.50 km from Schlesisches Tor (pin)",
-"title": "1 Zimmer teilen Wohnungen 11 Dezember bis 28. Februar"
-},
-{
-"time": "2026-11-06 16:20",
-"id": "13915554",
-"verdict": "skip",
-"why": "9.50 km from flat, 7.20 km from Möckernbrücke (pin)",
-"title": "Zimmer in ruhiger Lage nahe S-Bahn - Dauer nach Absprache individuell möglich"
-},
-{
 "time": "2026-11-06 16:20",
 "id": "14328115",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "10.29 km from flat, 7.65 km from Möckernbrücke (pin)",
 "title": "Biete WG-Zimmer für Frau ab 30"
+},
+{
+"time": "2026-11-11 07:15",
+"id": "14350105",
+"verdict": "skip",
+"why": "3.70 km from flat, 3.30 km from Schlesisches Tor (pin)",
+"title": "12 qm Zimmer zu untermieten"
+},
+{
+"time": "2026-11-11 07:15",
+"id": "14348015",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Neltestraße, Berlin"
 }
 ]
