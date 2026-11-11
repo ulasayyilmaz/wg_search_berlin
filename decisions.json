@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 08:55",
-"id": "14319502",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Audre-Lorde-Straße, Berlin"
-},
-{
-"time": "2026-11-07 08:55",
 "id": "14324179",
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.85 km from flat, 3.46 km from Schlesisches Tor (pin)",
 "title": "Sonnenallee Frauen Mädchen WG Zimmer 14. Etage Köllnische Heide Super Ausblick s"
+},
+{
+"time": "2026-11-11 14:10",
+"id": "14350789",
+"verdict": "skip",
+"why": "2.28 km from flat, 2.05 km from Schlesisches Tor (pin)",
+"title": "Room near Sonnenallee"
 }
 ]
