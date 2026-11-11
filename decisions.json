@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 11:07",
-"id": "13009491",
-"verdict": "skip",
-"why": "5.76 km from flat, 2.48 km from Möckernbrücke (pin)",
-"title": "WG Room von Oktober bis Dezember"
-},
-{
 "time": "2026-11-07 11:25",
 "id": "8674103",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.02 km from flat, 4.72 km from Möckernbrücke (pin)",
 "title": "2 rooms ( one big and second small) in a 4 room WG are looking for a new tenant "
+},
+{
+"time": "2026-11-11 17:30",
+"id": "14346407",
+"verdict": "skip",
+"why": "temporary: zwischenmiete [flat 1.66 km, U Görlitzer Bahnhof 1.38 km, pin]",
+"title": "WG Zimmer Zwischenmiete"
 }
 ]
