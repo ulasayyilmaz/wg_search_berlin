@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 19:05",
-"id": "14332575",
-"verdict": "skip",
-"why": "2.04 km from flat, 1.41 km from Schlesisches Tor (pin)",
-"title": "WG Zimmer am Osthafen (Ostkreuz/Treptower Park)"
-},
-{
-"time": "2026-11-07 19:05",
 "id": "9452862",
 "verdict": "skip",
 "why": "6.70 km from flat, 5.59 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Wühlischstraße - Room 1"
+},
+{
+"time": "2026-11-11 23:10",
+"id": "14351732",
+"verdict": "skip",
+"why": "6.71 km from flat, 4.16 km from Möckernbrücke (pin)",
+"title": "Cozy Zimmer in FLINTA Wg"
 }
 ]
