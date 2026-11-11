@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 16:20",
-"id": "14328115",
-"verdict": "skip",
-"why": "13.21 km from flat, 10.16 km from Möckernbrücke (pin)",
-"title": "Ruhiges Zimmer in 2er WG"
-},
-{
 "time": "2026-11-06 16:30",
 "id": "14143503",
 "verdict": "SENT",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Neltestraße, Berlin"
+},
+{
+"time": "2026-11-11 07:25",
+"id": "14349805",
+"verdict": "skip",
+"why": "5.97 km from flat, 5.63 km from Hallesches Tor (pin)",
+"title": "unbefristetes WG-Zimmer in Gesundbrunnen"
 }
 ]
