@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 17:50",
-"id": "14332529",
-"verdict": "skip",
-"why": "anmeldung: 'no anmeldung' [flat 1.36 km, U Schlesisches Tor 1.35 km, pin]",
-"title": "big sunny room for sublet"
-},
-{
 "time": "2026-11-07 18:01",
 "id": "7740560",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.94 km from flat, 4.95 km from Schlesisches Tor (pin)",
 "title": "Cozy Room in Prenzlauer Berg"
+},
+{
+"time": "2026-11-11 22:05",
+"id": "14351579",
+"verdict": "skip",
+"why": "19.28 km from flat, 16.01 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer am Wannsee (unbefristet/Kurzzeit auch möglich)"
 }
 ]
