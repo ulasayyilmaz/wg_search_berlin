@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 09:35",
-"id": "14327822",
-"verdict": "skip",
-"why": "16.31 km from flat, 14.99 km from Möckernbrücke (pin)",
-"title": "Zimmer im grünen Berlin Hermsdorf"
-},
-{
-"time": "2026-11-07 09:35",
 "id": "14331790",
 "verdict": "skip",
 "why": "11.83 km from flat, 11.28 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.75 km from flat, 2.71 km from Möckernbrücke (pin)",
 "title": "3-Month Sublet in Berlin-Schöneberg | €650 All-Inclusive"
+},
+{
+"time": "2026-11-11 14:50",
+"id": "14350864",
+"verdict": "skip",
+"why": "4.39 km from flat, 4.11 km from Görlitzer Bahnhof (pin)",
+"title": "WG-Zimmer zur Untermiete vom 12.01-08.03.2027 in Neukölln"
 }
 ]
