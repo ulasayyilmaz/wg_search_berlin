@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-06 14:10",
-"id": "10562450",
-"verdict": "skip",
-"why": "4.40 km from flat, 4.11 km from Görlitzer Bahnhof (pin)",
-"title": "Lebensraum! - Aber nur für eine Frau!"
-},
-{
 "time": "2026-11-06 14:40",
 "id": "7183138",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.18 km from flat, 2.24 km from Möckernbrücke (pin)",
 "title": "Design Maisonette Wohnung"
+},
+{
+"time": "2026-11-11 01:45",
+"id": "14343714",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Bornholmer Straße, Berlin"
 }
 ]
