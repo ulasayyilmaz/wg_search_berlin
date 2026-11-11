@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-07 16:40",
-"id": "14332418",
-"verdict": "skip",
-"why": "3.12 km from flat, 3.30 km from Schlesisches Tor (pin)",
-"title": "Möbliertes Altbauzimmer mit Schlafgalerie & Balkon im Bötzowviertel"
-},
-{
-"time": "2026-11-07 17:10",
-"id": "14332458",
-"verdict": "skip",
-"why": "7.10 km from flat, 6.68 km from Hallesches Tor (pin)",
-"title": "Möbliertes Zimmer in Berlin-Hochzeit (13359) - weiblicher Mieter bevorzugt"
-},
-{
-"time": "2026-11-07 17:20",
-"id": "12128414",
-"verdict": "skip",
-"why": "9.99 km from flat, 7.29 km from Möckernbrücke (pin)",
-"title": "Möbliertes Zimmer in ruhiger 3er-WG – Charlottenburg Berlin (ab sofort frei)"
-},
-{
 "time": "2026-11-07 17:40",
 "id": "11348459",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "starts 01.01.2027 [flat 1.85 km, U Schlesisches Tor 1.75 km, pin]",
 "title": "PENDLERZIMMER /Friedrichshain/U-Weberwiese"
+},
+{
+"time": "2026-11-11 21:45",
+"id": "14273535",
+"verdict": "skip",
+"why": "15.03 km from flat, 13.87 km from Möckernbrücke (pin)",
+"title": "WG Zimmer 12qm Hermsdorf"
+},
+{
+"time": "2026-11-11 21:45",
+"id": "8808828",
+"verdict": "skip",
+"why": "7.49 km from flat, 6.08 km from Möckernbrücke (pin)",
+"title": "Big sunny room in big sunny apartment, 28m2 for sublet, Wedding"
+},
+{
+"time": "2026-11-11 21:45",
+"id": "5289503",
+"verdict": "skip",
+"why": "3.61 km from flat, 3.64 km from Schlesisches Tor (pin)",
+"title": "Big Zimmer at Prenzlauer Berg"
 }
 ]
