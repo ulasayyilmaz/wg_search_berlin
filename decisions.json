@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-06 17:10",
-"id": "14322927",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Wiebestraße, Berlin"
-},
-{
-"time": "2026-11-06 17:20",
-"id": "14291000",
-"verdict": "skip",
-"why": "2.43 km from flat, 1.86 km from Schlesisches Tor (pin)",
-"title": "Zimmer in einer schönen, ruhigen und geräumigen Wohnung im Herzen von F'hain - T"
-},
-{
-"time": "2026-11-06 17:20",
-"id": "14202158",
-"verdict": "skip",
-"why": "14.04 km from flat, 12.97 km from Möckernbrücke (pin)",
-"title": "Queer anarchistisches Wohnprojekt - SHARED SLEEPING ROOM"
-},
-{
 "time": "2026-11-06 17:30",
 "id": "4666406",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Badensche Straße, Berlin"
+},
+{
+"time": "2026-11-11 09:20",
+"id": "14350274",
+"verdict": "skip",
+"why": "2.78 km from flat, 2.32 km from Schlesisches Tor (postcode)",
+"title": "wg Zimmer zu zwischenmiete ohne Anmeldung ab 15.11bis 31.12 2027 for not racist "
+},
+{
+"time": "2026-11-11 09:20",
+"id": "14350226",
+"verdict": "skip",
+"why": "7.48 km from flat, 7.21 km from Hallesches Tor (pin)",
+"title": "24qm altbau Zimmer mit Balkon in 2er WG"
+},
+{
+"time": "2026-11-11 09:20",
+"id": "13857966",
+"verdict": "skip",
+"why": "7.37 km from flat, 4.82 km from Möckernbrücke (pin)",
+"title": "Möbliertes WG-Zimmer in Berlin-Mitte zu vermieten"
 }
 ]
