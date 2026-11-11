@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 19:05",
-"id": "9452862",
-"verdict": "skip",
-"why": "6.70 km from flat, 5.59 km from Möckernbrücke (pin)",
-"title": "Geräumiges Zimmer in Berlin Mitte/Hochzeit"
-},
-{
 "time": "2026-11-07 19:15",
 "id": "5333713",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.71 km from flat, 4.16 km from Möckernbrücke (pin)",
 "title": "Cozy Zimmer in FLINTA Wg"
+},
+{
+"time": "2026-11-11 23:25",
+"id": "14351696",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Bornholmer Straße - Private Room"
 }
 ]
