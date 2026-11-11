@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 15:20",
-"id": "14328006",
-"verdict": "skip",
-"why": "13.71 km from flat, 10.82 km from Möckernbrücke (pin)",
-"title": "Vegetarier-WG in Zehlendorf-Mitte"
-},
-{
-"time": "2026-11-06 15:20",
 "id": "11160826",
 "verdict": "skip",
 "why": "7.45 km from flat, 4.16 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bornholmer Straße - Room 4"
+},
+{
+"time": "2026-11-11 05:15",
+"id": "14347170",
+"verdict": "skip",
+"why": "5.34 km from flat, 5.10 km from Görlitzer Bahnhof (street)",
+"title": "3 Zimmer wg"
 }
 ]
