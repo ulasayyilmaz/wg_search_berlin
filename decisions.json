@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-06 16:50",
-"id": "14328187",
-"verdict": "skip",
-"why": "4.06 km from flat, 3.43 km from Schlesisches Tor (pin)",
-"title": "Sehr schöne 3 er WG in Lichtenberg"
-},
-{
-"time": "2026-11-06 16:50",
 "id": "10081749",
 "verdict": "skip",
 "why": "7.55 km from flat, 7.26 km from Hallesches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.08 km from flat, 4.24 km from Schlesisches Tor (pin)",
 "title": "WG Zimmer in Winsviertel, Prenzlauer Berg"
+},
+{
+"time": "2026-11-11 08:35",
+"id": "14345786",
+"verdict": "skip",
+"why": "2.55 km from flat, 2.20 km from Schlesisches Tor (pin)",
+"title": "2 Monate in Berlin: 1 Monat WG-Zimmer + 1 Monat ganze Wohnung"
 }
 ]
