@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-07 08:15",
-"id": "14331738",
-"verdict": "skip",
-"why": "10.59 km from flat, 9.46 km from Möckernbrücke (pin)",
-"title": "Sauberes und stilles Privatzimmer in einer gemeinsamen Wohnung"
-},
-{
-"time": "2026-11-07 08:25",
-"id": "14331734",
-"verdict": "skip",
-"why": "5.51 km from flat, 5.11 km from Schlesisches Tor (pin)",
-"title": "WG-Zimmer Nov-Apr"
-},
-{
-"time": "2026-11-07 08:40",
-"id": "14319570",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Herthastraße, Berlin"
-},
-{
 "time": "2026-11-07 08:55",
 "id": "14319502",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "4.19 km from flat, 1.77 km from Möckernbrücke (pin)",
 "title": "Untervermietung 1 Zimmer in Gemeinschaftswohnung 01.13.-31.12.26"
+},
+{
+"time": "2026-11-11 14:01",
+"id": "14340555",
+"verdict": "skip",
+"why": "7.62 km from flat, 7.57 km from Hallesches Tor (pin)",
+"title": "subletting a room in a cute shared flat in Pankow"
+},
+{
+"time": "2026-11-11 14:01",
+"id": "14350642",
+"verdict": "skip",
+"why": "3.85 km from flat, 3.40 km from Schlesisches Tor (pin)",
+"title": "Zwischenmiete: WG-Zimmer in netter 3er-Studenten-WG, 01.12.2026 – 28.02.2027"
+},
+{
+"time": "2026-11-11 14:01",
+"id": "14350759",
+"verdict": "skip",
+"why": "3.85 km from flat, 3.46 km from Schlesisches Tor (pin)",
+"title": "Sonnenallee Frauen Mädchen WG Zimmer 14. Etage Köllnische Heide Super Ausblick s"
 }
 ]
