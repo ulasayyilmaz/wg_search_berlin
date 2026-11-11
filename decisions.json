@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 09:35",
-"id": "14331790",
-"verdict": "skip",
-"why": "11.83 km from flat, 11.28 km from Schlesisches Tor (pin)",
-"title": "WG-Zimmer in Altstadt Köpenick"
-},
-{
-"time": "2026-11-07 09:35",
 "id": "14331799",
 "verdict": "skip",
 "why": "6.55 km from flat, 4.33 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.39 km from flat, 4.11 km from Görlitzer Bahnhof (pin)",
 "title": "WG-Zimmer zur Untermiete vom 12.01-08.03.2027 in Neukölln"
+},
+{
+"time": "2026-11-11 15:01",
+"id": "14350894",
+"verdict": "skip",
+"why": "5.00 km from flat, 4.38 km from Schlesisches Tor (pin)",
+"title": "🌿 Cosy, bright room in Berlin-Lichtenberg"
 }
 ]
