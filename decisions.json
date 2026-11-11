@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 10:45",
-"id": "14328478",
-"verdict": "skip",
-"why": "8.60 km from flat, 6.31 km from Möckernbrücke (pin)",
-"title": "18 m2 Altbau-Zimmer am Stadtpark Steglitz – unbefristet ab 15.11."
-},
-{
-"time": "2026-11-07 10:45",
 "id": "13909906",
 "verdict": "skip",
 "why": "10.42 km from flat, 7.29 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.71 km from flat, 4.16 km from Möckernbrücke (pin)",
 "title": "WG Zimmer in Moabit"
+},
+{
+"time": "2026-11-11 17:15",
+"id": "14349439",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
 }
 ]
