@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 12:45",
-"id": "14331249",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Müllerstraße, Berlin"
-},
-{
 "time": "2026-11-07 12:50",
 "id": "14330872",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.59 km from flat, 6.72 km from Schlesisches Tor (pin)",
 "title": "WG-Zimmer in Berlin-Pankow ab 15.12.2026 / 01.01.2027"
+},
+{
+"time": "2026-11-11 18:50",
+"id": "13444431",
+"verdict": "skip",
+"why": "6.96 km from flat, 3.68 km from Möckernbrücke (pin)",
+"title": "WG Zimmer in 5er WG in Charlottenburg"
 }
 ]
