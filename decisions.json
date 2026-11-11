@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-07 11:45",
-"id": "14283924",
-"verdict": "skip",
-"why": "3.32 km from flat, 3.12 km from Schlesisches Tor (pin)",
-"title": "AB SOFORT Helles Altbau-Zimmer (15m2/28m2) | Flexibel 3 Monate mit Option auf Ve"
-},
-{
-"time": "2026-11-07 11:55",
-"id": "14331998",
-"verdict": "skip",
-"why": "8.37 km from flat, 6.18 km from Möckernbrücke (pin)",
-"title": "Zwischenmiete ab Dezember"
-},
-{
 "time": "2026-11-07 12:05",
 "id": "4671590",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.11 km from flat, 1.64 km from Prinzenstraße (pin)",
 "title": "Schönes Zimmer in Mitte"
+},
+{
+"time": "2026-11-11 18:01",
+"id": "13171412",
+"verdict": "skip",
+"why": "7.03 km from flat, 4.35 km from Möckernbrücke (pin)",
+"title": "15.12 - Februar- March in Moabit"
+},
+{
+"time": "2026-11-11 18:01",
+"id": "10028343",
+"verdict": "skip",
+"why": "4.59 km from flat, 4.29 km from Görlitzer Bahnhof (pin)",
+"title": "20 Meter Gemütliche Zimmer"
 }
 ]
