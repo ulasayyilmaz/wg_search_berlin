@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 19:40",
-"id": "11138799",
-"verdict": "skip",
-"why": "6.32 km from flat, 5.93 km from Schlesisches Tor (pin)",
-"title": "WG Zimmer groß & möbliert"
-},
-{
-"time": "2026-11-06 19:40",
-"id": "10521972",
-"verdict": "skip",
-"why": "2.14 km from flat, 1.91 km from Görlitzer Bahnhof (pin)",
-"title": "Ein gemütliches Zimmer zu vermieten im Herzen von Neukölln"
-},
-{
 "time": "2026-11-06 19:50",
 "id": "14328395",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "6.31 km from flat, 3.08 km from Möckernbrücke (pin)",
 "title": "Gemütliches, möbliertes WG-Zimmer in Altbauwohnung"
+},
+{
+"time": "2026-11-11 10:01",
+"id": "14350327",
+"verdict": "skip",
+"why": "11.96 km from flat, 9.07 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer Siemensstadt"
+},
+{
+"time": "2026-11-11 10:01",
+"id": "14347489",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Einbecker Straße, Berlin"
 }
 ]
