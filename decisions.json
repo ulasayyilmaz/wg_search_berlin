@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-06 16:30",
-"id": "14328140",
-"verdict": "skip",
-"why": "3.03 km from flat, 2.56 km from Schlesisches Tor (pin)",
-"title": "Großes WG-Zimmer für Dezember in Friedrichshain"
-},
-{
-"time": "2026-11-06 16:31",
-"id": "14328143",
-"verdict": "skip",
-"why": "6.76 km from flat, 5.00 km from Möckernbrücke (pin)",
-"title": "Sonniges Zimmer in Berlin Mitte"
-},
-{
 "time": "2026-11-06 16:40",
 "id": "12639683",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Richardstraße, Berlin"
+},
+{
+"time": "2026-11-11 07:45",
+"id": "11160894",
+"verdict": "skip",
+"why": "7.18 km from flat, 6.41 km from Möckernbrücke (pin)",
+"title": "Sunny zwei Schlafzimmer Wohnung in der Nähe von öffentlichen Verkehrsmitteln"
+},
+{
+"time": "2026-11-11 07:45",
+"id": "14349156",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Weimarische Straße, Berlin"
 }
 ]
