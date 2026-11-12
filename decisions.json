@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-08 12:45",
-"id": "13761912",
-"verdict": "skip",
-"why": "2.54 km from flat, 2.33 km from Görlitzer Bahnhof (pin)",
-"title": "Möbliertes Zimmer im Herzen Neuköllns"
-},
-{
-"time": "2026-11-08 13:05",
-"id": "14336387",
-"verdict": "skip",
-"why": "2.87 km from flat, 2.57 km from Görlitzer Bahnhof (pin)",
-"title": "Komplett möbliertes 20 m2 großes Zimmer in einer Damenwohnung | Neukölln | Dezem"
-},
-{
-"time": "2026-11-08 13:05",
-"id": "14336367",
-"verdict": "skip",
-"why": "6.89 km from flat, 4.04 km from Möckernbrücke (pin)",
-"title": "Small Cozy Room in Schönberg"
-},
-{
 "time": "2026-11-08 13:25",
 "id": "3396924",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "6.09 km from flat, 2.89 km from Möckernbrücke (pin)",
 "title": "WG-Zimmer mit eigenem Bad und Kleiderkammer am Akazienkiez"
+},
+{
+"time": "2026-11-12 14:46",
+"id": "11090542",
+"verdict": "skip",
+"why": "6.35 km from flat, 5.73 km from Hallesches Tor (postcode)",
+"title": "2 WG Gesundbrunnen"
+},
+{
+"time": "2026-11-12 14:46",
+"id": "14355462",
+"verdict": "SENT",
+"why": " [flat 1.17 km, U Görlitzer Bahnhof 0.93 km, pin]",
+"title": "4er WG in Kreuzkölln"
+},
+{
+"time": "2026-11-12 14:46",
+"id": "14355455",
+"verdict": "skip",
+"why": "9.43 km from flat, 6.13 km from Möckernbrücke (pin)",
+"title": "Untermieterin gesucht"
 }
 ]
