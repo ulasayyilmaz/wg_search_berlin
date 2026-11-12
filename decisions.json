@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 08:55",
-"id": "11311876",
-"verdict": "skip",
-"why": "9.39 km from flat, 7.82 km from Möckernbrücke (pin)",
-"title": "Möbliertes Zimmer in 2er WG – Berlin Wedding"
-},
-{
 "time": "2026-11-08 09:15",
 "id": "14335995",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.37 km from flat, 3.43 km from Schlesisches Tor (pin)",
 "title": "Sublet: Bright 22m2 Room in Prenzlauer Berg"
+},
+{
+"time": "2026-11-12 10:01",
+"id": "12186712",
+"verdict": "skip",
+"why": "female only [flat 1.98 km, U Prinzenstraße 0.45 km, street]",
+"title": "aktuell :) u7-kreuzberg :) –– keine anmeldung :("
 }
 ]
