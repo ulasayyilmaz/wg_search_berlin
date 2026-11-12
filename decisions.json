@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 10:35",
-"id": "14332459",
-"verdict": "skip",
-"why": "8.21 km from flat, 7.97 km from Görlitzer Bahnhof (pin)",
-"title": "34 m2 Zimmer in Neukölln: Ab Sofort - 31.03.2027"
-},
-{
-"time": "2026-11-08 10:35",
-"id": "13735178",
-"verdict": "skip",
-"why": "8.14 km from flat, 4.95 km from Möckernbrücke (pin)",
-"title": "WG 1 Zimmer für 1 Frau"
-},
-{
 "time": "2026-11-08 10:45",
 "id": "14336090",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "2.98 km from flat, 3.20 km from Schlesisches Tor (pin)",
 "title": "Super Central Room + Living Room & Balcony + Anmeldung @ Prenzlauer Berg / Alexa"
+},
+{
+"time": "2026-11-12 12:05",
+"id": "8382707",
+"verdict": "skip",
+"why": "7.24 km from flat, 4.17 km from Möckernbrücke (pin)",
+"title": "Helles WG-Zimmer mit Balkon Nähe Humbold Universität & S-Bahn Adlershof"
+},
+{
+"time": "2026-11-12 12:05",
+"id": "14355195",
+"verdict": "skip",
+"why": "4.06 km from flat, 3.91 km from Prinzenstraße (pin)",
+"title": "befristetes (01.12-01.03) Wg-Zimmer in Mitte"
 }
 ]
