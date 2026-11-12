@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 12:35",
-"id": "13861408",
-"verdict": "skip",
-"why": "female only [flat 1.98 km, U Schlesisches Tor 1.34 km, pin]",
-"title": "Zimmer in 3er WG - Friedrichhain"
-},
-{
-"time": "2026-11-08 12:45",
-"id": "9711357",
-"verdict": "skip",
-"why": "2.86 km from flat, 2.49 km from Kottbusser Tor (street)",
-"title": "WG-Zimmer auf Zeit im Schillerkiez in Berlin-Neukölln"
-},
-{
 "time": "2026-11-08 12:45",
 "id": "13761912",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "7.12 km from flat, 5.81 km from Möckernbrücke (pin)",
 "title": "Cozy room, central location ++ gemütliches Zimmer zur Zwischenmiete"
+},
+{
+"time": "2026-11-12 14:35",
+"id": "14355441",
+"verdict": "skip",
+"why": "2.21 km from flat, 1.99 km from Görlitzer Bahnhof (pin)",
+"title": "Gemütliches Zimmer große Wohnung 2/3 Monate"
+},
+{
+"time": "2026-11-12 14:35",
+"id": "13137395",
+"verdict": "skip",
+"why": "6.09 km from flat, 2.89 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer mit eigenem Bad und Kleiderkammer am Akazienkiez"
 }
 ]
