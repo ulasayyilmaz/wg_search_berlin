@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 12:35",
-"id": "14336330",
-"verdict": "skip",
-"why": "3.98 km from flat, 3.98 km from Prinzenstraße (pin)",
-"title": "Zimmer in 2er WG"
-},
-{
-"time": "2026-11-08 12:35",
 "id": "13861408",
 "verdict": "skip",
 "why": "female only [flat 1.98 km, U Schlesisches Tor 1.34 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.57 km from flat, 6.16 km from Hallesches Tor (pin)",
 "title": "Zwischenmiete - Sweete WG - Gesundbrunnen - U8 Pankstraße"
+},
+{
+"time": "2026-11-12 14:25",
+"id": "14354882",
+"verdict": "skip",
+"why": "7.12 km from flat, 5.81 km from Möckernbrücke (pin)",
+"title": "Cozy room, central location ++ gemütliches Zimmer zur Zwischenmiete"
 }
 ]
