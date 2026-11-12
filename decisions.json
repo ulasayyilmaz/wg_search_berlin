@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 18:25",
-"id": "11775889",
-"verdict": "skip",
-"why": "starts 12.01.2027 [flat 1.48 km, U Görlitzer Bahnhof 1.17 km, pin]",
-"title": "WG Zimmer in Berlin-Neukölln mit Balkon"
-},
-{
-"time": "2026-11-08 18:25",
 "id": "7206999",
 "verdict": "skip",
 "why": "starts 24.12.2026 [flat 1.26 km, U Görlitzer Bahnhof 0.93 km, postcode]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.55 km from flat, 3.27 km from Görlitzer Bahnhof (pin)",
 "title": "Room in Neukölln"
+},
+{
+"time": "2026-11-12 20:50",
+"id": "14286959",
+"verdict": "skip",
+"why": "2.64 km from flat, 2.16 km from Schlesisches Tor (pin)",
+"title": "WG-Zimmer in Fhain"
 }
 ]
