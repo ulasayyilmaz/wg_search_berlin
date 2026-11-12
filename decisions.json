@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-08 04:45",
-"id": "14201338",
-"verdict": "skip",
-"why": "6.08 km from flat, 3.57 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer in Mitte für August September 2027"
-},
-{
-"time": "2026-11-08 05:15",
-"id": "14332965",
-"verdict": "skip",
-"why": "5.16 km from flat, 3.52 km from Möckernbrücke (pin)",
-"title": "Zimmer in süßer 3er Wg"
-},
-{
-"time": "2026-11-08 05:30",
-"id": "14332887",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - Nordkapstraße - Private Room 3"
-},
-{
 "time": "2026-11-08 06:35",
 "id": "14335530",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Wühlischstraße - Room 1"
+},
+{
+"time": "2026-11-12 09:30",
+"id": "14354913",
+"verdict": "skip",
+"why": "8.56 km from flat, 6.97 km from Möckernbrücke (pin)",
+"title": "Zimmer in schöner Hochzeit"
+},
+{
+"time": "2026-11-12 09:30",
+"id": "7735834",
+"verdict": "skip",
+"why": "temporary: sublet [flat 0.98 km, U Görlitzer Bahnhof 0.61 km, pin]",
+"title": "Eine fünfmonatige Untervermietung eines möblierten 20 qm großen Zimmers in der N"
+},
+{
+"time": "2026-11-12 09:30",
+"id": "14354908",
+"verdict": "skip",
+"why": "5.52 km from flat, 2.46 km from Möckernbrücke (pin)",
+"title": "Helles Zimmer im Tiergarten"
 }
 ]
