@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 13:45",
-"id": "14336457",
-"verdict": "skip",
-"why": "3.49 km from flat, 3.27 km from Schlesisches Tor (pin)",
-"title": "Untervermietungsraum vom 17.11. bis März 2027"
-},
-{
-"time": "2026-11-08 13:45",
-"id": "10805144",
-"verdict": "skip",
-"why": "2.89 km from flat, 1.25 km from Hallesches Tor (pin)",
-"title": "Möbliertes 20 qm Zimmer im Chamissokiez"
-},
-{
 "time": "2026-11-08 13:55",
 "id": "10790403",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "7.75 km from flat, 4.48 km from Möckernbrücke (pin)",
 "title": "jetzt bis ende Dez. 15m2 Charlottenburg altbau 650€ 1 zimmer zu vermieten"
+},
+{
+"time": "2026-11-12 15:25",
+"id": "14355528",
+"verdict": "skip",
+"why": "6.55 km from flat, 4.15 km from Möckernbrücke (pin)",
+"title": "schönes Zimmer in 4er-WG mit Balkon!"
+},
+{
+"time": "2026-11-12 15:25",
+"id": "12572255",
+"verdict": "SENT",
+"why": " [flat 1.97 km, U Prinzenstraße 0.39 km, pin]",
+"title": "3er-WG in Kreuzberg, zwischen Südstern und Kanal (Einzugsdatum flexibel/später m"
 }
 ]
