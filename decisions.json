@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 19:45",
-"id": "14042218",
-"verdict": "skip",
-"why": "11.47 km from flat, 10.94 km from Schlesisches Tor (pin)",
-"title": "2 einzelne Zimmer in heller sanierter 4er WG im wunderschönen Köpenick"
-},
-{
-"time": "2026-11-07 19:45",
 "id": "6873227",
 "verdict": "skip",
 "why": "7.54 km from flat, 6.51 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bornholmer Straße - Room 1"
+},
+{
+"time": "2026-11-12 05:30",
+"id": "7358849",
+"verdict": "skip",
+"why": "10.29 km from flat, 8.87 km from Möckernbrücke (pin)",
+"title": "Zimmer in Frauen-WG ab 1.4. für VEGETARIERIN - an U8 Lindauer Allee"
 }
 ]
