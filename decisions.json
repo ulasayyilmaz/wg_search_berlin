@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 14:55",
-"id": "14293476",
-"verdict": "skip",
-"why": "6.78 km from flat, 3.52 km from Möckernbrücke (pin)",
-"title": "Zimmer mit großem Fenster in Schöneberg mit guter ÖPNV-Anbindung im Ring"
-},
-{
 "time": "2026-11-08 15:15",
 "id": "14336599",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.88 km from flat, 1.73 km from Möckernbrücke (pin)",
 "title": "Zimmer in Wohngemeinschaft (nur für Dezember)"
+},
+{
+"time": "2026-11-12 16:05",
+"id": "14355550",
+"verdict": "skip",
+"why": "temporary: has 'frei bis' end date [flat 0.68 km, U Schlesisches Tor 0.08 km, pin]",
+"title": "Große 22m2 WG-Zimmer neben U Schlesisches Tor, ermäßigte Miete, entspannte Wohnu"
 }
 ]
