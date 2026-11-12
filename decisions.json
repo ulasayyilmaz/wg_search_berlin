@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 08:35",
-"id": "12481379",
-"verdict": "skip",
-"why": "6.57 km from flat, 6.16 km from Hallesches Tor (pin)",
-"title": "Kleines gemütliches Zimmer nähe Gesundbrunnen"
-},
-{
 "time": "2026-11-08 08:55",
 "id": "11311876",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zechliner Straße, Berlin"
+},
+{
+"time": "2026-11-12 09:50",
+"id": "14354937",
+"verdict": "skip",
+"why": "3.37 km from flat, 3.43 km from Schlesisches Tor (pin)",
+"title": "Sublet: Bright 22m2 Room in Prenzlauer Berg"
 }
 ]
