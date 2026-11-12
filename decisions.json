@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 01:45",
-"id": "14303849",
-"verdict": "skip",
-"why": "6.86 km from flat, 4.44 km from Möckernbrücke (pin)",
-"title": "Tolle 1 1/2 Zimmer mit Balkon im schönen Kiez direkt U9"
-},
-{
-"time": "2026-11-08 02:35",
-"id": "4753955",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 1.96 km, U Görlitzer Bahnhof 1.67 km, street]",
-"title": "Zimmer Nähe Rathaus Neukölln"
-},
-{
 "time": "2026-11-08 04:25",
 "id": "14332888",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Köpenicker Straße, Berlin"
+},
+{
+"time": "2026-11-12 09:10",
+"id": "5164528",
+"verdict": "skip",
+"why": "6.83 km from flat, 5.93 km from Möckernbrücke (pin)",
+"title": "Nice room in shared flat in Tempelhof :)"
+},
+{
+"time": "2026-11-12 09:10",
+"id": "14354865",
+"verdict": "skip",
+"why": "5.66 km from flat, 3.60 km from Möckernbrücke (pin)",
+"title": "WG raum ab sofort bis zum 30.12.2026"
 }
 ]
