@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 13:45",
-"id": "14336419",
-"verdict": "skip",
-"why": "6.56 km from flat, 5.85 km from Prinzenstraße (pin)",
-"title": "Helles Zimmer in entspannter 2er-WG | 01.12.–07.01."
-},
-{
-"time": "2026-11-08 13:45",
 "id": "14336457",
 "verdict": "skip",
 "why": "3.49 km from flat, 3.27 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.21 km from flat, 4.54 km from Möckernbrücke (pin)",
 "title": "Loft-WG mit 420 m2 & hohen Decken | Zimmer 20 m2 mit Ankleide | flexibel ab 01.1"
+},
+{
+"time": "2026-11-12 15:15",
+"id": "14355484",
+"verdict": "skip",
+"why": "7.75 km from flat, 4.48 km from Möckernbrücke (pin)",
+"title": "jetzt bis ende Dez. 15m2 Charlottenburg altbau 650€ 1 zimmer zu vermieten"
 }
 ]
