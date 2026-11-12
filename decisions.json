@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 04:25",
-"id": "14332888",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Zimmer - fm92.1 Krowelstraße 92.1"
-},
-{
 "time": "2026-11-08 04:45",
 "id": "14201338",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.66 km from flat, 3.60 km from Möckernbrücke (pin)",
 "title": "WG raum ab sofort bis zum 30.12.2026"
+},
+{
+"time": "2026-11-12 09:15",
+"id": "14351692",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zimmer - Wühlischstraße - Room 1"
 }
 ]
