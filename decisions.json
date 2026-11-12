@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-08 15:15",
-"id": "14336599",
-"verdict": "skip",
-"why": "6.19 km from flat, 3.37 km from Möckernbrücke (pin)",
-"title": "Zimmer zur Vermietung im Oscar Niemeyer Haus im Berliner Hansaviertel"
-},
-{
-"time": "2026-11-08 15:15",
-"id": "12385634",
-"verdict": "skip",
-"why": "7.76 km from flat, 6.69 km from Möckernbrücke (pin)",
-"title": "Zimmer in 4er WG✨️"
-},
-{
-"time": "2026-11-08 15:25",
-"id": "14336593",
-"verdict": "skip",
-"why": "6.57 km from flat, 6.16 km from Hallesches Tor (pin)",
-"title": "Gemütliche Altbau Wg Gesundbrunnen/Wedding (Möglichkeit auf unbefristet)"
-},
-{
 "time": "2026-11-08 15:25",
 "id": "14336627",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "temporary: has 'frei bis' end date [flat 0.68 km, U Schlesisches Tor 0.08 km, pin]",
 "title": "Große 22m2 WG-Zimmer neben U Schlesisches Tor, ermäßigte Miete, entspannte Wohnu"
+},
+{
+"time": "2026-11-12 16:40",
+"id": "12105205",
+"verdict": "skip",
+"why": "6.63 km from flat, 3.72 km from Möckernbrücke (pin)",
+"title": "International Female WG"
+},
+{
+"time": "2026-11-12 16:40",
+"id": "13927437",
+"verdict": "skip",
+"why": "5.39 km from flat, 2.54 km from Möckernbrücke (pin)",
+"title": "student sharing apartment"
+},
+{
+"time": "2026-11-12 16:40",
+"id": "14355643",
+"verdict": "skip",
+"why": "2.04 km from flat, 1.41 km from Schlesisches Tor (pin)",
+"title": "subletting 2 rooms : 1.12.26-30.4.27"
 }
 ]
