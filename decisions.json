@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 13:25",
-"id": "3396924",
-"verdict": "skip",
-"why": "5.49 km from flat, 2.27 km from Möckernbrücke (pin)",
-"title": "Zimmer in WG in Schöneberg (Akazienkiez) frei vom 1. Januar 2027 bis 30. April 2"
-},
-{
-"time": "2026-11-08 13:25",
-"id": "12727444",
-"verdict": "skip",
-"why": "4.57 km from flat, 4.28 km from Görlitzer Bahnhof (pin)",
-"title": "Wohlfühl-WG-Zimmer Neukölln"
-},
-{
 "time": "2026-11-08 13:45",
 "id": "14336419",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "9.43 km from flat, 6.13 km from Möckernbrücke (pin)",
 "title": "Untermieterin gesucht"
+},
+{
+"time": "2026-11-12 15:05",
+"id": "10785069",
+"verdict": "skip",
+"why": "6.90 km from flat, 5.83 km from Möckernbrücke (pin)",
+"title": "möbiliertes WG-Zimmer am Nauener Platz - Sucht dich!"
+},
+{
+"time": "2026-11-12 15:05",
+"id": "14355438",
+"verdict": "skip",
+"why": "6.21 km from flat, 4.54 km from Möckernbrücke (pin)",
+"title": "Loft-WG mit 420 m2 & hohen Decken | Zimmer 20 m2 mit Ankleide | flexibel ab 01.1"
 }
 ]
