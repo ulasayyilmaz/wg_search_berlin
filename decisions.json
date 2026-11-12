@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 10:55",
-"id": "14336111",
-"verdict": "skip",
-"why": "starts 12.12.2026 [flat 0.41 km, U Görlitzer Bahnhof 0.04 km, pin]",
-"title": "WG-Zimmer am Görli"
-},
-{
-"time": "2026-11-08 10:55",
 "id": "14335982",
 "verdict": "skip",
 "why": "7.48 km from flat, 4.27 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "13.14 km from flat, 10.02 km from Möckernbrücke (pin)",
 "title": "2er WG mit Garten"
+},
+{
+"time": "2026-11-12 12:35",
+"id": "14354080",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zechliner Straße, Berlin"
 }
 ]
