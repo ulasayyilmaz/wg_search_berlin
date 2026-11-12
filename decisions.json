@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 09:15",
-"id": "14335995",
-"verdict": "skip",
-"why": "4.40 km from flat, 3.78 km from Schlesisches Tor (pin)",
-"title": "Möblierte 2er-WG nahe S+U Lichtenberg - 1 Platz frei"
-},
-{
 "time": "2026-11-08 09:20",
 "id": "14330203",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "female only [flat 1.98 km, U Prinzenstraße 0.45 km, street]",
 "title": "aktuell :) u7-kreuzberg :) –– keine anmeldung :("
+},
+{
+"time": "2026-11-12 10:10",
+"id": "14354965",
+"verdict": "skip",
+"why": "female only [flat 1.36 km, U Schlesisches Tor 1.35 km, pin]",
+"title": "a room in the student dorm"
 }
 ]
