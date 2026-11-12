@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 19:45",
-"id": "13603035",
-"verdict": "skip",
-"why": "9.13 km from flat, 7.66 km from Möckernbrücke (pin)",
-"title": "Bright, fully furnished room in 4-room apartment in Wedding (Englisches Viertel)"
-},
-{
 "time": "2026-11-07 20:45",
 "id": "10177059",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Sonnenallee, Berlin"
+},
+{
+"time": "2026-11-12 06:50",
+"id": "6103697",
+"verdict": "skip",
+"why": "3.38 km from flat, 3.34 km from Schlesisches Tor (pin)",
+"title": "Prenzlauer Berg/ Berufstätigen-/ Zweck - WG"
 }
 ]
