@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 10:35",
-"id": "14323357",
-"verdict": "skip",
-"why": "6.01 km from flat, 3.00 km from Möckernbrücke (pin)",
-"title": "Schnuckliges WG-Zimmer (3er WG) in Schöneberg zur Zwischenmiete frei! 🏡"
-},
-{
-"time": "2026-11-08 10:35",
 "id": "14332459",
 "verdict": "skip",
 "why": "8.21 km from flat, 7.97 km from Görlitzer Bahnhof (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.05 km from flat, 2.55 km from Schlesisches Tor (pin)",
 "title": "10 qm großes unmöbliertes WG-Zimmer ab 1.12 - in Friedrichshain *Neugründung*"
+},
+{
+"time": "2026-11-12 11:40",
+"id": "14355093",
+"verdict": "skip",
+"why": "2.98 km from flat, 3.20 km from Schlesisches Tor (pin)",
+"title": "Super Central Room + Living Room & Balcony + Anmeldung @ Prenzlauer Berg / Alexa"
 }
 ]
