@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 17:55",
-"id": "13889169",
-"verdict": "skip",
-"why": "13.88 km from flat, 12.32 km from Möckernbrücke (pin)",
-"title": "Möbliertes WG-Zimmer mit eigener Terrasse und Parkplatz – Berlin-Tegel"
-},
-{
-"time": "2026-11-08 17:55",
 "id": "10911338",
 "verdict": "skip",
 "why": "female only [flat 1.22 km, U Schlesisches Tor 1.40 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.65 km from flat, 3.45 km from Schlesisches Tor (pin)",
 "title": "Ruhiges Zimmer in 2er-WG in Neukölln – ab 1.12., FLINTA* bevorzugt"
+},
+{
+"time": "2026-11-12 20:01",
+"id": "14263225",
+"verdict": "skip",
+"why": "8.04 km from flat, 4.87 km from Möckernbrücke (pin)",
+"title": "Gemütliches WG-Zimmer in Berlin-Charlottenburg"
 }
 ]
