@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 12:25",
-"id": "14336300",
-"verdict": "skip",
-"why": "7.82 km from flat, 7.85 km from Schlesisches Tor (pin)",
-"title": "Möbliertes WG-Zimmer in 4-Zimmer-Wohnung"
-},
-{
 "time": "2026-11-08 12:35",
 "id": "14336330",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.06 km from flat, 3.80 km from Görlitzer Bahnhof (pin)",
 "title": "Helles WG-Zimmer (ca. 18 m2) in Neukölln – entspannte/r Mitbewohner:in zum feine"
+},
+{
+"time": "2026-11-12 14:05",
+"id": "14355365",
+"verdict": "skip",
+"why": "6.57 km from flat, 6.16 km from Hallesches Tor (pin)",
+"title": "Zwischenmiete - Sweete WG - Gesundbrunnen - U8 Pankstraße"
 }
 ]
