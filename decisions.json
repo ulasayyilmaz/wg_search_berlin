@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 15:25",
-"id": "14336627",
-"verdict": "skip",
-"why": "6.09 km from flat, 5.16 km from Möckernbrücke (pin)",
-"title": "Sublet / Zwischenmiete 18.11.–31.01.: Furnished WG room in Wedding"
-},
-{
 "time": "2026-11-08 15:45",
 "id": "14336110",
 "verdict": "SENT",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.04 km from flat, 1.41 km from Schlesisches Tor (pin)",
 "title": "subletting 2 rooms : 1.12.26-30.4.27"
+},
+{
+"time": "2026-11-12 17:01",
+"id": "14355682",
+"verdict": "skip",
+"why": "4.06 km from flat, 3.10 km from Hallesches Tor (pin)",
+"title": "berlin mitte WG nur studenten oder schüler"
 }
 ]
