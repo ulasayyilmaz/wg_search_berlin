@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 12:05",
-"id": "13687332",
-"verdict": "skip",
-"why": "2.78 km from flat, 2.29 km from Schlesisches Tor (pin)",
-"title": "Möbliertes WG-Zimmer in Friedrichshain"
-},
-{
-"time": "2026-11-08 12:05",
 "id": "14336252",
 "verdict": "skip",
 "why": "5.27 km from flat, 2.18 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Residenzstraße, Berlin"
+},
+{
+"time": "2026-11-12 13:15",
+"id": "14355281",
+"verdict": "skip",
+"why": "8.92 km from flat, 6.43 km from Möckernbrücke (pin)",
+"title": "Helles WG Zimmer in sanierter Altbauwohnung frei :)"
 }
 ]
