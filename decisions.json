@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 18:35",
-"id": "13846163",
-"verdict": "skip",
-"why": "2.52 km from flat, 2.33 km from Görlitzer Bahnhof (pin)",
-"title": "Bright, spacious room in Neukölln"
-},
-{
-"time": "2026-11-08 18:45",
-"id": "12074766",
-"verdict": "skip",
-"why": "starts 01.02.2027 [flat 1.27 km, U Kottbusser Tor 0.38 km, pin]",
-"title": "Wg-Zimmer in Berlin Kreuzberg Frei ab 01.02.2027 mit Anmeldung"
-},
-{
 "time": "2026-11-08 18:45",
 "id": "14337014",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Ratiborstraße, Berlin"
+},
+{
+"time": "2026-11-12 21:10",
+"id": "4449211",
+"verdict": "skip",
+"why": "female only [flat 0.53 km, U Schlesisches Tor 0.15 km, pin]",
+"title": "schönes Zimmer zur Zwischenmiete"
+},
+{
+"time": "2026-11-12 21:10",
+"id": "14356039",
+"verdict": "skip",
+"why": "4.82 km from flat, 4.19 km from Schlesisches Tor (pin)",
+"title": "Möbliertes WG-Zimmer zur Untermiete 2 Monate/ zentral nahe Ostkreuz/ 550€ monatl"
 }
 ]
