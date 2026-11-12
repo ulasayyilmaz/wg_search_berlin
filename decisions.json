@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 10:45",
-"id": "14336090",
-"verdict": "skip",
-"why": "3.65 km from flat, 3.36 km from Görlitzer Bahnhof (pin)",
-"title": "Gemütliches, helles Zimmer zur Untermiete in Neukölln"
-},
-{
-"time": "2026-11-08 10:45",
 "id": "14252313",
 "verdict": "skip",
 "why": "8.11 km from flat, 6.96 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.06 km from flat, 3.91 km from Prinzenstraße (pin)",
 "title": "befristetes (01.12-01.03) Wg-Zimmer in Mitte"
+},
+{
+"time": "2026-11-12 12:15",
+"id": "14355124",
+"verdict": "skip",
+"why": "7.73 km from flat, 4.45 km from Möckernbrücke (pin)",
+"title": "WG-Zimmer in Wilmersdorf frei ab sofort bis 31.12"
 }
 ]
