@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 14:15",
-"id": "13974267",
-"verdict": "skip",
-"why": "5.82 km from flat, 5.98 km from Schlesisches Tor (pin)",
-"title": "WG Zimmer mit besonderer Dynamik 😊"
-},
-{
 "time": "2026-11-08 14:35",
 "id": "14336510",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.05 km from flat, 6.81 km from Görlitzer Bahnhof (pin)",
 "title": "Room in Neukölln with Anmeldung (long term)"
+},
+{
+"time": "2026-11-12 15:45",
+"id": "14216031",
+"verdict": "skip",
+"why": "11.98 km from flat, 11.39 km from Schlesisches Tor (pin)",
+"title": "Helles Zimmer nahe U5"
 }
 ]
