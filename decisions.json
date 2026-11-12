@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 15:45",
-"id": "14336110",
-"verdict": "SENT",
-"why": " [flat 3.27 km, U Möckernbrücke 0.25 km, pin]",
-"title": "Kreuzberg: möbliertes Zimmer, Holzböden & gemeinsamer Balkon"
-},
-{
-"time": "2026-11-08 15:45",
 "id": "10038113",
 "verdict": "skip",
 "why": "12.61 km from flat, 12.07 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.06 km from flat, 3.10 km from Hallesches Tor (pin)",
 "title": "berlin mitte WG nur studenten oder schüler"
+},
+{
+"time": "2026-11-12 17:10",
+"id": "8373181",
+"verdict": "skip",
+"why": "6.17 km from flat, 4.33 km from Möckernbrücke (pin)",
+"title": "Zweier-WG, 14,5 m2 Zimmer"
 }
 ]
