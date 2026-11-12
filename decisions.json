@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-08 09:25",
-"id": "13263562",
-"verdict": "skip",
-"why": "female only [flat 1.26 km, U Schlesisches Tor 0.63 km, street]",
-"title": "Friedrichshain, ab 01.12.26 Zimmer frei (all inkl., befristet), Frauen-WG"
-},
-{
-"time": "2026-11-08 09:35",
-"id": "14336017",
-"verdict": "skip",
-"why": "9.71 km from flat, 7.05 km from Möckernbrücke (pin)",
-"title": "WG ZIMMER AB SOFORT 520 WARM"
-},
-{
-"time": "2026-11-08 09:45",
-"id": "14336016",
-"verdict": "skip",
-"why": "female only [flat 1.26 km, U Schlesisches Tor 0.63 km, street]",
-"title": "Friedrichshain, ab 01.12.2026 frei (all inkl., befristet), Frauen-WG"
-},
-{
 "time": "2026-11-08 09:55",
 "id": "9814102",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "2.38 km from flat, 2.06 km from Görlitzer Bahnhof (pin)",
 "title": "Beutiful Zimmer in einer gemütlichen, gepflegten Wohnung"
+},
+{
+"time": "2026-11-12 10:30",
+"id": "14022595",
+"verdict": "skip",
+"why": "3.89 km from flat, 4.05 km from Schlesisches Tor (pin)",
+"title": "Schönes WG-Zimmer für Pendler/Praktis/Neuankömmlinge im PBerg- frei ab Ende Nove"
+},
+{
+"time": "2026-11-12 10:31",
+"id": "11354183",
+"verdict": "skip",
+"why": "3.13 km from flat, 3.30 km from Kottbusser Tor (pin)",
+"title": "Möbliertes Zimmer zur Zwischenmiete (19.11.–25.12.) – Entspannte 2er-WG in Prenz"
+},
+{
+"time": "2026-11-12 10:31",
+"id": "13724619",
+"verdict": "skip",
+"why": "12.88 km from flat, 10.51 km from Möckernbrücke (pin)",
+"title": "Studentin für eine langfristige Untervermietung gesucht"
 }
 ]
