@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 14:35",
-"id": "14336510",
-"verdict": "skip",
-"why": "16.84 km from flat, 13.60 km from Möckernbrücke (pin)",
-"title": "Möbliertes WG-Zimmer mit Balkon in Berlin-Spandau · 23 m2 · 550 € warm · ab 01.1"
-},
-{
-"time": "2026-11-08 14:45",
-"id": "13086693",
-"verdict": "skip",
-"why": "3.32 km from flat, 3.12 km from Schlesisches Tor (pin)",
-"title": "🌿 A Cozy Private Room in Berlin-Rixdorf Neukölln | 1–15 December"
-},
-{
 "time": "2026-11-08 14:55",
 "id": "14293476",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "11.98 km from flat, 11.39 km from Schlesisches Tor (pin)",
 "title": "Helles Zimmer nahe U5"
+},
+{
+"time": "2026-11-12 15:55",
+"id": "14355533",
+"verdict": "skip",
+"why": "9.54 km from flat, 9.11 km from Prinzenstraße (pin)",
+"title": "Kleines Zimmerchen Only for woman"
+},
+{
+"time": "2026-11-12 15:55",
+"id": "14351275",
+"verdict": "skip",
+"why": "4.88 km from flat, 1.73 km from Möckernbrücke (pin)",
+"title": "Zimmer in Wohngemeinschaft (nur für Dezember)"
 }
 ]
