@@ -1,19 +1,5 @@
 [
 {
-"time": "2026-11-08 17:05",
-"id": "8539323",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 0.80 km, U Kottbusser Tor 0.24 km, street]",
-"title": "Ab sofort - Ruhiges Zimmer in Kreuzberg - *Oranienstraße* 🙂"
-},
-{
-"time": "2026-11-08 17:15",
-"id": "12486904",
-"verdict": "skip",
-"why": "5.40 km from flat, 4.55 km from Möckernbrücke (pin)",
-"title": "Schönes Zimmer im Stadtzentrum"
-},
-{
 "time": "2026-11-08 17:25",
 "id": "14336867",
 "verdict": "skip",
@@ -3498,5 +3484,19 @@
 "verdict": "skip",
 "why": "8.16 km from flat, 7.60 km from Prinzenstraße (pin)",
 "title": "Vegan shared house"
+},
+{
+"time": "2026-11-12 18:01",
+"id": "14245573",
+"verdict": "skip",
+"why": "5.26 km from flat, 2.31 km from Möckernbrücke (pin)",
+"title": "kleines und praktisches Zimmer in Schöneberg"
+},
+{
+"time": "2026-11-12 18:01",
+"id": "14355771",
+"verdict": "skip",
+"why": "5.76 km from flat, 5.94 km from Schlesisches Tor (pin)",
+"title": "14 Qm WG-Zimmer Prenzlauer Berg - befristet"
 }
 ]
