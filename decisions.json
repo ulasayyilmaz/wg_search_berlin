@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-07 19:45",
-"id": "6873227",
-"verdict": "skip",
-"why": "7.54 km from flat, 6.51 km from Möckernbrücke (pin)",
-"title": "Helles und zentrales Zimmer"
-},
-{
-"time": "2026-11-07 19:45",
 "id": "13603035",
 "verdict": "skip",
 "why": "9.13 km from flat, 7.66 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "10.29 km from flat, 8.87 km from Möckernbrücke (pin)",
 "title": "Zimmer in Frauen-WG ab 1.4. für VEGETARIERIN - an U8 Lindauer Allee"
+},
+{
+"time": "2026-11-12 06:35",
+"id": "14354084",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Sonnenallee, Berlin"
 }
 ]
