@@ -1,33 +1,5 @@
 [
 {
-"time": "2026-11-08 13:55",
-"id": "10790403",
-"verdict": "skip",
-"why": "4.39 km from flat, 4.50 km from Kottbusser Tor (pin)",
-"title": "Schönes, loftähnliches Zimmer im Zentrum von Berlin und Prenzlauer Berg"
-},
-{
-"time": "2026-11-08 13:55",
-"id": "14336416",
-"verdict": "skip",
-"why": "4.73 km from flat, 1.79 km from Möckernbrücke (pin)",
-"title": "WG zimmer zur Untermiete (FLINTA Personen bevorzugt)"
-},
-{
-"time": "2026-11-08 14:05",
-"id": "14276764",
-"verdict": "skip",
-"why": "4.13 km from flat, 3.63 km from Schlesisches Tor (pin)",
-"title": "Kleines Zimmer in schöner Wohnung nahe Frankfurter Allee"
-},
-{
-"time": "2026-11-08 14:15",
-"id": "10761230",
-"verdict": "skip",
-"why": "7.30 km from flat, 6.78 km from Schlesisches Tor (pin)",
-"title": "Berlin Oberschöneweide WG-Zimmer"
-},
-{
 "time": "2026-11-08 14:15",
 "id": "13974267",
 "verdict": "skip",
@@ -3498,5 +3470,33 @@
 "verdict": "SENT",
 "why": " [flat 1.97 km, U Prinzenstraße 0.39 km, pin]",
 "title": "3er-WG in Kreuzberg, zwischen Südstern und Kanal (Einzugsdatum flexibel/später m"
+},
+{
+"time": "2026-11-12 15:35",
+"id": "13303009",
+"verdict": "skip",
+"why": "3.04 km from flat, 2.05 km from Hallesches Tor (postcode)",
+"title": "Möblierte 3er WG im Herzen von Potsdam"
+},
+{
+"time": "2026-11-12 15:36",
+"id": "14355544",
+"verdict": "skip",
+"why": "10.51 km from flat, 10.04 km from Schlesisches Tor (postcode)",
+"title": "Passender Mensch auf Zeit"
+},
+{
+"time": "2026-11-12 15:36",
+"id": "14355492",
+"verdict": "SENT",
+"why": "has 'frei bis' end date but extension: 'langfristig möglich' [flat 1.18 km, U Görlitzer Bahnhof 0.87 km, pin]",
+"title": "schönes Zimmer Altbau zur Untermiete kurz, mittel oder langfristig in Neukölln K"
+},
+{
+"time": "2026-11-12 15:36",
+"id": "14355527",
+"verdict": "skip",
+"why": "7.05 km from flat, 6.81 km from Görlitzer Bahnhof (pin)",
+"title": "Room in Neukölln with Anmeldung (long term)"
 }
 ]
