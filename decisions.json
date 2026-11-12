@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 18:45",
-"id": "14337014",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 0.68 km, U Schlesisches Tor 0.05 km, pin]",
-"title": "WG-Zimmer am Schlesi:))"
-},
-{
 "time": "2026-11-08 18:55",
 "id": "14174896",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.82 km from flat, 4.19 km from Schlesisches Tor (pin)",
 "title": "Möbliertes WG-Zimmer zur Untermiete 2 Monate/ zentral nahe Ostkreuz/ 550€ monatl"
+},
+{
+"time": "2026-11-12 21:30",
+"id": "14356068",
+"verdict": "skip",
+"why": "6.47 km from flat, 3.17 km from Möckernbrücke (pin)",
+"title": "Kurzfristige WG verfügbar – In einer tollen Lage im Zentrum von Berlin"
 }
 ]
