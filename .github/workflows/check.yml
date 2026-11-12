@@ -1,8 +1,9 @@
 name: Check WG-Gesucht
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"   # every 5 min (GitHub may start runs a few minutes late)
+  # PAUSED (found a room). To resume, re-enable the cron-job.org job; optionally restore:
+  # schedule:
+  #   - cron: "*/5 * * * *"
   workflow_dispatch:        # "Run workflow" button for manual runs
 
 permissions:
