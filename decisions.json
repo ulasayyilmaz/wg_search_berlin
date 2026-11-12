@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 22:25",
-"id": "14332702",
-"verdict": "skip",
-"why": "14.42 km from flat, 11.96 km from Möckernbrücke (pin)",
-"title": "aktive WG in Zehlendorf, zwei Zimmer sind frei!"
-},
-{
 "time": "2026-11-07 23:35",
 "id": "14332904",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.70 km from flat, 2.25 km from Schlesisches Tor (pin)",
 "title": "Großes helles Zimmer mit Balkon"
+},
+{
+"time": "2026-11-12 08:40",
+"id": "14352878",
+"verdict": "skip",
+"why": "3.38 km from flat, 3.36 km from Prinzenstraße (pin)",
+"title": "für Pendler / als Atelier: helles Zimmer in Berlin-Mitte in ruhiger 3er WG bis 0"
 }
 ]
