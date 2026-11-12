@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 18:25",
-"id": "7206999",
-"verdict": "skip",
-"why": "starts 24.12.2026 [flat 1.26 km, U Görlitzer Bahnhof 0.93 km, postcode]",
-"title": "Großes und helles Schlafzimmer in einer schönen High-End-Dachwohnung in Kreuzköl"
-},
-{
 "time": "2026-11-08 18:35",
 "id": "13846163",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "2.64 km from flat, 2.16 km from Schlesisches Tor (pin)",
 "title": "WG-Zimmer in Fhain"
+},
+{
+"time": "2026-11-12 21:01",
+"id": "14354071",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ratiborstraße, Berlin"
 }
 ]
