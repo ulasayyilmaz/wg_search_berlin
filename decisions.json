@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 17:45",
-"id": "14336781",
-"verdict": "skip",
-"why": "4.69 km from flat, 4.83 km from Kottbusser Tor (pin)",
-"title": "FLINTA Mitbewohni gesucht ab 1.12 (Altbau, Prenzlauer Berg)"
-},
-{
-"time": "2026-11-08 17:45",
 "id": "14336887",
 "verdict": "skip",
 "why": "8.87 km from flat, 8.35 km from Schlesisches Tor (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.52 km from flat, 4.23 km from Görlitzer Bahnhof (pin)",
 "title": "Möbliertes Zimmer/Furnished Room in Neukölln (ab 1. November, 6 Monate, Verlänge"
+},
+{
+"time": "2026-11-12 19:10",
+"id": "12648145",
+"verdict": "skip",
+"why": "11.21 km from flat, 8.42 km from Möckernbrücke (pin)",
+"title": "Ab. 1.01 Sehr helles und ruhiges WG Zimmer zu vergeben - 5 min zur FU Berlin"
 }
 ]
