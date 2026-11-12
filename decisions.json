@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 10:35",
-"id": "14336085",
-"verdict": "skip",
-"why": "6.70 km from flat, 3.95 km from Möckernbrücke (pin)",
-"title": "WG Zimmer in 5er WG"
-},
-{
-"time": "2026-11-08 10:35",
 "id": "14323357",
 "verdict": "skip",
 "why": "6.01 km from flat, 3.00 km from Möckernbrücke (pin)",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "7.54 km from flat, 5.18 km from Möckernbrücke (pin)",
 "title": "Großes WG Zimmer zur Zwischenmiete"
+},
+{
+"time": "2026-11-12 11:30",
+"id": "14354966",
+"verdict": "skip",
+"why": "3.05 km from flat, 2.55 km from Schlesisches Tor (pin)",
+"title": "10 qm großes unmöbliertes WG-Zimmer ab 1.12 - in Friedrichshain *Neugründung*"
 }
 ]
