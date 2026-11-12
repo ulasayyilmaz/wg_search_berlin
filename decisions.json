@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 21:55",
-"id": "14332731",
-"verdict": "skip",
-"why": "11.55 km from flat, 9.16 km from Möckernbrücke (pin)",
-"title": "WG-Zimmer in der Nähe der Freien Universität"
-},
-{
 "time": "2026-11-07 22:25",
 "id": "14332702",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "4.86 km from flat, 4.26 km from Hallesches Tor (pin)",
 "title": "Private Untervermietung in Mitte für Dezember"
+},
+{
+"time": "2026-11-12 08:20",
+"id": "11963090",
+"verdict": "skip",
+"why": "2.70 km from flat, 2.25 km from Schlesisches Tor (pin)",
+"title": "Großes helles Zimmer mit Balkon"
 }
 ]
