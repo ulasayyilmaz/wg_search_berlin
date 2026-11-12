@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 15:45",
-"id": "10038113",
-"verdict": "skip",
-"why": "12.61 km from flat, 12.07 km from Schlesisches Tor (pin)",
-"title": "22,5 m2 Zimmer mit eigener Gartenfläche im Einfamilienhaus"
-},
-{
 "time": "2026-11-08 16:45",
 "id": "14307525",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "6.17 km from flat, 4.33 km from Möckernbrücke (pin)",
 "title": "Zweier-WG, 14,5 m2 Zimmer"
+},
+{
+"time": "2026-11-12 17:25",
+"id": "14319797",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Ibsenstraße, Berlin"
 }
 ]
