@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-08 06:35",
-"id": "14335530",
-"verdict": "skip",
-"why": "6.38 km from flat, 4.45 km from Möckernbrücke (pin)",
-"title": "zwischenmiete/ nur Frauen / 3er WG"
-},
-{
-"time": "2026-11-08 07:05",
-"id": "10829231",
-"verdict": "skip",
-"why": "12.71 km from flat, 12.76 km from Schlesisches Tor (pin)",
-"title": "WG-Zimmer in Pankow in Mädels-WG"
-},
-{
-"time": "2026-11-08 07:37",
-"id": "14333307",
-"verdict": "skip",
-"why": "not private (Sofortbuchung)",
-"title": "Brückenstraße, Berlin"
-},
-{
 "time": "2026-11-08 08:35",
 "id": "12481379",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "5.52 km from flat, 2.46 km from Möckernbrücke (pin)",
 "title": "Helles Zimmer im Tiergarten"
+},
+{
+"time": "2026-11-12 09:40",
+"id": "14244909",
+"verdict": "skip",
+"why": "7.61 km from flat, 4.75 km from Möckernbrücke (pin)",
+"title": "Shared Flat Charlottenburg"
+},
+{
+"time": "2026-11-12 09:40",
+"id": "14354927",
+"verdict": "skip",
+"why": "6.57 km from flat, 6.16 km from Hallesches Tor (pin)",
+"title": "Zimmer in 3er Mädels WG, Altbau, mit eigenem Balkon"
+},
+{
+"time": "2026-11-12 09:40",
+"id": "14354079",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Zechliner Straße, Berlin"
 }
 ]
