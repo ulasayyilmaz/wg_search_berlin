@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 17:45",
-"id": "14336887",
-"verdict": "skip",
-"why": "8.87 km from flat, 8.35 km from Schlesisches Tor (pin)",
-"title": "WG Zimmer in ruhiger Lage im Neubau"
-},
-{
 "time": "2026-11-08 17:55",
 "id": "13889169",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "11.21 km from flat, 8.42 km from Möckernbrücke (pin)",
 "title": "Ab. 1.01 Sehr helles und ruhiges WG Zimmer zu vergeben - 5 min zur FU Berlin"
+},
+{
+"time": "2026-11-12 19:40",
+"id": "14201454",
+"verdict": "skip",
+"why": "3.65 km from flat, 3.45 km from Schlesisches Tor (pin)",
+"title": "Ruhiges Zimmer in 2er-WG in Neukölln – ab 1.12., FLINTA* bevorzugt"
 }
 ]
