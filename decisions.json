@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 23:35",
-"id": "14332904",
-"verdict": "skip",
-"why": "20.23 km from flat, 17.16 km from Möckernbrücke (pin)",
-"title": "2er - WG in Berlin Zehlendorf /befristet"
-},
-{
 "time": "2026-11-08 01:45",
 "id": "14303849",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "3.38 km from flat, 3.36 km from Prinzenstraße (pin)",
 "title": "für Pendler / als Atelier: helles Zimmer in Berlin-Mitte in ruhiger 3er WG bis 0"
+},
+{
+"time": "2026-11-12 08:45",
+"id": "14319790",
+"verdict": "skip",
+"why": "not private (Sofortbuchung)",
+"title": "Köpenicker Straße, Berlin"
 }
 ]
