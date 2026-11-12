@@ -1,13 +1,6 @@
 [
 {
 "time": "2026-11-08 17:25",
-"id": "14336867",
-"verdict": "skip",
-"why": "temporary: has 'frei bis' end date [flat 1.77 km, U Görlitzer Bahnhof 1.40 km, pin]",
-"title": "Wg-Zimmer für 2,5 Monate (Nov-Feb)"
-},
-{
-"time": "2026-11-08 17:25",
 "id": "14327779",
 "verdict": "skip",
 "why": "starts 05.12.2026 [flat 1.99 km, U Prinzenstraße 1.43 km, pin]",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.76 km from flat, 5.94 km from Schlesisches Tor (pin)",
 "title": "14 Qm WG-Zimmer Prenzlauer Berg - befristet"
+},
+{
+"time": "2026-11-12 18:10",
+"id": "14355740",
+"verdict": "skip",
+"why": "11.04 km from flat, 10.45 km from Möckernbrücke (pin)",
+"title": "14 m2 Zimmer in ruhiger 2er-WG in Berlin-Lichtenrade/Tempelhof | WLAN, Strom & N"
 }
 ]
