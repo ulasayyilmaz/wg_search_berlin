@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-08 18:05",
-"id": "14336922",
-"verdict": "skip",
-"why": "9.05 km from flat, 6.11 km from Möckernbrücke (pin)",
-"title": "schönes Zimmer in Charlottenburg zur Zwischenmiete ✨"
-},
-{
 "time": "2026-11-08 18:25",
 "id": "11775889",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "5.39 km from flat, 2.54 km from Möckernbrücke (pin)",
 "title": "Dec 4th to Dec 28th Sublet - Bright Altbau Room in 3er WG in Schöneberg"
+},
+{
+"time": "2026-11-12 20:30",
+"id": "14355984",
+"verdict": "skip",
+"why": "3.55 km from flat, 3.27 km from Görlitzer Bahnhof (pin)",
+"title": "Room in Neukölln"
 }
 ]
