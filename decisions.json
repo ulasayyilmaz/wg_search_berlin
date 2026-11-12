@@ -1,12 +1,5 @@
 [
 {
-"time": "2026-11-07 21:25",
-"id": "14332738",
-"verdict": "skip",
-"why": "11.57 km from flat, 8.69 km from Möckernbrücke (pin)",
-"title": "Großes Sonnenzimmer in Charlottenburg für ~2,5 Monate"
-},
-{
 "time": "2026-11-07 21:35",
 "id": "14332745",
 "verdict": "skip",
@@ -3498,5 +3491,12 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Zimmer - Bornholmer Straße - Room 1"
+},
+{
+"time": "2026-11-12 07:20",
+"id": "13409456",
+"verdict": "skip",
+"why": "2.77 km from flat, 2.44 km from Schlesisches Tor (pin)",
+"title": "helles 20 m2 WG Zimmer mit Balkon"
 }
 ]
