@@ -1,26 +1,5 @@
 [
 {
-"time": "2026-11-08 16:45",
-"id": "14307525",
-"verdict": "skip",
-"why": "7.02 km from flat, 5.51 km from Möckernbrücke (pin)",
-"title": "BEFRISTET Raum für Untervermietung in Berlin-Hochzeit – Leopoldplatz"
-},
-{
-"time": "2026-11-08 16:45",
-"id": "13138044",
-"verdict": "skip",
-"why": "6.56 km from flat, 6.11 km from Hallesches Tor (pin)",
-"title": "Gemütliche Altbau Wg Gesundbrunnen/Wedding"
-},
-{
-"time": "2026-11-08 16:55",
-"id": "8633993",
-"verdict": "skip",
-"why": "15.37 km from flat, 14.27 km from Möckernbrücke (pin)",
-"title": "Haus Wg sucht neuen Mitbewohni"
-},
-{
 "time": "2026-11-08 17:05",
 "id": "8539323",
 "verdict": "skip",
@@ -3498,5 +3477,26 @@
 "verdict": "skip",
 "why": "not private (Sofortbuchung)",
 "title": "Ibsenstraße, Berlin"
+},
+{
+"time": "2026-11-12 17:30",
+"id": "14355686",
+"verdict": "skip",
+"why": "4.35 km from flat, 2.14 km from Möckernbrücke (pin)",
+"title": "36qm Zimmer 21.-28.11. Schöneberg-Tempelhof"
+},
+{
+"time": "2026-11-12 17:31",
+"id": "7814432",
+"verdict": "skip",
+"why": "3.46 km from flat, 3.21 km from Schlesisches Tor (pin)",
+"title": "Democratic-Living Sonnenallee"
+},
+{
+"time": "2026-11-12 17:31",
+"id": "14355700",
+"verdict": "skip",
+"why": "8.16 km from flat, 7.60 km from Prinzenstraße (pin)",
+"title": "Vegan shared house"
 }
 ]
